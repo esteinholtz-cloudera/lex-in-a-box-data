@@ -14,9 +14,9 @@ cd ..
 
 # insert speaker name in the beginning of each file:
 # we make the first file (xaa) exempt, since we're sure Lex is the speaker there
-for d in *.dir; do cd $d
+
+for f in *.dir;do echo $f|cut -d"." -f1|cut -d"_" -f3,4|tr "_" " "|read -r spkr;cd $d
 mv xaa ..
-echo $PWD|cut -d"/" -f6|cut -d"." -f1|cut -d"_" -f3,4|tr "_" " "|read -r spkr 
 for f in *
 do echo $spkr: > $f.txt
 cat $f >> $f.txt
