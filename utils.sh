@@ -28,7 +28,7 @@ chunk() {
 
 insert_speaker() {
     for d in *.dir; do
-        echo $d | cut -d"." -f1 | cut -d"_" -f3,4 | tr "_" " " | read -r spkr
+        spkr=$(echo $d | cut -d"." -f1 | cut -d"_" -f3,4 | tr "_" " ")
         cd $d
         mv xaa ..
         for f in *; do
