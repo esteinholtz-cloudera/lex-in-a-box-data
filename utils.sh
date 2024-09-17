@@ -46,3 +46,14 @@ insert_speaker() {
 check() {
     more *.dir/xa[ab].txt
 }
+
+# insert a UTF-8 BOM, it is needed for the file to be identified correctly
+insert_BOM() {
+  mv $1 $1.tmp
+  printf '\xef\xbb\xbf' >$1
+  cat $1.tmp >> $1
+}
+
+# check if there is a UTF-8 BOM
+has_bom() { head -c3 "$1" | grep -q $'\xef\xbb\xbf'; }
+
