@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:49",
+  "End": "01:37:57",
+  "Text": "some connection between your chef life, cooking and music? Is this music have a role in the experience?"
+}

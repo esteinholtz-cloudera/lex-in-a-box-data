@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:48",
+  "End": "01:35:14",
+  "Text": "we talked a ton about reward functions. Let me talk about the most ridiculous big question. What is the meaning of life? What's the reward function under which we humans operate? Like what maybe to your life, maybe broader to human life in general. What do you think? What gives life fulfillment purpose, happiness, meaning"
+}

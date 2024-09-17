@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:05:55",
+  "End": "02:06:15",
+  "Text": "person. No, no, we've only, we've only, I've only communicated with her via text about some stuff. Um I was asking David but, they, they clearly have formed a powerful team. Um And it's a beautiful thing to see people working in that kind of synergy. It's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:29:34",
+  "End": "00:30:18",
+  "Text": "coffee. Like I like it as a, like a treat a little bit. I find the flavor a little bit challenging in foods. I also find that it's difficult um, on the quality of that ingredient. I found often that I buy a high quality coconut oil and there's rancidity in it. Um, and I don't totally know why. I think it's just the cold chain and how that product is packaged. So I've had some issues with product quality in that. But I, for me, it's a little bit too much sweetness in my foods. Um But then again, I don't cook in like a Southeast Asian palate. I try to not have much sweetness in my foods in general. So I just because of the palate that I like to cook with. So for me, coconuts got a little bit too much of those high notes and, which is a nice combination, but it's more like a treat."
+}

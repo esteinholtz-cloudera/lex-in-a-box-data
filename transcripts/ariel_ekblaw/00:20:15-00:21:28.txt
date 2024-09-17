@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:20:15",
+  "End": "00:21:28",
+  "Text": ". So Tray is my phd research. It's this idea that we could take tiles that construct a large structure like a buckyball. Yeah. This is exactly what we're looking at here, which is the tiles that are packed flat in a rocket. They're released. To float in microgravity, pretty powerful electro permanent magnets on their edges, draw them together for autonomous docking. So there's no human in the loop here and there's no central agent coordinating saying tile one go to tile two. It's completely decentralized system. They find each other on their own. What we don't show in this video is what happens if there's an error, right? So what happens if they bond incorrectly? The tiles have sensing. So proximity sensing, magnetometer, other sensors that allow them detect a good bond versus a bad bond and pulse off and self correct which anybody who works in the field of self assembly will tell you that error detection and correction, just like error detection in a DNA sequence or protein folding is really important part of the system for that robustness. And so we've done a lot of work to engineer that ability for the tiles to be self determining. They know whether they're forming the structure that they're supposed to or not. They"
+}

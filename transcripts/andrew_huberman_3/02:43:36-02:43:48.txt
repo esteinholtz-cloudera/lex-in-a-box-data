@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:36",
+  "End": "02:43:48",
+  "Text": "about the, how dumb the question sounds. I find the most fascinating questions. It's just really, really simple and it is a bit embarrassing ask those simple questions of what, like what"
+}

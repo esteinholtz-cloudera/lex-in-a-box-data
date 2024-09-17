@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:56:10",
+  "End": "03:56:22",
+  "Text": "maybe a little jealousy like they, they're good at that but not too much like, like if I, if you design all that in, I don't know, it sounds"
+}

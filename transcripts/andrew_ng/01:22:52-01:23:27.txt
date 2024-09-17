@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:52",
+  "End": "01:23:27",
+  "Text": "picture will be in the dictionary for the people who are ignorant about the overpopulation on Mars. Yes. So it's a long term problem. Is there something in the short term we should be thinking about in terms of aligning the values of our A I systems with the values of us humans, of uh something that Stuart Russell and other folks are thinking about as this system develops more and more, we want to make sure that it represents the better angels of our nature, the, the, the, the ethics, the values of our society."
+}

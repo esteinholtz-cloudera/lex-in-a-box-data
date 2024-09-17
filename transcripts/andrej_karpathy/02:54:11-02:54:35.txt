@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:54:11",
+  "End": "02:54:35",
+  "Text": "in my mind, consciousness is not a special thing, you will, you will figure out and bolt on. I think it's an emerging phenomenon of a large enough and complex enough um generative model sort of. So um if you have a complex enough a world model uh that understands the world, then it also understands its predicament in the world as being a language model, which to me is a form of consciousness or self awareness. And"
+}

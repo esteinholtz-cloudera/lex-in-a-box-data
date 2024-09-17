@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:55:35",
+  "End": "01:55:44",
+  "Text": "a long time. You just sit, it changes your brain. It's the type of experience that will change your brain permanently. There's been"
+}

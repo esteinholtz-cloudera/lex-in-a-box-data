@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:26",
+  "End": "01:28:35",
+  "Text": "are Fascinatingly good at finding beauty in truth, no matter how painful the truth is. So,"
+}

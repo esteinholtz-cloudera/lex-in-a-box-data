@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:11:52",
+  "End": "02:12:35",
+  "Text": "you put? I think it has something to do a very complex nature how Iran evolved over a long period of time since the 16th century. That's why if I would for a moment, talk about what I have written. I've written a book that's called Iran and Modern History and it does not start in the 20th century. It starts in the 16th century because that's what I have argued that this complex process at the end of the day resulted in what we see around us today is something that was in making for a very long time."
+}

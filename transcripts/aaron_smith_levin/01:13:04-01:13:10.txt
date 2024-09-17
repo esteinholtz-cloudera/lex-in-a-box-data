@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:04",
+  "End": "01:13:10",
+  "Text": "that that's a really important question. Do you think he believes in all the Satans and all of that?"
+}

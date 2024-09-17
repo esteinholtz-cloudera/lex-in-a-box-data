@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:35:30",
+  "End": "02:35:54",
+  "Text": "mean, we were mentioning this offline as a small t there's a cool dynamic in how you get to become really close friends without never having met and never having talked one way. But it could be one way. Friendships that form. It's a beautiful thing. I think. don't know that that makes me feel like we're all connected and you're almost like plugging into some kind of weird thing in the"
+}

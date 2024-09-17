@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:12",
+  "End": "00:24:39",
+  "Text": "do you envision the thing would look like? Like when you imagine a thing far into the future where there's um we're not even thinking about like a small space. Well, let's not call them small but our currently sized space stations, but like gigantic. What do you envision? Is this something with symmetry or is this something we can't even come up with yet? Is there beautiful structures that you imagine in your mind, I've got"
+}

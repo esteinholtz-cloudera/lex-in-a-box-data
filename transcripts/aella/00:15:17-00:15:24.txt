@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:15:17",
+  "End": "00:15:24",
+  "Text": ". But it sounds like there's a curiosity in you that you're trying to like, poke at and, and I don't understand exactly what that curiosity is."
+}

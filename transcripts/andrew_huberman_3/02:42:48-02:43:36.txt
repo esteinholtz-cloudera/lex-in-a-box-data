@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:42:48",
+  "End": "02:43:36",
+  "Text": "reason I started watching your podcast was you did an episode early on with Ray Dalio and the first, maybe the first. But a question that you definitely asked him was you just said, is money? And his answer was fantastic. It's an, it's a superb question and he gave a superb answer and never would have thought to ask that question. And it's, it's the question and it was the question to tee things off with. Um so simple questions that get right to the heart of the matter, know, and kids aren't often putting the same, uh, cultural filters and, um, you know, they're not, kids gen, generally aren't concerned about getting canceled either. Um, so they'll ask the question that no one else is willing to ask and they're not"
+}

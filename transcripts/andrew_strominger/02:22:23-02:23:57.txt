@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:22:23",
+  "End": "02:23:57",
+  "Text": ". that moment it was certainly a question for Oppenheimer and everybody who participated in that, what, is the responsible way to society when you're of accidentally in this position of being at the forefront of development that has a huge impact on society. I, I don't see my work likelihood of having a huge impact on the development of society itself. But if I, were you on a, I, I think that there is a possibility there and that it is as a responsible scientist that it, it's really not a good thing to say. I'm just the scientist here and I'm figuring out what's possible. Um, because in a role where you,, you know, you have more of a, podium to influence things than other people and your responsibility as a citizen the planet or, or let me phrase it a little less shy. It's, you know, you have an opportunity as a citizen of the planet to the world a better place which, which it would be sad to, bypass."
+}

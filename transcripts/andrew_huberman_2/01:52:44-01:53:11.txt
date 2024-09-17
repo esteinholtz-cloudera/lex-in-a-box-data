@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:44",
+  "End": "01:53:11",
+  "Text": ", I mean, and, but nevertheless, it's like hope is that science opens up to these drugs a little bit more. It's just I have this intuition that like a lot of people share that they would be able to unlock deeper understanding of our own mind. It's any kind of same as studying dreams. Absolutely."
+}

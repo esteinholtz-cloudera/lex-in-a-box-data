@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:00",
+  "End": "01:24:16",
+  "Text": "it affordable? So loosely speaking, does it become affordable for mit type of research lab? Does it or does it need to be a multi university a effort, a consortium thing?"
+}

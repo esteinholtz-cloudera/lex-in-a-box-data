@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:03:32",
+  "End": "00:04:48",
+  "Text": ". So I think it's that. So if you think about robotics in general, we want them because they enhance our quality of life and usually that's linked to something that's functional,? Uh Even if you think of self driving cars, why is there a fascination because people really do hate to drive like there's the like Saturday driving where I can just speed but then there was the, I have to go to work every day and I'm in traffic for an hour. I mean, people really hate that. Um And so robots are designed to enhance our ability to increase our quality of life. And so the perfection comes from this aspect of interaction. Um If I think about how we drive, if we drove perfectly, we would never get anywhere, right? So think about how many times you had to run past the light because you see the car behind you is about to crash into you or that little kid kind of runs into the street. And so you have to cross on the other side because there's no cars, right? If you think about it, we are not perfect drivers, some of it is because it's our world. And so if you have a robot that is perfect in that sense of the word, they wouldn't really be able to function"
+}

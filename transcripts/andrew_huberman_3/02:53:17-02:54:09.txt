@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:53:17",
+  "End": "02:54:09",
+  "Text": ". And I should mention that cold showers after training don't seem to short circuit the um training effect to the same extent that immersion in cold water does. And that really speaks to the fact that cold showers, even though they can provide some of the adrenaline for the mental effects of like, oh, I have a lot of adrenaline in my system from a cold shower and I can remain calm. There's, there's utility to that. not going to have the same metabolic effects or other positive effects that cold water exposure has been shown to have. And that's unfortunate because most people have access to cold showers. Not everyone has access to a cold dunk or an ice dunk. But um, here in um, Austin, you have this place. I know they don't pay me to say this. But I always like going to this place whenever I'm telling this place. Ka and they've got a sauna and a couple of ice pack they even have those salt tanks that you can float on the sort of ice baths there. They have cold water immersion. It's pretty cold, still"
+}

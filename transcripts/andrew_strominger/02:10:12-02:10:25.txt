@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:12",
+  "End": "02:10:25",
+  "Text": "basically every name will be forgotten in hundreds of years. Yeah. Yeah. Are you able to, by the way? I love the idea, the exploration of ideas themselves without the names and"
+}

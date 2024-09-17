@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:29",
+  "End": "01:16:47",
+  "Text": "you can apply that in all kinds of domains., let me ask you on that. You were a covert CIA intelligence officer for several years. Maybe. Can you tell me the story of how it all began? Were you recruited? And what did the job entail to the degree you can"
+}

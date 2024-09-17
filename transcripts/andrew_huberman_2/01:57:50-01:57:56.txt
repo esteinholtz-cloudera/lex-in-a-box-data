@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:50",
+  "End": "01:57:56",
+  "Text": ". But so much of these psychedelic experiences it feels like is letting go. You don't want to resist."
+}

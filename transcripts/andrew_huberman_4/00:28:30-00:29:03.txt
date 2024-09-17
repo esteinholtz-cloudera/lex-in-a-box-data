@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:30",
+  "End": "00:29:03",
+  "Text": ", one of the things recently, but in general, over time, I've discovered about myself has roots in childhood, probably has roots in a lot of things as I deeply value loyalty, more than the average person. And so when there's disloyalty, it can be painful to me. And so this is who I am. And so do I have to a bit? Do I have to fix this part or is this who you are? And, and there's a million, that's one"
+}

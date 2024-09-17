@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:21",
+  "End": "01:48:31",
+  "Text": "mentioned personality tests. really interesting. So how, how effective a personality test one for the hiring process, but also for understanding a human being."
+}

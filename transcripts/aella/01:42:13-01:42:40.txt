@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:42:13",
+  "End": "01:42:40",
+  "Text": "have done text input usually with beta surveys. So I usually do beta surveys before I do the real survey. Like I do like a shorter version or it depends on what I'm doing, but like a different version of the survey that I have people take before I release, I use the information from the initial survey to inform the questions that I ask in the real survey. And I haven't actually recently, but I used to do a lot of like the text based questions to see for similar. Although I don't think I relied on it quite as heavily. And if I introduced machine learning and things would be a lot more efficient."
+}

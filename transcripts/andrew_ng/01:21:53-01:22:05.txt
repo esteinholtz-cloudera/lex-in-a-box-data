@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:21:53",
+  "End": "01:22:05",
+  "Text": "? I would love to get to A G I and I think humanity will. But whether it takes 100 years or 500 or 5000, I find hard to estimate."
+}

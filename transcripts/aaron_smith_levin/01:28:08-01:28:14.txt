@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:28:08",
+  "End": "01:28:14",
+  "Text": "question that has served as a corrupting force. It has without question. Have you"
+}

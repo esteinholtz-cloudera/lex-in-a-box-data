@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:06",
+  "End": "02:29:38",
+  "Text": "you give me some insight because I, uh, especially, not exactly sure why, but, uh, the President Ahmadinejad somebody I'm as an American, really familiar with. Why is that? Exactly? But why was, why was the president, the public facing person to the world versus the supreme leader? Uh, is that just a accident of a particular humans involved or is this by design?"
+}

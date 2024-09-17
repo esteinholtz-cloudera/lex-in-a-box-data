@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:24:16",
+  "End": "03:24:42",
+  "Text": "I guess they keep digging until they can confirm it's not a threat but it, it just, and you're saying that there's not from your understanding, much evidence that they're doing. So it could be because they're compartmentalized. But you're saying private intelligence, um, institutions are trying to make progress on this., it's, it's really difficult to know. Uh"
+}

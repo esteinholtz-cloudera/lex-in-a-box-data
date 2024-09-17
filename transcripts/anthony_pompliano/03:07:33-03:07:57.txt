@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:33",
+  "End": "03:07:57",
+  "Text": "don't think there's a better way to end it. Anthony, I'm a huge fan. It's a huge honor that you waste all this time with me today. Uh You know, I thank you for just educating the world for teaching me, inspire me to learn more about this new set of technologies that look like they have a potential to change, transform all of human civilization. So thank you for coming today and thank you for being who you are."
+}

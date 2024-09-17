@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:29:42",
+  "End": "01:30:42",
+  "Text": "? Oh, no, no, but interesting but interesting choice of examples. Um,, but I think that, um, know, people lose, lose the careers on the basis of the movement of their thumbs. Right. I mean, the chair of Psychiatry at Columbia recently lost his position based on a, uh, response to a tweet, people can look that up. This is one of the most famous psychiatry departments in the world. And he put something out there that was very insensitive, uh, frankly. And, um, everyone that I talked to about it was like, gosh, that was very, insensitive, not thoughtful at all. And, and he lost his job. Right. Or at least had to step down. I don't know the specifics. So, um, know, I, I think I read someplace that more than half of the job loss due to online behavior is because people were trying to be funny. Right. I mean, not everyone can pull off. What Tim Dylan? Oh, and by the way, congratulations. I heard that you and Tim just got married. No,"
+}

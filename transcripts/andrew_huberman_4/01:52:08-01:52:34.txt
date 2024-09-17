@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:52:08",
+  "End": "01:52:34",
+  "Text": "variables. There's a lot of, but there haven't been systematic studies. So, um, I think probably the best thing to do unless they're going to do IVF is just, you know, roll the dice and, um, know, and I think, uh, with each passing year they increase the probability of getting a female offspring. Um, and with, but of course, with each passing year the egg and sperm quality degrade. So, you know, get after it soon."
+}

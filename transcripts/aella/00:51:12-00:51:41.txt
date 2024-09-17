@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:51:12",
+  "End": "00:51:41",
+  "Text": "you have to do like rapid thinking also like rapid intuitive, physical thinking. And that's my favorite kind of thing. Like a lot of exercise is really boring to me because you can just do all your brains off. But something like ballroom dancing or fusion dancing, you have to constantly be like figuring out like it's a r and that that's the video fusion dancing is like if you have any sort of dance background, you can come and you just kind of mix those together. You about people playing ballet with people doing ballroom, with people doing blues."
+}

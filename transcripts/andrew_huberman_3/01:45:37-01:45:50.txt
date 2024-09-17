@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:37",
+  "End": "01:45:50",
+  "Text": "about the, uh, pre preparation for the solo podcast? You said you listen to certain songs, you know, you sing or recite the lyrics to certain songs? Is there ones that kind of come to mind that are interesting?"
+}

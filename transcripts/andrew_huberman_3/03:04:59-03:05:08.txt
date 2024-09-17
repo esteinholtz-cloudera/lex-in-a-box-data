@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:04:59",
+  "End": "03:05:08",
+  "Text": "with cold. Yeah, if you're alternating then uh if you want to do it the tough way, you let the shivering. So you just stand out and let the water evaporate."
+}

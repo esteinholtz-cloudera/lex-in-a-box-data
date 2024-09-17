@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:06",
+  "End": "00:34:09",
+  "Text": "anybody outside of sea org in general. You're not allowed to have Children. Sea org"
+}

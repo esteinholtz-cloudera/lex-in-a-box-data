@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:07",
+  "End": "00:43:13",
+  "Text": "like it's big. It has also the things with the crank that allows you to control the distance from the flame."
+}

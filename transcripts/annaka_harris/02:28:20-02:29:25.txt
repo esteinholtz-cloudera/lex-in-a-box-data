@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:28:20",
+  "End": "02:29:25",
+  "Text": ", you can do this with plants too. I mean, there's some complex enough behavior that looks like free will from a certain angle and it makes you, it makes you wonder two things. One is there consciousness associated with that processing and two, if there isn't, does that say about our experience and in nature, what does that say? Yeah., but yeah, I do, I do that with plants all the time. I go back and forth. But the zombie thought experiment now, um, at least for me is often presented as a, I, because now that's easier as, as a robot because that's easier., don't know if it's just because it's in, it's, it's in pop culture now in the form of films and television shows. But it's, it's easier to get to that point of um contemplation, I think by imagining robot."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:56",
+  "End": "00:51:18",
+  "Text": ", I'm afraid so, I'm like, you know, it's very difficult for me. So 48 miles is not easy. I have not been training that much, so I'm not ramping up, it's not like going to kill me. We'll see what happens. Of course, for him. He might almost get bored because I think the 48 miles for him is easy. I think,"
+}

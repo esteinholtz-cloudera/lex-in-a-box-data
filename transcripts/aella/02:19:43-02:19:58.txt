@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:19:43",
+  "End": "02:19:58",
+  "Text": "like love? Yeah. I mean, I think there's a part of me that feels like I have unconditional love for all things. Like when you're talking about the class being beautiful, I felt that, feels like it felt like it rang something that like, I have a, a similar resonance in me for that. If I"
+}

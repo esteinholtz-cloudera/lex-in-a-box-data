@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:50",
+  "End": "00:55:58",
+  "Text": "living in space., with what robots, what are robots data, what"
+}

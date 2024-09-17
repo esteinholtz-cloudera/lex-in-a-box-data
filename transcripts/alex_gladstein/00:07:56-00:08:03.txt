@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:07:56",
+  "End": "00:08:03",
+  "Text": "recorded this conversation a while ago and I thought I lost the audio and was really"
+}

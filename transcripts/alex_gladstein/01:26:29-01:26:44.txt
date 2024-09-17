@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:26:29",
+  "End": "01:26:44",
+  "Text": "a yeah, there's a huge, it makes me sad that there's a huge number of scams like, you know, what makes me really sad and just a tiny little tangent. There's been recently, I guess with the growing platform or something. There's been a bunch of fake Lex Friedman accounts. Yeah."
+}

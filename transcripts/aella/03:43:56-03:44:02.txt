@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:43:56",
+  "End": "03:44:02",
+  "Text": "don't like that question. It's hard. I know. I asked that question to a lot of people but I don't like answering it. It's really difficult. What's"
+}

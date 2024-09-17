@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:19",
+  "End": "01:51:47",
+  "Text": "deepest meaning is from the local biological reproduction unit. And then it goes to the engineering scientific. What is it a corporate company unit that can actually produce and compete and interact with the world? And then there's the giant human unit that's struggling with pandemics and comments and together, struggling against the forces of nature that keeps wanting to kill us."
+}

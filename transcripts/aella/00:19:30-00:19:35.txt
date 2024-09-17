@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:19:30",
+  "End": "00:19:35",
+  "Text": "this change quite a bit for religious people then who don't believe that they're going to"
+}

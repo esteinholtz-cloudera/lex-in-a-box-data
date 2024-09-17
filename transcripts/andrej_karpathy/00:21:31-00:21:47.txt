@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:31",
+  "End": "00:21:47",
+  "Text": ". Yeah, it's kind of mind blowing to think that there is of intelligent alien civilizations out there kind of slowly traveling through space to meet each other and some of them meet, some of them go to war, some of them collaborate"
+}

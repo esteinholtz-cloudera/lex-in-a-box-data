@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:37",
+  "End": "02:45:58",
+  "Text": "for listening to this conversation with Annika Harris to support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Mahatma Gandhi. will not let anyone walk through my mind with their dirty feet. you for listening and hope to see you next time."
+}

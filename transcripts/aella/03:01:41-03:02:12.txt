@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:01:41",
+  "End": "03:02:12",
+  "Text": ". She's confused about how to interpret it. And I think people look to the terms to know how to feel about something. Like, have you ever been through an experience? You're like, that was weird. And then you tell it to somebody else and they're like, oh my God, you were assaulted and then it totally recontextualized the thing that you've experienced. And I think that this is clunky with the word rape because either you were raped or you're not, you either have this entire context thrust upon you or you don't. And we're really not noticed about it at all. And so I would really like to have some sort of like, oh, that was like a 30% rape you just endured."
+}

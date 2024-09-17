@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:51:32",
+  "End": "01:52:05",
+  "Text": "mean, it's, it's not, you know, it's a significant, it's not trivial, it's not a trivial difference. Um But if they want to ensure having daughter, then they should do IVF and select an XX em, um embryo. And um when you go through IVF, they genetically screen them for karyotype, which is XXXY. Um and they look at mutations, genotypic mutations for things like, you know, tri tri and um and employs all all the stuff you don't want. there is a lot"
+}

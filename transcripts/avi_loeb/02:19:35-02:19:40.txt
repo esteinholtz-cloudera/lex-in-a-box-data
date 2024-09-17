@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:35",
+  "End": "02:19:40",
+  "Text": ". And when there's holes, you show that there's holes and here's the methodology we're using to try to close"
+}

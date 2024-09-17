@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:56",
+  "End": "01:35:07",
+  "Text": "an individual level. How is it possible to reach a person like that? I, there something you could say to that? Like what's the journey of reaching a person like that?"
+}

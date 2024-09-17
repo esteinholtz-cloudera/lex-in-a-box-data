@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:04:04",
+  "End": "01:04:40",
+  "Text": "you watch this series, makes you buy my book. And, you know, but I'm just saying like this person would be forgotten. But, you know, I, you just the way that we do cosmos is that like I ask a question to myself, want to get to the bottom to the answer and keep going deeper, deeper until we find what the story is, a story that I know because I'm not a scientist. If it moves me, if it, if it moves me, then I want to tell it and other people will be moved."
+}

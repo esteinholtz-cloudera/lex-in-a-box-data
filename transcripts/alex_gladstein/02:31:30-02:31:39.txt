@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:31:30",
+  "End": "02:31:39",
+  "Text": "leaders certainly haven't. We, we have like seven active wars right now and, and neither the Russians and the Chinese, everybody's starting to invade everybody else."
+}

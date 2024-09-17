@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:41",
+  "End": "02:41:13",
+  "Text": "there's a lot to say. So, one is, yes, if I was a dictator I wanted to and just looking at history, let me take myself out of it. But I think one of the more effective ways is you don't need the surveillance. You can pick out a random person and in a public display, semi public display, you know, basically put them in jail for opposing the government, whether they opposed it or not. And the fear that sends a message to a lot of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:07:35",
+  "End": "01:08:13",
+  "Text": "does feel currently like Bitcoin is like pirates or something like that and they're still the central banks that are the main navies of the different nations. It's just if you talk about scale. So there's going to be a moment if Bitcoin continues to grow and its impact when governments are going to seriously contend with. What do we do with this? you think about those moments? Is Bitcoin is the Cryptocurrency world in general going to be able to withstand the serious legal pushback from countries from nations, especially authoritarian nations?"
+}

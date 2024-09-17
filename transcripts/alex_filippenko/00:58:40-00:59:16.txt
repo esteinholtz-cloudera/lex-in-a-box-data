@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:40",
+  "End": "00:59:16",
+  "Text": ". And, but yeah, we're sort of assuming that we can fix all the biological stuff that requires for humans to persist uh uh persist through that whole process because ultimately, it might boil down to just extending the life of the, the human in some form, whether it's through the robot, through the digital form or, or actually just figuring out genetically how to live forever because that's that journey that you mentioned. The long journey might be different. If somehow our, our understanding of genetics, of our understanding of our own biology, all that kind of stuff would uh that's another trajectory"
+}

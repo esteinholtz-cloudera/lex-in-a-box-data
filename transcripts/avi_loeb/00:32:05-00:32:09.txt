@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:05",
+  "End": "00:32:09",
+  "Text": "is icy asteroid is just"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:33:49",
+  "End": "00:34:03",
+  "Text": "into A I is working to create causes to help people break into A I, so my machine learning course that I taught through Stanford means one of the most popular courses on Coursera"
+}

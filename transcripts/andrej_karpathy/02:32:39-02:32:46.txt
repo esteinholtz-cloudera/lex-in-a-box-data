@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:39",
+  "End": "02:32:46",
+  "Text": "systems will or is it, is it really the off by one is actually a fundamental challenge of"
+}

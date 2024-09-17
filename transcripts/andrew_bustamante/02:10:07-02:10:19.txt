@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:07",
+  "End": "02:10:19",
+  "Text": "each other. Yeah. Then maybe like banks have to fight that fight but not, not everybody can. Yeah. No. So you're saying I operated at the state of the art with the trip wires. This is good to know."
+}

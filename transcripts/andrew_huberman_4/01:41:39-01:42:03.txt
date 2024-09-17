@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:39",
+  "End": "01:42:03",
+  "Text": "I, I do think like,, at first sight, this kind of idea is, uh, in part realizing very quickly that you are great friends. Like I've had that interesting experience of friendship recently. Just not really friendship but like, oh, you get each other with, with humans. Not, not in a romantic setting."
+}

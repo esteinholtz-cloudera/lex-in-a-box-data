@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:42:18",
+  "End": "02:42:24",
+  "Text": "all the applications right now and just think about is digital scarcity going to be important on the internet,"
+}

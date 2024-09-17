@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:41",
+  "End": "00:23:56",
+  "Text": ", I mean, Uganda is a great example of this, but so is Saudi Arabia. So is China, I mean, so is Cuba, I mean, these are all regimes which demonize the LGBT communities. interesting"
+}

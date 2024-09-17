@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:49:11",
+  "End": "01:49:21",
+  "Text": "or you can have some sort of software wallet, right where it's not on an exchange, but there is some level of, uh, in between, between the hardware and the exchange in the software"
+}

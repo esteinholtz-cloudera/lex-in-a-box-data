@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:49:04",
+  "End": "02:49:38",
+  "Text": "the the graph that you were talking about is um is a binary. So it's like if you and if somebody expressed even a little bit of interest, then it goes into the graph. So it's like of people expressed even a little bit of interest. So it's not representing degree of interest, it's not differentiating between them at all. So it's possible that like some fetishes have exactly the same amount of people like are at least a little bit into them. But one of them is very extreme interest and the other is like vague and not very intense. So that's not reflected. I also like, probably didn't represent the visual part, right? Like might not be intuitive, but he chose"
+}

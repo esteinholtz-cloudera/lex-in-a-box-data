@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:31:28",
+  "End": "03:31:49",
+  "Text": "be. I don't, I don't really buy all these ideas that, oh, without death, there's no meaning. There's nothing as I, I don't intuitively buy all those arguments. I think there's plenty of meaning, plenty of things to learn. They're interesting. Exciting. I want to know, I want to calculate, uh, I want to improve the condition of all the humans and organisms that are alive"
+}

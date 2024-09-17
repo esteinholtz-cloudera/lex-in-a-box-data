@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:20",
+  "End": "02:00:45",
+  "Text": "me ask you about and trust and so on. So I don't believe I've been contacted by or interacted with the CIA, the MI-6, the FSB Massad or any other intelligence agency., I'm kind of offended, uh, would I know if I was so from your perspective?"
+}

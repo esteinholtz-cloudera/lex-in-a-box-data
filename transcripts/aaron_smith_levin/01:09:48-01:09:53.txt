@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:48",
+  "End": "01:09:53",
+  "Text": "trajectory of this world where she was the one that took over? Yes."
+}

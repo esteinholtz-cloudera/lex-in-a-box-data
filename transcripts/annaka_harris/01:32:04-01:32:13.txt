@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:32:04",
+  "End": "01:32:13",
+  "Text": "is just laid out in front of us. It's a giant mess. The same kind of human just trying to organize."
+}

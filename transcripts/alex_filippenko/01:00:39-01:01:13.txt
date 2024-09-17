@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:39",
+  "End": "01:01:13",
+  "Text": "that's talking about us going somewhere. What about of the things that inspires a lot of folks including myself is the possibility that there's other that this, this conversation is happening on another planet in different forms with the intelligent life forms., first we could start a cosmologist. What's your intuition about whether there is or isn't intelligent life out there of our"
+}

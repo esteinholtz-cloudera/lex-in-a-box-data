@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:10:16",
+  "End": "01:10:38",
+  "Text": "COVID has been studying thousands of people and will be under the scrutiny, not only of uh regulators, but uh as we will go into the implementation as it happened in many countries, they will monitor to see what's happened with le let's say that whatever we do, once it is out there within a few weeks, they will know all hospitals if it works or not because they will see the statistics"
+}

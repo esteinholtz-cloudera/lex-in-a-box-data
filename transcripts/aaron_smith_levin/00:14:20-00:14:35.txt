@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:20",
+  "End": "00:14:35",
+  "Text": "it sounds like a little bit more like the ideas of Plato, which is, there's these Platonic forms, there's abstract forms that are bigger, more general than our particular reality here. And those forms are used to construct the"
+}

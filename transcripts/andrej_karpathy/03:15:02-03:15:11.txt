@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:15:02",
+  "End": "03:15:11",
+  "Text": ". Are we silly humans thinking that we're the organisms? Is it possible that the primary organisms are the ideas?"
+}

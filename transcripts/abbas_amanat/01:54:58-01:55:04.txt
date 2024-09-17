@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:58",
+  "End": "01:55:04",
+  "Text": "just a million tangents? Ayatollah Imam, what do these"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:55:22",
+  "End": "01:56:17",
+  "Text": ". So then we found a very wonderful way to learn about the black hole and here's how it works. black hole is a mirror. the way it's a mirror is if light a photon bounces off your face the black hole and it goes straight to the black hole just falls in, you never see it again. if it just misses the black hole, swing around the back and come back to you and you see yourself from the photon that went around the back of the black hole. not only can that happen, black hole, the photon can swing around twice come back. So you actually see an infinite number of copies of"
+}

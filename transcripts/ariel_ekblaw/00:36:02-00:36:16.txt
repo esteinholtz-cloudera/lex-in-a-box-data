@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:36:02",
+  "End": "00:36:16",
+  "Text": "actually tell you to make a memory when you're on the plane it's such a fleeting experience for your body that even a few days later, you've already forgotten exactly what it felt like it's so foreign to the human experience. They"
+}

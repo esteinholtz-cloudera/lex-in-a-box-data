@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:59:14",
+  "End": "02:59:48",
+  "Text": "not celebrate the killing of Bin Laden? We did the search discovery and the capture and the killing of Bin Laden. Wasn't that actually the details of that? How much of the details of that, how he was discovered were made public? I think some of it was made public enough. Why not do that? that make heroes out of the people that are servants or do people who serve to do service for this nation? Do they always have to operate in a thankless manner in the shadows?"
+}

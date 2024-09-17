@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:45",
+  "End": "00:07:11",
+  "Text": "? The fact that you're probably somewhat alone, maybe a couple of friends recording with a Logitech webcam and kind of going home alone at one or 2 a.m. at night knowing that that's going to reach of thousands of people, eventually, millions of people. What's that feeling like? I mean, is there a feeling of just satisfaction of pushing through? I"
+}

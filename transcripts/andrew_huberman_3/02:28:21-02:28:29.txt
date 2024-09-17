@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:21",
+  "End": "02:28:29",
+  "Text": "a, it's like a beat. But you're saying there's a lot of mixed science on the on the noise and brown noise, you"
+}

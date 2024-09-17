@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:27",
+  "End": "01:14:50",
+  "Text": ". And that's such a fascinating space. You're absolutely right. But what is the first step that a company should take it? It's just scary leap into this new world of going from the human eye inspecting to digitizing that process, having a camera, having an algorithm. What's the first step like? What's the early journey that you recommend that you see these companies taking?"
+}

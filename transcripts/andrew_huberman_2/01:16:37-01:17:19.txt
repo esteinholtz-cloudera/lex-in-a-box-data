@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:16:37",
+  "End": "01:17:19",
+  "Text": ", I've known um I don't have any commercial relationship to Bell Campo. So I can be very clear. I've known Anya Fernald who, who's one of the f is the founder and CEO of Bel Campo. I've known her since the ninth grade., it is true that her parents are faculty members at Stanford. They're colleagues of mine, but she's just a serious academic of nutrition, but also of sustainable agriculture, of, you know, all sorts of things and also the meat just it's awesome, it tastes really good. And no, I'm not getting paid to say that and no, they're not sponsoring my podcast. It's just if you I feel like if you're gonna eat animals, if that's in your framework and you're gonna eat animals knowing that the animals were raised happy as could be until, you know, time of slaughter is, is at least important to me"
+}

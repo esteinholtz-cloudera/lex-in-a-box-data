@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:28",
+  "End": "02:56:39",
+  "Text": "that might become illegal to do that. Right. otherwise you might have a lot of, a lot of creatures that don't want to die and they will"
+}

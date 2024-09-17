@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:21",
+  "End": "02:28:20",
+  "Text": "of the things because said you haven't really looked into this area because there's so many interesting things to look into. And you're really focused on the physics side. To me, the neuroscience experiments that you mentioned, where there's a difference between the timing of things that kind of reveal. There's something here to me working with robots. I have looked at robots that are moving around my home in Austin. It's a very good thought experiment. Here's the thing that like he has a free will. uh it looks like it has conscious experiences then I know how it's programmed. And so I had to go back and forth it's, you know, this is what I do. You lay on the ground looking up at the stars, thinking about plants. And I look at a robot like,"
+}

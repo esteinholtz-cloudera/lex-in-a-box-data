@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:23",
+  "End": "02:25:48",
+  "Text": "That's why I try when I do social things, I try not to do too uh too much drinking so I can return and continue doing work. But at a Tesla, is there, is there a convergence Tesla? But any, any company, is there a convergence towards a schedule or is there more, that how humans behave when they collaborate? I need to learn about this. Do they try to keep us a consistent schedule where you're all awake at the"
+}

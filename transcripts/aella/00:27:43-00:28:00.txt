@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:43",
+  "End": "00:28:00",
+  "Text": "them. I've did thorough research. OK. Um What is consciousness then? actually wrote that as a quote. What is consciousness remind myself? So, like, how does that tie in together with free will and identity and all of that?"
+}

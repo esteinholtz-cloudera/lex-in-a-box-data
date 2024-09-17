@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:16",
+  "End": "01:27:45",
+  "Text": "is something so one giant hug with the universe uh and everything in it. Um But there is some sense in which um attach the search for meaning um the eye the ego. it could almost seem like life is meaningless. Our existence, my existence is meaningless."
+}

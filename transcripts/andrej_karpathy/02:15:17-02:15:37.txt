@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:15:17",
+  "End": "02:15:37",
+  "Text": ", I think so. So Gao is uh is very much a kitchen sink approach to like um learning lots of different environments with a single fixed transformer model, right? Um I think it's a very sort of early result in that, in that realm. But I think uh yeah, it's along the lines of what I think things will eventually look like,"
+}

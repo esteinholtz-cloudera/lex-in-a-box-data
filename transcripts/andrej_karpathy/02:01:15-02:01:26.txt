@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:15",
+  "End": "02:01:26",
+  "Text": ". Do uh people that drive Teslas like recognize you and give you love like uh, hey, thanks for the, for the, for this nice feature that is doing. Yeah, I"
+}

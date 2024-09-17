@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:37:17",
+  "End": "01:37:30",
+  "Text": "found out about her because of you on your podcast with her. And I brought her on to Instagram doing an Instagram live about emotion. And it was fascinating and she is a very spirited and very, very smart woman and fearless"
+}

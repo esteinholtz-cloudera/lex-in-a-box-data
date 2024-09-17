@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:13",
+  "End": "00:50:27",
+  "Text": "what just looking back what are some fascinating things in robotic space that NASA was working at the time or just in general? What, what have you gotten to play with? And what are your memories from working at NASA? Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:38:17",
+  "End": "01:38:50",
+  "Text": ". Well, I would go a step farther and I would say that taking connection away, uh penalizing people by removing the connection a powerful tool. And that's what we see. That's why we send people to jail. That's why we put economic sanctions on countries. That's why we ground our Children and send them to their rooms. We are penalizing them whether we know it or not. We're, we're using punitive damage by taking away that basic human connection that longing for, for community."
+}

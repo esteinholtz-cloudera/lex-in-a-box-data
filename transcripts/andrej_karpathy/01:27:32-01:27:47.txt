@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:27:32",
+  "End": "01:27:47",
+  "Text": ". Yeah, for the neural, not specifically just making sure everything fits into the chip on the car. And uh you have a finite budget of flops that you can perform and uh and memory bandwidth and other constraints. And you have to make sure it flies and you can squeeze in as much computer as you can into the tiny,"
+}

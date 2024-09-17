@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:49",
+  "End": "00:08:12",
+  "Text": "kind of mentioned the Google self driving car but outside of that,, what's like who or what is your favorite robot real or fictional that captivated your imagination throughout? I mean, I guess you kind of alluded to the Google Self Drive. The Firefly was a magical moment but is there something else?"
+}

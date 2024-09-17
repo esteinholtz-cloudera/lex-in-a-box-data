@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:55",
+  "End": "00:22:27",
+  "Text": "me ask the old Russian overly philosophical question about death. we're talking about the expanding universe. How do you think human civilization will come to an end if we avoid the near term issues we're having will it be our sun burning out, will it be comets? Will it be uh is it? Do you think we have a shot at reaching the, heat death of the universe?"
+}

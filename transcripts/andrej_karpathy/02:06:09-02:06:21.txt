@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:06:09",
+  "End": "02:06:21",
+  "Text": ". It was the right amount of difficult, it was the right amount of difficult and simple and uh interesting enough, it just kind of like it was, it was the right time for that kind of a data set"
+}

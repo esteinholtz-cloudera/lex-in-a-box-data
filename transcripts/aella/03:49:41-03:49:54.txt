@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:49:41",
+  "End": "03:49:54",
+  "Text": "this is unlikely. It's like it's probably going to be smart to us as like we are to toddlers. So be toddlers thinking that like, oh, we can prevent the A I from coming in the room. Like as an adult, it's not hard to trick a toddler."
+}

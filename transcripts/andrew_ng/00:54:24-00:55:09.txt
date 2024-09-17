@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:54:24",
+  "End": "00:55:09",
+  "Text": ". Yeah. So there have been a few studies, if you search online, you find some of these studies that taking handwrit notes because handwriting is slower as we're saying just now. Um it causes you to recode the knowledge in your own words more. And that process of recoding promotes long term attention. is as opposed to typing, which is fine. Again, typing is better than nothing or taking a class and not taking notes is better than not taking any class at all. But comparing handwrit notes and typing, um you can usually type faster for a lot of people, you can handwrite notes. And so when people type, they're more likely to transcribe verbs of what they heard. And that reduces the amount of recoding and that actually results in less long term retention."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:32:04",
+  "End": "02:32:19",
+  "Text": "I'm a weird ass person who thinks a lot of weird shit, but I didn't even think about poly amorous an option before I had heard that it existed. And it was only when I first met my first poly amorous couple and I was like, oh, that's what I am. That's clearly the thing that I am."
+}

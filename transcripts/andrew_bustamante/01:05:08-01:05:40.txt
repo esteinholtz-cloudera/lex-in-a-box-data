@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:05:08",
+  "End": "01:05:40",
+  "Text": "the reasons that you're willing to cross them. You know, there's the CIA will let an American stay in jail in Russia unlawfully and seek a diplomatic solution. I mean, the United States has let people there. There are two gentlemen in from the 19 fifties who were imprisoned in China for 20 years waiting for diplomatic solutions to their release. So that's, it's, we do not kill save a citizen, but Mossad will"
+}

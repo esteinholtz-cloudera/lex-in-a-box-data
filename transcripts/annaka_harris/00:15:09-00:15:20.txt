@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:09",
+  "End": "00:15:20",
+  "Text": "really like conspiracy theories and so on. I really like flat earth. People that believe the earth is flat or not believe, but argue for the earth is flat. It's"
+}

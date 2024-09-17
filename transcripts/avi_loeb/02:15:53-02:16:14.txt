@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:53",
+  "End": "02:16:14",
+  "Text": "for the for the interplay that resulted in some kind of. Uh Yeah. So, so yeah, the chemical effect, bio biology, I mean, all those kinds of things in, in terms of uh the emergence of uh and the creation of a habitable environment that's so fascinating. And of course, like you said, dark matter, black holes have some say it could"
+}

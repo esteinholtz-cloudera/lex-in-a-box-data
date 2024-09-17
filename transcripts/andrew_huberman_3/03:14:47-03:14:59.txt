@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:14:47",
+  "End": "03:14:59",
+  "Text": ", yeah. Yeah, she's being programmed. No, I, uh, I mean, I definitely, I definitely believe that. I mean, first of all, I just love people and I fall in love very easily with people with objects, with things with, with, with life with"
+}

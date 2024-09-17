@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:57",
+  "End": "01:31:43",
+  "Text": ", for people who are not aware, one of the days in April tweeted that Tim Dylan asked me to get married and I said, yes, I think Tim,, said the wedding will be on sixth street in Austin. Bring all of your weapons, which of course is totally inappropriate. I was, I was like PG funny and he goes rated R funny right away. But that said, I mean, if there's anyone,, I would like to get married with this, this, that guy and we would do it in Austin and when it would, it would, it would be epic. It would be like the, um, the wedding from November Rain., one of the Mr Mr Mr, I apologize"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:28",
+  "End": "02:05:35",
+  "Text": "your experience with a gigantic real world data set. Would you like to see benchmarks move in a certain directions that the research"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:35:07",
+  "End": "00:35:16",
+  "Text": "just see it. I just see the way she approaches the whole thing and the pleasure in serving it and, and I'm an eater, not a cooker. Um But"
+}

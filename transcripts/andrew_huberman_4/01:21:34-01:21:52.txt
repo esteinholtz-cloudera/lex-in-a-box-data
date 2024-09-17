@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:21:34",
+  "End": "01:21:52",
+  "Text": "like if you look at L's kitchen, there's, there's some really good snacks. I had some right before. Um, he's very good about keeping cold drinks in the fridge. Um, and all the water has element in it, which is great. I love that. Um, but then there, there's a whole like hospital's worth of splints. Yeah, I'm"
+}

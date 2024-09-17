@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:00",
+  "End": "00:23:16",
+  "Text": "is going to continue throughout this conversation as we talk about relationships and sex. Yes, for sure. I think so. And I think your thinking seems to be very driven by how can I construct an experiment test this hypothesis?"
+}

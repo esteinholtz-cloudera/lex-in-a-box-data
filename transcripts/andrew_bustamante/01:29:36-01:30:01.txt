@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:29:36",
+  "End": "01:30:01",
+  "Text": "gets to be more into the trained skill side of things. There's body cues, there's micro expressions. I'm not a big fan of, I don't believe that micro expressions alone do anything. I also don't believe that micro expressions without, without an effective baseline, do anything. So don't for a second think that I'm the people out there pitching that you can tell if someone's lying to you just by looking at their face. It's all, it's all baloney in my world. That's baloney like the way"
+}

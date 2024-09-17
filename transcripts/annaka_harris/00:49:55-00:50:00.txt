@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:49:55",
+  "End": "00:50:00",
+  "Text": "see it the opposite way. Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:20:14",
+  "End": "02:20:33",
+  "Text": "think they, love is like one of the concepts that dissolved for me a long time ago. So I have difficulty directly answering it. But I have the experience when you describe the love sandwich, I feel like I have had that experience. I have it currently for some people also like I'm dating people and I have that. So people"
+}

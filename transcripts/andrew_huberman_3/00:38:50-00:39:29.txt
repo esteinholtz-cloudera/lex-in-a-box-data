@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:50",
+  "End": "00:39:29",
+  "Text": ", I think there's something so the family dinner, the ritual of the family dinner, but also the special occasion dinners, like where there's a little bit more preparation, a little bit more cooking, whether it's on the weekend or for some holiday in Russia, it was a thing that actually I find completely missing for the most part America is there was neighbors, there was, uh, you broke the walls between families much more commonly. Like there would be kind of regular characters like a sitcom almost. You know, if you watch a sitcom, it's never just the family, there's always like other characters that's bursting in"
+}

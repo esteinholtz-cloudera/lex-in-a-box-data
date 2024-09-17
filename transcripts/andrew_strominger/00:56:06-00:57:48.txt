@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:56:06",
+  "End": "00:57:48",
+  "Text": "three simplest spacetime are flat space time which we call Minkowski spacetime negatively curved space time. Anti Sitter space positively curved space time. The Sitter space. so astronomers um think that large scales, even though for thousands of years, we hadn't noticed it beginning with Hubble, we started to notice that space time was curved. Space is expanding in time means that space time is curved. And the nature of this curvature is affected by the matter in it because matter itself causes the curvature of space time. as it expands, the matter gets more and more diluted. one might ask when it's all diluted away spacetime still curved. astronomers believe they've done enough measurements to determine this. they believe that the answer is yes, the universe is now expanding. Eventually, all the matter in it will be expand it away, but it will continue to expand uh well, they would call it the dark energy Einstein would call it a cosmological constant in any case that the in the far future matter will be expanded away and will be left with empty Considerer space."
+}

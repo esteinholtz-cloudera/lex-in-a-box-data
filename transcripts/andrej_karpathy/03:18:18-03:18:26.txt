@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:18:18",
+  "End": "03:18:26",
+  "Text": "it's a clean summarization of the mainstream narrative. But you have to learn that before you break out at the towards"
+}

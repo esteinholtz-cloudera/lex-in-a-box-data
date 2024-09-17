@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:42:02",
+  "End": "01:42:28",
+  "Text": ". Yeah. Just friendship but not dare. I say, I felt that way about you when we met. But we all like this dude's cool and he's smart and he's funny and he's driven and he's giving and he, and he's got an edge and, um, like, wanna, I wanna learn from him. I wanna hang out with him like that. I mean, that was the beginning of our friendship was essentially, you know, that set of, of internal realization"
+}

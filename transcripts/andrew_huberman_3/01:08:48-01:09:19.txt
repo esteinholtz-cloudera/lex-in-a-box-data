@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:08:48",
+  "End": "01:09:19",
+  "Text": "sorry to interrupt you again. But um it's what we do. Um And it's a sign of interest, by the way, sometimes, sometimes. Yeah, I have a colleague at Stanford and she said, you know, interruption, 75% of the time is a sign of, of real interest in what the person is saying. If nothing else. Uh, well, very lovable. Well, that, that, but I mean, I learned about, uh, hedgehog and the fog from you. You know, when I learned, you know, you're very lovable. People love you because you're lovable. I"
+}

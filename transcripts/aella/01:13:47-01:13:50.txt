@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:47",
+  "End": "01:13:50",
+  "Text": ". So, some of that is stereotypes versus like collecting good data,"
+}

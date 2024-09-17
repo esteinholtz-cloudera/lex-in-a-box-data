@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:26:08",
+  "End": "00:26:19",
+  "Text": ", I wanted water. I actually asked for water and you didn't have any free will anyway. So it doesn't matter. I don't hope you're responsible for any of it."
+}

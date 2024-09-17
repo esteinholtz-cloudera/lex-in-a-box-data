@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:39",
+  "End": "01:34:08",
+  "Text": ", in terms of the duration of the civil Coan principle. Yeah. nevertheless, this particular signal is likely to be a human interference perhaps. But do you find Proxima be interesting or the more general question is, do you think we humans will venture out outside our solar system potentially colonize other habitable planets?"
+}

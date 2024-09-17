@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:44",
+  "End": "00:33:02",
+  "Text": "way, for the viewers, we're looking to figure out what paper is this from? This is a hexagonal tiling of a tourist generated in mathematica referencing code approach from two citations. So we're looking at a tiled donut and I'm not hungry. So this is the this is this from your thesis or no,"
+}

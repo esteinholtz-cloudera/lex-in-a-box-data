@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:34:52",
+  "End": "02:35:10",
+  "Text": ". Thank you. I really appreciate the invitation to be here. And people might think that I'm saying it just because I'm here. But I'm a huge fan of yours. I send your podcast to my colleagues and other people and I think what you're doing is isn't just uh amazing. It's important. And so thank you."
+}

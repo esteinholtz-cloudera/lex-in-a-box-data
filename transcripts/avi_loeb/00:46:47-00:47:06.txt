@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:47",
+  "End": "00:47:06",
+  "Text": "think, you know, if, if we are the ants in this picture, this thing is a water bottle or if it's like a smartphone where on the spectrum of possible objects of space? Because there's a lot of interesting trash. So how interesting is this"
+}

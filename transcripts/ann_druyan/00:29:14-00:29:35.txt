@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:29:14",
+  "End": "00:29:35",
+  "Text": ". Well, that was one of the most vigorous debates during the making of the record with, you know, the 56 people that we collaborated with was, do we show, do we only put our best foot forward or do we show Auschwitz, the Congo, what we have done?"
+}

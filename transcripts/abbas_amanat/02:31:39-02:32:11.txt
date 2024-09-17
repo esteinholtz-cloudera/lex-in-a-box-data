@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:31:39",
+  "End": "02:32:11",
+  "Text": "phony election, the election because the process of actually for presidency is completely controlled a, a council that is under the control of the uh uh supreme leader. So they have to who is going to be the candidate. why did everybody can enter and say I would like to be a candidate?"
+}

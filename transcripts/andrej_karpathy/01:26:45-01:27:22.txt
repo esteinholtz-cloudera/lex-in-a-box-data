@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:26:45",
+  "End": "01:27:22",
+  "Text": "Well, basically the sensor is extremely powerful, but you still need to process that information. Um And so going from brightnesses of these special values to hey here are the three dimensional world is extremely hard and that's what the neural networks are fundamentally doing. And so um the difficulty really is in just uh doing an extremely good job of engineering, the entire pipeline, the entire data engine having the capacity to train these neural nuts, having the ability to evaluate the system and iterate on it. So I would say just doing this in production at scale is like the hard part, it's an execution problem."
+}

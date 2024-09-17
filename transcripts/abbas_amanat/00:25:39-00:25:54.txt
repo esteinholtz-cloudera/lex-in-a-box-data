@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:39",
+  "End": "00:25:54",
+  "Text": "the idea is that these protests are internal external saboteurs. So people trying to sabotage the government and they are"
+}

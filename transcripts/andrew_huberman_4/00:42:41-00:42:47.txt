@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:42:41",
+  "End": "00:42:47",
+  "Text": ". Yeah. And then move on. So the question is, are you, do you get stuck or do you move on? Sure."
+}

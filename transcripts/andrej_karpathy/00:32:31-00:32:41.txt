@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:31",
+  "End": "00:32:41",
+  "Text": "you often think about it as a as a simulation? So the universe being a kind of computation that has might have bugs and"
+}

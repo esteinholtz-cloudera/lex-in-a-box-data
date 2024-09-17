@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:38:53",
+  "End": "02:39:07",
+  "Text": "for people who don't know, and we're watching little clips here to get into and it's a hedgehog that is wandering about in this fog at night"
+}

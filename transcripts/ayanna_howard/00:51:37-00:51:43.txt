@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:37",
+  "End": "00:51:43",
+  "Text": "kind of precision and the, mean, what, what's the most amazing of a thing like that? I"
+}

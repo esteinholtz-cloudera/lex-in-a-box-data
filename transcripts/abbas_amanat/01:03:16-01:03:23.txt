@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:16",
+  "End": "01:03:23",
+  "Text": "also shows that there's an infrastructure can implement violence at scale. Yes,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:23",
+  "End": "00:21:20",
+  "Text": "kind of interesting. I don't know if you can comment on, especially for me growing up in Russia. It's probably true in a lot of cultures, maybe every culture that food and especially like in a family, mother that cooks is the source of love and like ties the family together. It creates events where everyone comes together. It's uh one of the only chances of togetherness of the thing that bonds a family is like dinner or food, eating together. And I don't know what to do with that. It ties up with dieting and so on when I was on stricter diets, especially competing and cutting weight and stuff. It, it felt like I was almost losing opportunity to connect with friends and family. It's interesting, it almost like cultures, cannot fully experience love and family without eating. And on the flip side of that, eating enables us to experience love and family. I don't know what to do with that."
+}

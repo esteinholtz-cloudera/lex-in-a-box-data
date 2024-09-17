@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:21",
+  "End": "02:11:37",
+  "Text": "get that. And we probably we humans have something like that. Do we do we have something like that? Do we have a passive in the background, background model constructing thing that just runs all the time in a self supervised way. We're not conscious of"
+}

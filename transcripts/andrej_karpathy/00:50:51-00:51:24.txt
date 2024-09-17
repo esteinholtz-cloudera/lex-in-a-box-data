@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:50:51",
+  "End": "00:51:24",
+  "Text": "stuff. Yeah. So text by itself, I'm a little bit suspicious about. There's a ton of things we don't put in text in writing just because they're obvious to us about how the world works and the physics of it and that things fall. We don't put that stuff in text because why would you, we share that understanding so Texas is communication medium between humans and it's not a uh all encompassing medium of knowledge about the world. But as you pointed out, we do have video and we have images and we have audio. And so I think that that definitely helps a lot, but we haven't trained models uh sufficiently uh across both across all those modalities yet. So I think that's what a lot of people are interested"
+}

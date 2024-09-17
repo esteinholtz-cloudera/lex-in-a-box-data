@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:59",
+  "End": "03:08:29",
+  "Text": "for listening to this conversation with Anthony Polio and thank you to our sponsors, the gun muscle recovery device, sun Basket meal delivery service Express VPN and indeed hiring website, click their links to support this podcast. And now let me leave you with some words from Mahatma Gandhi. Freedom is not worth having if it doesn't include the freedom to make mistakes. you for listening and hope to see you next time."
+}

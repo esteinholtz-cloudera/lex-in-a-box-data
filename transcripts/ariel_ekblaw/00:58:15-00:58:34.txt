@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:15",
+  "End": "00:58:34",
+  "Text": "what about life when we uh to park our vehicles on another planet on the moon? But let's go to Mars. First of all, does that excite you going to Mars like stepping foot on Mars? And when do you think it'll happen?"
+}

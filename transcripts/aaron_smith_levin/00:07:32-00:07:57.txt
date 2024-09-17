@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:07:32",
+  "End": "00:07:57",
+  "Text": "one primary thing in animating each body in Scientology, you learn, there's actually like tens of thousands or hundreds of thousands of like sick, unconscious, half dead pins stuck to you that are now an additional cause of problems for you. But fundamentally at the lower levels, the non confidential levels, there's just one the in her body."
+}

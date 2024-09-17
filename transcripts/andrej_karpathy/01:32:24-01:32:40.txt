@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:32:24",
+  "End": "01:32:40",
+  "Text": "like Lan also, like he always wanted to drive the system himself. He drives a lot and I want to say almost daily. So uh he also see this as a source of truth, you driving the system um and it performing and yeah. So"
+}

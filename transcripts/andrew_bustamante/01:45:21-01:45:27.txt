@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:21",
+  "End": "01:45:27",
+  "Text": ". How effective? Just interesting our previous discussion, how effective are those"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:49",
+  "End": "01:10:06",
+  "Text": ". So, on this topic, you co wrote co-authored a paper with Stephen Hawking called Soft Hair on black holes that makes the argument against Hawking's original prediction that black holes destroy information. Can you explain this paper and the title?"
+}

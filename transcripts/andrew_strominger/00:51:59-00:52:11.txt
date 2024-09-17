@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:59",
+  "End": "00:52:11",
+  "Text": "the holographic principle that it's, it's the area we're just jumping around. What is the holographic principle? What does that mean? What is there some kind of weird projection going on? What, what the heck?"
+}

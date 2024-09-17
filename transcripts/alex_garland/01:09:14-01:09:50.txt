@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:14",
+  "End": "01:09:50",
+  "Text": "the conversation is one of the things I'm really hopeful about in, in your work, the conversation you're having is with the viewer in the sense that are bringing back and several others. But you very much so sort of intellectual depth to cinema now series, uh of film to be something that,, sparks a conversation is a conversation, lets people think, them to"
+}

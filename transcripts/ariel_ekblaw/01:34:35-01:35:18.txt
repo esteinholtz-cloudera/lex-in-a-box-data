@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:34:35",
+  "End": "01:35:18",
+  "Text": "a ex physicist, but I've always found so profound. Um It's just that at a really, really small scales like particle physics and really, really big scales like astrophysics, there are similarities in the way that those systems behave and look and there's a certain beautiful symmetry in the universe. It's just kind of waiting for us to tie together the physics and really understand it. That is something that just um really captivates me. And I would love to, even though I'm now much more on the applied space exploration side, I really try to keep up with what's happening in those physics areas because I think that will be a huge answer for humanity along the lines of are we alone in the universe?"
+}

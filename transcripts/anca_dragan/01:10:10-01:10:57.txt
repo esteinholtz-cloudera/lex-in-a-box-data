@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:10:10",
+  "End": "01:10:57",
+  "Text": "agree. I think that is actually really possible. I guess mainly I'm pointing out that if you do it naively, you're implicitly assuming something that assumption might actually really be wrong. But I do think that if you explicitly think about the agent should do so that the person still stays engaged so that you essentially empower the person to mourn. And that's really the goal is you still have a driver. So you want to empower them to be so much better than they would be by themselves. And that's different, it's a very different mindset than I want them to basically not drive and but be ready to, to sort of take over."
+}

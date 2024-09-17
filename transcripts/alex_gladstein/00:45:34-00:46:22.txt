@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:45:34",
+  "End": "00:46:22",
+  "Text": "ideas of democracy, the ideas of the balance of power. All the ideas that we were talking about, the constructs inventions. I wonder if there's other inventions that will allow us to sort of not engage, not give governments or any centralized institutions so much power. Why do citizens have to use signal? Because that's an effort you have to be because you have to understand exactly why. So that's a nice little solution for a particular set of problems. But there's a million other ways that date, I'm sure is, being collected constantly. If we don't create a system that the establishments of these centralized powers, then we'll always have this problem."
+}

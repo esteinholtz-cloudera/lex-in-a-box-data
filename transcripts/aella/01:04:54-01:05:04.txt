@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:54",
+  "End": "01:05:04",
+  "Text": "want to share the process of you figuring out that you had a vagina that told me I had a vagina, like, intellectually, like there was, somebody said you have a vagina, vagina. Yeah. And that was horrifying"
+}

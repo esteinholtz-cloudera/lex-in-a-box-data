@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:34:11",
+  "End": "00:35:10",
+  "Text": "different goals. The two A is have completely different goals. I think that's really the difference. So in some respects, Ex Machina took as a premise. do you assess whether something else has consciousness? So it was a version of the turing test, except instead of having the machine hidden, you, you put the machine in plain sight in the way that we are in plain sight of each other and say now assess the consciousness and the way it was illustrating that the, the, the, the way in which you'd assess state of consciousness of a machine is exactly the same way we assess the state of consciousness of each other. And in exactly the same way that in a funny way, your sense of my consciousness is, is actually based primarily on your own consciousness. That is also then true with the machine. And, and so it, it was actually about how much of sense of consciousness is a projection rather than something that consciousness is actually containing"
+}

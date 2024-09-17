@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:29",
+  "End": "00:23:37",
+  "Text": "sure that it's not just about some kind of homophobia. Why is that? That's really interesting because that's right, I'm going through. So"
+}

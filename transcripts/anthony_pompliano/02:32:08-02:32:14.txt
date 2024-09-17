@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:08",
+  "End": "02:32:14",
+  "Text": "I mean, that's something to aspire to, is to be the techno king in your own little world."
+}

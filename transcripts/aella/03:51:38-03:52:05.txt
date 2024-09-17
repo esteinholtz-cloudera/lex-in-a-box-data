@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:51:38",
+  "End": "03:52:05",
+  "Text": ". That's like super intelligence, I think, like, with the language I'm worried about before it achieves super intelligence. Like true A G I, it would just be really good at talking. Yeah, that's true. And like it,, I just don't think in intelligence is a very diff, like, basically a scientist and a super intelligent scientist is a different thing than just a, a good conversation at a party that can undress you with their words. Would"
+}

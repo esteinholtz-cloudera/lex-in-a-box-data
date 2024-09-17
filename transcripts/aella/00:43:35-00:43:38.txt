@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:35",
+  "End": "00:43:38",
+  "Text": ". Probably like a mushroom state. Yeah."
+}

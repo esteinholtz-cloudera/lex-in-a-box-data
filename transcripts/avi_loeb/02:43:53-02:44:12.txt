@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:53",
+  "End": "02:44:12",
+  "Text": ", you, you've kind of suggested that we ought to be humble about our very own existence and that our existence lasts only a short time. Uh We talked about,, you losing your father and your mother. Uh Do you think about your own mortality? Are you afraid"
+}

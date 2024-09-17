@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:03",
+  "End": "00:31:32",
+  "Text": ", let's actually jump around. So we'll return to black holes. I have a million questions there. But let's go into this unification, the battle against the contradictions and the tensions between the theories of physics. What is quantum gravity? Maybe? What is the standard model of physics? What is quantum mechanics? What is general relativity? What's quantum gravity? Uh what are all the different unification efforts?"
+}

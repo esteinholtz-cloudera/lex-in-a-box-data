@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:40",
+  "End": "01:24:03",
+  "Text": "another book I'm reading next week. Tune in Marcus. Really is meditation,? right. Uh Camming 100 K. So it felt good. So crazy though, right? You can just like take clothes off in a creative way with some gnomes and make 100,000. Yeah,"
+}

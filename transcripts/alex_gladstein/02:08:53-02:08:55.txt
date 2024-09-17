@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:08:53",
+  "End": "02:08:55",
+  "Text": "a personal story?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:54",
+  "End": "00:26:11",
+  "Text": "as far as they can go. And then there's the Great Satan, the United States and other places are uh controlling sort of either controlling the narrative, feeding propaganda or literally sending people."
+}

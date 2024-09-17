@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:43:21",
+  "End": "02:44:36",
+  "Text": "I take you on like a, I don't know, 10 year fast forward and I paint a picture of something today that seems absolutely insane, but there's early signs that people are building this and let's just give them the benefit of the doubt that some of the early iterations will work and some of or most of them won't. a world where you and I are participating in a digital economy in a virtual world where uh whether it is a piece of art, it is a digital sculpture. It is a digital skin from a video game. It is a digital good that we purchased somewhere online and we bring it and we display it in a digital museum or a virtual museum. And so now all of a sudden you can charge people for entry, can consign digital goods. It's the replication of what happens in the analog world, not just in digital. And when you do that, what you do is you take the addressable markets of these assets or these mechanisms and they explode in the digital realm. And so now all of a sudden how fast does the human race accelerate when it comes to human production, learning all"
+}

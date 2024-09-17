@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:29",
+  "End": "02:31:32",
+  "Text": "was officially president for eight"
+}

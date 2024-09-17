@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:39:25",
+  "End": "01:39:37",
+  "Text": ". I mean, you wait this a lot more. Yeah. But there's also like, preferences, like, if you have a woman who's totally equal and she's read the thing that you like for another woman who's also identical. But, like, she hasn't read the thing that you like. You probably very slightly prefer"
+}

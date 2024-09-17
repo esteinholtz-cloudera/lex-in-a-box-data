@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:36:03",
+  "End": "00:36:23",
+  "Text": "you in this, like, dirt or concrete lot? Between two very high rise buildings playing soccer in, uh, in, like, athletic gear that you only see in eastern Europe, you know how, like, you come to the States and people wear their athletic gear and you go to Europe and you see, maybe it's the soccer culture but you see athletic gear that you just don't see anywhere else."
+}

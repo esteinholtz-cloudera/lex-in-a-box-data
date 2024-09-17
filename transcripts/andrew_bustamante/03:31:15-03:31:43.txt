@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:31:15",
+  "End": "03:31:43",
+  "Text": ", but you have to, uh, you have to somehow construct hypotheses and theories uh for anomalies. And then from that, the giant pile of the ridiculous emerges, perhaps a deeper truth over a period of decades. And at first that truth is ridiculed and then it's accepted that whole process, the"
+}

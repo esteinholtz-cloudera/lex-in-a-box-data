@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:15:48",
+  "End": "01:16:21",
+  "Text": ", I never liked the phrase history repeats itself um when it comes to humans because it doesn't apply if the people or the person is actively working to resolve their own flaws. I do think that if people are willing to do dedicated introspective work, go into their subconscious, the hard work, have hard conversations and get better at hard conversation. Something that I'm constantly trying to get better at. I think people can change, but they have to want to change. It"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:32",
+  "End": "01:11:46",
+  "Text": "can just enjoy silence. you feel lonely it? mean, even just streamers feel lonely."
+}

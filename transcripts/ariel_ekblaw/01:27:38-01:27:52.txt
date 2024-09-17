@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:38",
+  "End": "01:27:52",
+  "Text": "we talked about on the biology side, astrobiology, there's probably agriculture stuff. Is there other things that kind of feed the ecosystem of out in space for survival or the robotics architecture of the self assembly stuff?"
+}

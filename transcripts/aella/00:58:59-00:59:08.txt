@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:59",
+  "End": "00:59:08",
+  "Text": "cams. Is that a popular site? Ok. how did, what were the next steps, like? Did you enjoy it?"
+}

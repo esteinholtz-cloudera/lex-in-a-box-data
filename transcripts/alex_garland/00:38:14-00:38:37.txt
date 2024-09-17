@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:38:14",
+  "End": "00:38:37",
+  "Text": "good, my opinion. Um And how is neutral I don't think how is presented as having sophisticated emotional life. He has a set of paradigms which is that the mission needs to be completed. I mean, it's a version of the paper clip, you know,"
+}

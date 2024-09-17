@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:34:32",
+  "End": "00:35:11",
+  "Text": "there is, it's important difference. There is no zero gravity, there's no nothing, there's in the universe. There is no such thing as zero gravity. So Newton's law of gravity tells us that there's always gravity attraction between any two objects. So zero G is a shorthand that some of us fall into using or is a little easier to communicate to the public. The accurate term is microgravity you are essentially floating your wait list, but generally in free fall. So on the parabolic flights, the vomit comet, you're in free fall at the end of the Parabola and in orbit around the earth, when you're floating, you're also in free fall."
+}

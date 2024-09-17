@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:20:34",
+  "End": "02:20:36",
+  "Text": "become calibrate. And that was a game"
+}

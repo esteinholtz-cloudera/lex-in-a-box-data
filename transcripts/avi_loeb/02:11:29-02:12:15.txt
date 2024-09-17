@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:11:29",
+  "End": "02:12:15",
+  "Text": "should say the question is, where is the nearest black hole can we visit it? And you know, I wrote a paper my undergraduate student, Amir Saj suggesting that perhaps, you know, there could be, if there is one in the solar system, we can detect it because um I don't know if you heard, but there is a claim that maybe there is a a AAA planet nine in the solar system. Um because we see some anomalies in the outer parts of the solar system. So some people suggested maybe there is a planet out there that was not yet detected. So uh people search for it didn't find it, weighs roughly five times the mass of the earth. And we said, OK, maybe you can't find it because it's a black hole that was found early in the universe. Is"
+}

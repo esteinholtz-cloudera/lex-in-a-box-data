@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:41:58",
+  "End": "02:42:23",
+  "Text": "have so many fascinating blog posts. You had a blog post, I think on the age of fetish onset. uh like you, you really nicely organized it by age like reproduction as a fetish, I guess pregnancy at age of 17, about 16.9 toys and like anal beads is 15 point"
+}

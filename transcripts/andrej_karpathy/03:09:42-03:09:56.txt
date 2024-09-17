@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:09:42",
+  "End": "03:09:56",
+  "Text": "? Yes. But I don't know if it's dominant feature of uh future humanity. Uh There might be some people on some planets and so on, but I'm not sure if it's like, yeah, if it's like a major player in our culture and so on, we"
+}

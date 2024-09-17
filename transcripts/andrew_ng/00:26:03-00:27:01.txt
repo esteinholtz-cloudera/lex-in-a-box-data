@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:26:03",
+  "End": "00:27:01",
+  "Text": "time? That, that, that was the part we got wrong. part we got right was the importance of scale. So, uh Adam coats, uh another wonderful person fortunate to have worked with him. Um He was in my group at Stanford at the time and Adam had run these experiments at Stanford showing that bigger we train a, you know, learning algorithm, the better performance. And it was based on that there was a graph that Adam generated, you know where the X axis y axis lines going up into the right so big make the thing the better performance accuracy is the vertical axis. So it's really based on that chart that Adam generated that he gave me the conviction that you could scale these way bigger than what we could on a few CP us, which is what we had at Stanford that we could get even better results. And it was really based on that one figure that Adam generated, that gave me the conviction to go with Sebastian through to pitch, you know, starting starting a project at Google which became the Google brain brain,"
+}

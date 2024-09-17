@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:28",
+  "End": "01:29:36",
+  "Text": "knowing these methods when you talk to people, especially in civilian life, how do you know who's lying to you? And not"
+}

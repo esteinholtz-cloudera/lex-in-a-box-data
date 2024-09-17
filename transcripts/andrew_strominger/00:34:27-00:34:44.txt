@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:34:27",
+  "End": "00:34:44",
+  "Text": "it was all based on something called. Let me not explain what it is. Let me just throw out the word quantum field theory. They all fall in the category of Rortiz quantum field theory."
+}

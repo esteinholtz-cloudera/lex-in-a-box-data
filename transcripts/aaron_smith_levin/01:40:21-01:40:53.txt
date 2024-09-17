@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:21",
+  "End": "01:40:53",
+  "Text": "by the way, I just opened a random page and he says, when I signed on for sea org in Adelaide in 1973 the recruiter promised I would train as a Scientology executive under the direct tutelage of Hubbard on the Apollo. So this is another thing I should probably ask you about this. We can go for days. I was also told that after I learned all I needed to learn at the foot of the master, I would return to Australia to help expand scientology in my home country. Um what was the thing that really broke"
+}

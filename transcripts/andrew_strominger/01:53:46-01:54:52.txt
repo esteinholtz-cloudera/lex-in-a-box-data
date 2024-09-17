@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:53:46",
+  "End": "01:54:52",
+  "Text": "the puzzle what they really saw. So the black holes tend to gather stuff that swirls around it.. they don't know what that stuff is made of. They don't know what its temperature is, they don't know what kind of magnetic fields there are around there. form of the image has a lot of unknowns in it that it's dependent on many other things other than the geometry of the black hole. most of what you're learning about the stuff., the stuff, the swirling stuff, the hot swirling stuff is interesting as hell, but it's not as interesting as the black hole, which are the, which are the most in my view, the most interesting things in the universe. So you don't wanna just learn about the stuff you wanna learn about the black hole that, that is swirling around."
+}

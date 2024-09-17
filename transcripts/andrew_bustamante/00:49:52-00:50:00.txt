@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:52",
+  "End": "00:50:00",
+  "Text": "resource in terms of the shininess of the star. I would argue yes. If you look at how much it captivated the attention of the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:41",
+  "End": "00:49:57",
+  "Text": "thing that I think worries us and our tuition is not good. There is the perception problem at the edge cases. of downtown San Francisco is a nice thing. It's not actually, it may not be a good example because"
+}

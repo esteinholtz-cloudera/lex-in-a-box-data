@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:13:47",
+  "End": "01:14:01",
+  "Text": "for your interest and I'm happy as I was telling you before. But uh I can uh brag with my kids that I was in your podcast because you are their hero. You made it. I made it. Thank you."
+}

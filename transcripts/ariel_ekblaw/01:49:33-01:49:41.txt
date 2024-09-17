@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:33",
+  "End": "01:49:41",
+  "Text": "anything we're curious creatures, see, you do believe we might one day become intergalactic"
+}

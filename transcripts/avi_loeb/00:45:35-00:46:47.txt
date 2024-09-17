@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:45:35",
+  "End": "00:46:47",
+  "Text": "it's, I can tell you about space junk? Let, let me, what do you mean by space junk? So, um, I think, you know, you might ask why aren't they looking for us? One possibility is that we are not interesting, like we were talking about another possibility. You know, if there are millions or billions of years uh into their technological development, created their own, their own habitat, their own cocoon where they feel comfortable, they have everything they need and it, it it's risky for them to establish communication with other. Uh so they have their own cocoon and they close off, they don't care about anything else. Now, in that case, you might say, oh, so how can we find about them if they are closed off? answer is they still have to deposit trash, right? That, that is something from the law of thermodynamics. There must be some production of trash and you know, we can still find about them just like investigative journalists going through the trash cans of celebrities in Hollywood. You know, you can learn about the private lives of those celebrities by looking at the. It's fascinating"
+}

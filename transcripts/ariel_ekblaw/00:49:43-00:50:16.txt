@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:49:43",
+  "End": "00:50:16",
+  "Text": ", I mean, you referenced culture before and I think this is one of the most exciting things that we have at our fingertips, which is to define a new culture for space exploration. We don't just have to import cultural artifacts from Earth to make life worth living in space. And this musical instrument that you referenced was a design of an object that could only be performed microgravity. So it doesn't sound the same way when it's a percussive instrument, when it's rattled or moved in a gravity environment is that can we look it up? It's called the Telemetry. It's created by"
+}

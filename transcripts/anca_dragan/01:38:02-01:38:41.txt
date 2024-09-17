@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:02",
+  "End": "01:38:41",
+  "Text": "for listening to this conversation with Anka Drone and thank you to our presenting sponsor, Cash app. Please consider supporting the podcast by downloading Cash app and using Code Lex podcast. If you enjoy this podcast, subscribe on youtube, review it with five stars on Apple podcast. Support it on Patreon or simply connect with me on Twitter at Lex Friedman. now let me leave you with some words from Isaac Asimov. assumptions are your windows in the world, scrub them off every once in a while or the light won't come in. you for listening and hope to see you next time."
+}

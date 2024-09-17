@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:25",
+  "End": "02:11:44",
+  "Text": ", I'm gonna get with a wife. I don't have, I'm gonna make a public statement to be on stage. I'll say, I'm really sorry. I made a giant mistake, of platform this Wildey physicist that believed for decades in the power of theoretical physics. Yes. No, like you said, so"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:40:47",
+  "End": "01:41:13",
+  "Text": "do think he needs someone in a powerful position with a big hammer like Lan who's like the cheerleader for that idea and ruthless, ruthlessly pursues it. If no one has a big enough hammer, everything turns into committees, democracy within the company process, talking to stakeholders decision making, just everything just crumbles. If you have a big person who is also really smart and has a big hammer, things move quickly. So"
+}

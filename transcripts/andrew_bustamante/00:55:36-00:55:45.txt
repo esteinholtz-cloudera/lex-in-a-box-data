@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:36",
+  "End": "00:55:45",
+  "Text": ", it just breaks my heart. How much, know, I know that there's Yemen and Syria and"
+}

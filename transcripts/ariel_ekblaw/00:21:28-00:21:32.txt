@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:28",
+  "End": "00:21:32",
+  "Text": "if they're in a toxic relationship and they need to get out"
+}

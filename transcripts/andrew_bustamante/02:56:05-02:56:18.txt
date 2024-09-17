@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:05",
+  "End": "02:56:18",
+  "Text": "you make us feel less safe? Because if we see competence that there is extremely competent defenders of this territory of these people, wouldn't that make us feel more safe or no,"
+}

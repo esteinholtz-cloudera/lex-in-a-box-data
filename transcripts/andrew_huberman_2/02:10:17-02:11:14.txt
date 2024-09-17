@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:10:17",
+  "End": "02:11:14",
+  "Text": ", the next generation coming up, I can say this because I now I'm blessed to have a bioengineering student. They think about problems so differently than biologists do. We, we realized the other day we both came up with a set of ideas around a certain project. And we realized that her version of it was the exact opposite of mine, you know, and hers was far, far more rational. It's just an engineering perspective. It's like, why would we do that last? We should do that first. I think that the next generation is really interested in solving practical problems. So a lot like computer science and engineering was in the late nineties. It was like can go do a phd in computer science engineering maybe or you go work for a company and actually build stuff that's useful. I think neuroscientists and people interested in neuroscience are starting to think how can I build stuff that's useful. And this is statement is supported by the fact that many people in my business leave their academic labs. Fortunately not all of them, but they leave their academic labs and they go work for companies like neuralink like"
+}

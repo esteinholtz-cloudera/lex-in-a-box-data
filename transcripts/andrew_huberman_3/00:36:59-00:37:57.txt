@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:59",
+  "End": "00:37:57",
+  "Text": ", that's like fancy stuff. That's, if you like those are the cool kids. I see, I see. Like the cool soccer players, uh, football players that, uh,, they were in a league of some kind. So they would get uniforms or, or they, somehow I always thought anyone who had anything nice had to do something really bad to get it. That was my way, the view of the world because like, um, I guess I didn't understand it's, it's possible to be rich because most of us, we were surrounded by people who are poor and that life is beautiful and simple. And it's like, why do you escape that life? But you still admire the, the cool, like, uh we got mcdonald's, it was like, kind of world this place come from? Like who invented this? This, it's a fascinating view from a child's perspective of like of capitalism."
+}

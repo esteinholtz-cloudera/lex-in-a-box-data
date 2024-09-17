@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:25:42",
+  "End": "03:25:48",
+  "Text": "so they were a little, a little too much, a little bit too much."
+}

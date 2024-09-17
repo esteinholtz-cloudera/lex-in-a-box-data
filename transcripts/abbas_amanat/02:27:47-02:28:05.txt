@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:27:47",
+  "End": "02:28:05",
+  "Text": ", does check with his own advisers but he's, he doesn't have any, he doesn't have any constitutional obligation to check on the decisions that he's making."
+}

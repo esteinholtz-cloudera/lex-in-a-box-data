@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:07:15",
+  "End": "01:07:25",
+  "Text": "this. So I I loved and hated those workouts with Petraeus because he is a physical beast. He's a strong fit at the time, 60 something year"
+}

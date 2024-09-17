@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:33:04",
+  "End": "00:33:47",
+  "Text": "close to find some way to extract infinite energy. example, when you train reinforcement learning agents um in physical simulations and you ask them to say, run quickly on the flat ground, they'll end up doing all kinds of like weird things. Um In part of that optimization, right, they'll get on their backlog and they will slide across the floor. And it's because the optimization um the enforcement learning optimization on that agent has figured out a way to extract infinite energy from the friction forces. And um basically their poor implementation and they found a way to generate infinite energy and just slide across the surface. And it's not what you expected. It's just uh sort of like a perverse solution. And so maybe we can find something like that. Maybe we can be that little dog in this physical simulation"
+}

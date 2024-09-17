@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:34:21",
+  "End": "00:34:34",
+  "Text": ", no person will discover it. I think by the way, I think it's going to have to be some kind of a super intelligent A G I of a third generation, we're building the first generation A G I and you know,"
+}

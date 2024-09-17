@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:50",
+  "End": "02:10:56",
+  "Text": ", are you, are you supposed to be almost like converting it towards the thing you're thinking like, constantly,"
+}

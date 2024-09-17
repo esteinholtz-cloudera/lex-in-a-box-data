@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:49",
+  "End": "01:00:37",
+  "Text": ". It's the scale, the scale is not there. But actually, I'm very surprised how bot farms, how effective they can be at a very small scale if you just pay people just spread narratives. But the, the, the, the, the reason that's effective is you can kind of create conspiracy theories that create chaos and nobody knows what is true that bot farms can do but actually really nicely control a narrative. It's hard. So to create chaos, it's easier to do to basically say like you know, do pr control is very hard. Yeah. So especially on the internet, especially when the critical eye is there, the internet can smell bullshit, which is one of the really, really powerful thing about the internet."
+}

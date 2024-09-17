@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:33:54",
+  "End": "03:34:06",
+  "Text": ". Yeah. It's interesting. Body call is an interesting one. It's so silly to take that to care about that. But still we do. Jealousy is silly but still we get jealous. Is that weird?"
+}

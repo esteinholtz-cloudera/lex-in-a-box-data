@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:46:27",
+  "End": "03:46:38",
+  "Text": "like, I guess the window of what you consider to be beautiful about life is not limited to this particular definition. Yeah,"
+}

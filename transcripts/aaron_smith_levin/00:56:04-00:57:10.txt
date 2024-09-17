@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:04",
+  "End": "00:57:10",
+  "Text": ". So there's definition of what's bad for you and it's probably in the beginning is bad for you. Um This almost just sounds like a template of a toxic relationship. You know, there's a bunch of stuff in this world that is just not good for you. So the uh the author, the authoritarian says, like I'm just protecting you by blocking you off from those negative things and they're probably ne they are probably negative things. But then this like uh this freedom starts closing in where you can't no longer speak freely, think freely act freely. And there's some, I mean, that's why sort of power corrupts and absolute power corrupts. Absolutely. That person doing the controlling actually starts getting that like dopamine rush of the controller. That's exciting and it's a vicious negative cycle. So you start out as a, it starts out good because you're trying to do good for the person. But then it somehow goes to shit. So what are the aspects that, that are often controlled about a person who's in psychology? Especially sea org?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:28",
+  "End": "01:21:04",
+  "Text": "you're a young scientist, do you think in your lifetime will go out into orbit? will go out beyond into deep space and potentially step, I don't know if you can call yourself a civilian. I don't know if that's what you call it as but you as a curious aunt from mit uh land step on Mars."
+}

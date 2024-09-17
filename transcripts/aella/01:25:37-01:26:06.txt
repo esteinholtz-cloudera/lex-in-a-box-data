@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:25:37",
+  "End": "01:26:06",
+  "Text": "wish, I think the two were fun, but it was just me, like, I had an apartment that looked like, kind of like this. You know, you just sit alone and you're like, well, that would be a good idea. And I'd seen you just collect ideas over time, right? Like, um I'd seen somebody doing a version of the, like this, this animated hand act, like when I was a kid and I just always stuck in my head and like one day I was like, I bet I could do that I was trying to think of ideas to do as a sex worker. I was like, why don't I just try that? And then it turned out to be like, like, really like quite a viral hit. Is"
+}

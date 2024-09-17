@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:06:13",
+  "End": "01:07:06",
+  "Text": "really two Hawking problems they're very closely related. One is how does the Black Coal store the information?, um, is the one that we solved in some cases. So it's sort of like, um, you know, your, your smartphone, how does it store it? 64 gigabytes? Well, you rip the cover off and you count the chips and there's 64 of them each with a gigabyte and you know, there's 64 gigabytes, that does not solve the problem of how you get information in and out of your smartphone. have to understand a lot more about the Wi Fi and the internet and the uh cellular and, and that's where"
+}

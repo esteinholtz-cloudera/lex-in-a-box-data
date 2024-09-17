@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:59:16",
+  "End": "01:00:29",
+  "Text": "actually neither the hardest part is the adaptation and the interaction. it's the interface, it's the learning. And so if I think of I've become much more of a roboticist slash A I person than when I originally again, I was about the bionics. I was, I was an electrical engineer, I was control theory, right? And then I started realizing that my them needed human data, right? And so then I was like, OK, what is this human thing? Right. How do I incorporate human data? And then I realized that human perception that there was a lot in terms of how we perceive the world and still trying to figure out how do I model human perception for my. so I became a H or I person, human robot interaction person from being a control theory and realizing that humans actually offered quite a bit. And then when you do that, you become more of an artificial intelligence A I and so I see myself evolving more in this A I world under the lens of robotics, having hardware interacting with people."
+}

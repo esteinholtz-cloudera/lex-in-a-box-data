@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:16",
+  "End": "00:56:40",
+  "Text": "many felt the vaccine was presented as a cure that wouldn't require regular booster shots. that something you believed early on or did you always believe that many regular shots would be required? And maybe in a bigger picture, how many do you think this will the Pfizer vaccine? Is that something you see that's taking uh a booster shot regularly like annually?"
+}

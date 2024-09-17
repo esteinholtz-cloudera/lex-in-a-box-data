@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:03",
+  "End": "01:45:37",
+  "Text": "to avoid making forecasts because like Elon doesn't avoid them, right? And heads of car companies in the past have not avoided it either. Uh Ford and other places have made predictions that we're going to solve at level four, driving by 2020 2021 whatever. And now they all kind of backtrack on that prediction. you as a, an A I person? you for yourself privately make predictions or do they get in the way of like your actual ability to think about a thing?"
+}

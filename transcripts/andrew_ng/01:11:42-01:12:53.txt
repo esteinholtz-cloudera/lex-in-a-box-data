@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:11:42",
+  "End": "01:12:53",
+  "Text": "I is a general purpose technology and I think it will transform every industry. Um Our community has already transformed to a large extent, the software internet sector, most software internet companies, you know, outside the top right, five or six or three or four already have reasonable machine learning capabilities or or getting there is still room for improvement. Um But when I look outside the software internet sector, everything from manufacturing, agriculture, healthcare, logistics, transportation, so many opportunities that very few people are working on. So I think the next way for A I is for also transform all of those other industries. There was a mckenzie study estimating $13 trillion of global economic growth. Uh US GDP is $19 trillion or 13 trillion is a big number or PWC estimate $16 trillion. So whatever number is is large but the interesting thing to me was a lot of that impact will be outside the software internet sector. we need more teams um to work with these companies to help them adopt A I. And I think this is one of the things that make, you know, help drive global economic growth and make humanity more powerful."
+}

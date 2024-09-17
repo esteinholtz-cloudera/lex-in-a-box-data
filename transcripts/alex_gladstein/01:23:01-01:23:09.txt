@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:01",
+  "End": "01:23:09",
+  "Text": ". But it's not though like it outside of maybe Ethereum, every other Blockchain is easy to mess with. you're"
+}

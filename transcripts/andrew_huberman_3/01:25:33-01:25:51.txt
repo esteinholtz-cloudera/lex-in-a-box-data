@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:33",
+  "End": "01:25:51",
+  "Text": ", he pulled up Sergei just pulled up Yana's tweet. I'm inspired by curiosity. That is what drives me. So let us expand the scope and scale of consciousness so that we may aspire to understand the universe. There, there's like three tweets in one but curiosity. Yeah. Yeah. Curiosity for its own"
+}

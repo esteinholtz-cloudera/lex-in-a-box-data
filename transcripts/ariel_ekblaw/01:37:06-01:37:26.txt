@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:06",
+  "End": "01:37:26",
+  "Text": ". Was there a dream? Are you also captivated by this search for the theory of everything that kind of unlocks the deeper and deeper the, in the simple, elegant way, the function of our universe. Do you think they'll be useful for us for the actual practical engineering things that you're working on?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:52:53",
+  "End": "00:53:19",
+  "Text": ". And I think it is often not about the birth of sustained efforts and the all night is because you can only do that a limited number of times. It's the sustained effort over a long time. I think, you know, reading two research papers is a nice thing to do, the power is not reading two research papers is reading two research papers a week for a year. Then you read 100 papers and, and you actually learn a lot when you read 100 papers."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:52",
+  "End": "03:31:22",
+  "Text": "love you too, man. We did it. for listening to this conversation with Andrew Huberman. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Ralph Waldo Emerson. It is one of the blessings of old friends that you can afford to be stupid with them. look forward to doing just that in the many years to come of friendship and fun conversations with Andrew. you for listening and hope to see you next time."
+}

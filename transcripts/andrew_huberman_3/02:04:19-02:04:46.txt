@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:19",
+  "End": "02:04:46",
+  "Text": "his natural. He likes to stand like that. I mean, I um the I got a little bit of a story here to connect um what Chris Rock did. Like I, I wish Chris Rock did in terms of just taking this lap and keep going. First of all, just props for somebody that's able to maintain cool in that situation. For the most part, I think I like, watched it once."
+}

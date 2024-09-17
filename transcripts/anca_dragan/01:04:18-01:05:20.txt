@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:04:18",
+  "End": "01:05:20",
+  "Text": "when you're sort of treating agents as having these objectives, these incentives, humans or artificial, you're kind of implicitly modeling that they'd like to stick around so that they can accomplish those goals. So I think, I think in a sense, maybe that's what draws me so much to the rationality framework, even though it's so broken, we've been able to, been such a useful perspective and like we were talking about earlier, what's the alternative? I give up and go home or, you know, I just use complete black boxes, but then I don't know what to assume out of distribution. I come back to this. Um It's just, it's been a very fruitful way to think about the problem and a very more positive way, right? It's just people aren't just crazy, maybe they make more sense than we think. um but I think we also have to somehow be ready for it to be, to be wrong, be able to detect when these assumptions aren't holding, be all of that stuff."
+}

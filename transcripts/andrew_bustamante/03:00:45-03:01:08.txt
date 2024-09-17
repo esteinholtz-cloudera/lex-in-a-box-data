@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:00:45",
+  "End": "03:01:08",
+  "Text": ", but then you operate in the secrecy and then there's a corrupt and douchebag people everywhere. So when they even inside the CIA and criminals inside the CIA, there's criminals in all organizations in all walks of life, human nature is such that this is always the case, then it breeds conspiracy theories, it does."
+}

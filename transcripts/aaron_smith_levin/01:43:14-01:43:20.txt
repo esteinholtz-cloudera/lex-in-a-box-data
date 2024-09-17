@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:14",
+  "End": "01:43:20",
+  "Text": "Headley blown for good the iron curtain of Scientology."
+}

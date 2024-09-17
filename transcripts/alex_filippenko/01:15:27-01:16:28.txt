@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:15:27",
+  "End": "01:16:28",
+  "Text": ", it's good news in a sense for us it means that we made it through, see if we're the only ones and there are such great filters. Maybe more than one formation of life might be one of them formation of eukaryotic that is with the nucleus cells be another development of humanlike intelligence might be another, right? There might be several such filters we were the lucky ones and you know, then people say, well, then that means you, you're putting yourself into a special perspective and every time we've done that we've been wrong and, yeah. Yeah, I know all those arguments but it still could be the case that there's one of us, at least per galaxy or per 10 or 100 or 1000 Galaxies. we're sitting here having this conversation because we exist. And so there's a, there's an observational selection effect there, right? Just because we're special, doesn't mean that we shouldn't have these conversations about whether or not we're special, right?"
+}

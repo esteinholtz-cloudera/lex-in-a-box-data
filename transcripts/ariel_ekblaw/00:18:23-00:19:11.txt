@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:18:23",
+  "End": "00:19:11",
+  "Text": "space? Yes, because it gives you this redundancy and safety profile that's really critical. So whether it's small swarm robots where it doesn't matter if you lose a few of them to habitats that instead of having a central monolithic habitat, you might actually be able to have a decentralized node of a space station. so that you can kind of write out of Star Wars, you can shut a blast door if there's a fire or if there's a conflict in a certain area and you can move the humans and the crew into another decentralized node of the spacecraft is another idea out of Neil Stevenson seven eves actually where these arcs uh which were decentralized spacecraft that could form and dock little temporary space stations with each other and then separate and go off on their way and, and have a decentralized approach to living in space."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:26:41",
+  "End": "03:26:55",
+  "Text": ". So Hollywood will start using that to generate scenes which completely opens up. Yeah. So you can make a, a like a movie like Avatar eventually for under a million"
+}

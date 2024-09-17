@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:08",
+  "End": "02:16:47",
+  "Text": "it's all going to be pixel based pong in the end. I think so.. Uh Let me ask you about your own personal life. A lot of people want to know you're one of the most productive and brilliant people in the history of A I. What is a productive day in the life of Andre Kathi look like. What time do you wake up because imagine um some kind of dance between the average productive day and a perfect productive day. So, the perfect productive day is the thing we strive in the average is kind of what it kind of converges to given all the mistakes and human eventualities and so on. So what time do you wake up? Are you a morning"
+}

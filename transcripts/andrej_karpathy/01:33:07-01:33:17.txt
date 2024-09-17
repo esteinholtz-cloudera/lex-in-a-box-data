@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:07",
+  "End": "01:33:17",
+  "Text": "I just interrupt? I wonder if a language model will ever do that if you prompt it? Let me reframe your question. That would be epic. This is the wrong prom."
+}

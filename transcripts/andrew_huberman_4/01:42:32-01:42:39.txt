@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:42:32",
+  "End": "01:42:39",
+  "Text": ". No, no. mean, it's, despite what some people might see on the internet, it's a purely platonic friendship."
+}

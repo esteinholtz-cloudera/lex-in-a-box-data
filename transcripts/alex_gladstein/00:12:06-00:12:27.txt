@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:12:06",
+  "End": "00:12:27",
+  "Text": "you think there's one right? That's more important than others? You kind of suggest that the freedom of the press, maybe freedom of speech, that if you take that away all the other ones kind of collapse along from a ripple effect. Is there something fundamental that you like to focus your attention on, to defend, to protect, to make sure it's there?"
+}

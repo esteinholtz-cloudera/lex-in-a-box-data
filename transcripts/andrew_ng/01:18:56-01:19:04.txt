@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:56",
+  "End": "01:19:04",
+  "Text": "good software engineering work is fundamental here to building a successful small machine learning system."
+}

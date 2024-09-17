@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:39:07",
+  "End": "02:39:49",
+  "Text": ", I mean, look, don't be a sheep,? It's easy to be she and there's some practical things, man, get on signal, start encrypting your messages, take control over your privacy. media doesn't want you to but check out Bitcoin, you can be your own bank, you can transact with people around the world and no one can stop you. This can put a, put a, put a stop to a lot of arbitrary power and a lot of human rights violations. Um you know, don't use wechat uh question more. Uh you know, research what's happening in Xinjiang, I mean, learn about what's happening in the genocide in that country. And let's think about how we can build our societies so that we never have that kind of power concentration ever again."
+}

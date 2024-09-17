@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:04",
+  "End": "01:10:09",
+  "Text": ". And they, this was a distributed system and they, in theory you could have a ton of"
+}

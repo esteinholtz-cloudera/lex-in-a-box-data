@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:13:15",
+  "End": "02:13:21",
+  "Text": "it won't throw off the data but it's relevant to the relevant"
+}

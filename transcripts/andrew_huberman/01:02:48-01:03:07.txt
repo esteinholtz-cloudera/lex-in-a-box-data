@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:48",
+  "End": "01:03:07",
+  "Text": "day. Can you linger just briefly on because you use this term a lot and it'd be nice to try to get a little more color to it, which is interception and exter reception. Uh What, what are we exactly talking about? So like included in each category and how much overlap is there"
+}

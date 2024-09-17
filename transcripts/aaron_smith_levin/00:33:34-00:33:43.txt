@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:34",
+  "End": "00:33:43",
+  "Text": "be like that. A billion years, not until death. Us part but a billion years. It really makes it very concrete of what you're signing up for."
+}

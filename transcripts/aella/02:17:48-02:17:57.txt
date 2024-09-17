@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:48",
+  "End": "02:17:57",
+  "Text": ", human condition is a good. You know, what do you think? What do you feel when you ask very"
+}

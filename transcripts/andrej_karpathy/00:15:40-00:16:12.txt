@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:15:40",
+  "End": "00:16:12",
+  "Text": ", I'm hesitant to say that it is rare by the way, but it definitely seems like it's kind of like a punctuated equilibrium where you have um lots of exploration and then you have certain leaps, sparse leaps in between. Uh so of course, like origin of life would be one you know DNA sex eukaryotic system, eukaryotic life. Um endo symbiosis event where the Archon ate little bacteria, you know, just the whole thing and then of course, emergence of consciousness and so on. So it seems like definitely there are sparse events where massive amount of progress was made. But yeah, it's kind of hard to pick"
+}

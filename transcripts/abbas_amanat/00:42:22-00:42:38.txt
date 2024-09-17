@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:22",
+  "End": "00:42:38",
+  "Text": "just briefly linger Shiism and Sunni. What? Just let's not get into it. Let's do a one sentence summary and that maybe which, which is what most of Iran"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:37:00",
+  "End": "01:37:53",
+  "Text": "of the most interesting things to me is I invested in a company called Bridget. And what they told me was they said $8 billion was paid to the top four banks last year on overdraft fees. literally, they took $8 billion from people who didn't have money in their bank account, right? And so when you dig into, why is that a lot of times it's not that the people don't have the money. It's actually a mismatch of the payments. So what ends up happening is you get paid on the first and the 15th, but on the 12th, your Netflix bill hits on the 13th, you went grocery shopping and on the 14th, your car payments hit your overdraft and then on the 15th, you actually get the check and then you're able to pay not only the overdraft but for the uh expenses that you have. so something as simple as just getting paid at the end of every day immediately would eliminate, you know, some big percentage of those $8 billion of value that flows to large institutions on overdraft"
+}

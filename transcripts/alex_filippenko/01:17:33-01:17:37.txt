@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:33",
+  "End": "01:17:37",
+  "Text": "been a heck of a Nobel prize for black black holes. A heck of a good"
+}

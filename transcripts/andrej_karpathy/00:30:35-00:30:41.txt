@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:30:35",
+  "End": "00:30:41",
+  "Text": ", we hope it's another destructive firecracker. It's kind of like a constructive firecracker."
+}

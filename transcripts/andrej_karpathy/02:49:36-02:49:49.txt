@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:49:36",
+  "End": "02:49:49",
+  "Text": "in the training set. Like you're doing something interesting algorithmically, you're manipulating, you know, some symbols and you're coming up with some a unique answer in a new setting. What"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:17:29",
+  "End": "01:17:33",
+  "Text": "farm up at the Oregon border. I haven't been there yet, but I've seen the pictures and it looks awesome."
+}

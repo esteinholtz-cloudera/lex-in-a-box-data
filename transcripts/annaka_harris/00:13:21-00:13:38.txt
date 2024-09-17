@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:21",
+  "End": "00:13:38",
+  "Text": "talked about sort of laying down and looking up at the stars, of trying to let go of the intuition that there's a ground below us, which is a really interesting exercise and there's many exercises of this sort you can do. But that's a really good one. Well, and I"
+}

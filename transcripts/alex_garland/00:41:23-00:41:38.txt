@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:41:23",
+  "End": "00:41:38",
+  "Text": ". But I like Ava personally, I like Ava. Would you vote for her? Um,, I'm having difficulty finding anyone to vote for at the moment in my country or if I lived here in yours. I, I, um,"
+}

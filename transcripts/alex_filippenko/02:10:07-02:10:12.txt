@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:07",
+  "End": "02:10:12",
+  "Text": "was heartbroken to learn that Elvis didn't write most of his songs. Yeah."
+}

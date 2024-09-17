@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:35",
+  "End": "00:56:40",
+  "Text": "don't know any of this. What is this, what is it, is it a romantic thing or is it like a romance? All"
+}

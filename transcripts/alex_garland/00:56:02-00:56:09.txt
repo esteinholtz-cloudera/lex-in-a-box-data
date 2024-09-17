@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:56:02",
+  "End": "00:56:09",
+  "Text": "a bit of very, very, but we have something we can call free will. But it's not the thing that we think it is,"
+}

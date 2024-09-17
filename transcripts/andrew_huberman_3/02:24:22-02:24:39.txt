@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:22",
+  "End": "02:24:39",
+  "Text": "But OK, we be before I leave the NSDR is uh focus in general. said it's for shifting mind states. Is there advice you have for how to achieve focus on a task."
+}

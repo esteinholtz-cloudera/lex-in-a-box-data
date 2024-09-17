@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:11",
+  "End": "00:32:15",
+  "Text": ". No man in the river wants whatever the footsteps. That"
+}

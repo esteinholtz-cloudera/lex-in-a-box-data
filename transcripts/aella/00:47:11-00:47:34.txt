@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:47:11",
+  "End": "00:47:34",
+  "Text": "thing. I mean, you were, but within certain boundaries, like there's certain basic assumptions as long as you were following those basic assumptions, which is to be fair, it's like kind of what we're doing now. Like we have, I have I gone and done the personal research that like evolution is the thing that's going on. Have I looked at like the age of the stones? No, I haven't. I'm trusting other people, which I think is like a fair choice to make given where I'm at right now. But"
+}

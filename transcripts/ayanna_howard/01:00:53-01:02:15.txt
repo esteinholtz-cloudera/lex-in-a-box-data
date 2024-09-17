@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:00:53",
+  "End": "01:02:15",
+  "Text": "a hard problem and it's very risky as an academic. I knew that when I started down that journey, it was very risky as an academic um in this world that was nuanced, it was just developing, we didn't even have a conference right at the time it was the interesting problems. That was what drove me, it was fact that I looked at what interests me in terms of the application space and the problems and that pushed me into trying to figure out what people were and what humans were and how to adapt to them. Um, if those problems weren't so interesting, probably still be sending rovers to glaciers. Right. But the problems were interesting and the other thing was that they were hard, right? So it's, I like having to go into a room and being like, I don't know what to do and then going back and saying, OK, I'm going to figure this out. do not, I'm not driven when I go and I'm like, oh, there are no surprises. I don't find that satisfying. If that was the case, I go someplace and make a lot more money, right? I think I stay an academic and choose to do this because I can go into a room and like, that's hard."
+}

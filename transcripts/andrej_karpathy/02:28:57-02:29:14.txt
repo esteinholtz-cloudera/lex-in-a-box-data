@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:28:57",
+  "End": "02:29:14",
+  "Text": "guess the one that I'm familiar with is one large screen, uh 27 inch. Um And my laptop on the side. What operating system? I do? Macs. That's my primary for all tasks. I would say OS X. But when you're working on deep learning everything as Linux, you're ssh into a cluster and you're working remotely."
+}

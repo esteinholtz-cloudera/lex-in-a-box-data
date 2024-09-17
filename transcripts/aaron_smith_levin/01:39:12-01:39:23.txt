@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:39:12",
+  "End": "01:39:23",
+  "Text": "really is a fantastic book because Lex, the guy, the guy was born and raised in Scientology and worked personally with L Ron Hubbard and worked personally with David Muscat for decades. Like doesn't get much more insider than that. A Candid"
+}

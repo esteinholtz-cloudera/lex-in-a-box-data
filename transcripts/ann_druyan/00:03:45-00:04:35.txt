@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:03:45",
+  "End": "00:04:35",
+  "Text": ", I think of what Einstein said when he opened the 1939 New York World's Fair, said, science is ever to fulfill its mission, the way art has done, must penetrate inner meaning, must penetrate the consciousness of everyone. so for me, especially in a civilization dependent on high technology and science, that aspires to be democratic, critical public as informed decision makers understand the values and the methods the rules of science."
+}

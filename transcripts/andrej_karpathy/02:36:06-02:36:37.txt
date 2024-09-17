@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:36:06",
+  "End": "02:36:37",
+  "Text": "mean, I think the UIUX of it though is like still very hard to think through because it's not just about writing code on a page, have an entire developer environment, you have a bunch of hardware on it. Uh You have some environmental variables, you have some scripts that are running in a chrome job. Like there's a lot going on to like working with computers and how do these uh systems set up environment, flags and work across multiple machines and set up screen sessions and automate different processes like how all that works and is auditable by humans and so on is like massive question at the moment"
+}

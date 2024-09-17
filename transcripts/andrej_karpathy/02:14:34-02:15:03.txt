@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:14:34",
+  "End": "02:15:03",
+  "Text": "just text, right? It's you're given it gadgets and Gizmos. So uh you're teaching some kind of a special language by which it can, it can save arbitrary information and retrieve it at a later time. And you're telling about the special tokens and how to arrange them to use these interfaces. like, hey, you can use a calculator, here's how you use it. Just do 53 plus 41 equals. And when equals is there, uh a calculator will actually read out the answer and you don't have to calculate it yourself. And you just like tell it in English this might actually work. Do"
+}

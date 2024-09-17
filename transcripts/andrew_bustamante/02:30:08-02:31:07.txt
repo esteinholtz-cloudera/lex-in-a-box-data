@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:30:08",
+  "End": "02:31:07",
+  "Text": ". Absolutely. And I would go a step further to say that the covert nature of intelligence operations really attractive it comes to the private sector. Because now they have all the same money with none of the oversights and all they have to do is deliver. without the oversight, what's holding you back? And in, in a lot of, for anybody who's ever run a business, anybody who's ever started a start up or tried to make something succeed, we all know that there come those times where you have to skirt the boundaries of proprietary of propriety or uh, or morality or commitments or promises to other people because at the end of the day, if your business fails, it's on you. So you promise to deliver something to a client, you've got to deliver it to the client. Even if that means you stay up late or if you lie on your taxes, whatever it might be, there's, there's a certain level of do or die."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:53:08",
+  "End": "01:53:17",
+  "Text": "friends. mean, it's them against the world is how they see it. I think it's pretty easy to see how that works. But between the two of them,"
+}

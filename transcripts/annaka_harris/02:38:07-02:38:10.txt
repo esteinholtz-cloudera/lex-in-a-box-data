@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:38:07",
+  "End": "02:38:10",
+  "Text": "so nice. I wish I believed that"
+}

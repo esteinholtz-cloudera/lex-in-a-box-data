@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:08",
+  "End": "00:37:24",
+  "Text": ", no, no, no. You understood it perfectly but for the dark question. But the people you love in your life, if you lost all your memory of everything, you think you would still love them? Like you show up? You don't know the role of"
+}

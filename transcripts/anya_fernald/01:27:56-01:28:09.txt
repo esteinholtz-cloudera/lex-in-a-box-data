@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:56",
+  "End": "01:28:09",
+  "Text": "were uh a judge several times, an iron chef. do you judge a good meal? what uh your own other people's like, uh what rating system is good."
+}

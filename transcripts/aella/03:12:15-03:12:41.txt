@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:12:15",
+  "End": "03:12:41",
+  "Text": "I think also I'm starting to kind of understand that there is people who are and sociopaths and psychopaths out there. And um not even sure if people like that because I think they get good at frame control, I don't know if they're aware they're doing it. Oh, yeah. Which makes me also nervous about myself. Like, am I doing frame control?"
+}

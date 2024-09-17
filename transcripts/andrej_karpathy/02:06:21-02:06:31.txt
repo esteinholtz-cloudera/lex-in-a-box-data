@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:21",
+  "End": "02:06:31",
+  "Text": "from Reddit. What are your thoughts on the role that synthetic data and game engines will play in the future of neural net model development?"
+}

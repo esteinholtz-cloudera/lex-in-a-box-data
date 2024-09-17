@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:25",
+  "End": "01:23:49",
+  "Text": "are strengths and limitations of cameras for the driving task in your understanding, when you formulate the driving task as a vision task with eight cameras, seen that the entire, you know, most of the history of the computer vision field when it has to do with neural networks, what just if you step back, what are the strengths and limitations of pixels of using pixels to drive?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:24",
+  "End": "00:16:51",
+  "Text": "you have an intuition about why is the FDA trying to get 75 years release the Pfizer data? They're trying to request that it will not be released for 75 years. And then the broader version of that question is, do you think people should have sort of um full transparency and immediate access to the data immediate, you know, on a scale of weeks, not years."
+}

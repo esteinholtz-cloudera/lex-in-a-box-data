@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:59:16",
+  "End": "01:00:40",
+  "Text": "possibly if you could put us into some sort of suspended animation, you know, hibernation or something and increase the lifetime. And so these 10,000 generations. I talked about, what do they care? It's just one generation and they're asleep. Ok. So then you can do it. It's still not easy. Right? Because you've got some big old huge colony and that just through E equals MC squared. Right? That's a lot of mass. That's a lot of stuff to um to accelerate. The kinetic energy is gigantic. Right? So you're still not home free, but at least you're not trying to do it in a short amount of clock time, right? Which if you look at E equals MC squared requires truly unfathomable amounts of energy the energy is sort of it's, it's your rest mass M not C squared divided by the square root of one minus V squared over C squared. And if your listeners want to just sort of stick into their pocket calculator as V over C approaches one, one over the squared of 10 minus V squared over C squared approaches infinity. So if you wanted to do it in zero time, you'd need an infinite amount of energy. That's basically why you can't reach, let alone exceed the speed of light for a particle moving through a pre-existing space. It's that it takes an infinite amount of energy to do. So."
+}

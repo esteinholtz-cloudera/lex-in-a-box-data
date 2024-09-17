@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:48:39",
+  "End": "01:48:48",
+  "Text": "think we're a remarkable species that we are aware of our own thoughts. We are meta aware of our own thoughts and of ourselves and are"
+}

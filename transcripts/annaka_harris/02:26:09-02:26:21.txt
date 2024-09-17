@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:26:09",
+  "End": "02:26:21",
+  "Text": "measures of suffering. So having one traumatic event, if you erase that one traumatic event, that potentially might have negative onnet consequences for"
+}

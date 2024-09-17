@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:58:34",
+  "End": "00:59:29",
+  "Text": "does excite me. I think visionaries like Lan are working to make that happen in terms of building the road to space. We are really excited about building out the human lived experience of space once you get there. So how are you going to grow your food? What is your habitat going to look like? think it's profoundly exciting, but I do think that there's a little bit of a misunderstanding of Mars anywhere in the near future being anything like a replacement for earth. So it is good for humanity to have these other pockets of our civilization that can expand out beyond earth. But Mars is not in its current state, a good home for humanity. Too many perchlorate in the soil. You can't use that soil to grow crops. Atmosphere is too thin, certainly can't breathe it. But it's also just really thin compared to our atmosphere. lot of different challenges that would have to be fundamentally changed on that planet to make it a good home for a large human civilization."
+}

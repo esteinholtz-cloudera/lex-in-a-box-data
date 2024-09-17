@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:25:13",
+  "End": "00:25:16",
+  "Text": "that Tim Dylan, you should go to North Korea, check it out"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:35",
+  "End": "02:18:59",
+  "Text": ", maps of that. Yeah, he creates enemies. He's always fighting enemies. I never, think I have enemies, but there are usually just versions of me inside my head. So I thought about through that 30 day challenge. I tried to come up with like fake enemies and it wasn't working. The only enemy I came up with is David."
+}

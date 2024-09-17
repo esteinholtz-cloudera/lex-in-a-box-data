@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:59",
+  "End": "00:36:04",
+  "Text": "it could be hundreds of millions or billions of people starving to"
+}

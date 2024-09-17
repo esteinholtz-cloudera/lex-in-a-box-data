@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:39",
+  "End": "00:59:43",
+  "Text": "something about creating a feeling. I have a sense that there's a robot over there, there's, there's several throughout this place. And I think, think part of that of creating a feeling would be having the robots constantly moving around and having a mind of their own because that would most closely put guests and other humans that interact with into a place that's closest to my mind because it's such an engineering mind and one where when things come to life, it's a beautiful place to be whatever that is, that could be art. But to me, robots are art. And so I'm thinking about that both for me and for guests. And I'm also thinking about the difficult guest just to return to you said Elizabeth Holmes, one person, a couple of things I want to say. One person I've been, think I would like to talk to is"
+}

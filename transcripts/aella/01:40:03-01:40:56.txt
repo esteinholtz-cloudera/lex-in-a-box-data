@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:03",
+  "End": "01:40:56",
+  "Text": ", why not? Because you have to fill, 00, interesting. Interesting. Like, I'm different because first of all I can do keyword searches. The second of all you do, you can do machine learning models. That, like, like, first of all you can do, you can do like me, like the L, a good point of how long they've written. Right. it could flag certain things. Yeah, it's actually pretty easy to, I've, I've looked at, like, for hiring, I've looked at like, thousands of applications really quickly. Like you can really, the, the human brain is really interesting, especially, um, if you visually highlight certain information for yourself like keywords or again with machine learning models like sentiment, you can, you can highlight different parts that will catch your eye better than not. And I can go through just a huge number of applications. Are you telling me"
+}

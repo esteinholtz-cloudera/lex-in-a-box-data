@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:13",
+  "End": "01:42:15",
+  "Text": "said your favorite scene in Interstellar is the intense docking scene with the A I and Cooper talking saying, Cooper, what are you doing? Docking? It's not possible. No, it's necessary a good line, by the way. Just so many questions there. Why in A I that scene presumably is supposed to be to compute a lot more than the human is saying it's not optimal. Why the human, I mean, that's a movie but shouldn't the A I know much better than the human anyway. Uh What do you think is the value of setting seemly impossible goals?, like uh our initial intuition, which seems like something that you have taken on that. Elon espouses that where the initial intuition of the community might say this is very difficult and then you take it on anyway, with a crazy deadline, you just from a human engineering perspective. Um Have you seen the value of that?"
+}

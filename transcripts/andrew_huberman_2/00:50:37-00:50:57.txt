@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:50:37",
+  "End": "00:50:57",
+  "Text": "going to be, if I know David at all, he's going to try and find your buttons like he's going to, I mean, he, even though he knows he can complete this and I believe that he trusts that you can complete it too. I believe you can, you will complete it. You know, you will complete it right. There's no question about that, but he's not going to make it easier for you. He's going to make it harder."
+}

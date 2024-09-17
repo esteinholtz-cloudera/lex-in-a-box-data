@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:22",
+  "End": "00:47:40",
+  "Text": "then the hope is that the robots, the A I systems might be able to carry the, carry the, fire of consciousness or whatever makes us humans like a little drop of whatever makes us humans so special. Not to be too poetic about"
+}

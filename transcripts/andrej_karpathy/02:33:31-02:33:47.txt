@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:33:31",
+  "End": "02:33:47",
+  "Text": "were 10 GP TS that were forwarded and gave 50 suggestions. And another one looked at it and picked a few that they like a bug, one looked at it and it was like, it's probably a bug. They got re ranked by some other thing. And then a final ensemble GP T comes in and it is like, OK, given everything you guys have told me, this is probably the next token,"
+}

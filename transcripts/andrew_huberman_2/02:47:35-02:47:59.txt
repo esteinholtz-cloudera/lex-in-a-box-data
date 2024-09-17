@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:35",
+  "End": "02:47:59",
+  "Text": ", he's fulfilled. But the stress levels, the constant fires that he has to put out. And he says that most people wouldn't want to be me. And that basically the reason he does what he does is because there's probably something wrong with him. It's not, he can't help it but do that."
+}

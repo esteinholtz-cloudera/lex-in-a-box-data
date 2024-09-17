@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:55:21",
+  "End": "00:56:07",
+  "Text": "just too many options. Uh and uh it's too sparse of a reward signal and you're starting from scratch at the time. And so you don't know how to read, you don't understand pictures, images buttons, you don't understand what it means to like make a booking. But now what's happened is uh it is time to revisit that and open your eye is interested in this. Uh companies like adept are interested in this and so on. uh the idea is coming back because the interface is very powerful. But now you're not training an agent from scratch. You are taking the GP T as an initialization. So GP T is pre trained on all of text and it understands what's a booking, it understands what's a sub submit, it understands um quite a bit more. And so it already has those representations. They are very powerful and that makes all of the training significantly more efficient. And makes the problem tractable."
+}

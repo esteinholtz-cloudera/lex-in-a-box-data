@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:09",
+  "End": "01:27:19",
+  "Text": "something like that? So it's kind of like a, I mean, you can't call it a leg whatever, it's appendage, appendage. So how would you, what are ideas for controlling something like that?"
+}

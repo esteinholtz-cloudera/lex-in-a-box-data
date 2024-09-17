@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:45:58",
+  "End": "01:46:10",
+  "Text": "greatest I've been given have come from pursuing curiosity,"
+}

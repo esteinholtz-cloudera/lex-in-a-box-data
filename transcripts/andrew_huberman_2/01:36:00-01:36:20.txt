@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:00",
+  "End": "01:36:20",
+  "Text": "think about like if I quit now, how will that have, what kind of effect will it have on the rest of my life in the future? Difficult times? Like if you allow yourself to quit in this particular moment, you'll become a quitter more and more in life and then you're going to not get the other nice, the opposite sex, mammals."
+}

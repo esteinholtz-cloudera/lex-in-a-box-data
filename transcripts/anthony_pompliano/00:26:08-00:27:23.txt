@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:08",
+  "End": "00:27:23",
+  "Text": "does seem to be a fundamental difference. Between the the Genghis Khan style. Like if I would feel differently somebody like hand to hand with a knife, murdered my family versus cybersecurity wise, stole all their data, stole all their money, stole everything they own, falsified their identity, all that kind of stuff that those are both traumatic events, but they do seem to be fundamentally different, but maybe that's actually very narrow style thinking because you have to think about what is life and what's happiness and, um, like the samurai thinking, I'm not sure what's more painful I take it to myself, I'm not sure what I would rather live through being stabbed, to death my identity stolen, all my money stolen or maybe destroyed, like with lies or something like that. very interesting to think about. If you think about quality of life and all those kinds of things, it's"
+}

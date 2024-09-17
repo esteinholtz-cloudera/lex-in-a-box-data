@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:14:51",
+  "End": "01:15:11",
+  "Text": ", there is this period of time and it's depending on the situation and the behavior. Um it can be anywhere from, essentially half a second. There's 200 milliseconds. I actually don't know. I was going to compare it to the timing of sin film and sound. I don't know if you know this."
+}

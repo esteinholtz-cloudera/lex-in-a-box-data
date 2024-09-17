@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:48",
+  "End": "01:22:54",
+  "Text": "the synchronicity of all of it, why in so many different places, very different cultures, very different,"
+}

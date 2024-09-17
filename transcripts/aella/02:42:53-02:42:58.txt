@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:53",
+  "End": "02:42:58",
+  "Text": "no longer, right? You used to. But it is no longer. There."
+}

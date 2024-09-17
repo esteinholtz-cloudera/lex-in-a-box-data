@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:43:09",
+  "End": "00:44:12",
+  "Text": "still teach reinforcement learning in one of my Stanford classes. Uh And my phd thesis was on reinforcement. I love the field. find that if I'm trying to teach students the most useful techniques for them to use today, I end up shrinking the amount of time I talk about reinforcement learning, it's not worth working today. Now our work changes so fast, maybe this will be totally different in a couple of years. But I think we need a couple more things for reinforcement learning to get there. One of my teams is looking to reinforcement learning for some robotic control task. So I see the applications but if you look at it as a percentage of all of the impact of, you know, the types of things we do is at least today outside of, you know, playing video games, right? In a few of the games, the the the scope actually at N A bunch of us were standing around saying, hey, what's your best example of an actual deploy reinforcement learning application and you know, among you like c machine learning researchers, right? And again, there are some emerging ones but there are, there are not that many great examples."
+}

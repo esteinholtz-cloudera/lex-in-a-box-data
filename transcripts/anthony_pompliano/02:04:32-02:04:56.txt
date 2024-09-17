@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:04:32",
+  "End": "02:04:56",
+  "Text": "you don't believe in Bitcoin and you just want, let's say you just want to do the S and P 500 shouldn't try to time the market of the S and P 500 either, right? You should just, every two weeks, you should just buy something over a 20 year period. You're gonna end up buying it at all kinds of different prices, but you're gonna get kind of a blended average. And the more important thing is the compounding and the time in the market then did you buy it at, you know, 2% higher or lower than where you bought? It doesn't"
+}

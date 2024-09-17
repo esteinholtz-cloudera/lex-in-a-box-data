@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:18:01",
+  "End": "00:18:07",
+  "Text": "would feel like cheating in an exam where you look over the shoulder of a student next to you."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:41",
+  "End": "00:41:52",
+  "Text": ". Cool. In terms of water, what's a good source of drinkable water? Where do you get water? Do you have to always bring it on board with you? And is there a compressed efficient way of storing it?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:16",
+  "End": "00:40:37",
+  "Text": ". That because I did this last year. Uh I ran slow some of it was walking. I was listening to audio books and one of the biggest mistakes I did is to overeat during that time. It was, it made the experience very unpleasant. So I have been considering basically eating almost nothing throughout the day. Being"
+}

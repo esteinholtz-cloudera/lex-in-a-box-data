@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:43:15",
+  "End": "00:43:33",
+  "Text": "I'm reading an amazing book called An Immense World by Ed Young. He won a Pulitzer for We contain multitudes or something like that I think is the title of the other book. And the first chapter is all about olfaction and the incredible power that olfaction has smells terrible."
+}

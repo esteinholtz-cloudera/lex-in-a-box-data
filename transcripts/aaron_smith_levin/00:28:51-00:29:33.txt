@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:51",
+  "End": "00:29:33",
+  "Text": "had a bit of an ego. So like, and he's full of contradictions, but I'm pretty sure implied thing is that he was the first to say it. There's a lot of scientists, there's one of the people I really admire Steven Wolfram who wrote a book called a new kind of science that explores complex systems and cellular autometer and these mathematical systems that have been explored before. But he boldly kind of defined I to you a whole new way to look at the world and if you just set a little bit of the ego behind that aside, there's actually beautiful ideas in there. They have of course been done before and explored before. But sometimes people declare the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:22",
+  "End": "01:49:33",
+  "Text": "like you, you've talked about in this case are actually are not things that are unfortunate and to be ignored are in fact, gifts and should be the focus"
+}

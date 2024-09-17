@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:33:22",
+  "End": "01:34:19",
+  "Text": ". Uh The goodness it sounds like, I mean, the um yeah, I think you, you, you know, in any great city like New York, which I love, by the way, um You wanna have a symphony in an opera house and you want some punk rock shows happening on the Lower East Side. You, you, you want all of that, just don't necessarily want them to overlap the in terms of social media, you know, and then podcast and engagement. One thing that I decided very early on is was to encourage comments and feedback, et cetera. But I have in my mind, what I call classroom rules you've taught in the university and then you teach in the university and there's cer you establish a certain etiquette within the classroom of the kinds of questions that you'll tolerate. Right? there's always the student that's gonna ask a question, which is basically a 10 minute monologue about their experience. That really isn't a question that pertains to a lot of people. So you, you um politely discourage that kind of question and you encourage the kinds of questions that are likely to be in the minds of many other students. It's just more efficient that way."
+}

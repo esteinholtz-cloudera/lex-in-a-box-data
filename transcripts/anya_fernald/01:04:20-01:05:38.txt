@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:04:20",
+  "End": "01:05:38",
+  "Text": "are incredibly intelligent. So I'm not surprised that they're a subject matter for neuralink. Um They're smarter than dogs and they're empathetic and emotional. And there we'll go look at our pigs afterwards and see, but they're, they're, they're kind of like joyful and exuberant when they're in good health. And um so that, that makes sense. I I'm interested and open, I feel um the kind of bleeding edge agriculture movement that I'm, you know, on the edge of, in some ways we're a larger operator, but we as a movement have to, we have to get into the game, we have to move forward in a way that allows us to scale if we want to be viable. So I think there has to be open as to how that can happen. And I also think there needs to be more thoughtful and noisy data about how regenerative ranching can sequester carbon. mean, thousands of, of American ranches are selling carbon credits right now. The data is that valid and they're not selling carbon credits from like grassland that just got a fence around it. They're selling carbon credits for verified data from animals assisting in carbon sequestration, right? So there's got to be a way to, to get the tech community involved in ways to help regenerative agriculture scale"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:54",
+  "End": "00:58:10",
+  "Text": "you think simulation, by the way, just a quick tangent has a role in the human robot interaction space. Is it useful? seems like humans, everything we've been talking about are difficult to model and simulate. Do you think simulation has a role in this space?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:20",
+  "End": "00:51:33",
+  "Text": ", I think the opposition to this particular president, I personally believe has less to do with the policies and more to do with a lot of the other human factors. Uh And"
+}

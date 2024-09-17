@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:53",
+  "End": "02:19:01",
+  "Text": "think in the interaction, there's actually you can almost study them as a single brain. a single system. The the two brains are a single system,"
+}

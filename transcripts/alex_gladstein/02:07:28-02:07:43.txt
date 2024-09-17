@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:07:28",
+  "End": "02:07:43",
+  "Text": "us back to that. What is it that litmus test about? Is your country allowed to have a gay pride parade? there's obvious things that might be on your mind that you just want to ask and you shouldn't run from"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:44",
+  "End": "01:30:49",
+  "Text": "in rem sleep, a similar process is happening. That's"
+}

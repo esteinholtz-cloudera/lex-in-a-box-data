@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:22",
+  "End": "02:37:33",
+  "Text": "there a memory that fond memory that stands out or maybe what have you learned from them?"
+}

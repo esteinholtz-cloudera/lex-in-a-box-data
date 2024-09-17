@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:30:58",
+  "End": "02:31:05",
+  "Text": "we're leaving, you know, Biden announced we're leaving Afghanistan this year, 20 years for what the Taliban are going to take"
+}

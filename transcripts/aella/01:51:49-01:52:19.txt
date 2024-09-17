@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:49",
+  "End": "01:52:19",
+  "Text": "know. Yeah. So it's incentivize the long form date dynamic versus like uh not, that's really interesting. so interesting. How, how does money the dynamic? Just basic human dynamic of interacting for free versus for money? Like I think about that a lot because like just talking to rich people, it's like you usually get paid for your time and you're doing this for free. what uh, what's the difference? Is there a difference? Really? Or no? A"
+}

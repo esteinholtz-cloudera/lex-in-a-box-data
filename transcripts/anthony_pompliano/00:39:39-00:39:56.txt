@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:39",
+  "End": "00:39:56",
+  "Text": ", because the public is involved. So there's a lot of personalities and so a lot of times we focus on the ex extreme personalities that do a lot of maybe uh pardon the French shit talking and, so we kind of focus on that, but that's not necessarily a representative of the communities involved."
+}

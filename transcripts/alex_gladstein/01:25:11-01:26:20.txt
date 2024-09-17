@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:25:11",
+  "End": "01:26:20",
+  "Text": "do have to sort of push back at a style of communication and you're not doing it today, you, you're being exceptionally eloquent in arguing these ideas. But me, especially just studying history being very skeptical from growing up in the Soviet Union, very skeptical and cautious when I see a community of people being very sure an idea, it doesn't matter what that idea is and there's a huge amount of certainty around Bitcoin. Part of it is an important feature because its number go up far, number go up is a really important part of the mechanism to make sure that it grows and impact network effects because I mean, it's really important to get excited about the idea for it. Take hold, that's the way human nature works and so on. But I also get um something that you mentioned that others may not, if you mentioned Blockchain, you're sensitive to the attacks that have been, had been mounted where the word Blockchain had been"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:28",
+  "End": "01:56:08",
+  "Text": ", uh, for some reason, really hilarious. It's good for,, you've been asked, I think on it. Are there big secrets that, you know, that could lend you and our country in terrible trouble if it came out to the public and you answered, yes, I wish I could forget them. So let me ask you just about secrecy in general. Are these secrets or just other secrets that the public will never know or will it come out in 1020 50 years? I guess the deeper question is what is the value of secrecy and transparency?"
+}

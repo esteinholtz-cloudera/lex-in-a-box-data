@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:00:06",
+  "End": "03:00:11",
+  "Text": "sauna? Well, in certain contexts, it leads to um, childbirth.."
+}

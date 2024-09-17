@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:29:28",
+  "End": "02:29:38",
+  "Text": "have to start with King of Tesla and Master of Coin as they are uh so articulately called in the latest sec filing"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:55:00",
+  "End": "00:55:09",
+  "Text": "think some very small percentage of people who have used have owned Bitcoin was something like 1% of the world, whatever that number is a small"
+}

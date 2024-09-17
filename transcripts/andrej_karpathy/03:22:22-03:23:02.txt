@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:22:22",
+  "End": "03:23:02",
+  "Text": "? consistent thing I've been always interested in for me at least is, is A I and um that's probably what I'm spending my rest of my life on because I just care about it a lot and I actually care about like many other problems as well, like say aging, which I basically view as disease. And um care about that as well, but I don't think it's a good idea to go after it specifically. I don't actually think that humans will be able to come up with the answer. I think the correct thing to do is to ignore those problems and you solve A I and then use that to solve everything else. And I think there's a chance that this will work. I think it's a very high chance. And uh that's kind of like the, the way I'm betting at least. So"
+}

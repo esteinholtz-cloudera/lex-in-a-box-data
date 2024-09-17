@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:58:08",
+  "End": "01:58:54",
+  "Text": "surprisingly difficult as the, as technology changes. Uh It's also surprisingly difficult as as our culture becomes one where people want notoriety, people want to be the person who breaks the secret years ago, 40 years ago. That wasn't the case. There was a time in the United States where if someone gave you a secret, it was a point of personal honor not to share the secret. Now, we're in a place where someone tells you a secret like that could turn into a, a Twitter post that gets you a bunch of thumbs up and a bunch of likes or whatever else, right? So the value of secrets has changed and now there's almost a greater value on exposing secrets than there is on keeping secrets., that makes it difficult to keep secrets, especially when technology is going in the same direction."
+}

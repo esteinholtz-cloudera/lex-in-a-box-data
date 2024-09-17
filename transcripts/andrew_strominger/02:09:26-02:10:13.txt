@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:09:26",
+  "End": "02:10:13",
+  "Text": ", I wouldn't, I wouldn't add nostalgia to it because not like a, know, summer in Italy or something. It's, it's like there, there, there's,, there's results that are there that, that the people are and that's what's, that's what's so gratifying. mean, of course, one's name disappears from these, these things. Um unless you're Einstein or Newton or something, you people are not gonna remember my name in 50 years."
+}

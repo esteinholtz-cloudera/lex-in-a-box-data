@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:05:53",
+  "End": "01:06:44",
+  "Text": "think right now, at least today they are not sort of, it's not correct to really think of them as goal seeking agents that want to something they have no long term memory or anything. They, it's literally a good approximation of it is you get 1000 words and you're trying to predict the 1000 them first and then you continue feeding it in and you are free to prompt it in whatever way you want. So in text, so you say, OK, you are a psychologist and you are very good and you love humans. And here's a conversation between you and another human colon something, you something and then it just continues the pattern and suddenly you're having a conversation with a fake psychologist who's like trying to help you. And so it's still kind of like in the realm of a tool, it is a um people can prompt it in arbitrary waste and it can create really incredible text, but it doesn't have long term goals over long periods of time. It doesn't try to. Uh so it doesn't look that way right now, but"
+}

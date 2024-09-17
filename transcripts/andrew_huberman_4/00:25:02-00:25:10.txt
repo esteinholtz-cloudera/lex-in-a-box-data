@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:02",
+  "End": "00:25:10",
+  "Text": ", one of the processes for achieving mental health is to bring those things to the surface. So fish, the subconscious mind."
+}

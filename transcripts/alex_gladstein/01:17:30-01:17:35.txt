@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:17:30",
+  "End": "01:17:35",
+  "Text": "speak to that kind of collaborative so that you can have multiple parties in a single transaction kind of thing"
+}

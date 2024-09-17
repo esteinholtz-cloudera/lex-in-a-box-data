@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:18",
+  "End": "02:39:35",
+  "Text": "I'm seeing like at the far end,, mhm uh different types of incest. So there's like pain and then sound"
+}

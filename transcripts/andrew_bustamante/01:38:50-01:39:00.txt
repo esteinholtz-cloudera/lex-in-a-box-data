@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:50",
+  "End": "01:39:00",
+  "Text": "was your recruitment process and training process and things you could speak to uh, in the CIA"
+}

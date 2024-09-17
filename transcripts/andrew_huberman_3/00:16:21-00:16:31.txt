@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:21",
+  "End": "00:16:31",
+  "Text": ". For people who don't know. Sergey and Todd are on the call. They're kind of pulling stuff up. They just pulled up Phelps with the, I forget how many calories he was eating 10,000. You"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:47:28",
+  "End": "02:47:58",
+  "Text": "mean, one example that's been very influential recently is the fusion models. The fusion models are amazing. Diffusion models are six years old for the longest time people who are kind of ignoring them as far as I can tell. And they're an amazing generative model, especially in uh in images and so stable diffusion and so on. It's all diffusion based. Uh Theus is new, it was not there and it came from,, it came from Google, but a researcher could have come up with it. In fact, some of the first, no, those came from Google as well, but a researcher could come up with that in an academic institution."
+}

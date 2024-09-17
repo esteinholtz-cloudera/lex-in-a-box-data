@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:31:15",
+  "End": "00:32:17",
+  "Text": ". That's right. right. It's not too, I mean, there's things in behavioral economics too that, that, that for instance, have touched upon the planning horizon. So there's this idea that there's bounded rationality essentially and the idea that, well, maybe we work under computational constraints and I think kind of our view recently has been the Bellman update in A I and just break it in all sorts of ways by saying state, no, no, no, the person doesn't get to see the real state. Maybe they're estimating somehow transition function. No, no, no, no, no, even the actual reward evaluation. Maybe they're still learning about what it is that they want. Like, like, you know, when you watch Netflix and you know, you have all the things and then you have to pick something, that, you know, the, the A I system interpreted that choice as this is the thing you prefer to see how are you going to know you're still trying to figure out what you like, what you don't like, et cetera. So I think it's important to also account for that. So it's not irrationality doing the right thing under the things that they know."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:50:37",
+  "End": "00:50:48",
+  "Text": ". So I think the internet has a huge amount of data. I'm not sure if it's a complete enough set. I don't know that uh text is enough for having a sufficiently powerful A G I as an outcome. Um Of"
+}

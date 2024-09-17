@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:26:14",
+  "End": "03:26:24",
+  "Text": "advice in finding the love of your life of my life. This is, this is uh why lex a single response. Why any advice?"
+}

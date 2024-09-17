@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:54:41",
+  "End": "00:54:49",
+  "Text": "that they're using. Yes, they are using a quantum computer to simulate a nematode. Yep."
+}

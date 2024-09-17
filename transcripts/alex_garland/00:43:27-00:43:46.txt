@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:43:27",
+  "End": "00:43:46",
+  "Text": "something very interesting going on in our minds. I'm slightly worried about the word special because it, it gets a bit, it nudges towards metaphysics and maybe even magic. I mean, in some ways something magic like, um, which I don't think is there at all."
+}

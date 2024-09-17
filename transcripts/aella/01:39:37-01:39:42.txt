@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:37",
+  "End": "01:39:42",
+  "Text": "woman. You don't know the yes, yes. But you can't through survey, get the identical, like you don't know."
+}

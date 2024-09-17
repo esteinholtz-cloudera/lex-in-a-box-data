@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:36:52",
+  "End": "02:37:07",
+  "Text": "fascinating to think that the universe created us. eventually we've built telescopes to look back at it to look back at its origins and to wonder how the heck the thing works."
+}

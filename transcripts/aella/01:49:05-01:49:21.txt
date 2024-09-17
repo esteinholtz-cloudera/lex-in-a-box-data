@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:05",
+  "End": "01:49:21",
+  "Text": "mean, so some of this is marketing. So I guess I want to know, is it similar to camming in that way? Is it you're basically advertising yourself and your like the marketing, all the creativity that you mentioned before, all of"
+}

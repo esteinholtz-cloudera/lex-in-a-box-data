@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:36:51",
+  "End": "01:37:26",
+  "Text": "frustrating. I'm frustrated by my inability to comprehend. just feels very frustrating. There's some stuff that, you know, we should time blah, blah, blah that we should really be understanding and I definitely don't understand it. But you know, the, the, the amazing physicists of the world have a much better understanding than me, but it epsilon and the grand scheme of things. So it's very frustrating. It's just, it sort of feels like our brains don't have some fundamental capacity.. Well, yet, or ever, I don't know. But"
+}

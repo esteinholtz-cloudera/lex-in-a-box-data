@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:31",
+  "End": "01:50:56",
+  "Text": ". I just, I only know, I think the first letter, it's introverted and extroverted, right? taken the test before just like a crude version of the test. And that's the same problem you have with IQ tests. There's the right uh, thorough way of doing it and then there's like fun internet way. And do you mind sharing what you,, personality?"
+}

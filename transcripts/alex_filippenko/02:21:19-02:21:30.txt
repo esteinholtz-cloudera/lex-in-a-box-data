@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:21:19",
+  "End": "02:21:30",
+  "Text": ", uh, in most cases we'd be ok because our galaxy is 100,000 light years across and you'd need one of these things to be within about 10 light years to be an existential threat and it gives"
+}

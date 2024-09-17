@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:03",
+  "End": "02:53:19",
+  "Text": ". So actually let's linger on that. So just to clarify, do you think, you making the difficult case that the NSA mass surveillance program was one ethical and two made a better world for Americans?"
+}

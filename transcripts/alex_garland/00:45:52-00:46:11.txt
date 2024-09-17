@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:52",
+  "End": "00:46:11",
+  "Text": "one character that represents all nuclear scientists. K you know, a composite character that presents all scientists. Is this what you were, is this the way you were thinking about that or is it just simplifies the storytelling? How do you think about the Lone Genius?"
+}

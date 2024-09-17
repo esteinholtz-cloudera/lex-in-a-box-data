@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:08",
+  "End": "00:36:31",
+  "Text": "you a pothead question? Would you, you rather lose all your memories or not be able to make new ones? had to. Now I'm asking you as a human in terms of happiness and preference."
+}

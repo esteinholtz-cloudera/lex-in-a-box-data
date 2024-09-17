@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:28:21",
+  "End": "01:28:49",
+  "Text": "the way, I wanted to comment on something you said earlier. Um Yeah, I had said that I'm sort of a pessimist that I think there are very few other intelligent, mechanically able creatures out there. But then I said yes, in a sense, I'm an optimist as you pointed out because it means that we made it through the great filter. Right. I, I meant originally that I'm a pessimist in that I'm pessimistic about possibility that there are many, many of us"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:32",
+  "End": "00:13:38",
+  "Text": ". So before the original of this universe, is there a model of physics integrated in any of this."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:11:49",
+  "End": "00:12:04",
+  "Text": "word lessness of it, the way it puts you in the way it seems to clean out the clutter. You know, it can take away that hyper focus and put you more in a relaxed focus for"
+}

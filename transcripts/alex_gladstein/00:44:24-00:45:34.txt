@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:44:24",
+  "End": "00:45:34",
+  "Text": "the hugely important. I think the two lessons from Snowden are a, Patriot act and the war on terror and mass surveillance are not necessary for our democracy and for our freedoms. Um This was a false choice. We never had to sacrifice them to be safer. And, and we've seen that government has spent hundreds and hundreds of millions of dollars on these like surveillance programs that you can read about it and now amounted to very little except for tremendous bureaucratic waste and, you know, you know, erosion of our freedoms. Um But at the same time, we, we need to practice more privacy and dramatic increase in the usage of signal, for example, has been really, really great to see. It's, it's fantastic that tens of millions of people are downloading signal and using it. Um You should try to be onboarding more and more of your conversations onto signal. For example, where governments can't see what you're saying, maybe they can see the metadata, maybe they can see that you sent your phone number, sent a message to someone else's phone number at this time, they can't see what's inside. So using encryption in your life is very, very important. That's a good starting point. I would say that's kind of step a"
+}

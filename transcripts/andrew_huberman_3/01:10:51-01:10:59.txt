@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:10:51",
+  "End": "01:10:59",
+  "Text": "course he's from New York. Any New Yorker that I know has very high standards for food because bad restaurants don't last long in New York and barbecue."
+}

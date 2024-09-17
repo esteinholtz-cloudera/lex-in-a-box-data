@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:44:38",
+  "End": "03:44:48",
+  "Text": "years. I just assume you'd get used to it. like maybe if they reset your memory. So it was on a loop. So you're always experiencing torture for the first time. Yeah."
+}

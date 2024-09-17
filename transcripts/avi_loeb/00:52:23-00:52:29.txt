@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:23",
+  "End": "00:52:29",
+  "Text": "the individual creatures, the the sensor suite that they're operating with might be very different, very"
+}

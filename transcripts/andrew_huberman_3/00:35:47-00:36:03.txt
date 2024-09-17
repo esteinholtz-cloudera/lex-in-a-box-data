@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:47",
+  "End": "00:36:03",
+  "Text": ". Well, I didn't really have television, period, uh, uh, outside of meals. So most of my time was spent, um, know, like a stray cat outdoors just running around playing soccer."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:52",
+  "End": "00:41:04",
+  "Text": ". We already talked through a bunch of them. But there some possible solutions to the bias that's present in our algorithms beyond what we just talked about. So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:42",
+  "End": "00:07:50",
+  "Text": ", perhaps a little bit like, are you adding extra prompts from your own memory inside your head or? No, it"
+}

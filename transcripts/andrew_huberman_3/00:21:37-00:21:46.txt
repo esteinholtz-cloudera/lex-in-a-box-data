@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:21:37",
+  "End": "00:21:46",
+  "Text": ". You do a good Rick Rubin minus the beard, minus the beard. His beard is epic, right? You can't fake a beard like that. You know. How'd you guys"
+}

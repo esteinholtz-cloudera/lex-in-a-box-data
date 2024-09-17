@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:05:40",
+  "End": "00:05:50",
+  "Text": "really cute one. And I put it on my laptop and I, had that for years until I finally changed my laptop out. And you know"
+}

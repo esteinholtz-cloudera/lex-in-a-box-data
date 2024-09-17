@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:46",
+  "End": "00:42:23",
+  "Text": "about like smoke and flame and charcoal versus gas, also adds to the experience and the smell and the whole thing of the cooking versus just the taste it creates. There's a certain experience to when there's a bit of smoke. Maybe I don't know what the chemistry of it is, but I feel like with smoke, the smell is distributed more effectively. I don't know if that's true, but there's a smell and a visual aspect of the experience that's almost enriched with a bit of smoke and, or like an open flame. if you could see the flame, there's magic to that. And it goes to the experience piece that we're talking"
+}

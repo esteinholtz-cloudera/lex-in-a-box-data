@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:10:25",
+  "End": "01:10:32",
+  "Text": "also to help them recognize what they may not even realize is a key decision point."
+}

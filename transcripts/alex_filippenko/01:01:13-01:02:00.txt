@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:01:13",
+  "End": "01:02:00",
+  "Text": "? I would say I'm one of the pessimists in that. I, I don't necessarily think that we're the only ones in the observable universe, which goes out, you know, 14 billion years in light travel time and more like, you know, 46 billion years when you take into account the expansion of space. So the diameter of our observable universe is something like, you know, 90 92 billion light years that encompasses, know, 100 billion to a trillion Galaxies with um you know, 100 billion stars each. So now you're talking about something like 10 to the 22nd, 10 to the 23rd power stars and roughly an equal number of earthlike planets and so on. Um So there, there, there may well be uh other intelligent life but your,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:52",
+  "End": "02:24:18",
+  "Text": "do plants suffer in the same? So is there some level where when we construct morals and ethics that is there a class of conscious experiences or organisms that are capable of conscious experience we can anthropomorphize sufficiently such that we give them rights?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:59:00",
+  "End": "00:59:05",
+  "Text": "you would put into the into the custodial category like a bank. Yeah,"
+}

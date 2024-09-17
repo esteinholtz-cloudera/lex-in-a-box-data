@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:51:26",
+  "End": "03:51:38",
+  "Text": ". Yeah. I don't know. I feel like if I were in A I system and I were super intelligent, I probably would be able to solve the problem of like growing organic matter. And then I would obviously just do that you just build exactly the organic machine that you want."
+}

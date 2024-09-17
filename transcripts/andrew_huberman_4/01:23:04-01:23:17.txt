@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:23:04",
+  "End": "01:23:17",
+  "Text": "yourself short. No, I would say listen any discussion on the Hebrew and lab podcast about sexual health or anything will always be the, the the critical force, age appropriate context, appropriate species, appropriate"
+}

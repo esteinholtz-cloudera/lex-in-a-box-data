@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:00:16",
+  "End": "03:00:35",
+  "Text": "as an example, like it has a fixed amount of compute on its physical body. And it might just be that even though you can have a super amazing mega brain, super intelligent A I, you also can have like, you know, less intelligent A I so you can deploy and in a power efficient way and then they're not perfect, they might make mistakes."
+}

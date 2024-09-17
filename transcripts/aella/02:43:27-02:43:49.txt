@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:27",
+  "End": "02:43:49",
+  "Text": "usually you try like when you see something like that, you'll try to construct a theory and see if you can find, like keep that theory in mind like a hypothesis of why it would be. And then you ask further questions to try to elaborate. can you maybe talk about the methodology of how you got the 500,000? Like what like how did this come to be?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:44:12",
+  "End": "00:44:17",
+  "Text": "public government, that's what they have in Georgia right now."
+}

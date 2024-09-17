@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:29:47",
+  "End": "00:30:04",
+  "Text": ". uh maybe all of a sudden you want to change out what were window tiles yesterday? Cupola tiles and make them into a birthing port so that you can welcome five new spaceships to come and join you in space. That's what this promise of reconfigurable space architecture might allow us to explore."
+}

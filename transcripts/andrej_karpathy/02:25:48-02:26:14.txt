@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:25:48",
+  "End": "02:26:14",
+  "Text": "time. I mean, I do try to create a routine and I try to create a steady state in which I'm comfortable in. So I have a morning routine. I have a day routine. I try to keep things to a steady state and, um, are predictable and then you can sort of just like your body, just sort of like, sticks to that. And if you try to stress that a little too much, it will create, uh, you know, when you're traveling and you're dealing with jet lag, you're not able to really ascend to, you know, where you need to go."
+}

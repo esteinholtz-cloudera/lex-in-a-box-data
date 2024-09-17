@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:13:25",
+  "End": "00:13:38",
+  "Text": "it just actually used to? I don't eat them anymore. I don't have much of an appetite for them even though they're not a sweet food. But um I'm always putting butter on the croissant, butter on the butter croissant. No jam. I would never, I would never micro croissant. I, I"
+}

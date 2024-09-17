@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:57:50",
+  "End": "00:57:57",
+  "Text": "hardware wallets and so on. What do you mean by sovereign uh Bitcoin wallet?"
+}

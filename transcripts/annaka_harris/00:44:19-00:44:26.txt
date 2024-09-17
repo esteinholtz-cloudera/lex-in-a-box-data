@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:44:19",
+  "End": "00:44:26",
+  "Text": "agree. And Yes, that's what I appreciate in him and many scientists like that"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:55:09",
+  "End": "00:55:17",
+  "Text": "for the purposes of our account about a little under 200 million people. Wow. Yeah, most right now."
+}

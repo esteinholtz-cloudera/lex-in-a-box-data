@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:54",
+  "End": "02:12:03",
+  "Text": ", no, no, I'm actually freaking out because yes, any theory of modern physics gives inkling that reality is very weird,"
+}

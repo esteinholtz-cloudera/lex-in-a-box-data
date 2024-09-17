@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:46:45",
+  "End": "02:47:18",
+  "Text": "I actually, the way I posed the question to him about cold was I hear that getting into an ice bath or a cold water immersion after training can reduce hypertrophy, but I'm guessing it's not that big of a deal. And he said, no, it is a big deal. It will short circuit your progress. Now, for people that are only interested in performance who are doing a lot of workouts and trying to recover but not trying to grow muscle, get stronger or build endurance, then it makes sense to do cold because it's skill development, skill development or you're an athlete in season, know, so you have to, what's so great about Andy is he really points out the specific ways to train, given your specific goal? So getting"
+}

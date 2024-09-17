@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:37",
+  "End": "02:13:08",
+  "Text": "me ask you about physical hacking. Uh So I'm now like I'm an introvert. So I'm a paranoid about all social interaction. But um much truth is there? It's kind of a funny question, how suspicious should I be when I'm traveling in Ukraine or different parts of the world when an attractive female walks up to me and shows any kind of attention? Is that, is that like this kind of James Bond spy movie stuff or is that kind of stuff used by intelligence agencies? I"
+}

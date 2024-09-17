@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:18",
+  "End": "00:31:42",
+  "Text": "we figure that out as a society by having conversations by discourse, I mean, throughout history, the definition of what is ethical or not has changed and hopefully always for the better, correct, correct. So in terms of bias or prejudice robotic, in algorithms, what examples do you sometimes think about? So"
+}

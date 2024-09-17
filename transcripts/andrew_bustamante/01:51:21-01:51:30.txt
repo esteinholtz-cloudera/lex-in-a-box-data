@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:21",
+  "End": "01:51:30",
+  "Text": "on like, uh term successful relationships in terms of the dynamics of that? The 16, I wonder if there's good data on that? I"
+}

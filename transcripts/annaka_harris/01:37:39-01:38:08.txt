@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:37:39",
+  "End": "01:38:08",
+  "Text": ". I think they're part of the same process and I think kind of necessary to accept you're experiencing and what the situation is and how you feel and the types of, um, thoughts and patterns you tend toward in order to make whatever changes can be made. So, I do think it's kind of part of the same process."
+}

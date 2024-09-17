@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:43:48",
+  "End": "01:44:16",
+  "Text": "commons? That's why we titled the book into the Anthroposophical Climate Change. How are we going to treat and behave in space? How can we be responsible stewards of the space commons? And I would love to see an approach to the moon that is commons based, it's hard to know who would be the protector or the enforcer"
+}

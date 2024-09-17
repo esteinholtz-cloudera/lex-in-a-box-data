@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:20:27",
+  "End": "02:20:59",
+  "Text": "can probably go like a small few hours and then I need some breaks in between for like food and stuff. And um, but I think like uh it's still really hard to accumulate hours. I was using a tracker that told me exactly how much time I spent coding any one day and even on a very productive day, I still spent only like six or eight hours. Yeah. And it's just because there's so much padding, commute, talking to people,, et cetera. There's like the cost of life just living and sustaining and homeostasis and just maintaining yourself as a human is very high."
+}

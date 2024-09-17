@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:48:35",
+  "End": "00:49:09",
+  "Text": "think that's where the real power of, you know, adjusting states is going to be, it probably will be with devices. Um I mean, maybe it will be done through pharmacology. It's just that hard to do on off switches in, in human pharmacology that we have them for animals. I mean, we, we have, you know, CRE flip recombination and we have um you know, channel options and Halo rod options and um all these kinds of things. But to, to do that work in humans is tricky. But I think you could do it with um virtual reality, augmented reality and other devices that bring more of the somatic experience into it. You're of"
+}

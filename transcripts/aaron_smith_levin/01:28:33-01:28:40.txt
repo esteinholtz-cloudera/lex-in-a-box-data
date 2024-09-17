@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:33",
+  "End": "01:28:40",
+  "Text": "you tell the story of Shelly Miscavige and the mystery surrounding her? I saw that there is quite a bit of mystery. Yeah."
+}

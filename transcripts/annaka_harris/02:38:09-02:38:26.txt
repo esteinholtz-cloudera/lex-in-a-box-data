@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:38:09",
+  "End": "02:38:26",
+  "Text": "memory, as you said, uh the suffering is multiplied. It's, it's a, it's an interesting thought but with memory, is multiplied as well. So it's like, yes,"
+}

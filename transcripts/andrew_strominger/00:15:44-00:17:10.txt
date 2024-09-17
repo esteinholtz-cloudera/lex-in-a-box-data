@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:15:44",
+  "End": "00:17:10",
+  "Text": "imagine. I uh want to draw a map with pictures of all the states and the mountains. And then I want to draw the weather forecast, what the temperatures are gonna be all over the country. I do that using one set of weather stations I number the weather stations you have some other set of stations you the same thing. So the coordinates are the locations of the weather stations. They're how we describe where the things are. At the end of the day, should draw the same is coordinate invariance. And if, if we're telling somebody, uh we're, we're, we're gonna tell somebody at a real physical operation. We want you to stay as dry as possible on your drive from here to California. Um, we should give them exactly the same route matter which weather stations we use or how we, you know, it's a very trivial. It's, it's, the labeling of points is an artifact and not in the real physics. it turns out that that's true, but not quite, there's some subtleties to it."
+}

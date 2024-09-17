@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:13",
+  "End": "02:13:20",
+  "Text": "inner and the outer piece, it's uh been over two years, I think uh since Costello"
+}

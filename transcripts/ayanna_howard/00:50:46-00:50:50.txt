@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:46",
+  "End": "00:50:50",
+  "Text": ". So it's almost like a remote operation."
+}

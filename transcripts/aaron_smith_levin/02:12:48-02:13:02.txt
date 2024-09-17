@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "02:12:48",
+  "End": "02:13:02",
+  "Text": "? And then once I figure out the answer to that question, I'm actually quite chipper and happy, you know, like that's sort of my default. Like you could give me six horrible options. Once I figure out the best of those six, I'm gonna feel like I just had a pretty good"
+}

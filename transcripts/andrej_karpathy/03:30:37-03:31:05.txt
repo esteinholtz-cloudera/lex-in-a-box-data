@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:30:37",
+  "End": "03:31:05",
+  "Text": "wants to. Not many people might not want that. But I think people who do want that, I think, um think it's probably possible. Uh And I don't think, I don't know if that people fully realize this. I kind of feel like people think of death as an inevitability. But at the end of the day, this is a physical system, some things go wrong. Uh It makes sense why things like this happen evolutionarily speaking. And uh there's most certainly interventions that uh that mitigate it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:56",
+  "End": "02:19:04",
+  "Text": "? But does that really tell the story of what you felt over the past year?"
+}

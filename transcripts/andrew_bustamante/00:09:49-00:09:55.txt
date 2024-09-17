@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:49",
+  "End": "00:09:55",
+  "Text": "the P DB? The President's Daily Brief look like, how long is it, what does it contain?"
+}

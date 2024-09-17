@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:18:30",
+  "End": "00:19:10",
+  "Text": "I think that the shortcut is and I kind of I talk about it as a fixed space. Um where so imagine that there is a neighborhood that's a new smart city or a new neighborhood that says, you know what, we are going to design this new city on supporting self driving cars and then doing things knowing that there's anomalies, knowing that people are like this, right? And designing it based on that assumption that we're going to have this, that would be an example of a shortcut. So you still have people but you do very specific things to try to minimize the noise a little bit. as an"
+}

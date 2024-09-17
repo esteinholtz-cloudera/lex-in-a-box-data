@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:27",
+  "End": "02:16:34",
+  "Text": ", what, what do you do? You think there are things um, from a high level that you can pick up from eye movement and blinking?"
+}

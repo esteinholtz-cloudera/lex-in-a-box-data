@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:26",
+  "End": "02:24:38",
+  "Text": "that weird? Is one of the many weird things about human biology is figure something out and finds, finds another source of energy or something like that or relaxes the system. I don't know how the"
+}

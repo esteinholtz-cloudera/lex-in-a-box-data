@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:17",
+  "End": "00:34:39",
+  "Text": "really glad you say that because um on doing the right thing no matter the money I believe is the best way to make money. And also in another way in other realms, creating a product that people love is the best way to make money. So focusing on the on the core of the thing that makes people feel good that brings value to people's lives. I'm now in Austin, Texas, good friend Joe Rogan, he's been highlighting to me this aggressive uh marketing on mainstream media channels by pfizer. So let me ask the general marketing question. you see this as a conflict of interest as it might bias the reporting of news? a lot of us, a lot of people me included look to these mainstream channels of news for kind of authority of like what the heck's going on in the world. if pfizer is sponsoring,, many of these shows, a worry, it may be a perception thing but there's also a natural worry that it would influence what they're talking about because they're afraid of losing the sponsorship. It's subtle, but at scale it might have a serious impact. Do you worry about this?"
+}

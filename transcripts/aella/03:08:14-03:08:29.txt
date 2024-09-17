@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:08:14",
+  "End": "03:08:29",
+  "Text": "What's frame control? Because that has been at the core of your trauma, at the core of your upbringing. What's frame control and also sorry, frame control in general because that's part of human interaction."
+}

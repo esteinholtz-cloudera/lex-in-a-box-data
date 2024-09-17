@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:33",
+  "End": "02:33:45",
+  "Text": "the, the, uh, the dance of dilation and contraction between the different space zoom in zoom out and get as many steps in on that staircase."
+}

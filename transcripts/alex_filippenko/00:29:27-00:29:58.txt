@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:27",
+  "End": "00:29:58",
+  "Text": ". So I'm quite disappointed, but sort of from a medical perspective. I think you're saying there in a scientific one, it's almost better to get better and better, telescopes and data collection to be able to predict the movement of these things or like come up with totally new technologies. Like you can imagine actually sending out like probes out there to be able to sort of almost have little finger sensors throughout our solar system to be able to detect stuff."
+}

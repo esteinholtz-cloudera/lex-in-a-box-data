@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:25:53",
+  "End": "03:26:15",
+  "Text": "especially in tricky cases, I've seen uh whispers performance on super tricky cases and it does incredibly well. So I don't know, a podcast is pretty simple. It's like high quality audio and you're speaking usually pretty clearly. And so I don't know it, don't know what open A's plans are either."
+}

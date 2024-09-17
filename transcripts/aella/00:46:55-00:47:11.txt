@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:55",
+  "End": "00:47:11",
+  "Text": "mean, is there a danger of like adopting the beliefs of the new culture. like there's some aspects of just being able to think freely, which you weren't able to do when you were growing up just to think, like, look at the world and wonder how it works, that kind"
+}

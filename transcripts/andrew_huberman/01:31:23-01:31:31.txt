@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:23",
+  "End": "01:31:31",
+  "Text": "saying some of the magic is in the early stages of what the, the closer to the raw information I"
+}

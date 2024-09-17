@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:10:11",
+  "End": "02:10:23",
+  "Text": "right. There he goes. But he was the king, right? And he had such a personality and it was such a performer, but it's the unsung heroes in many cases."
+}

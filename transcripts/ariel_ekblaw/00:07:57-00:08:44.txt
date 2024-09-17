@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:07:57",
+  "End": "00:08:44",
+  "Text": "dad always said he was absolutely convinced because he was a child of the Apollo years that he would get to go in his lifetime, really thought it was going to happen. And so it was a challenge and sad for many people when to their view on the outside space exploration slowed down for a period of time. In reality, we were just catching up. I think we leapt so far ahead with Apollo. more than the rest of society was ready for. And now we're coming back to this moment for space exploration where we actually have an economy and we have the other AUA mall that society needs to be able to make space exploration more real. my dad's thrilled because finally, you know, not nearly, I hope not anywhere near the end of his life, but as he's an older man, he now can see still within his lifetime, people really getting a chance to build a sustainable lunar settlement on the moon or maybe even go to Mars."
+}

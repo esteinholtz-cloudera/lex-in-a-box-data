@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:17",
+  "End": "01:25:37",
+  "Text": "you like brainstorm with somebody? And I recently got to hang out with Mr Beast and sit on a session of brainstorming different ideas. I just envisioned you with a team brainstorming. All right. How about we try the mime and the molesting thing? I don't know. It's too edgy."
+}

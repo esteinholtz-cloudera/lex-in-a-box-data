@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:01",
+  "End": "00:40:13",
+  "Text": ". Isn't it funny? Sorry to interrupt. That title is meme that they went for such a profound idea they went with. I don't think anyone used that kind of title before. Right? Is"
+}

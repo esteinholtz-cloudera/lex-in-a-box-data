@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:03",
+  "End": "01:06:32",
+  "Text": "you think as a thought experiment? Do you think it's possible that they are already here? But we, humans are so human centric we're just not like our conception of what intelligent life looks like is, is. Um, don't want to acknowledge it. Like, what, what if trees like? Ok, I guess in the form of a question, do you think we'll actually detect intelligent life if it came to visit us?"
+}

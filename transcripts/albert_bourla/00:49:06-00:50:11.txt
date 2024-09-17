@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:06",
+  "End": "00:50:11",
+  "Text": ". But I definitely do think uh the scientists, the public science communicators, I've listened to over COVID have really disappointed me because they have not with empathy. They haven't sufficiently in my view, have put their ego aside and really listened to people. Yes, people that don't have a phd people who have not really, you know, maybe you've not even taken a biology course in college or something like that. But still they, they have Children, they worry, they fear they don't know who to trust. They don't if they should listen to the CEO of Pfizer who might have other incentives in mind, who might just care about money and nothing else. And so they just use common sense and they ask questions and I think to them talking down to them as if they're not intelligent and so on is something have done almost like roll their eyes. And that disappoints me because I think that's kind of, what is the source of division."
+}

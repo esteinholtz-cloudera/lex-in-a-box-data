@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:29:38",
+  "End": "02:30:08",
+  "Text": ", because the supreme leader tries to keep himself out of of everyday politics, supposedly. But therefore he is not coming to the United Nations to give a speech during the, uh, session. Uh, but Mr Ahmad Jo to, at the time was the president,, would come and make outrageous statements. That's why you probably know something about it. So"
+}

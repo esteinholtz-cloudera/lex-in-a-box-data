@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:08:56",
+  "End": "00:09:42",
+  "Text": "a Asimov Foundation trilogy. This is an amazing story of Harry Seldon. This, you know, foundation that he forms at different ends of the, well, according to the story, uh difference of the universe and has this focus on society. So it's not just space exploration for the sake of space exploration or novel technology, which is a lot of what I work on data to date. Mit but how do you structure a society across those vast expanses of distance and time? And so I'd say absolutely a favorite. Now though my favorite is Neil Stevenson and Seven Eves. It's a book that inspired my own phd research and some ongoing work that we're doing with NAS A. Now for the future of swarm robotics for spacecraft,"
+}

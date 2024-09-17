@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:04:35",
+  "End": "00:04:50",
+  "Text": "you think about the, what you just mentioned, the values and the methods and the rules and maybe the technology that science produces. But what about sort of the beauty, the mystery of science? Well,"
+}

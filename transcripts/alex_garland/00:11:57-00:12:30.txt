@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:57",
+  "End": "00:12:30",
+  "Text": "you look at the human civilization as a single organism in that sense, you know, this evolution could be us, you know, the evolution of the living organisms on earth could be just a single organism. And it's kind of,, its life is the evolutionary process that eventually will lead to probably the, the heat depth of the universe or something before that. I mean, that's, that's just an incredible idea. So you almost don't know, you've created something that you don't even know how it works"
+}

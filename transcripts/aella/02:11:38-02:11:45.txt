@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:38",
+  "End": "02:11:45",
+  "Text": "remember like in the party setting because I've had to talk to a few people. I felt like it was going sexual very quickly."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:18:24",
+  "End": "02:19:17",
+  "Text": ". And it's, I mean, when I think of the fact that you could create a dossier on somebody in a matter of 24 or 48 hours, if you could wire for two days, right? Internet of things style you put it in their underwear or whatever. Right. Some, some chip that just reads everything. How heavy are they walking? How much time do they sleep? How many times they open the refrigerator when they log into their computer? How do they do it? Like which hand do they use when they log in? Yeah. What, what's their most common swipe? What's their most visited website? You could collect an enormous amount of normative data in a short period of time or otherwise, we're stuck way that we do it now. Once or twice a week, we go out for a coffee for two hours and two hours at a time over the course of 68 weeks, 12 weeks, you're coming up with a 50% assessment on how you think this person is going to behave. that time savings is immense."
+}

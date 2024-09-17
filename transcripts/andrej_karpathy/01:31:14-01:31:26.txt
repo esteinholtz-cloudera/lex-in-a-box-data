@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:31:14",
+  "End": "01:31:26",
+  "Text": "comes to um a very large extent to what we are trying to achieve in the product for a map, what we're trying to the release we're trying to get out um in the feedback from the Q A team where it, where the system is struggling or not the things we're trying to"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:18:42",
+  "End": "01:19:09",
+  "Text": ", what we showed is that there's an error in the argument all black holes are the same because they hadn't kept track of these these very subtle things. um whether or not is the key error in the argument to be seen or whether this is a technical point,"
+}

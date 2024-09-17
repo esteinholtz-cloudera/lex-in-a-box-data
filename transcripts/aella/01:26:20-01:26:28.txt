@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:26:20",
+  "End": "01:26:28",
+  "Text": "that family friendly? is X like the one that I'm describing to you at some point, you can see my boob"
+}

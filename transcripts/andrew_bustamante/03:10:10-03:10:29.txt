@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:10:10",
+  "End": "03:10:29",
+  "Text": "do you think there's a on that point a connection between Barry Seal, great governor and then President Bill Clinton Oliver North and vice president, former CIA director George Hw Bush and the little town with a little airport called Mena Arkansas."
+}

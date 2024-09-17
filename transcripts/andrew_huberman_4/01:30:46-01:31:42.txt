@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:30:46",
+  "End": "01:31:42",
+  "Text": "we don't understand the subconscious because they want that A I algorithm cannot see into what it can't see. It doesn't understand the under workings of what allows all of this conversation stuff to manifest. And we can't even see it. How could A I see it? Maybe it will, maybe, maybe A I will solve give us access to our subconscious. Maybe your A I friend or coach, like I think Andreen and others are, are arguing. It's going to happen at some point. It's gonna say, hey, you know, Lex, you're making decisions lately that are not good for you. But it's because of this algorithm that you picked up in childhood that if you don't state your explicit needs up front, not gonna get what you want. So why do it from now on? You need to actually make a list of every absolutely outrageous thing that you want no matter how outrageous and that immediately. And that will work"
+}

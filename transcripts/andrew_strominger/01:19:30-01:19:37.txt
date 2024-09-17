@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:30",
+  "End": "01:19:37",
+  "Text": "was it like working with Stephen Hawking on this particular uh problem because it's kind of a whole journey, right."
+}

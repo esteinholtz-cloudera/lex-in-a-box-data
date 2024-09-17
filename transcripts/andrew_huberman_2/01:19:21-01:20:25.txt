@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:21",
+  "End": "01:20:25",
+  "Text": "wise. I'm just curious because was surprised I was certain that eating 567 meals a day is the right thing to do for if you want to perform your best when I was like 20 or whatever. I would eat oatmeal. Like I thought it's obvious I have to have a really a lot of carbs in the breakfast. I had a lot of preconceived notions. And then when I started eating once a day, this was at the peak of my competing in jiu jitsu, was like everything I know about nutrition is wrong. You realize that you have to become a scientist. First of all, you have to read literature, you have to learn you experiment, but you also have to become a scientist of your own body. In the same way, I have a lot of preconceived notions of what performance is like under a vegan diet and I want to do it right? Seriously, not necessarily for the ethical reasons but to see if it's performance wise. I remember there's a fruitarian diet where you eat fruit, only"
+}

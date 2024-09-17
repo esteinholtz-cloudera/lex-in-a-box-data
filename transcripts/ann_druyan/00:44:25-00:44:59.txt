@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:44:25",
+  "End": "00:44:59",
+  "Text": ", you know, the critical thing really was the fact that Seth mcfarlane became our champion I had been uh with three colleagues, I had been schlepping around from network to network with a treatment for cosmos and every network said they wanted to do it, they wouldn't give me creative control and they wouldn't give me enough money to make it cinematic and to make it feel like you're really going on an adventure. And"
+}

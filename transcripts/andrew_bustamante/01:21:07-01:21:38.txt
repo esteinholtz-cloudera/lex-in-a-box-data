@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:07",
+  "End": "01:21:38",
+  "Text": "physical characteristics. What about like um you know what actors do, which is the method acting. Yeah, the method acting sort of developing a back story in your own mind. And then you start know, pretending that you host the podcast and teach at a university and then do research and so on just so that people can believe that you're not actually a agent. What is that part of the disguise levels or"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:13",
+  "End": "02:15:19",
+  "Text": "advice would you give to your kids on how to live? Travel the world a life they can be proud of, travel,"
+}

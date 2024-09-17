@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:23:01",
+  "End": "01:24:33",
+  "Text": "? And so this is, and as I said, I have a biased lens and my robot friends will understand that. But so if you think about it and I actually put this in kind of the a roboticist, you don't necessarily think of robots as human with human rights, but you could think of them either in the category of property or you could think of them in the category of animals, right? so both of those have different types of rights. So animals have their own rights as a living being, but they can't vote, they can't write, they can be euthanized. But as humans, if we abuse them, we go to jail. Right? So they do have some rights that protect them, but don't give them the rights of citizenship. And then if you think about property,, the rights are associated with the person, right? So if someone vandalizes your property or steals your property, there are some rights, but it's associated with the person who owns that. If you think about it in the day, and if you remember we talked about, you know how society has changed, women were property, right? They were not thought of as having rights, they were thought of as property of"
+}

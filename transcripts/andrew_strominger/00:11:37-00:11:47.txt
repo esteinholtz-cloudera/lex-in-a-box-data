@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:37",
+  "End": "00:11:47",
+  "Text": "the interesting thing is Einstein himself didn't think that uh these uh objects we call the black holes could exist. But let me actually linger on"
+}

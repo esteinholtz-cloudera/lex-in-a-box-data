@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:05:03",
+  "End": "00:05:22",
+  "Text": "perfection, if you think about it and the more theoretical point of view, it's really tied to accuracy, right? So if I have a function, can I complete it at 100% accuracy with zero errors? And so that's kind of if you think about perfection in the sense of the"
+}

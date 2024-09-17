@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:35:14",
+  "End": "01:35:23",
+  "Text": "can't even ask that question with a straight face. That's so ridiculous. Like, OK, so know, you're going"
+}

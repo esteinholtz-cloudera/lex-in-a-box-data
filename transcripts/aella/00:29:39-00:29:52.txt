@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:39",
+  "End": "00:29:52",
+  "Text": ". The easy thing to measure is like a survey, does this thing appear conscious? And then the hard thing is you understand the actual mechanism of how consciousness arises in the physics of the human"
+}

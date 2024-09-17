@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:19",
+  "End": "02:11:40",
+  "Text": "also just not using anybody else's services, doing the, doing everything myself. So that's harder to figure out what the heck this person is doing because if I'm using somebody else's service, like I did with Q nap, have a QN A Nas, I use for cold storage of unimportant things, but a large videos and I don't know if you know, but QN A is a, is a company that does NAS storage devices and they got hacked and everybody that didn't update as of a week ago from the point of the zero day hack, everybody got hacked. It's several thousands of machines. And they asked, um can get your data back if you pay, I forget what it was, but it was um it was about a couple of $1000 QN A can get all the data back for their customers if they pay, I think $2 million. But that came from me relying on the systems of others for security. I was, I assumed this company would have their security handled. But then that was a very valuable lesson to me. I now have like layers of security and also an understanding which data is really important, which is somewhat important, which is not that important and layering that all together."
+}

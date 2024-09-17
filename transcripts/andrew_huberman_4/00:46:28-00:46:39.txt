@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:46:28",
+  "End": "00:46:39",
+  "Text": "when they get you, you know, I mean, you watch somebody like catch somebody if you know, not so much in professional fighting, but if people are sparring that they catch you, you, you acknowledge that they caught you like, like you got me"
+}

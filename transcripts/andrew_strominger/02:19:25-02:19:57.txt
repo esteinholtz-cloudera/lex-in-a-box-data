@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:25",
+  "End": "02:19:57",
+  "Text": "me ask you a kind of a heavy question for a physicist, but one on nuclear weapons just in general, what do you think about nuclear weapons? Where, like philosophical level brilliant physicists and brilliant engineering leads to thing that can destroy human civilization?, like some of the ideas you're working on power when engineered into machines, into systems, is there some aspects of you that worries"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:08:29",
+  "End": "03:09:05",
+  "Text": ", in that struggle for freedom, like I told you offline, one of my close childhood friends is Iranian just a beautiful person. His family is a wonderful family and on a personal level is one of the deeper windows into the Iranian spirit and soul that I've gotten a chance to witness. So I really appreciate it. But uh in the recent times, I've gotten to hear from a lot of people that are currently living in Iran that are currently have that burning hope for the future of the country. And so my love goes out to them and the struggle for freedom."
+}

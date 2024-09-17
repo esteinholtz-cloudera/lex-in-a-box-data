@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:14:53",
+  "End": "00:14:55",
+  "Text": "it? First of all, what's the Voyager spacecraft?"
+}

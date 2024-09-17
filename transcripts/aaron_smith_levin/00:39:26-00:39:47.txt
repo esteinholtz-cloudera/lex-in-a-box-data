@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:39:26",
+  "End": "00:39:47",
+  "Text": ". So here's even how, just how a Scientology auditor believes it works. holding the cans, there's a tiny little battery in that E meter that's sending you're completing the circuit when you pick up the cans, right? So you got a little thing go in there and that needle will respond to your physical movement, but that's not what we want. We want you to sit the hell still so that we can read this thing when I'm asking you questions."
+}

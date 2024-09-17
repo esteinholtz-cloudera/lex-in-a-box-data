@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:47",
+  "End": "02:43:05",
+  "Text": "so interesting that focus on the quantity of hours because I think a lot of people in the beginner stage, but actually, throughout get paralyzed by uh the choice, like which one do I pick this path or this path? Like they'll literally get paralyzed by like which ID"
+}

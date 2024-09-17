@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:45:08",
+  "End": "01:45:30",
+  "Text": ", you've already gotten yourself in trouble because you used the word reverse engineer. So if you're going to reverse engineer, that means, you know, you, you engineering means that you take the present and the future. Reverse engineering means that you take the present and determine the past, but"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:04:55",
+  "End": "03:05:01",
+  "Text": "there's also dance between the genius and the, the personal, what it means to love another human"
+}

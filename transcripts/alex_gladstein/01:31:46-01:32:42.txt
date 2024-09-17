@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:31:46",
+  "End": "01:32:42",
+  "Text": "mean, look, you have patriotism and then you have jingoism, right? It's very important and we stay on the patriotic side, like as an American, I'm very patriotic in terms of, I love the values that this country was founded on. If you read the Bill of Rights and I love the fact that it was just flexible enough that we were able to change it to grant or at least to try to grant all people. The same rights was not the original plan of the founders, right? It had to be changed. But since, you know, then we've, we've remained, um, know, like you know, tho those laws have, have remained and they're very good. Uh And I'm very proud of that. What I'm not proud of is the jingoistic part of our country where we invade other countries and bomb other countries and not proud of our prison system. I think it's a huge stain on our nation. I'm not proud of a lot of things. So I think you can be patriotic but you can be, you know, critical of your country. Um And that's important, you know, I feel like the jingoistic thing is, is the thing that we need to watch out for. Um That's just my own personal take"
+}

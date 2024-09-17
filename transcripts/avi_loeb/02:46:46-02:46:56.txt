@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:46:46",
+  "End": "02:46:56",
+  "Text": "an excellent question. And if we ever find an alien that we can converse with, I would like to answer this. I would like to ask for an answer to this question because, um,"
+}

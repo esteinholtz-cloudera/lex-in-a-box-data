@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:06:51",
+  "End": "00:07:25",
+  "Text": ", the first program I've written, I kind of do. It was in Q basic in fourth grade it was drawing a circle. Yeah, that was, I don't know how to do that anymore. But in fourth grade, that's the first thing that they taught me. I was like, you could take a special, I wouldn't say it was an extra, isn't a sense, an extracurricular. So you could sign up for dance or music or programming. And I did the programming thing and my mom was like, what, why"
+}

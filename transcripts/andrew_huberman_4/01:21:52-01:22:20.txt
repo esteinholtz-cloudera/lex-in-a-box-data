@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:52",
+  "End": "01:22:20",
+  "Text": ", I'm trying to figure out. So here's the thing you, uh, I think of like pop out like this right pinky finger. I'm trying to figure out how do I splint in such a way that I can still program, still play guitar protect this kind of torque motion that creates a huge amount of pain. You have a jiu jitsu injury, jiu jitsu, but it's not the kind of, it's probably more like a skateboarding style injury, which is,, it's unexpected and a silly and"
+}

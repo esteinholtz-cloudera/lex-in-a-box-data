@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:19",
+  "End": "01:36:37",
+  "Text": "don't, you're putting together a survey, a systematic survey to understand compatibility, power dynamics inside of relationships that naturally emerge often be part of the question or is that, is that hard to question because it naturally emerges."
+}

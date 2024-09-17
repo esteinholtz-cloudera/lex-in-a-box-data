@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:46",
+  "End": "01:25:02",
+  "Text": "of meaning you're not the center of the universe, when the you doesn't even exist that even you, the, the, the sense of self and the, and the sense of decision making is an illusion."
+}

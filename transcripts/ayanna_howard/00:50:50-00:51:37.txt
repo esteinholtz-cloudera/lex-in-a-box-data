@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:50:50",
+  "End": "00:51:37",
+  "Text": ", it was remote operation. And in fact, you can even find some old tech reports on it., think of it, you know, like now we have Da Vinci, right. Think of it. But these were like the late nineties, right. And I remember going into the lab one day and I was like, that? Right. And of course, it wasn't pretty. Right because the technology, but it was like, functional and you had this, this individual that could use version of haptics to actually do the surgery and they had this mock up of a human face and like the eyeballs and you can see this little drill. And I was like, oh, that is so cool. Um, that one I vividly remember because it was so outside of my, like, thoughts of what could be done,"
+}

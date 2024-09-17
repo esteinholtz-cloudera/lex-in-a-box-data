@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:02",
+  "End": "02:58:11",
+  "Text": "we can, that average, we can actually watch. It's nice to be able to interact with the big average of humanity and do like a search query on it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:02",
+  "End": "02:39:50",
+  "Text": "clubhouse, as you to answer your kind of question is there was a big improvement to me over Discord, which is it has tears. It has a stage where people, the person that created the room can invite people up that would like to speak, potentially have the opportunity to speak. And then there's a bigger audience don't get a chance to speak unless they click, raise their hand and they get called on. So there's like a tier system that allows for there to be group of like 5, 1020 30 people talking and a lot larger amount in the audience, which in discourse, the problem was that everybody could talk. And the other thing about Clubhouse is everybody is strongly encouraged to represent themselves. So you're using your real name. It's not anonymous."
+}

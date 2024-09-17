@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:46:56",
+  "End": "00:47:22",
+  "Text": "last video game I played was Mike Tyson's punch out. I met him recently. Went on his podcast. You went, you went, hasn't come out yet. Yeah, I asked Mike. Um kids are great. They came in, they're super smart kids. Goodness gracious. They asked great questions. Um Mike what he did with the piece of Evander's ear that, that he bit off. Does he remember he's like get back to him."
+}

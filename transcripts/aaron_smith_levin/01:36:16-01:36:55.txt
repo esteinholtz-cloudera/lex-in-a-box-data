@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:36:16",
+  "End": "01:36:55",
+  "Text": "this sort of goes back to, um, the conversation we're having about like, well, does Miss CVI really believe? And I said I could make an argument for the fact that he doesn't. Right, I go, it wouldn't be that hard to change the way Scientology treats people just a little bit and you'd probably stop losing anyone because Scientologists already believe to such a strong degree, you have to be pretty freaking horrible to people to make him leave. And that's where you go. Well, does Moskvich even want Scientology to expand? Because if he was really being clever about it, it seems like he could at least stop the bleeding and yet he doesn't. So that's where you make the argument. Well, if he doesn't, then he must not want to."
+}

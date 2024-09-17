@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:35",
+  "End": "02:54:47",
+  "Text": "in order to understand the world deeply, you probably have to integrate yourself into the world. And in order to interact with humans and other living beings, consciousness is a very useful tool. I think"
+}

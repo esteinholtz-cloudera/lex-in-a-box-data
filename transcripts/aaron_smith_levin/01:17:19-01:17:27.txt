@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:19",
+  "End": "01:17:27",
+  "Text": "do you audit the things? Are these like different shades of your inner mind and you just have to try to access them somehow."
+}

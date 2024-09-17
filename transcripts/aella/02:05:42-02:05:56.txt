@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:42",
+  "End": "02:05:56",
+  "Text": "do you think is more important to like just life, to reason versus emotion? Like not life to what makes us human? I guess"
+}

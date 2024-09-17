@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:15:28",
+  "End": "01:15:32",
+  "Text": ", that's not how it works in Scientology. OK. So"
+}

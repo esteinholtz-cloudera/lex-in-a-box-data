@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:03",
+  "End": "00:12:16",
+  "Text": ". Well, for me, it brings the clutter to the surface at first, like all these thoughts in there and then they dissipate because I got knee barred pretty hard. That's when somebody tries to break your knee,"
+}

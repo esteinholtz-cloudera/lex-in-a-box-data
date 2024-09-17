@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:19",
+  "End": "01:02:44",
+  "Text": "have, yeah, that's my impression as well. But it feels like maybe you're seeing the tip of the iceberg. the number of bots is in the trillions and you have to like just it's a constant assault of bots and I don't know, um you have to steal man the case because the bots I'm seeing are pretty obvious. I could write a few lines of code that catch these bots."
+}

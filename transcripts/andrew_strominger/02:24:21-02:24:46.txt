@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:21",
+  "End": "02:24:46",
+  "Text": "was, it was super fun. Thank you. for listening to this conversation with Andrew Strominger. To support this podcast. Please check out our sponsors in the description. And now let me leave you with some words from Werner Heisenberg. only is the universe stranger than we think is stranger than we can think. you for listening and hope to see you next time."
+}

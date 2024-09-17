@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:21",
+  "End": "01:07:31",
+  "Text": "is something is, is a place and a mechanism for start ups to go from zero to success, to try to develop a blueprint."
+}

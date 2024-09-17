@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:49",
+  "End": "02:18:13",
+  "Text": "time being emergent is a really trip you wanted to think about also. I wonder if it's possible at which point the experience of time becoming a part of the conscious experience of living organisms. So, is it something that evolved on earth"
+}

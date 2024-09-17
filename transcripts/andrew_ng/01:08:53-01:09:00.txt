@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:53",
+  "End": "01:09:00",
+  "Text": "think there is some aspects of that process that are transferable from one start up to another to another to another?"
+}

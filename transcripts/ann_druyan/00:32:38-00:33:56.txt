@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:32:38",
+  "End": "00:33:56",
+  "Text": "interesting because, you know, the rush hour is a source of stress for a lot of people, but clearly in its moments, it can also be a source of something beautiful that of strangers meeting and so on. So everything has a possibility of doing something beautiful. let me ask sort of a quick tangent on the Voyager, this beautiful romantic notion that Voyager one is sort of our farthest human reach into space. If you think of what I don't know if you've seen, but what Elon Musk did with putting the Roadster letting it fly out into space, there's a sort of humor to it. I think that's also kind of interesting but, maybe you can comment on that, but in general, now that we are, we're venturing out into space again in a more serious way. What kind of stuff that represent since Voyager was launched? Should we send out as a follow up? Is there things that you think that's developed in the next, in the 40 years after that, we should update the space faring aliens?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:35",
+  "End": "01:56:02",
+  "Text": "then you're having more fun because you're not pretending like laughing at a joke or something like that. That sounds terrible. Sounds like, but it's also like social. I mean, I guess I, I would, I do that like when you first meet people, like strangers and so on, there's some aspect of like cities but like, I don't know, intimacy, like real intimacy requires like getting past the nice cities, laughing at somebody's joke when it's not funny. Feels like anti intimacy."
+}

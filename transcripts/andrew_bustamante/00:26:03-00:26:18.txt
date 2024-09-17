@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:03",
+  "End": "00:26:18",
+  "Text": "do you think possible that Russia takes the south of Ukraine? It takes um So starting from Mariupol, the Hassan region all the way to Odessa,"
+}

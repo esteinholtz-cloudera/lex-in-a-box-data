@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:24:05",
+  "End": "02:24:23",
+  "Text": "things. But the tenure is a great privilege because it allows you to in principle explore things that are not accepted by others. And unfortunately, it's not being taken advantage of by most people and it's a waste of a very precious resource."
+}

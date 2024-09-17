@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:17:22",
+  "End": "00:18:15",
+  "Text": ". But my colleagues joke, um you know, pub med sort of scrolls through, through my, through my mind. Um Also in science as you know, attribution is so baked into what we do. um and I think that it's interesting because now spending a lot of time on social media attribution is not as common. And um but in academia, you learn really early on that. If you give a talk about your data and you cite all these amazing sources, all it does is you look better, right? Whereas in social media and elsewhere in the business sector, it's almost like citing other people, people feel as if it's going to take away some of the credit. All it does is place you in the company of people that do really nice work. So I have tremendous and I have genuine and tremendous respect for Tim. He's been about 10 years ahead on a huge number of health related things and other things, kind person, very thoughtful person. So it's also just a pleasure to shine light on other people. Yeah."
+}

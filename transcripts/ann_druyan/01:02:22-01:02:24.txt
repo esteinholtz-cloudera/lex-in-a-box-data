@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:02:22",
+  "End": "01:02:24",
+  "Text": ", that's not at the center of the origin"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:42:08",
+  "End": "01:43:04",
+  "Text": "was going to be my next answer to you is pushed me harder for a more provocative question where I might disagree with other people. I don't yet have my own opinions fully formed on this. But we are trying to figure out right now what happens to the moon with all of these first come first served actors arriving and setting precedents that might really affect future access. And one example is property rights. We do want companies that have the expertise to go to the moon and mine stuff that will help us uh you know, develop a human settlement there or a gateway. companies need to know generally that they have rights to a certain area or that they have some legal right to sell things that they're getting. Does that mean we're going to grant property rights on the moon to companies who has the right to give that right away? So there's a bunch of really kind of gnarly questions that we have to think about, which is why I think we need space lawyers. Maybe that's the true provocative answers. I think we need space. I"
+}

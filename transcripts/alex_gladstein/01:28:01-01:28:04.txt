@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:28:01",
+  "End": "01:28:04",
+  "Text": "think it's a pyramid scheme, you're not going to want to get involved."
+}

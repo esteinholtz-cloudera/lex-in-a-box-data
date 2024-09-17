@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:50",
+  "End": "02:20:59",
+  "Text": "can you describe to me? What is it? does it mean? Because there's like different terms? So you have a nice blog post about it? Yeah, I have"
+}

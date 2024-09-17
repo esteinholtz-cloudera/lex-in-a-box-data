@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:46:09",
+  "End": "00:46:23",
+  "Text": "know him well enough to know. I mean, we've done a little bit of work together and we're in communication now and again, he's obviously super impressive. Um don't know, it seems like he's a pretty private guy, you know, so I don't have access"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:58:37",
+  "End": "02:58:46",
+  "Text": "? would have some practical questions in my mind like uh do I or my loved ones really have to die? Uh What can we do about that?"
+}

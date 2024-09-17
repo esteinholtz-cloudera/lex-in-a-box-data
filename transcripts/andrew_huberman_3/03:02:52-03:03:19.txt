@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:52",
+  "End": "03:03:19",
+  "Text": "was one of the interesting things is um it was a sad thing because I believe there's no video of that podcast, but you could tell was a kind of there was suffering on this push on Tim's part. It was like a degradation. He started over time not being able to put words together correctly, which he's very eloquent. And so you could see there's like there's a"
+}

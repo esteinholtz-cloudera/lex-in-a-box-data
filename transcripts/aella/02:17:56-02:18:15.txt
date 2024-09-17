@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:17:56",
+  "End": "02:18:15",
+  "Text": "kinds of questions than you? Which is interesting. I've been trying to figure out what kind of brain that you have is like creating this category of question, which is why I was saying like there's something about a poetic narrative in there because it's very like, like, like aesthetic, I think you have asked much more aesthetic questions than I do."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:57:30",
+  "End": "03:58:25",
+  "Text": ", I I wonder what those conversations because I've never really like talk to those folks. this guideline in particular, I think has to refers to shorthand characteristics of rationalist discourse, including expect good discourse to require energy. Don't say straightforwardly false things track for yourself and distinguish for others. Your inferences from your observations, estimate for yourself and make clear for others. rough level of confidence in your assertions, make your claims clear, explicit and falsifiable or explicitly acknowledge that you aren't doing so or can't and so on and so forth. So don't jump to conclusions. weaponize equivocation. Don't abuse categories don't engage. It's very aggressive guidelines, don't engage. I do what I want. I let my emotions guide me. God"
+}

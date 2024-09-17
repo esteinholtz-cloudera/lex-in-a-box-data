@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:56:41",
+  "End": "01:56:59",
+  "Text": ", thanks for the kind words. I struggle like everybody else but I, um, been pretty about deadlines. Uh I miss them sometimes but sometimes that means cramming sometimes. That means starting early. But has"
+}

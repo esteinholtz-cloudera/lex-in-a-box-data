@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:34:21",
+  "End": "00:34:27",
+  "Text": ", you're looking at a bunch of them there. It's almost 32 of them. Yeah, clumping. They're clumping."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:30:44",
+  "End": "02:31:23",
+  "Text": ". Well, you can, for example, detect gravitational waves that emerged from that and there is an effort to do that and that could potentially tell us something. But then, uh it's a challenge and that's why we're stuck. So I should say, despite what physicists portray that uh you know, we live through an ex exceptional growth in our understanding of the universe. We're actually pretty much stuck. I would say because we don't know the nature of the dark matter, most of the matter in the universe, we don't know what it is. Uh And we don't know how the universe started. We don't know what happens in this, in the interior of a black hole"
+}

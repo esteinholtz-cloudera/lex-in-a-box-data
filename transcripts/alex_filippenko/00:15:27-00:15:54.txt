@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:27",
+  "End": "00:15:54",
+  "Text": "do you, how do you put yourself in the mindset of somebody that or majority of the scientific community or majority of people believe that the earth everything rotates around earth. do you put yourself in that mindset and then a leap to uh a model that the sun is, in fact at the center of the, the the solar system. Sure,"
+}

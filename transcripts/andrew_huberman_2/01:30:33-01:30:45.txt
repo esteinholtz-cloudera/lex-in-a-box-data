@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:30:33",
+  "End": "01:30:45",
+  "Text": "they can recount the event they can describe it without it triggering the same somatic experience of terror and dread. Um because terror, those feelings can be debilitating, obviously,"
+}

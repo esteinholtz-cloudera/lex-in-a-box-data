@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:28:13",
+  "End": "03:29:17",
+  "Text": ", that's one of like the sort of artistic attempts at a survey because, you know, like, at least from what I understand the big five and the way that they used to do IQ tests I've heard is that they do factor analysis, you know, where they a whole bunch of questions and then they run calculations on the data to like, sort of group it by organic clusters. So like with the big five, it's like people who say, oh, I like to be at parties. They also tend to say yes to the questions. Like I like being the center of attention. And so you notice that like there's a cluster of ways people are answering the question and then you can sort of pull out an organic spectrum. so I was like, OK, we've done that a whole bunch with things like personality or like romantic stuff. Like I did it with the Rape Spectrum survey. But like what happens if you apply that method to a completely unselected group of questions? Just like no random chaotic, no thing whatsoever. Like what happens is if you ask all possible questions, what natural things evolve out of that natural spectrums. So I had other people submit questions for a very large survey and I took the first, I think 1100 barely filter them at all. And then I just had a whole bunch of people answer them."
+}

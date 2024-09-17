@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:08:29",
+  "End": "03:08:36",
+  "Text": "Yeah, family control is like a way of manipulating somebody else that is non obvious."
+}

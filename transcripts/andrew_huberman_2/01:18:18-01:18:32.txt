@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:18",
+  "End": "01:18:32",
+  "Text": "to steak. You're right because coming from a Russian background. Like, I can't imagine going to visit my folks, like my parents for Thanksgiving or something to say. and dad. Um, uh, you know, I don't eat meat. So, is it, you know? Well, I think"
+}

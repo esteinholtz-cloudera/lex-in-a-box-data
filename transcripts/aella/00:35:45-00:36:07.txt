@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:35:45",
+  "End": "00:36:07",
+  "Text": "know some people who would call this a bunch of copi like you're just sort of making do with what you have. Like we wouldn't go back to Amish Times or like pre technology because to like, in order to make ourselves appreciate things more. And so it seems like a hindsight reasoning, I can appreciate that argument. But I don't know, I'm like"
+}

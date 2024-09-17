@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:09",
+  "End": "01:47:16",
+  "Text": "permeates all of this is, is a poetic. I mean, there is a history of poetry"
+}

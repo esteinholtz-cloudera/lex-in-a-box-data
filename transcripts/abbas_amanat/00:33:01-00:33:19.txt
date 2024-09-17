@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:01",
+  "End": "00:33:19",
+  "Text": "there's a big middle class, like you said, secular middle class in Iran. And there, there's a lot of at least capacity for if not revolution then um political, ideological uh turmoil"
+}

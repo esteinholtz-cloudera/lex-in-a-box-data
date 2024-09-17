@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:18:51",
+  "End": "03:19:01",
+  "Text": "amazing. I mean, it's like would be, just like a vivid experience of your childhood moment by moment, trauma, by trauma."
+}

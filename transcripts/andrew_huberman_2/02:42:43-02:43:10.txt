@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:43",
+  "End": "02:43:10",
+  "Text": "then you listen to like the parts, I don't know. You uh like uh Costello did something weird. Your dog did something weird and then you have to go goddamn it. You have to go to the kitchen or something to get something and then you come back it's funny, I watched a live video like that of people and I'll be there for the whole time. I'll wait for them to go to the kitchen and come back. It's not like I tune out and that makes it like a richer experience for some reason. It's weird. Well, it"
+}

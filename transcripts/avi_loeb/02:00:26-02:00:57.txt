@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:00:26",
+  "End": "02:00:57",
+  "Text": ", she, she, she was wise enough to recognize the risk but, um, it saves me time and it also keeps me away from crowds, you know, I don't have the, uh, notion of what a lot of other people think. So I can think. Yeah, exactly., uh, putting, so I was surprised to hear that for students it's extremely important to share experiences. Even if they go on a spaceship with aliens, they still want to brag about it rather than look around and see what's going on."
+}

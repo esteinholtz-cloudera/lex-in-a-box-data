@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:44",
+  "End": "01:11:19",
+  "Text": "? Well, Hitler did the same thing when he became the supreme leader. He had to take power. Yeah, he had to wait for the president to die. But the whole the whole time, there's a control of information and, and a slow aggregation of power, of course, with nations is different because if you control the military, you control a lot. So there's you have to also get the generals on your side and so on. But I'm sure in this situation, there is kind of dynamics. You have to get certain people on your side control the flow of information. Uh let the original founder, the original leader die off and make sure that you are the one that's left with the"
+}

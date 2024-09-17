@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:46",
+  "End": "00:56:27",
+  "Text": "and that allows for creativity to flourish. I'm also, I don't like that feels like a slippery slope. So I, I enjoy introducing noises and signals uh training my mind to be able to tune them out because I feel like you can't always control the environment so perfectly because uh because your mind gets comfortable with that, I think it's a skill that you want to learn to be able to shut it off. Like I often go to like back before COVID to a coffee shop. It really annoys me when there's sounds and voices and so on. But I feel like I can train my mind to, to block them out. it's, it's a balance,"
+}

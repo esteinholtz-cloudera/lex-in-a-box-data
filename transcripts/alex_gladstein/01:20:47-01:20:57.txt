@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:20:47",
+  "End": "01:20:57",
+  "Text": "the, the something like a lightning network where you can escape some of the constraints of the Blockchain on your needs of the privacy and all those kinds of"
+}

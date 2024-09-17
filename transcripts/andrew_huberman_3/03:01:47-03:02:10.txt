@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:01:47",
+  "End": "03:02:10",
+  "Text": "of my favorite things I've listened to, I wish there was a video is listening to a bunch of stuff with Rick Rubin and he did a thing with Tim Ferris, the Tim Ferriss Podcast. I don't know if you've ever heard it, but he forced them to do, they did the podcast in a sauna. I don't think at the time, Tim Ferris was adapted."
+}

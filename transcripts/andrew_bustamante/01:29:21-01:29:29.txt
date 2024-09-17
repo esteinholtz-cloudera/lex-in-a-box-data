@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:29:21",
+  "End": "01:29:29",
+  "Text": ". Right. You have to be in a bin, just choose the bin. right. So how uh"
+}

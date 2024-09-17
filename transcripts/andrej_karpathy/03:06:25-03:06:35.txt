@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:06:25",
+  "End": "03:06:35",
+  "Text": "my hope is that it happens slowly enough and an open enough way where a lot of people can see and participate in it. figure out how to deal with this transition, I think, which is gonna be interesting."
+}

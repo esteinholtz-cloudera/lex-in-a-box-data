@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:46:37",
+  "End": "03:46:42",
+  "Text": "explode. Like, let's make our consciousness is huge."
+}

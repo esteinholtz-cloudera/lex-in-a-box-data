@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:45",
+  "End": "00:40:54",
+  "Text": ". Why is this interesting? Why is it, does this mean that there is some um not perfect determinism or what does that mean? There's some uncertainty. No,"
+}

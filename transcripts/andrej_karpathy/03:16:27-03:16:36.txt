@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:16:27",
+  "End": "03:16:36",
+  "Text": "also layers of the software. I mean, it's, it's not, it's a abstraction on top of abstractions. But OK,"
+}

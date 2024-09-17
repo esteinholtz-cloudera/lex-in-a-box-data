@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:13",
+  "End": "01:11:40",
+  "Text": "would you say are some of the open problems in education? Sort of it's exciting. So young kids and the folks or just folks of all ages who need to be retrained, who need to sort of open themselves up to a whole another area of work. What are the problems to be solved there? How do you think robots can help?"
+}

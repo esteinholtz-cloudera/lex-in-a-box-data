@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:21:05",
+  "End": "02:21:10",
+  "Text": "love it because you haven't been under that system."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:08",
+  "End": "03:07:23",
+  "Text": "not possible to infiltrate the CIA A S a small part of the CIA in order to attain political or criminal uh gains,"
+}

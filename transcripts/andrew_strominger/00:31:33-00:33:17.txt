@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:31:33",
+  "End": "00:33:17",
+  "Text": ", a theory that describes with astonishing accuracy. the most theory in the history of human thought theory and experiment have been successfully compared to 16 decimal place. We have that stenciled on the door where, where I, where I work. You know, it's a, it's an amazing, it's an amazing feat of the human mind. describes um the electromagnetic interaction unifies the electromagnetic interaction with the so-called weak interaction, which you need some good tools to even view the weak interaction. And then there's the strong interaction which binds the quarks into protons the forces between them are mediated by something called Yang Mills theory, which is a AAA beautiful mathematical generalization of electromagnetism which the analogs of the photons carry charge. um so this uh the final piece of this, the Standard Model, everything in the Standard Model has been observed, its properties have been measured. The final particle to be observed was the Higgs particle. served like a over a decade ago,"
+}

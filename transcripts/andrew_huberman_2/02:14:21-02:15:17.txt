@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:21",
+  "End": "02:15:17",
+  "Text": "a computer vision perspective, people that wear makeup and usually women on their eyes, is it complicates things like eyelashes, all complicated things you can clean stuff up just so you have really crisp signal. You don't have to, you can deal with issues. But there's so many hours of Joe Rogan video. Anyway, I say all that because I was searching for an interesting personal experiment for me because I saw in drivers when I was looking at eye movement and drivers, it seemed to indicate seemed to be quite a lot of signal there that indicates amount of cognitive load, but it's not clear if there's something conclusive. if there is some signal. That's a really powerful one because eye movement could be detected in the wild. Like you and I sitting here, I can detect eye movement really well. Pupil dilation is a really crappy indicator and it's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:01",
+  "End": "00:42:03",
+  "Text": "you classify it as, like suffering"
+}

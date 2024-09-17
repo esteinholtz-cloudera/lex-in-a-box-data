@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:49:54",
+  "End": "02:50:01",
+  "Text": "me, thinking or reasoning is just information processing and generalization. And I think the neurons already do that today to"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:34:50",
+  "End": "00:35:42",
+  "Text": "interesting because you were also, it's interesting because one of the problems of the internet of having so much information is it's actually the, the human curation is still the powerful, beautiful thing. So what you did with the record is actually exactly the right process. It's kind of boiling down a massive amount of possibilities of what you could send into something that represents, know, the better angels of our nature or represents our humanity. So if you think about, know, what would you send from the internet as opposed to sending all of Wikipedia, for example, all human knowledge is there something just new that we've developed, do you think, or fundamentally, we're still the same kind of uh human species,"
+}

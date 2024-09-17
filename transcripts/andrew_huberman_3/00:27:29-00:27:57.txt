@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:27:29",
+  "End": "00:27:57",
+  "Text": "you are. There's one quote that I've seen out there where he says, you know, I'm like the talking about himself. He says, you know, I'm like the fish that got through the net. There's no stage version of me, right? How he is person is how he is uh you know, out in the world. And of course, there's nuance to his life, right? And his different um relationships, of course, but it's true. I mean, we've had the, you know, the great fortune of spending time with him out away from the microphones, so to speak, is Joe."
+}

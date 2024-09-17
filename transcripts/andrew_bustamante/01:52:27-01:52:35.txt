@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:27",
+  "End": "01:52:35",
+  "Text": "in terms of compressed representation of another human being, you can't do much better than those four"
+}

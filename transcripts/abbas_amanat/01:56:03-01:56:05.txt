@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:03",
+  "End": "01:56:05",
+  "Text": "wasn't the first Ayatollah. No, no,"
+}

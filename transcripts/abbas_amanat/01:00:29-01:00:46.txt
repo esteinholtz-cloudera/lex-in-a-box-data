@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:00:29",
+  "End": "01:00:46",
+  "Text": ", the extent that they could be ignored. Nothing. But if they could not be ignored. And it's actually quite remarkable that this is very embarrassing to them, but somehow they think that this propaganda machine of them is working. So"
+}

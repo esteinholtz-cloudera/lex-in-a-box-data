@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:55:43",
+  "End": "02:56:05",
+  "Text": "every American think that they're not that safe. is no tactical advantage there. You think so? Absolutely. If, if, if, if the Austin PD started telling you every day about the, these crazy crimes that they prevented, that make you feel more safe? It would make you feel like they're doing their job. Is that obvious"
+}

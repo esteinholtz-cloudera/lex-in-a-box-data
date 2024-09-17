@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:12",
+  "End": "01:39:32",
+  "Text": ". Those are just tools to get in there that said we did listen to some Justin Bieber earlier today. That was uh, I need to get more into them. I need to, I need to understand the full complexity of the bes trying to achieve what hunting stands for. But at a much larger scale, which is what kind of Bel Campo stands for. But what are your thoughts on hunting as a source of meat? It's"
+}

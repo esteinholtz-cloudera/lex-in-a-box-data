@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:44:11",
+  "End": "01:44:18",
+  "Text": "took him 10 years to write, is vindication for me and for you, because we're both supposed to write books and we haven't done"
+}

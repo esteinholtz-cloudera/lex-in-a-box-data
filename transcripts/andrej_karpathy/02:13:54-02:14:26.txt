@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:13:54",
+  "End": "02:14:26",
+  "Text": ", but I don't know to what extent it will be explicitly constructed. Um It might take unintuitive forms where you are telling the GP T like, hey, you have a, you have a Declarative memory bank to which you can store and retrieve data from. whenever you encounter some information that you find useful, just save it to your memory bank. And here's an example of something you have retrieved. And this is how you say it. And here's how you load from it, you just say load you teach it in text in English. And then it might learn to use a memory bank from from that."
+}

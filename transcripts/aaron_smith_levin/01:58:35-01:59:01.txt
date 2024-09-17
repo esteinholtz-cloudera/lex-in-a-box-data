@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:35",
+  "End": "01:59:01",
+  "Text": ". Yeah. Yeah. I mean, sex and sex and that kind of dynamic is really, um, mean, human humans do what humans do and then there's drama and all that. It's, it's understandable because everybody's so intimate. It's a closed tribe. It makes sense to limit sex otherwise everyone's, but otherwise it becomes a sex cult which a lot of them end up becoming or on that topic. Would you classify Scientology"
+}

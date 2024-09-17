@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:23",
+  "End": "00:16:20",
+  "Text": "about folks who argue for flat earth is they are thinking, they are questioning actually what has now become intuition. It's become the mainstream narrative that the earth is round where people actually don't, know. Yeah, don't think actually how crazy it is that the earth is round. We're in a ball and that's exactly what you're doing. You're looking out at the space, it's really humbling because I think the basic intuition when you're walking on the ground, you kind of there's an underlying belief that earth is the center of the universe. There's a kind of feeling this is the only world that exists and you kind of know that there's a huge universe out there, but you don't really load that information in. And I think flat earthers are really contending with those big ideas."
+}

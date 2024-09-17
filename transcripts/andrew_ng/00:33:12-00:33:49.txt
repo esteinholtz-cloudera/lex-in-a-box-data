@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:12",
+  "End": "00:33:49",
+  "Text": "now running three efforts, the A I fund landing A I and Deep learning dot A I. you've said, the A I fund is involved in creating new companies from scratch learning A I is involved in helping already established companies do A I and deep learning A I is for education of everyone else or of individuals interested of getting into the field and excelling in it. So let's perhaps talk about each of these areas first, deep learning dot A I, the basic question, how does a person interested in deep learning get started in the field"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:17",
+  "End": "01:08:49",
+  "Text": "I've been very suspicious on this exact point. That's the downside of kind of being an introvert, having anxiety about social interaction. But then having so much love thrown your way because connect over podcasts, podcasts have a powerful way of connecting people. So people come with you with love that I really love. I appreciate. But I wonder exactly this question like, why is this person with a Russian accent talking to me and showing me so much love"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:27:35",
+  "End": "00:28:23",
+  "Text": "I think another key piece to this, um, which I don't have answers to, but, but there is an element of emotion and rage in the physical violence versus again, more of that clinical, you know, information warfare. And so, um, it's really easy to show a battlefield where there's death on both sides and bombs being dropped and buildings destroyed. Um, it, it fits very well into propaganda for everyone involved. Right. Regardless of what side they're on. you start talking about cyber warfare, how many times have we seen a big company get data hacked or information hacked and we all, you know, read the headlines, maybe throw a tweet out and then move on with our day and don't remember it anymore. And so it's just very, very different, I think, uh, in, in the motion and response that it invokes in people when they hear about it as well."
+}

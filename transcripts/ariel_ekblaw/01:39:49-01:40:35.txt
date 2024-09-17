@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:49",
+  "End": "01:40:35",
+  "Text": ". How do you envision that spread of humans? Because you said at the beginning of the conversation, something about like increasing the scale of basically humans in space. Are they just like in um they're in orbit and then they get a little farther and farther out, like, do you see this kind of floating cities just getting farther and farther from earth? They can always kind of return. But if you look a few centuries from now, do you just see us all these floating cities? Yes. And it just kind of envelops the space around us in these neighborhoods. It's rural and there's like structures and there's small pirate structures and that kind of"
+}

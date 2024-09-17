@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:44",
+  "End": "00:49:51",
+  "Text": "would, we would return to the fundamentals of representation learning that that really started this movement of deep learning."
+}

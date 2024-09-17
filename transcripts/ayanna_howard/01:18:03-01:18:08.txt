@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:03",
+  "End": "01:18:08",
+  "Text": "you're the jealous type. I see we humans are the"
+}

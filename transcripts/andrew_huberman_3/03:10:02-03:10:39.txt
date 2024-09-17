@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:10:02",
+  "End": "03:10:39",
+  "Text": "a book called The Erotic Imagination. It's a very psychoanalytic book written by a psychoanalyst that talks about um how, well, here's the uncomfortable reality. Freud was at least right about one thing which is that the brain circuitry that you used to develop attachments to your caregivers, mother and father or other caregivers not disappear when you hit puberty, they are repurposed for romantic and sexual relations. so this is why the whole notion of anxious, attached and secure attached, you know, stems from childhood attachment patterns, but it carries over to romantic relationships"
+}

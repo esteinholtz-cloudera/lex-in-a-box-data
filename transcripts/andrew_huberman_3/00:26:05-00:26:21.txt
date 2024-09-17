@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:26:05",
+  "End": "00:26:21",
+  "Text": "like that's a very Rick Rubin kind of thing, right? That the details really matter, the details really matter right down to your relationship to the microphone, right distance and whether or not it brings out the timbre in your voice. But of course, that's what he does. He produces music,"
+}

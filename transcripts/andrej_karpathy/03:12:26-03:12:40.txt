@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:12:26",
+  "End": "03:12:40",
+  "Text": ", I think so. That seems to be the, that seems to be how it's going right now. And I don't see that trend like really reversing. I think people are diverse and they're able to choose their own path in existence and I sort of like celebrate that. And so will you spend"
+}

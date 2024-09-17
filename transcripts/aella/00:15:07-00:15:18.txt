@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:07",
+  "End": "00:15:18",
+  "Text": "very clean simplification. But think life is more interesting than, just self replication."
+}

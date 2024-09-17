@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "04:00:58",
+  "End": "04:01:04",
+  "Text": "kind of romantic. A little bit. It has a bit of that spark"
+}

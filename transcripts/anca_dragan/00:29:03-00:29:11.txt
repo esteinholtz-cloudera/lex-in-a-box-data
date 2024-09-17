@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:29:03",
+  "End": "00:29:11",
+  "Text": "is that they must be assuming that makes this behavior make sense a good life lesson, right. Good. That's"
+}

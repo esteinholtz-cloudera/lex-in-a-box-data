@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:15:07",
+  "End": "00:15:39",
+  "Text": "either. He went back and forth, but he wrote a paper and I think 34 saying that gravity waves didn't exist because people were very confused about what a coordinate transformation is. And in fact, this confusion about what a coordinate transformation has persisted. we actually think were on the of solving it years later., what 100"
+}

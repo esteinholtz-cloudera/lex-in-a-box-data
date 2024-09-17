@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:34",
+  "End": "02:11:02",
+  "Text": ". The number, I thought it would be, the number would be hard, but it's not, it's the entirety of it, in the early days was just spending. was kind of embarrassed to say how many hours this took. So I didn't say publicly how many hours because people I knew people would be like,, you, aren't you supposed to do other stuff?"
+}

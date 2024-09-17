@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:31",
+  "End": "01:58:59",
+  "Text": "listen to his podcast this week in virology. He's also an incredible lecturer and educator. uh it's fascinating. It's fascinating when people take again that leap of putting all that education online, that's non controversial at all. It's like everybody there people should go listen to him for the most part in terms of at his best. At least there's no politics in it. There's, there's, there's"
+}

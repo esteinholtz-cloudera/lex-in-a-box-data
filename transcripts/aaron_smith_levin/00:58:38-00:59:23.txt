@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:38",
+  "End": "00:59:23",
+  "Text": ", what about the control of negative information on the internet? What, like the actual operations, I've, you know, preparing, I should admit, I don't know too much about Scientology. I was doing a bunch of reading and the Wikipedia page on Scientology. Interestingly enough is not that negative about Scientology. So it made me ask, have to be a little bit careful how you consume stuff from Wikipedia you have to consider because money can buy things there, there's, there's certain special interests and so on. But it made me wonder like, like with a lot of controversial topics, what is true? And where do I look? Where do I go for truth? So like how much sort of deliberate action is there to control what is true on the internet by Scientology?"
+}

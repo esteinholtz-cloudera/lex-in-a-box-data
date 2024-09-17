@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:29",
+  "End": "00:40:43",
+  "Text": "concepts in deep learning do you think students struggle the most with or sort of is the biggest challenge for them was to get over that hill. It's, it hooks them and it inspires them and they really get"
+}

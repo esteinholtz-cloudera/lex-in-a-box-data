@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:41",
+  "End": "02:46:06",
+  "Text": "and they evolve the time, which is fascinating with Clubhouse. It's a new social network. So it's evolving and people are figuring out as you go. the same thing with podcasting on video and scientific podcasting. This is a cool thing when I look at what you've created. learning. I'm thinking like, hm, that's interesting to do it this way because I have nobody to copy not many people to copy. You know what"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:17:42",
+  "End": "03:18:18",
+  "Text": ". And then I'm also suspicious of textbooks honestly because as an example in deep learning, uh there's no like amazing textbooks and the field is changing very quickly. I imagine the same is true and say uh synthetic biology and so on these books, like the cell are kind of outdated, they're still high level, like what is the actual real source of truth? It's people in wet labs working with cells, you know, sequencing genomes and, actually working with working with it and uh I don't have that much exposure to that or what that looks like. So I still don't fully, I'm reading through the cell and it's kind of interesting and I'm learning but it's still not sufficient. I would say in terms of understanding"
+}

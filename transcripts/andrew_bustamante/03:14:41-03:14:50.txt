@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:14:41",
+  "End": "03:14:50",
+  "Text": ". So all the sort of cover up looking things around 911 is just people being embarrassed by their failures."
+}

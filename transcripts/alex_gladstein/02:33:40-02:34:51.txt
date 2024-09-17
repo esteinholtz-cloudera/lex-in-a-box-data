@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:33:40",
+  "End": "02:34:51",
+  "Text": "don't often zoom out that much. I feel like my day job is pretty interesting. It keeps me very engaged um With all the stuff we've been talking about. Uh As far as the meaning of life though, it seems quite clear that we do have the possibility as a species to create um these, you know, beautiful communities and constructs and to share an exploration the world together. Um that is often marred by cold realities that we've discussed. But I do feel like in a way um that the meaning of life is that that pursuit uh um of course, biologically is, you know, the spread our species, right? But also to, to pursue knowledge and science and innovation and,, and freedom. Most importantly, I mean, I think freedom has to guide us or else we end up with prison camps. If we don't let freedom guide us, we end up with the prison camps. So we need to have scientific innovation and adventurism and colonization of the stars. But without the slavery and without the prison camps, I think that's so key,"
+}

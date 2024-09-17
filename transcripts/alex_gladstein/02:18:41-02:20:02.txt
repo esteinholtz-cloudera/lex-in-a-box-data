@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:18:41",
+  "End": "02:20:02",
+  "Text": "funny. I mean, I sure a lot of people would have said that about Europe before the explorers ventured out Columbus and the rest on to the unknown. The thing about human nature. Is that we are explorers too. Some small fraction of us are insane enough to explore in the most dangerous. And I'm pretty sure there's quite a few people that would love to take the first step on Mars, the first few steps on Mars in the harshness of environments, even when the odds of survival are extremely low. I'm thankful for those people I sit back and drink my vodka back here on earth and enjoy good friendships because I think ultimately that step to Mars going to be a first step into a multi into exploring and colonizing the rest of the galaxy. Mars might be a harsh environment but maybe space is not like other planets, other exoplanets but also forget planets just creating colonies that flow about in space. Um There's exciting technologies that are yet to be discovered, yet to be engineered and built that I think require that first painful step like uh yeah, the journey of 1000 miles starts with one step. I think Mars is that first step."
+}

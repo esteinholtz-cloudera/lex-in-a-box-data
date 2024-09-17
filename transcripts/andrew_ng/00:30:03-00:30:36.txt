@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:30:03",
+  "End": "00:30:36",
+  "Text": "? find it today we have maturing processes to managing code, things like right version control. It took us a long time to evolve the good processes. I remember, I remember when my friends and I were emailing each other C++ files and email, you know, but then we have that CV S aversion get maybe something else in the future. Um We're very immature in terms of tools of managing data and think of how to clean data and how to solve very hot messy data problems. I think there's a lot of innovation there to be had though."
+}

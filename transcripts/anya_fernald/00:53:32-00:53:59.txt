@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:53:32",
+  "End": "00:53:59",
+  "Text": "implicit and regenerative, I call it out separately because we are certified Humane, right? Which is another layer of welfare that has to do with density and a couple of other things, but regenerative. I mean, think about it if you're a cow and you're in a regenerative operation where whole life cycle of the pasture means that you only eat the top six inches of the grass and then when there's whatever, a couple of inches left and that feels left dormant, that's a better experience, right? So, just think about it kind of functionally that"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:18:56",
+  "End": "01:19:33",
+  "Text": "part. Can, I mean, just think about it. There we have and I don't use dating sites, but from what I heard, are some individuals that have been dating that have never saw each other. Right. In fact, there's a show, I think that tries to weed out fake people. Like there's a show that comes out. Right? Because people start faking like what's the difference of that person on the other end being an A I agent? Right? And having a communication and you building a relationship remotely like there's no reason why that can't happen"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:39",
+  "End": "03:05:42",
+  "Text": "you think Skynet is at all a possibility?"
+}

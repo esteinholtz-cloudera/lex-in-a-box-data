@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:52",
+  "End": "00:34:11",
+  "Text": ", but there's questions of harshness embodiment also the same kinds of questions because those are my two favorite A I movies. So can you compare Hal 9000 and Ava Hal 9000 from 2001 space Odyssey and Ava from Ex Machina. In your view, from a philosophical perspective, they've"
+}

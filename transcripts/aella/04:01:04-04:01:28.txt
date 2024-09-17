@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "04:01:04",
+  "End": "04:01:28",
+  "Text": "constantly being denied. Wow. So most of your existence on earth would be spent deeply with death just thinking about death. think we're already doing that, but like hiding that from ourselves a little bit anyway. Wanting. Wow, this is an amazing conversation. I think you're an amazing researcher and human being. You're"
+}

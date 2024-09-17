@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:55",
+  "End": "02:00:48",
+  "Text": ", from the individual perspective, it's pretty powerful. I wonder. I mean, I think that's an interesting debate. What's better for the long term economy? No better for the growth of the civilization. Because capitalism is fascinating. It seems, it seems to work pretty well. this kind of like Eric Weinstein says that one of the problems is for the past several decades, this whole economy, society has built an idea that we have to keep growing. It depends on that idea. And it's a good question whether that's going to result in huge problems or if a college student on a deadline, the dependence on growth will mean that we'll have to grow like the fear of death will force us to grow. But, but I think"
+}

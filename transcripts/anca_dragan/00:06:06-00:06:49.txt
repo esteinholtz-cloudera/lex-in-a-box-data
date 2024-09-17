@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:06:06",
+  "End": "00:06:49",
+  "Text": "? The thing is I liked math from very early on, from grade is when I got into the math Olympiad and all of that, Romania is like our national sport you can understand. So I got into that fairly early and, and it was a little, maybe too just theory with no kind of, I didn't, kind of didn't really have a goal other than understanding, which was cool. I always liked learning and understanding but there was no, OK, what am I applying this understanding to? And so I think that's how I got into more heavily into computer science because it was kind of math means something you can do tangibly in the world. Do you"
+}

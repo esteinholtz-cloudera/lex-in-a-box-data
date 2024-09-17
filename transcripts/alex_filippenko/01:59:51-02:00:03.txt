@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:51",
+  "End": "02:00:03",
+  "Text": "all of his heartbreaking. Some people argue that the Nobel Prize has been diluted to because if you look at Roger Penrose, you can make an argument that he should get the prize by himself. it's so separate, those"
+}

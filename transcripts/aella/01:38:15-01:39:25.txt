@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:15",
+  "End": "01:39:25",
+  "Text": "I'm a Yeah, I'm trying to think as you're talking, I get it. It's, that's really interesting that you did that also maybe not for the effectiveness of finding a partner but for just exploring the actual the process of, of human sexuality, of, of, of the search this complicated optimization process we're all engaging in on the landscape of happiness that seems to be uh this um not even a differentiable function. It's, it's, it's a giant nonlinear mess. OK? But like for me, I don't think I would be able to design that survey. I would like bias it too strongly. Like um would probably prefer women have read Dostoyevsky or something like that. Like that would be a filter for me, right? But that's a horrible filter because there's a lot of like, there's a lot of amazing people that have never, they don't give a shit about reading or they don't give a shit about reading Russian literature or they don't give a shit about but they're amazing and passionate and creative and all in some other dimension that you might completely miss. But you're like, I wonder if there's any, basically you're saying compatibility, like hard lines that, you know, statistically is just going to be an issue."
+}

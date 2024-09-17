@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:04",
+  "End": "01:00:50",
+  "Text": "just to linger on that for a little bit longer, what final dreams and goals do you think people should have? So what options should they explore? So you can work in industry? So for a large company like Google, Facebook, Baidu, all these large sort of companies that already have huge teams of machine learning engineers, you can also do with an industry, sort of more research groups like kind of like Google research, Google Brain. Then you can also do, like we said, a professor in a in academia. uh what else? Oh, you can still build your own company. You can do a start up. Is there anything that stands out between those options or are they all beautiful different journeys that people should consider?"
+}

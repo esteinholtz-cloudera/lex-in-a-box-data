@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:35:54",
+  "End": "01:36:08",
+  "Text": ", I think this debate is always like slightly confusing to me because it seems like the actual debate should be about like, do you have the fleet or not? That's like the really important thing about whether you can achieve a really good functioning of an A I system at the scale. So,"
+}

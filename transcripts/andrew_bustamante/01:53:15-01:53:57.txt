@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:53:15",
+  "End": "01:53:57",
+  "Text": ". I don't see it as sad because it's, for me, the faster you learn it, the faster you learn what your own sort of natural strengths and weaknesses are, faster you get to stop wasting time on things that you're never going to be good at and you get to double down on the things that you're already naturally skilled or interested in. So there is a, there's always a silver lining to a cloud. But I know now that I will never be a ballerina or a ballerina. I know that I'll never be an artist. I'll never be a musician. never be any of those things. And when I was 18, that might have made me sad. But now at 42 I'm like, well, shit awesome. I can go be something else good. I'm always"
+}

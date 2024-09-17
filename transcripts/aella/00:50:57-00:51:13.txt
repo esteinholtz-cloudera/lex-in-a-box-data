@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:57",
+  "End": "00:51:13",
+  "Text": ". I like stuff with the body in general. Like uh like wrestling or like usually when there's a tension, you have to understand the mechanics of how two bodies move when they're in conflict and dancing is."
+}

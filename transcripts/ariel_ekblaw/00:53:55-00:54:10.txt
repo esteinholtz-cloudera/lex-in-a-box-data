@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:53:55",
+  "End": "00:54:10",
+  "Text": "to develop cancer at a younger age? So you'd probably be able to get there and get back. But you'd find yourself um in the same way, if you were exposed to significant radiation on earth, you'd find significant bad health effects as you age."
+}

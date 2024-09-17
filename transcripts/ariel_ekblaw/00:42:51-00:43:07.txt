@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:42:51",
+  "End": "00:43:07",
+  "Text": "great question. I do not know water at the caps. I suspect NASA from all of the satellite studies that they've done at. Mars have a decent idea of what the water deposits look like, but I don't know to what degree they have characterized those."
+}

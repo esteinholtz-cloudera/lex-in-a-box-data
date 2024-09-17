@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:48",
+  "End": "01:21:58",
+  "Text": "there a lot of variation in the um the basic rest happiness for humans general? Is that, is that a good thing to say?"
+}

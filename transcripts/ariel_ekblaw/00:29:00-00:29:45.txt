@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:29:00",
+  "End": "00:29:45",
+  "Text": ". One could be sleeping quarters, one could be a greenhouse or an agricultural unit. One could be a storage depot. all of the different rooms or functions that you might need in a space station could be subdivided into these nodes and then stacked together. And one of the promises of both Tessera, my original phd research, which is these shells. And then this follow on node concept is that right now we built space stations and once they're built, they're done, you can't really change them profoundly. the benefit of a modular self assembling system is you can disassemble it, you can completely reconfigure it. So if your mission changes or the number of people in space that you want to host, if you have a space conference happening like south by southwest, I was"
+}

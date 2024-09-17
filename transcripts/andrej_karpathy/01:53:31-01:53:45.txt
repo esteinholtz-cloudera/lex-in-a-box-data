@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:53:31",
+  "End": "01:53:45",
+  "Text": "like Terminator One as well. So OK. So like a few exceptions. But by and large for some reason, I don't like movies before 1995 or something. They feel very slow. The camera is like zoomed out. It's boring. It's kind of naive. It's kind of weird. And also"
+}

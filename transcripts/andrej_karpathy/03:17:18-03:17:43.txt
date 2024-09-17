@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:17:18",
+  "End": "03:17:43",
+  "Text": "why I love college, early college, even high school, just textbooks on the basics of computer science and mathematics, of biology, of chemistry. Those are they condense down, like, uh, it's sufficiently in general that you can understand that both the philosophy and the details. But also like you get homework problems and you get to play with it as much as you would if you weren't., programming"
+}

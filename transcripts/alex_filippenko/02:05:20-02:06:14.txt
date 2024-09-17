@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:20",
+  "End": "02:06:14",
+  "Text": ". So I I also think a fan of fiction as a fan of stories that the, the, the travesty and the tragedy and the unfairness and the tension of it what makes the prize and similar prizes beautiful, the decisions of other humans that result in dreams being broken. And that's why we love the Olympics as so many people, athletes give their whole life for this particular moment and then there's referee decisions and little slips of here and there, like the little misfortunes that destroy entire dreams. And that's it. It's weird to say, but it feels like that makes the entirety of it even more special if it was perfect. It wouldn't be"
+}

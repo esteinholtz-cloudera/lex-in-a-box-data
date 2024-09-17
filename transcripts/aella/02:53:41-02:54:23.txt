@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:41",
+  "End": "02:54:23",
+  "Text": ", so you've put together an ask whole car deck with a lot of awesome questions to ask at a party anywhere honestly, including on the podcast. Let me ask you one from, from, from that deck is sex really about power. So what's the role of power dynamics in sex everything you understand from the survey in terms of what people are turned on by? You've talked about the preferences that women versus men have for submissiveness and dominance we've already talked about it a little bit, but it's expressed more strongly. I already forget the results, but I feel like women have more preference to be submissive."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:10:18",
+  "End": "02:10:50",
+  "Text": "going to describe it horribly because it's like one of those things that's difficult to describe unless you experience it like kind of like. But it's something like you sit around, there's like kind of guidelines to the conversation where you talk about the present moment, you're like honest about your experiences as much as you can be. And if you don't want to be honest and you say, I don't want to be honest. Um, and you're like, commitment to connection. So you're here to actually connect with the other person to understand them and be understood. Um, you're not supposed to like, project. So if you're like, have an analysis about the other person, you own it, you're like, I'm experiencing you as this, you know, and then you check, is it true?, or"
+}

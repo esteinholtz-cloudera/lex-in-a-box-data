@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:54:06",
+  "End": "00:55:18",
+  "Text": "the other piece with, you know, certified organics. Amazing. There's, you know, there's plenty of certifications that, know, grass fed and finished is also great, but there are workarounds for those. You can have certified organic feedlots, you can have grass fed and finished, which is, uh, you know, animal fed a grass seed pellet. aren't things that we do here, right? And regenerative captures that because if you're, it's anything you're isolating these very specific certifications, it doesn't have a holistic approach. Regenerative though, unfortunately, isn't certified yet. We've gotten USDA approval to use that word based on our carbon sequestration data, but it's not a regulated term. that's kind of the mix right now is to figure out how to document it. And it's not totally clear what it means like for pigs and chickens, which are omnivores. It's very clear for ruminants which are animals that have a ruin that eat grass for omnivores, which is like what we are. They eat primarily grain in farming operations. And that's a little bit more complex. So it's kind of a moving landscape, but regenerative as a word is the better definition of the whole life cycle approach of letting animals and nature work together."
+}

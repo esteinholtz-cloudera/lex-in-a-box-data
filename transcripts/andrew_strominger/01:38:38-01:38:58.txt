@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:38:38",
+  "End": "01:38:58",
+  "Text": "but but you right, we're more interested in understanding than actually, actually doing the predictions. But the predictions are more focusing on how to make predictions is a good way to improve your understanding because you know, you've understood it if you could do the predictions"
+}

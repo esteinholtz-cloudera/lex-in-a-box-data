@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:32:23",
+  "End": "03:32:27",
+  "Text": "can choose your own adventure mostly. And that's not, it's not fully true,"
+}

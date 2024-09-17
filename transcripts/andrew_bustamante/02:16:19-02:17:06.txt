@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:16:19",
+  "End": "02:17:06",
+  "Text": "most difficult thing in the world is consistency. It's the most difficult thing in the world. Some people say that discipline or self-discipline, what they're really talking about is consistency. When you have someone who performs consistently over long periods of time, under various levels of stress, you have high, high confidence that that is the person that you can trust. You can trust. Again, you can trust them to behave within a certain pattern. can trust an asshole to be an asshole trusting the asshole to take care of your kids, right? So I don't ever want to mix up the idea of personal trust versus trusting the outcome. You can always trust a person to operate within their pattern of behavior. It just takes time for you to get a consistent to get consistent feedback as to what that baseline is for them"
+}

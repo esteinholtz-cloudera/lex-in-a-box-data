@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:30",
+  "End": "01:44:35",
+  "Text": "string theory hasn't really looked at the Big Bang. It hasn't really tried to get to see the origin,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:40",
+  "End": "01:09:58",
+  "Text": "is exciting open area research. Exactly. So what are some exciting applications of human robot interaction? You started a company? Maybe you can talk about the exciting efforts there but in general also what other space can robots interact with humans and"
+}

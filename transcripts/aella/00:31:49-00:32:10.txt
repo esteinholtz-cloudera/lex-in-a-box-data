@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:49",
+  "End": "00:32:10",
+  "Text": "like the reverse of insider trading. What were we talking about? Oh, the women and the men and the difference, the vivid dreams the markets. I forget what the market. Oh Because I can, I can perfectly predict your future, but then it's not fun. I like the raw mass of unpredictability. And so I like to, even though I know everything, I like to forget everything."
+}

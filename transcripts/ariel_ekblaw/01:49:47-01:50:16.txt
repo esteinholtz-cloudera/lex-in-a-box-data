@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:47",
+  "End": "01:50:16",
+  "Text": "for this? Yeah. big ridiculous question building on top of that. What do you think is the meaning of life, this individual life of ours, your life that unfortunately has to come to an end as far as we know for now and our life here together. Is there a why or do we just kind of let our curiosity carry us away?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:41:44",
+  "End": "00:41:49",
+  "Text": ". In my mind it's a 10 part series of manda being eight or 11 or 12. I don't know why"
+}

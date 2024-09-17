@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:14:28",
+  "End": "00:14:42",
+  "Text": "you mentioned a million awesome things there. Let's even just, can you tell me about the Voyager one and two spacecraft and the and the interstellar message project and that whole just fascinating world leading up to one"
+}

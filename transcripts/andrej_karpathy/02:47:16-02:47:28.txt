@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:16",
+  "End": "02:47:28",
+  "Text": "that there's like type papers to be written where like uh like very simple idea that requires just one computer to illustrate a simple example."
+}

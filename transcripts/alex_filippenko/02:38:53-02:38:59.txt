@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:38:53",
+  "End": "02:38:59",
+  "Text": "so much for talking to us for the honor of, of having been asked to do this."
+}

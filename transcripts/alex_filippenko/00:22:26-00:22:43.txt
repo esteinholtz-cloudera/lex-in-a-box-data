@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:22:26",
+  "End": "00:22:43",
+  "Text": "we're gonna leave out the anthropogenic uh causes of our potential destruction, which I actually think are greater than the celestial uh causes. So, if"
+}

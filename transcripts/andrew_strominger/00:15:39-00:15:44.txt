@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:39",
+  "End": "00:15:44",
+  "Text": "later, what is coordinate transformation as it was 100 years ago to today?"
+}

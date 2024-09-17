@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:27",
+  "End": "00:58:55",
+  "Text": "that there's a kind of shift from gold to Bitcoin because they have a lot of the same properties except one is in the physical space, the other in the digital space. So do you see like central banks quietly potentially switching out from sort of gold to Bitcoin. Like naturally it's just doing, seeing the pattern that you're referring to now, but more drastically into the future where there's a complete shift. If"
+}

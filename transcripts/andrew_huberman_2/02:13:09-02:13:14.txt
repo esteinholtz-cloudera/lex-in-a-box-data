@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:13:09",
+  "End": "02:13:14",
+  "Text": "catalog when there was marijuana consumption or when I was drinking."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:18:04",
+  "End": "02:18:32",
+  "Text": "always look green to me, but I answer yours not despite that. Um But they, I feel like the android phone very trigger happy like anything I touch does something whereas the Apple phone is kind of built for like a macaque monkey to be able to operate, which is great for me because I'm more of a macaque monkey and you're a more sophisticated. Ape. I see. I see. I think like you have to be more sensitive, you have to be to have, you know, I mean, I've got fat fingers, you know, I've got clumsy fingers, you know, so the"
+}

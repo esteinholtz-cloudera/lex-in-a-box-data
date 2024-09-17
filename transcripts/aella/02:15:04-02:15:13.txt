@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:04",
+  "End": "02:15:13",
+  "Text": "you think you can be if you're heterosexual, do you think you could be really deeply close friends with a guy and not have sexual relationships with him?"
+}

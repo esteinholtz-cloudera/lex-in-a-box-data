@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:52",
+  "End": "03:03:05",
+  "Text": "by the way, is there any proof that that kind of stuff works or does it just shows it shows that there's interest, it shows that there's openness to consider those kinds of things. But is there any evidence that that kind of stuff works?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:37:27",
+  "End": "01:37:53",
+  "Text": "was a democracy. Was there? Elections? There were elections. Yes, of course. Yes, of course. And there were very diverse political tendencies came to the picture including the two party of Iran which is Communist Party of Iran. communist party of Iran is probably the biggest Communist Party of the whole of the Middle East. And one of the biggest in the world actually at that time,"
+}

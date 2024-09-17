@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:05:51",
+  "End": "01:06:04",
+  "Text": "or fear that these women are not any longer the girls that we fought, we are bringing up in this society. The source of you losing"
+}

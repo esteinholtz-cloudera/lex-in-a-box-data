@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:06:06",
+  "End": "01:06:26",
+  "Text": "Rubin is at when you first meet him is intimidatingly calm. But as you get to know him a bit, you realize that his, the kindness and the generosity that you sense is real. Um yeah, I would never in a million years uh have guessed that you get anxious in"
+}

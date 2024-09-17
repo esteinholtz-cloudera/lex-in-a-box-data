@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:20",
+  "End": "01:38:58",
+  "Text": "you actually posted that we're gonna talk on Instagram and I, I collected a bunch of the questions which reminds me of I, I have to um Mike Jones and a question he asked, but also a gift he gave quite a while ago if it's OK. But first a quick bath and break. Yes, looking at an Instagram page of uh Mike Jones knife and two, you should check it out. He get, he uh Andrew gave me a gift from him. is a bad ass butcher knife. Yours is the earth dot dot das from If by R Kipling."
+}

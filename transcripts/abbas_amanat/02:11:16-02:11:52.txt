@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:16",
+  "End": "02:11:52",
+  "Text": "fascinating that uh how much of a weird quirk of history is it that um that religion would take hold in a country? does it have to do with the individual? It seems like if we re ran the 20th century 1000 times we get the uh 79 revolution resulting in um Islamic law, like less than, know, 1% of the time it feels like or no. Which percentage"
+}

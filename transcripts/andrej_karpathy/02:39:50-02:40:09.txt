@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:50",
+  "End": "02:40:09",
+  "Text": "question from Reddit, do you or have you suffered from imposter syndrome? Being the director of A I Tesla, being this person when you're at Stanford, where the world looks at you as the expert in A I to teach, teach the world about machine learning."
+}

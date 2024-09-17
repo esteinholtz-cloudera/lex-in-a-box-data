@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:09:55",
+  "End": "00:10:46",
+  "Text": "first of all, it looks like the most expensive book report you can ever imagine. It's got its own binder. It's all very high end, it feels important, it looks important. It's not like a cheap trapper keeper. It's somewhere between, I would give it probably between 50 100 and 25 pages a day. It's produced every day around two o'clock in the morning a dedicated group of analysts. And uh and each page is essentially uh a short paragraph to a few paragraphs about a priority happening that affects national security from around the world. The president rarely gets to the entire briefing in a day. He relies on a briefer instead to prioritize what inside the briefing needs to be shared with the president because some days the P DB will get briefed in 10 minutes and some days it'll be briefed over the course of two hours. It depends on the President's schedule,"
+}

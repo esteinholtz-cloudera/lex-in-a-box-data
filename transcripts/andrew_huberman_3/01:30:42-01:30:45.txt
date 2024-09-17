@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:42",
+  "End": "01:30:45",
+  "Text": ", we didn't just get married. He proposed,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:30:16",
+  "End": "00:31:27",
+  "Text": ", uh or no, if you assume the reflectivity is the same, then it's just geometry. If you assume the reflectivity may change, then it could be a combination of the area that you see and the reflectivity because different directions may reflect differently. the point is that it's very extreme. Um And uh it actually the best fit to the light curve that we saw was of a flat object, unlike all the cartoons that you have seen of a cigar shape, a flat object at the 90% confidence gives a better model for the way that the light varied. And uh it's like flat, meaning like a pancake, like a pancake. Exactly. And then, so that's the, you know, the very first unusual property. But to me, it was not unusual enough to think that it might be artificial. It was not significant enough then um there was no commentary tale, you know, no dust, no gas around the this object. And the Spitzer Space telescope really searched very deeply for carbon based molecules. There was nothing. it's definitely not a comet. The way people expected it to be, can can"
+}

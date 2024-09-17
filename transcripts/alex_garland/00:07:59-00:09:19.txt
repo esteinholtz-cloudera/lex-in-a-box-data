@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:07:59",
+  "End": "00:09:19",
+  "Text": ", of the things I was trying to do in annihilation was to, to offer up a form of alien life that was actually alien because,, it, it, it would often seem to me that in the way we would represent aliens in, in, uh, books or cinema or television or any one of the sort of storytelling mediums we would always give them very human like qualities. So they wanted to teach us about galactic federations or they wanted to eat us or they wanted our resources like our water or they want to enslave us or, or whatever it happens to be. But all of these are incredibly human like motivations. And, um, I was interested in the idea of an alien that was not any way like us. It didn't share it. Maybe it had a completely different clock speed, maybe its way. So we're, we're talking about, we're looking at each other, we're getting information light hits our optic nerve, our brain makes the best guess of what we're doing. Sometimes it's right. Something you know, the thing we were talking about before, what if this alien doesn't have an optic nerve? Maybe it's way of encountering the space it's in, is wholly different. Maybe it has a different relationship with gravity."
+}

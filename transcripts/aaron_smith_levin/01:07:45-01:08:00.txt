@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:45",
+  "End": "01:08:00",
+  "Text": ". Sounds like Stalin and Trotsky similar story. It's the person oftentimes in a situation. it's not the natural successor to power. It's the one that takes power,"
+}

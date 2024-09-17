@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:45",
+  "End": "00:57:39",
+  "Text": "you worry about bots on the internet?, given these ideas, given how exciting they are. Do you worry about bots on Twitter being not the stupid bots that we see now with the crypto bots? But the bots that might be out there actually that we don't see that they're interacting in interesting ways. So this kind of system feels like it should be able to pass the, I'm not a robot click button, whatever. Um Which do you actually understand how that test works? don't quite like there's a check box or whatever that you click, it's presumably tracking mouse movement and the timing and so on. So exactly this kind of system we're talking about should be able to pass that. So, yeah, what do you feel about bots that are language models plus have some interact ability and are able to tweet and reply and so on. Do you worry about that"
+}

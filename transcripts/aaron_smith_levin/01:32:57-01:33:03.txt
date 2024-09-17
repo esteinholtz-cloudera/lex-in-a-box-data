@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:57",
+  "End": "01:33:03",
+  "Text": "a face to the powers that are really controlled. Do they have names to it? Like who's controlling?"
+}

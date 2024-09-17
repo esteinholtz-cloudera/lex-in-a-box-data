@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:59:55",
+  "End": "03:00:03",
+  "Text": "love a I interstellar. By the way, I think it's like such a sidekick to the entire story. But the same time, it's like really"
+}

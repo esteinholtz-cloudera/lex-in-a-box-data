@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:37:14",
+  "End": "02:37:21",
+  "Text": "Yeah. Yeah. I mean, it's a paper and usually the the bar is higher for something that you would expect on archive as opposed to something you would see in a blog post"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:13",
+  "End": "00:48:35",
+  "Text": ", you didn't bring anything back. All, all you have is a memory of having a transformational experience, but you don't actually have the tools to bring back actual, actually concrete ideas to bring back. Yeah, it's interesting. You should, yeah, I wonder if it's possible to do that with the, with the mind to be able to hop back and forth. Like"
+}

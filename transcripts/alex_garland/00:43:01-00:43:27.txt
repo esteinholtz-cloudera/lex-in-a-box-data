@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:01",
+  "End": "00:43:27",
+  "Text": "side of that, the argument there is because we just consciousness to everything, almost an anthropomorphize everything including roombas, that maybe consciousness is not real, that we just attribute consciousness to each other. So you have a sense that there is something really special going on in our mind makes us unique and gives us the subjective experience."
+}

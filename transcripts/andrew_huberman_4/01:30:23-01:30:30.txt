@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:30:23",
+  "End": "01:30:30",
+  "Text": ", I feel like, well, there's a circuit there that gets implemented in a certain context but that circuit had to evolve."
+}

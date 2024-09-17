@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:31",
+  "End": "01:45:42",
+  "Text": "do you think it's possible to detect something actually experimentally be able to detect some, don't know what it is radiation, some some sort of cosmic"
+}

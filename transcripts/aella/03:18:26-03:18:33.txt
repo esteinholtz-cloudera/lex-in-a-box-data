@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:18:26",
+  "End": "03:18:33",
+  "Text": "had roommates, but the trip was mostly alone. I had somebody else who was sitting in the room but they weren't interacting with me. So you're"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:05",
+  "End": "01:19:21",
+  "Text": "dude who's like, I like as I'm dressing you with his eyes that like in a, in a, in a creepy way that you're just not, you don't, like, worry about it, you or you're not touch like, the fear of that, the anxiety of that, the, the, the unpleasantness of that just doesn't"
+}

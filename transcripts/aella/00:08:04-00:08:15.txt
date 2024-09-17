@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:04",
+  "End": "00:08:15",
+  "Text": ". So that's the big risk you're taking is putting yourself out there an intellectual, like through your writing and then a lot of people yelling at you, is that, is that the worst embarrassment you?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:41",
+  "End": "01:12:10",
+  "Text": "like complicated people with that. So what did you um what do you make of that calculation of family versus job? You've given a lot of your life and passion to the CIA to that work. Uh You've spoken positively about that, that world, the good it does. yet you're also a family man. You value that. What's that calculation? Like what's that trade off? I"
+}

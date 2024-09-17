@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:53",
+  "End": "00:48:00",
+  "Text": ". So you first and I apologize to interrupt. But can you say what is regenerative farming?"
+}

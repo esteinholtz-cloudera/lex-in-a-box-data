@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:19",
+  "End": "00:18:23",
+  "Text": "the brain can give us clues about some of"
+}

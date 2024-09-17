@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:08",
+  "End": "00:45:41",
+  "Text": "you grow up with something, you grow up with something, it's in the mud. But there's um of the things that people bring up, can't please everyone, including myself. This is what I first reacted to the film is the idea of the lone genius. This is the, the, the criticism that people say sort of me as an ad reacher. I'm trying to create what, what uh what Nathan is trying to do. there's a brilliant series called Chernobyl."
+}

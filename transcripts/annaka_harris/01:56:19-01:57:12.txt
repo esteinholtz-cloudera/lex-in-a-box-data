@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:19",
+  "End": "01:57:12",
+  "Text": ". No, I love the idea. Obviously, I love that idea. I love the idea. I fasted for three days. I want to fast for longer. That's also in a different way perhaps. But it brings you, makes you more sensitive to the world around you somehow. I'm not exactly sure what the chemistry of that is, but obviously you actually, it's not obvious because you're not always that hungry, you're more time slows down and you feel things, you feel a breeze, all this kind of stuff. It's very interesting. Uh You've, I think I tweeted something about ideas coming out from, sometimes feeling about co coming from outside of you sometimes. So you mentioned as you meditate, know, you notice these ideas come in. So ideas, how does that connect consciousness?"
+}

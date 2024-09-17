@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:49:51",
+  "End": "00:49:58",
+  "Text": "think there's a lot more work that one could explore around this theme of ideas and other ideas to come with better offers."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:03:52",
+  "End": "01:04:06",
+  "Text": "Scientology International. All rights reserved. Here's an example of just Scientology's complete lack of self awareness. So me and Mike Render, we went have these on like a house flip project, right? Mike Rinder, you know, Mike Render, do"
+}

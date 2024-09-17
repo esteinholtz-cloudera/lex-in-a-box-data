@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:57:56",
+  "End": "03:58:45",
+  "Text": "power of the individual? That's what uh what makes this country great. I have to say after traveling quite a bit in Europe and especially in a place of war, coming back to the United States makes me really appreciate about the better angels of this nation, the ideals that stands for the values it stands for. And I'd like to thank you for serving this nation for a time and humanity for a time um for being brave enough and bold enough to still talk about it and to inspire others to educate others for having uh many amazing conversations and for honoring me by having this conversation today. You're, you're an amazing human. Thanks so much for talking"
+}

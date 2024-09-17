@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:53:27",
+  "End": "01:53:53",
+  "Text": "use. One of the things that signal doesn't have and I believe kinds of applications need to have is like, I hate the term but killer app which is like dumb very viral and popular reason to switch. I didn't see exactly. I mean, I've been using signal but I haven't seen a, you know, a big reason to"
+}

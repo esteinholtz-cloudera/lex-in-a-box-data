@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:29:49",
+  "End": "01:30:03",
+  "Text": "good. Yeah, I think it's useful when I write my blog posts. Sometimes I do terribly, but it's the most effective when I imagine one person that I'm writing to, to try to explain and having a high couple watching the sunset is maybe really lovely as a calibration."
+}

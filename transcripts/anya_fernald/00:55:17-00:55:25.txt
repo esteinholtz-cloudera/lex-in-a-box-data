@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:17",
+  "End": "00:55:25",
+  "Text": "it true that it's possible to have a farm that doesn't produce it's carbon neutral."
+}

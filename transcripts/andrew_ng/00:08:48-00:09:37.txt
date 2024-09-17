@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:48",
+  "End": "00:09:37",
+  "Text": "of the things you actually revealed to the narrow A I community at the time and to the world is that the amount of people who are actually interested in A I is much larger than we imagined you teaching the class and how popular it became? It showed that. Wow, this isn't just a small community of sort of people who go to Europe and, and it's much bigger, it's developers, it's people from all over the world. I mean, I'm Russian. So everybody in Russia is really interested, there's a huge number of programmers who are interested in machine learning, India, China, South America everywhere. There's just millions of people who are interested in machine learning. So how big do you get a sense that this the number of people is that are interested your perspective?"
+}

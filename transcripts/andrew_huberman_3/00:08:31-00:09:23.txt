@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:31",
+  "End": "00:09:23",
+  "Text": "thing about the, the people there, they were talking to you in Russian and then they refused to sort of switch to English even though they understood you speak no Russian. This is Russian house in Austin, by the way, Anyway, what, by way of question, what's the worst or the best? Depending on your perspective. Cheap meal. Let's call it a pigging out meal. But it could be a cheap meal, uh, that you've ever had or you want to have that's like on the bucket list or something that's in the past like where you did the something like a bang bang, which is like you, you're talking about multiple thousands of calories you just feel horrible about yourself, but you still keep eating because it's delicious, but also great company. Something about the atmosphere is just right. Screw the diet. Screw all the things, you know, I just you should be doing but just throw it all out the window."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:36:30",
+  "End": "00:37:03",
+  "Text": ", because II I think people have this idea that if you uh like come to accept or like, find meaning in what you have now, this is sort of at odds with trying to improve it. I don't find this to be the case. I find like the attempt to improve it to also be part of it. Like I enjoy the fact that there's something problematic going on because now I get the experience of like striving to make it go away. And that in itself is where the meaning lies. It's not just that things are bad, it's that there's things are bad and we're trying to stop it. And also"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:25",
+  "End": "00:08:36",
+  "Text": "army, the Navy has all, all the different organizations have their own intelligence groups. So is there, is there clear lines here to be drawn or is the CIA the giant integrator of all"
+}

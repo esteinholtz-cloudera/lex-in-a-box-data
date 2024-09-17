@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:24:06",
+  "End": "03:24:17",
+  "Text": ". Absolutely. That's why the espionage act exists. That's why it's a criminal offense if you're committing espionage in the United States as a US citizen or a foreign citizen."
+}

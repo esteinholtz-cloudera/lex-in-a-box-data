@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:22:11",
+  "End": "00:22:52",
+  "Text": "for denial of death, I don't know if he says that it's actually possible without a lot of work to get to the actual terror. I think his claims that in early early early childhood development, when the terror is real. then we aggressively construct systems around it of social interaction to, to um sort of construct illusions at the top of it. I'm I'm doing a half assed description of this philosophy. But there is like, it is interesting to simplify the human mind into underlying that drive it."
+}

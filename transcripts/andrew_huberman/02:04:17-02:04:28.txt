@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:17",
+  "End": "02:04:28",
+  "Text": ", but there's, I don't think David has, any time for philosophy. Let's just put it this way."
+}

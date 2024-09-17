@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:23:49",
+  "End": "01:24:22",
+  "Text": ", pixels I think are a beautiful sensory, beautiful sensor. I would say the thing is like cameras are very, very cheap and they provide a ton of information, ton of bits. Also it's uh cheap sensor for a ton of bits. And each one of these bits is a constraint on the state of the world. And so you get lots of megapixel images uh very cheap and it just gives you all these constraints for understanding what's actually out there in the world. So vision is probably the highest bandwidth sensor. It's a very high bandwidth sensor. And um I I"
+}

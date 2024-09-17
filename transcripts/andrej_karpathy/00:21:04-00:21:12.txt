@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:04",
+  "End": "00:21:12",
+  "Text": "to build hard, feels like it feels like we're not a billion years away. From doing that. It just"
+}

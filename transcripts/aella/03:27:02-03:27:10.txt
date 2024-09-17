@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:02",
+  "End": "03:27:10",
+  "Text": "kind of think because Valentine's Day is coming up, I'm kind of think it's doing something crazy. I'm not sure. South of France sounds nice."
+}

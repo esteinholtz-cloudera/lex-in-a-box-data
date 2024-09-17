@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:30:11",
+  "End": "00:30:16",
+  "Text": ", and, and it's, that, that is not contained to Silicon Valley that's across the boom in"
+}

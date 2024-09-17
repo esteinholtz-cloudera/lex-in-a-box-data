@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:59:42",
+  "End": "01:00:16",
+  "Text": ". I always get afraid right before you reveal these kinds of things and now I know why I get afraid. Yeah, I mean, again, assuming that she did the things that people claim she did, despicable, right? I mean, these were underage Children, right? There's just no version of the story where she did the things she was accused of doing and is still a quote unquote good person. There's just in my mind, right? Um And yet I think there is tremendous interest in understanding like what led her to do all that. So at least"
+}

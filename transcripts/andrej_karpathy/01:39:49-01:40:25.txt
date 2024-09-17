@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:39:49",
+  "End": "01:40:25",
+  "Text": ". Yeah. Meetings. He hates meetings. He keeps telling people to skip meetings if they're not useful. Um He basically runs the world's biggest uh start up. I would say uh Tesla spacex are the world's biggest start ups. Tesla actually is multiple start ups. think it's better to look at it that way. And so I think he's, he's extremely good. At uh at that. And uh yeah, he's a very good um intuition for streamline processes making everything efficient. Uh Best part is no part uh simplifying focusing um and just kind of removing barriers uh moving very quickly making big moves. All this is a very startupy sort of seeming things but at scale"
+}

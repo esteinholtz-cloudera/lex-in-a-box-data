@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:47:38",
+  "End": "01:49:27",
+  "Text": ", review what it means for space to be emergent.. What it means for space to be emergent is that um you, you have a holographic plate you shine some light that's moving in space it produces an image which contains an extra spatial dimension time just goes along for the ride. what we'd like to and indeed, there is some rather concrete in this direction though again, I would say even within our stringing community, we're not getting a pluses on these efforts. What what we'd like to do is to see um in which the extra space time dimension time. In other words,, what, what we understand very well mathematically is how to take systems number of space time dimensions rewrite them as a plight in fewer space dimensions. What we'd like to do is to take systems with time in some number of space dimensions and to rewrite them is a system that had only space dimensions in it had no time evolution. there are some fairly concrete ideas about how to do that, but they're not, know, u universally accepted even within the community."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:23",
+  "End": "00:12:41",
+  "Text": ". And the whole thing through embryogenesis is built from a single cell. I mean, it's just the code is inside the DNA and it just builds it up like the entire organism with crazy in the head and legs and like it does, it pretty well,"
+}

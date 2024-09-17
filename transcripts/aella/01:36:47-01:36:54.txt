@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:47",
+  "End": "01:36:54",
+  "Text": "wait a minute, wait a minute, wait a minute, wait a minute. But the purpose of that wasn't to do a good research study. It was to select one subject that"
+}

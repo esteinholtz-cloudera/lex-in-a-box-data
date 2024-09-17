@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:44:29",
+  "End": "00:44:36",
+  "Text": "can't explain to you how you get a floating needle, but it sure as hell isn't hand sweat and it sure as hell isn't squeezing the cans, right?"
+}

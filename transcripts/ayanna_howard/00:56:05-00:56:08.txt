@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:56:05",
+  "End": "00:56:08",
+  "Text": ", right? Without the emotion,"
+}

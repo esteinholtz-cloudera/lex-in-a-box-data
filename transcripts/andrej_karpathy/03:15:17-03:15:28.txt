@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:15:17",
+  "End": "03:15:28",
+  "Text": "humans that the hardware is the fundamental thing I human is a hardware entity, but it could be the software, right?"
+}

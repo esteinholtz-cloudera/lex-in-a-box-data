@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:11",
+  "End": "02:06:22",
+  "Text": ", that's a different, that's interesting. I mean, I forget the camera. Maybe I need to find that joy as well. But like for me, a lot of the joys in the, in the writing and uh the, the camera there's something,"
+}

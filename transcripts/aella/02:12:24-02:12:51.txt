@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:24",
+  "End": "02:12:51",
+  "Text": "I would have walked away from that. I would have been like, curious, oh, interesting because I don't often see people having a deep interview about fetishes like I wouldn't even be listen, I'm like Jane Goodall here. Like, I'm not like, not afraid of sexuality or something like that. I just have certain values in terms of monogamy and so on. But I think sexuality is really beautiful. Yeah, I don't think,, I can't imagine myself walking away from that"
+}

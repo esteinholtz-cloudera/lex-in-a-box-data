@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:53:47",
+  "End": "01:53:53",
+  "Text": ". Yes. And The Godfather, there's like no A G I. So,"
+}

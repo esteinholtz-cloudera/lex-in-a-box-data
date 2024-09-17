@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:51",
+  "End": "01:09:54",
+  "Text": "eat carbs anymore. That's weird. Where do you even find"
+}

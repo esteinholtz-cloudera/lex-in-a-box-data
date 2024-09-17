@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:26:36",
+  "End": "03:27:02",
+  "Text": ". But that was like a cohesive thing. I don't know. There's times where you're allowed to be weird and times where you're not and if you're like, you, he had some vague eager gore of society. I'm not sure. some people are like, hey, we think you're cool. Come to this party. You're like, all right. I'm allowed to come to this party and be really weird. But if you're being picked up by a hitchhiker, they're going to want to make small talk and you can't be weird or they're going to kick you out."
+}

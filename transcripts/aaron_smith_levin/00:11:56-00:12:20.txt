@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:56",
+  "End": "00:12:20",
+  "Text": "a pretty powerful model of the mind. I mean, Freud had similar conceptions that a lot of our traumas are grounded in of poor formulation of sexuality or imperfect formulation of sexuality in early childhood, something like this. And then we're trying to figure out the puzzle whatever we formed in early childhood. And it's similar, similar kind of it is"
+}

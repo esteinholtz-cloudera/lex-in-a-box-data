@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:19",
+  "End": "00:40:38",
+  "Text": "not an issue on earth at all at all. OK. So we'll talk about each of those in a bit more detail. But me continue on the chain of dumb questions. What about food? What's a good source for food and space and what are some sort of standard go to meals menus"
+}

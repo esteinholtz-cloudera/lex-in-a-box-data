@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:59",
+  "End": "01:11:04",
+  "Text": "chimp relationships are overt versus covert. Well,"
+}

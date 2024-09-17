@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:23:13",
+  "End": "03:23:26",
+  "Text": ", for me, it's the ultimate meta problem. I don't want to work on one specific problem. There's too many problems. So how can you work on all problems simultaneously? You solve the meta problem, which to me is just intelligence and how do you um automate it?"
+}

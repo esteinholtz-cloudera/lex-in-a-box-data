@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:21",
+  "End": "00:29:23",
+  "Text": "calms you and focuses you. What does it do?"
+}

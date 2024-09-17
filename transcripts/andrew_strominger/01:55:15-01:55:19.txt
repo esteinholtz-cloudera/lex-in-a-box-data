@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:55:15",
+  "End": "01:55:19",
+  "Text": "you're not going to learn about the details before you've even seen it because"
+}

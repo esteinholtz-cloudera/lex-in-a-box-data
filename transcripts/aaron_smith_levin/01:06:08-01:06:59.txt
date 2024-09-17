@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:08",
+  "End": "01:06:59",
+  "Text": "a general process, sad to say of journalism where they're looking for any kind of dirt and it's, they're trying to conjure up a story and there's something about drama and negative stories that get clicks and so on. So this is a general process, more, especially the more celebrity you become, the more these kinds of attacks come and they look for any kind of thing that could be, you know, it doesn't even have to be facts. It could be just asking who is he really seems to have traction on the internet. What is the actual truth of the man you keep claiming you are of the good man you keep claiming you are. It's fascinating, but sometimes that can be effective. But I think if you're being transparent and authentic and just putting yourself out there completely and your story completely, then that's the best way to"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:48",
+  "End": "00:14:57",
+  "Text": ", I think, well, maybe it's an engineering perspective, like trying to reverse engineer the brain. I don't think we're equipped or understanding enough about the mind to get"
+}

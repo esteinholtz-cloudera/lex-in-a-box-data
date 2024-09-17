@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:15:05",
+  "End": "00:15:46",
+  "Text": "Costello. Exactly. You guys have a certain similarity. He had wrists like, you know, like you and Jocko and Costello have these like wrists and elbows that are super thick, you know, and then when you look around, you see tremendous variation. You know, some people will have like the, the um wrist uh width of a of a Whippet or Woody Allen and then other people like you or Jocko or you know, there's this one Jocko video or thing on GQ or something. Have you seen the comments on Jocko? These are the best the comments, I love the comments on youtube because occasionally they're funny. Um The best is when Ch was born, the doctor looked at his uh parents and said it's a man"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:48:34",
+  "End": "01:49:41",
+  "Text": "all boils down to that and the and the greater your claim, greater is the evidence that is needed. And the more evidence you need from independent ways of measuring or of coming to that deduction. And a good example was the the accelerating universe. You know, when we found it evidence for it in 1998 with supernovae with exploding stars, it was great that there were two teams that lent some credibility to the discovery. But it was not until other astrophysicists used not only that technique, more importantly, other independent techniques that had their own potential sources of systematic error or whatever, but they all came to the same conclusion. And that started giving a much more complete picture of what was going on and a picture in which most astrophysicists quickly gained confidence. That's why that idea caught on so quickly is that there were other physicists astronomers doing observations completely independent of supernovae that seem to indicate the same thing. Yeah,"
+}

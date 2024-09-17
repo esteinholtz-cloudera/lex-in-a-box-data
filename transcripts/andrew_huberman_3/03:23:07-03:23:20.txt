@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:07",
+  "End": "03:23:20",
+  "Text": "really know a person deeply. Yeah, you notice something early on. Sure. I don't know what that is, but you just notice something special and you want to keep pulling at that thread and you never really do. Well,"
+}

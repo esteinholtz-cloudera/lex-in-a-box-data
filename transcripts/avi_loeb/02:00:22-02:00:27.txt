@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:22",
+  "End": "02:00:27",
+  "Text": "I told you offline, I need to get married to such a woman. She truly is a special."
+}

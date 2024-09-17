@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:19",
+  "End": "02:07:25",
+  "Text": "and that's in some deep sense. That's where timing is everything with physics, with, with science, with"
+}

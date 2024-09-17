@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:28",
+  "End": "02:01:57",
+  "Text": "don't know much about psychic phenomena. But I also want to be open minded in the way we speak about collective intelligence because it's very easy to simplify it to it's a neural network trained on knowledge developed over generations and so on. It does feel like intelligence is stored in some kind of distributed fashion humans. Like, if you take one out, think that intelligence quickly goes down."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:13",
+  "End": "00:55:45",
+  "Text": "of this problem do you think can be learned through end to end the success of machine learning and reinforcement learning, much of it can be learned from sort of data from scratch and how much most of the success of autonomous vehicle systems have a lot of heuristics and rule based stuff on top like human expertise injected, forced into the system to make it work. What's your sense? How much, what would be the role of learning in the near term? I think,"
+}

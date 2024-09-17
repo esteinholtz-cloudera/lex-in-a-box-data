@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:15:07",
+  "End": "00:15:40",
+  "Text": ", that's good anytime I'm in Austin, I start thinking about barbecue. I do love, you know, I do love meat. My dad's Argentine. I mean, I love steak. I love meat. I mean, Argentina chorizo sausage is an appetizer before you have steak. So it's meat on top of the meat and it's not just, you know, it's not just the men. Right? You see women sometimes very petite women eating steaks that are bigger than their, the, their skull size, they eat very slowly there and they all eat dessert too, which is interesting and they generally do that sort of one meal per day and do that kind of reflexively."
+}

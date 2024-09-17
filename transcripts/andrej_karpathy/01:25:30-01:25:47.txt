@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:25:30",
+  "End": "01:25:47",
+  "Text": ". I mean, you have a powerful prior for how the world evolves over time, et cetera. So it's not just about the likelihood term coming up from the data itself, telling you about what you are observing, but also the prior term of like where, where are the likely things to see and how do they likely move and so on?"
+}

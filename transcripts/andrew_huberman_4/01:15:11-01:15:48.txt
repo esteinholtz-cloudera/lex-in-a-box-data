@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:11",
+  "End": "01:15:48",
+  "Text": ". Well, one of the challenges of being human is looking at another human being and figuring out way their way of being their behavior, which of the two types of contracts it represents because they look awfully the same on the surface. And one of the, one of the challenges of being human is the decision we all make is, are you somebody that takes a leap of trust and trust other humans that are willing to take the hurt? Are you going to be cynical and skeptical and avoid most interactions until they, they over a long period of time? Prove your trust."
+}

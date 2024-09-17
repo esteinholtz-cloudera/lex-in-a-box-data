@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:35",
+  "End": "00:18:23",
+  "Text": "the system to be fully distributed and just like an ant colony, if one of them uh is damaged or, you know, whatever uh control and all those kinds of things that, that, that doesn't affect the performance of the complete system or doesn't need to be centralized. This is more like almost a technical question. Do you think it would be an extra question? Right from the ground up. so scary to go fully distributed, but it's also exceptionally powerful, right, robust, resilient to the harsh conditions of space. Where do you if you look into the next 1020 100 years, um starting from scratch, do you think we should be doing architecture wise distributor systems"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:06:08",
+  "End": "00:06:29",
+  "Text": "that the fact that we know so little the humbling nature of that., and you kind of connect love to that. But isn't it also, isn't it scary, isn't it? is it so inspiring? Do you think? Why is it so beautiful that we know so little?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:57",
+  "End": "01:39:30",
+  "Text": "one of the interesting that might come to a head with is artificial intelligence. There's an increasing use of A I in physics. We might live in a world where A I wouldn't be able to predict perfectly what's happening. And so that as physicists you'll have to come to the fact that you're actually not that interested in predicting, mean, it's very useful but you're interested in really understanding the deep laws of nature versus a predictor. Like you want to play"
+}

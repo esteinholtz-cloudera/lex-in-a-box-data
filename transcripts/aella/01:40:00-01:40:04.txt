@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:40:00",
+  "End": "01:40:04",
+  "Text": "ought to avoid that if you're dealing with large amounts of data."
+}

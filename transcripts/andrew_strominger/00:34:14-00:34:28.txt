@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:14",
+  "End": "00:34:28",
+  "Text": ", I'll have some wild questions for you on that front. But yeah, anything that, yeah, because there's no gaps, it's so accurate, so precise in predictions. It's hard to imagine something"
+}

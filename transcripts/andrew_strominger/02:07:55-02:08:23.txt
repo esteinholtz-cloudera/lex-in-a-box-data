@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:07:55",
+  "End": "02:08:23",
+  "Text": "know, I wanted to, I wanted to reach Nirvana and I sort of realized that wasn't gonna happen. after that, I wanted to know the meaning of life and I realized I wasn't, wasn't gonna figure that out. And then I wanted to, like,, you know, and socialism and world things and figure those out either. And"
+}

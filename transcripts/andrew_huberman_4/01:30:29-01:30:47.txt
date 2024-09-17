@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:29",
+  "End": "01:30:47",
+  "Text": "do realize a supert A I will look at us humans and we'll say the exact thing. There's a circuit in there evolved to do this. The algorithm A and algorithm B and it's trivial and to us humans, it's fancy and beautiful, write poetry about it. But"
+}

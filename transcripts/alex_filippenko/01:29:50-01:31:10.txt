@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:50",
+  "End": "01:31:10",
+  "Text": ", I, I try to keep an open mind but for people who listen, um, actually really difficult for scientists. I get probably, like this year I've probably gotten over, maybe, maybe over 1000 emails on, on the topic of A G I. very difficult to know people write to me. It's like, how can you ignore this in A G I side? Like this model. This is obviously the model that's going to achieve general intelligence. How can you ignore it? I'm giving you the answer. Here's my document and there are always just these large write ups. The problem is it's very difficult to weed through a bunch of BS. It's very possible that you saw the UFO. But you have to acknowledge that by UFO, I mean, an extraterrestrial life, you have to acknowledge the hundreds of thousands of people who are a little bit, if not a lot full of BS and from a scientists perspective, it's really hard work and it's when there's amazing stuff out there, it's like why invest in Bigfoot evolution in all of its richness is beautiful. Who cares about a monkey that walks on 2 ft"
+}

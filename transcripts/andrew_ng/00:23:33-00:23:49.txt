@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:33",
+  "End": "00:23:49",
+  "Text": "path. You were a proponent of deep learning before it gained widespread acceptance. did you see in this field that gave you confidence? What, what was your thinking process like in that first decade of the, I don't know what that's called thousands,"
+}

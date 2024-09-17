@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:59",
+  "End": "01:29:12",
+  "Text": "on the c side, that's your unlike escorting or just personal relationships, you're trying to, you have an audience, you have, like, a theater full of people,"
+}

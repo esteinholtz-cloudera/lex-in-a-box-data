@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:31:16",
+  "End": "03:31:28",
+  "Text": "it's up to our imagination to try to predict what the world without death looks like. It's hard to, I think the values will completely change."
+}

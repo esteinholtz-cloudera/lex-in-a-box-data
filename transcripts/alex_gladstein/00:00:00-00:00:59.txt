@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:00:00",
+  "End": "00:00:59",
+  "Text": "The following is a conversation with Alex Gladstein, Chief Strategy Officer at the Human Rights Foundation and the Oslo Freedom Forum. In recent times, Alex has focused on how Cryptocurrency and especially Bitcoin can be a tool for empowering democracy and civil liberties in the world. Most crucially parts of the world that are living under authoritarian regimes. a side note, let me say that I have been learning a lot about the ways in which money can be used to amass power. And in the same way, the decentralization of money can be used to resist the corrupting nature of this power, Alex and I do not agree on everything, but we strive for the same betterment of humanity. He's sensitive to the suffering in the world and is dedicating his life to finding solutions that lessen that suffering whether Bitcoin is one such solution. I don't know, I think it has a chance and that means it is worth exploring deeply. I'm staying in this"
+}

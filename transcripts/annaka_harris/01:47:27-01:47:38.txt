@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:47:27",
+  "End": "01:47:38",
+  "Text": "really interesting. And addiction as well, which is interesting. That's not something I'm personally familiar with. So that was a surprise to me. But yeah, I mean, it's just wonderful that we,"
+}

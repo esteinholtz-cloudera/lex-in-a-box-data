@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:15:44",
+  "End": "01:15:55",
+  "Text": ", I have to. Um so I'm somebody who doesn't like are corrupting effects of greed, it is also human nature."
+}

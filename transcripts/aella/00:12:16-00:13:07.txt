@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:12:16",
+  "End": "00:13:07",
+  "Text": "think it's very difficult to be rigorous about sex. Like I would consider uh sexual urges to be kind of elusive to introspection and in a way that's a little bit disproportionate to a lot of other things. Like you could like, you know, introspect about, you know, how I want other people to like me and how, where my insecurities lie. But sex is one of those black box things, a really common thing is for people to, if you have a fetish, you sort of check back in your childhood to see an event that corresponds to that fetish. And then you like, develop a narrative, like ah this event in my childhood must have caused this fetish. And so I think this causes people to be biased towards like a like a concrete coherent causative way that events happen or there's that sexual fetishes happen. This is just like one example of like, why I think it's really hard to be rigorous with introspection because we can't avoid, you just want to tend towards making like coherent narratives, which I think is not always the correct way to explain it. The"
+}

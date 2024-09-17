@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:59",
+  "End": "00:38:23",
+  "Text": "right in to play with the network, to train it, to do the inference on a particular data set to build intuition about it without, building it up too big to where you spend. Like you said, six months learning, building up your big project without building any intuition of a small aspect of the data that could already tell you everything you need to know about that data."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:41",
+  "End": "02:02:39",
+  "Text": ", because I have the, we mentioned that earlier. I just appreciate the beauty in the world when I observe it. But then when I'm interacting with others, I have a very harsh self critical aspect to my brain that says like gonna fuck this up, you're gonna fuck up this interaction, you're gonna fuck up the, the beauty that's there. If I'm sort of being uh fraudulent, vulnerable for a moment. One of the things I'm afraid of, I get so much love from, from people that listen or even like reach out like you said through the survey, like women and so on. afraid that yeah, you admire me because you don't know me, but you won't admire me once you know me. So that's self critical. But it's a silly, I mean, as you get older, you're like, yeah, OK, I'm able to step away and objectively look at myself. I was like, there's no, you're fine. You're good. It's like, but it's still there is a part of the brain that you can't just shut off."
+}

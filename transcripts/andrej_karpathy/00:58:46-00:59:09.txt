@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:46",
+  "End": "00:59:09",
+  "Text": ", I mean, the worst isn't the A is the worst is the A I is pretending to be human. So I don't know if it's always malicious. There's obviously a lot of malicious applications, but it could also be, know, if I was an A I, I would try very hard to pretend to be human because we're in a human world. I, I wouldn't get any respect as an A I, I want to get some love and"
+}

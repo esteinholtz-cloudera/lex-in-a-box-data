@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:06:45",
+  "End": "03:06:52",
+  "Text": "times two and they still keep that stuff classified."
+}

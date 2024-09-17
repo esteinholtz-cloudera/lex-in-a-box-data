@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:34",
+  "End": "00:46:59",
+  "Text": "do you think about one flavor of it, which is language models? Have you been surprised? your sort of imagination been captivated by, you mentioned GP T and all the bigger and bigger and bigger language models? And uh what are the limits of those models, do you think?, just for the task of natural language,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:06",
+  "End": "00:11:18",
+  "Text": ", the weirdest thing here is that here we're looking at our own mind. you have to let go of your intuitions your own intuitions?"
+}

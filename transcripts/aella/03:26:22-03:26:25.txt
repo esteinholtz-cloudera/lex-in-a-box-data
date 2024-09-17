@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:26:22",
+  "End": "03:26:25",
+  "Text": "terrified of hitchhiking, but I have done it a little bit. Oh, so it's"
+}

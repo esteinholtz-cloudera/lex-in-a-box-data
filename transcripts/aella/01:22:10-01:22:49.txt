@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:10",
+  "End": "01:22:49",
+  "Text": ", like basically almost genetically so nature nurture. But is there, let's say after you're 18, is there like some stable level of happiness all the environmental genetic factors combined to create? So that everything that life throws at you to face that happiness. Like you mentioned earlier that I seem to be happy with a lot of stuff. So maybe I have a certain level, do other people have a lower level? Some people have higher level? Yeah, definitely. Is, is that a useful or is that a useful model of human beings or is it all ups and downs?, is it all like there's no"
+}

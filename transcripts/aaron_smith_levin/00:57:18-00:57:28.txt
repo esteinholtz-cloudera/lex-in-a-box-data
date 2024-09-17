@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:57:18",
+  "End": "00:57:28",
+  "Text": "Scientologists has no restrictions to their access to the internet. They're just not allowed to read anything critical of Scientology."
+}

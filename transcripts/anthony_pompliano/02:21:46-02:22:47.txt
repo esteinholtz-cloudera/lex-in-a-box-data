@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:46",
+  "End": "02:22:47",
+  "Text": ", I mean, the meaning to be honest, it's, it's one, it's off, it's sometimes misused, think like with anything, it's like people adopt memes that used to be brilliant or still brilliant and they're just not good at using them. So they become mean, but when you do it with grace it can tear down an argument and at the same time have love and respect underneath it. I mean, it's a beautiful dance. They have to be good at, like, you know, people just can suck at communication and even a powerful weapon like a meme in the wrong hands. Just fires in a way that doesn't get anything done. this is a war of humor and memes. It's kind of fascinating. Exactly like you formulated that there's a symmetry of power. So you have to have guerilla warfare in this internet game, especially when there's no leader, like you said, in a distributed culture,"
+}

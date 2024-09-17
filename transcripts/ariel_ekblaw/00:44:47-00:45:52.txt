@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:47",
+  "End": "00:45:52",
+  "Text": "? And you mentioned offline Sarah Walker, I mean, the question that she's obsessed with even just defining life, what is life to look outside carbon base? I mean, to look outside of basically anything we can even imagine chemically uh to look outside of any kind of notions that we think of as biology. Yeah, it's, it's really weird. So, you now get into this land of complexity of a measuring how many assembly steps it takes to build that thing and maybe dynamic movement or some maintenance of some kind of membrane structures. We don't even know which properties life should have, whether it should be able to reproduce and all those kinds of things or pass information, genetic type of information. We don't know. And it's like, that's so humbling. mean, I tend to believe that there could be like alien life here on earth. And we're just too human biology obsessed to even recognize it. The shadow"
+}

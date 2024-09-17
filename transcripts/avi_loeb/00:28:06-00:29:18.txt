@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:28:06",
+  "End": "00:29:18",
+  "Text": ". But don't worry, I mean, there will be more, there will be more because, you know, I I operate by the Copernican principle which says we don't live at a special place and we don't live at a special time. that means, you know, if we survey the sky for a few years and we had sensitivity to this region between us and the sun and we found this object with pans stars. You know, there should be many more that we will find in the future with surveys that might be even better. Uh And actually in a, in three years time scale, there would be uh the so called LSST, that's a survey of the Vera Rubin Observatory would be much more sensitive and could potentially find an Umu mua like object every month. Ok. So I'm just waiting for that. And the main reason for me to alert everyone uh to the unusual properties of UMA is with the hope that next time around when we see something as unusual, would take a photograph or we would get as much evidence as possible because science is based on evidence, not on prejudice and we will get back to that theme. So anyway, let me, let me point out some of the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:50:05",
+  "End": "00:50:13",
+  "Text": "and again, because I do human robot interaction, I still think the human needs to be part of the equation at some point."
+}

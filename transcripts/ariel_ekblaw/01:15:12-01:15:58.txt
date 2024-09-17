@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:12",
+  "End": "01:15:58",
+  "Text": ", the hr I component is really interesting to me. when the eye includes almost friendship because people don't realize this. They think that we humans long for connection and when you have even the basic interaction, that's just like supposed to be just like serving you or something, you still project. It's still a a source of um and connection. And so you do have to think about that. I mean, how 9000 the movie maybe doesn't portray it that way, but I'm sure there's a relationship there between the astronauts and the robot, especially when you have greater and greater level of intelligence. Maybe that addresses the happiness question too."
+}

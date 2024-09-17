@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:19:19",
+  "End": "02:19:32",
+  "Text": ". Yeah, I think that's what Costello wanted. I think I have this story in my head that he was just like, OK, like take this like in, and don't get up, Lord knows. Don't fuck this"
+}

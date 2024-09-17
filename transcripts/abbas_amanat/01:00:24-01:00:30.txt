@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:24",
+  "End": "01:00:30",
+  "Text": "protesting high gas prices. It's funny,"
+}

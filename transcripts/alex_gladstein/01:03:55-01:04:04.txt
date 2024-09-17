@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:03:55",
+  "End": "01:04:04",
+  "Text": "you say overtake? Um what do you mean, what do you mean overtake? You mean number of users? Do you mean a price per coin?"
+}

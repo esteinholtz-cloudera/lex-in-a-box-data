@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:25",
+  "End": "01:59:53",
+  "Text": ". And then, then the final question is, and how difficult just like we're driving, how difficult is the manipulation task uh such that it can have an impact that scale, I think on the context, the really nice thing about robotics is that unless you're doing manufacturing and that kind of stuff is there is more room for error driving is so safety critical and also time critical robot is allowed to move slower, which"
+}

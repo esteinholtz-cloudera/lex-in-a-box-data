@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:19:31",
+  "End": "02:19:36",
+  "Text": "working, it's working. OK. So what is the role of the love sandwich in the human condition?"
+}

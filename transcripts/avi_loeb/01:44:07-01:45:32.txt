@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:44:07",
+  "End": "01:45:32",
+  "Text": ". I think it's worthy. But the real issue that is often underplayed is the risk to the human body from cosmic rays. These are energetic particles and uh we are protected from them by the magnetic field around the earth uh that blocks them. But if you go to Mars where there is no such magnetic field to block them, then um you know, a significant fraction of the brain cells in your, your head will be damaged within a year. a and, and the consequences of that are not clear. I mean, uh it's quite possible that humans cannot really survive on the surface. Now, it may mean that we need to dig tunnels uh go underground or create some protection. Uh This is something that can be engineered. Uh and, you know, we can start from the moon and then move to Mars. That would be a natural progression. it's a big uh issue that needs to be dealt with. I don't think, you know, it's a showstopper, I think we can overcome it, but, you know, just like anything in science and technology, you have to work on it for a while, figure out solutions and, but it's not as rosy as Elon Musk talks about. I mean, Elon Musk can obviously be optimistic. I think eventually it will boil down to figuring out um to cope with this risk, the"
+}

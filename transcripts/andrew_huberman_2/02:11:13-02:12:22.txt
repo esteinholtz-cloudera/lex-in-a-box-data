@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:13",
+  "End": "02:12:22",
+  "Text": ". This is something I think we've, we've spoken a few times offline about of computer vision, I'm fascinated by the eye. I did a bunch of work on the eye. So there's the neuroscientist, there's the neurobiology way of studying the eye. And there's the computer vision way of studying the eye and the computer vision way of studying the eye of just observing non context sensing of humans is really fascinating to me and studying human behavior in different contexts like in semi-autonomous vehicles. It seemed like there is a lot of signal that comes from the eye that comes from blinking. that's not fully understood yet. It's been in the lab. It's been used quite a bit to study the dilation of the pupil. All those kinds of things are used to infer workload, cognitive load, all those kinds of things, but the pictures is murky. It's not completely well understood, especially in the wild how much signal you can get from the eye from the human face. downloaded uh Joe Rogan's all of the podcast. He's ever done video."
+}

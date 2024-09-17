@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:43",
+  "End": "02:14:10",
+  "Text": "Weinberg guy? Let me, let me ask you another trippy out there. Question. So, again, perhaps unanswerable from a physics perspective. But do you wonder about,, civilizations? Do you wonder about other intelligent beings out there making up their own math and physics? Trying to figure out the world? Do you think they're, they're out there?"
+}

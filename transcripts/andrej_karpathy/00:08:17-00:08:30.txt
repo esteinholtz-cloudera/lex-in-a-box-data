@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:08:17",
+  "End": "00:08:30",
+  "Text": ". Could be. mean, I'm using phrases that are common, et cetera, but I'm remixing it into a pretty sort of unique sentence at the end of the day. But you're right. Definitely. There's like a ton of remixing."
+}

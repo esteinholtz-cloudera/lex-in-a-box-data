@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:26",
+  "End": "03:07:43",
+  "Text": "you think there's possible beliefs that are like enlightening, that you can stick to find a frame like, guess if you don't believe constructing, you're escaping your previous beliefs, aren't you doing? Just some, you're picking up a bigger frame. Yeah, I mean,"
+}

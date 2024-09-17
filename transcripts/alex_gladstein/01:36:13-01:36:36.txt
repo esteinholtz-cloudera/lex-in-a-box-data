@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:36:13",
+  "End": "01:36:36",
+  "Text": ". It's surprising because we've become more and more connected so we can communicate more effectively at a large scale. And yet we seem to be worse and worse at real activism. It seems like the outrage that's overtaken the communication channels has been very us focused and often about outrage and less about uh productive"
+}

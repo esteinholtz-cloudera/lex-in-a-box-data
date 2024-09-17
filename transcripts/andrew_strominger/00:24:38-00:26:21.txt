@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:24:38",
+  "End": "00:26:21",
+  "Text": "when you hit the singularity, you know that you need some Einstein's theory of gravity. that improvement, we understand what kind of things that improvement should involve, it should involve quantum mechanics. Quantum effects become important there. It's a small thing um don't understand exactly what the theory is, but we know there's no reason to think, you know, Einstein's theory was invented to describe weakly curved things, the solar system and so on. It, it's incredibly robust that we now see that it works very well uh near the horizons of around black holes and so on. So, so it's a good thing the theory drives itself it predicts its own demise. gravity. Had its demise. There were regimes in which it wasn't valid. Maxwell's electromagnetism had its demise. There was uh regimes in which quantum effects greatly modified equations. relativity all on its own dro a a system which originally was fine would perversely wander off into a configuration in which Einstein's equations no longer applied."
+}

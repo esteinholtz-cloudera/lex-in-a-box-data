@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:11:21",
+  "End": "00:11:29",
+  "Text": "? Sitting there waiting and teasing one another. Um Drinking coffee, making jokes."
+}

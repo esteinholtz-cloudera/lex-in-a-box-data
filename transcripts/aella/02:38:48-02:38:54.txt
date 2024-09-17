@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:38:48",
+  "End": "02:38:54",
+  "Text": ", I had to do so much research in the fetishes to compile the list."
+}

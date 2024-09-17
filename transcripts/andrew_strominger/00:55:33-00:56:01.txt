@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:55:33",
+  "End": "00:56:01",
+  "Text": "have to step a couple. But even a you have flat space and it's expanding in time, know, we could imagine we're sitting here this room good approximation, it's flat. But imagine we suddenly start getting further and further apart, space is flat it's expanding, which means that space time is curved"
+}

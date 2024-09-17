@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:39",
+  "End": "01:36:56",
+  "Text": "is expanding. you, can we talk about the Big Bang a little bit? Sure. Yeah. Yeah. What uh so like the entirety of it, universe was very small"
+}

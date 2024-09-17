@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:24:22",
+  "End": "00:25:13",
+  "Text": ", denial is the most powerful form of demonization. I mean, this is what the Iranian dictatorship does. A few years ago when Ahmed JD, who was, who was then sort of the de facto leader, he came to Columbia University and he tried to give speech which you can look up and he tried to claim that there were no gays in Iran and that's the most powerful form of demonization is trying to just wipe out your outer existence. There's other good litmus tests too. know, for example, you, you can think about comedy. Um can you make money making fun of your government on television if you cannot, you live in a dictatorship? Most likely. I mean, it's shocking to people that I work with who live in Dictatorships when I tell them that not only are comedians uh able to safely make fun of our government, but they get paid very well to do. So. That's a Hallmark of a free society. So that's another good litmus test."
+}

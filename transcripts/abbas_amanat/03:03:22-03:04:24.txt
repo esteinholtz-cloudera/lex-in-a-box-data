@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:22",
+  "End": "03:04:24",
+  "Text": "is a big disconnect between uh governments and the people. And I think ultimately, I have faith that there's a love across the different cultures, across the different religions amongst the people. And the governments are the source of the division in the conflict and the wars and all the geopolitics is in part grounded in the battle for resources and all that kind of stuff. Nevertheless, this is the world we live in. So you've looked at the modern history of Iran the past few centuries. If you look into the future of this region,, you kind of implied that a historian has a bit of a cynical view protests and things like this um that are fueled at least in the minds of young people with hope. you were to just for a while, have a bit of hope in your heart and your mind. What is a hopeful future for the next 1020 30 years"
+}

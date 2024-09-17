@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:46:29",
+  "End": "01:46:34",
+  "Text": ", expert intuition. It's just intuition, it's belief."
+}

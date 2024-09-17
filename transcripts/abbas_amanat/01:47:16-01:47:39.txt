@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:16",
+  "End": "01:47:39",
+  "Text": ". It's just fascinating. So I mean, of course, I don't speak the language but even in Russia and there's also music the soul of the people that represents itself that presents itself in the form of poetry and literature in the way that it doesn't in the in the English speaking world. I don't know what that is. There's um there's"
+}

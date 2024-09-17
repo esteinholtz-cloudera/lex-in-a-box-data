@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:43",
+  "End": "01:23:55",
+  "Text": "wrong about Bitcoin, would that look like? What kind of thing that in 1020 years that you're not wrong? But it"
+}

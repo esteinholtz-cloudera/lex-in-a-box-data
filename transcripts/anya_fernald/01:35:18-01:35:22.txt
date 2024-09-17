@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:18",
+  "End": "01:35:22",
+  "Text": ". That's fascinating. Or maybe it's in Russia with Putin. That might be the best"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:17",
+  "End": "00:35:34",
+  "Text": "is the effort of quantum gravity? What are the different efforts to um to have these two dance together uh effectively, to try to unify uh the Standard model. And um general relativity and you cut a model of gravity"
+}

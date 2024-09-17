@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:14",
+  "End": "01:23:12",
+  "Text": "of ops, what are your opinions on the three laws of robotics from Isaac Asimov? That don't harm humans, obey orders, protect yourself. I mean, it's such a silly notion but I speak to so many people these days, just regular folks. I don't know my parents and so on about robotics and they kind of operate in that space of, know, imagining our future with robots and thinking, what are the ethical, how do we get that dance? Right. I know the three laws might be a silly notion. But do you think about what universal reward functions that might be that we should force on the robots of the future? Or is that a little too far out or is the mechanism that you just described? There shouldn't be three laws, it should be constantly adjusting kind of thing."
+}

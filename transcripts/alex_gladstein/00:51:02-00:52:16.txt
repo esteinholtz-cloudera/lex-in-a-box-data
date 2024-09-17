@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:51:02",
+  "End": "00:52:16",
+  "Text": "know, from one perspective, money and inflation, hyperinflation is a kind of symptom of corruption opposed to the core of the corruption. And at the flip side, in terms of resisting the corruption, resisting the abuse of human rights. interesting to think that fighting inflation or funny fighting the mismanagement of the money supply is a way to fight back authoritarianism or to fight authoritarianism. that's an interesting concept that I think was introduced to me by just plugging myself intellectually into the Bitcoin community, but also just Cryptocurrency in general. It is to like, not that money is a symptom. know, money is a tool to fight back to.. in, in what way can Bitcoin be used to um fight authoritarianism, just in the United States, but all of those 53% that you're referring to. What how can Bitcoin"
+}

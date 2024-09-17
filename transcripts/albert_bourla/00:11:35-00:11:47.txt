@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:11:35",
+  "End": "00:11:47",
+  "Text": ", liberated and happy. Um Like if uh a huge weight that was uh on my shoulders was lifted,"
+}

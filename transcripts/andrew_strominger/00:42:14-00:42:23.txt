@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:14",
+  "End": "00:42:23",
+  "Text": ". Which is a good place to be mentally as a physicist, right? I mean, Einstein didn't believe his own uh equations. Right? With the black hole. OK. Well, that when"
+}

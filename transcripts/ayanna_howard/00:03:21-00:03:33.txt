@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:03:21",
+  "End": "00:03:33",
+  "Text": "you've said that people don't want the robots to be perfect. you elaborate that? What do you think that is just like you said, Rosie pushed back a little bit every once in a while?"
+}

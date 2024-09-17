@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:08",
+  "End": "02:11:29",
+  "Text": "of saw that there is this uh excitement about uh in, breakthroughs and discoveries around black holes, which are probably one of the most fascinating objects in the universe. It's up there. They're both terrifying and beautiful and they capture the entirety of the physics that we know about this universe."
+}

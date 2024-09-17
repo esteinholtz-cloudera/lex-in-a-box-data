@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:21",
+  "End": "00:37:02",
+  "Text": "think it's really important to linger on is the idea that this A I is racist. like, well compared what think we set, unfortunately way too high of a bar for A I algorithms. And in the ethical space where perfect is, I would argue probably impossible. Then if we set the bar of perfection, essentially, has to be perfectly fair. Whatever that means, it means we're setting it up for failure. But that's really important to say what you just said, which is, well, it's still better than anything."
+}

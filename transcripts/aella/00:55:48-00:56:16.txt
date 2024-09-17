@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:55:48",
+  "End": "00:56:16",
+  "Text": "sometimes if some of the kids are really good at something you have, like the older kids teaching the other ones too. So it's very like everybody kind of figures out what they can good at and they share that skill set with everybody else, which I think was a pretty great setup. Honestly. I think my childhood kind of sucks in a lot of ways. But homeschooling was excellent me, mainly because it just had so much free time. Like I was just did like two or three hours of school and then did whatever the fuck I wanted for the rest of the day. And I got to actually pursue skills that are still useful for me to this day. So"
+}

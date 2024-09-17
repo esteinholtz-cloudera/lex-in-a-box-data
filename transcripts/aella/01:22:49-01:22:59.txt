@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:22:49",
+  "End": "01:22:59",
+  "Text": "? Like, I don't know, some people just are happier than others in general and other people aren't. But then you also have ups and downs like I'm sure you've experienced sadness sometimes and happiness. The other times,"
+}

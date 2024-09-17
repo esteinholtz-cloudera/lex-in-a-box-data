@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:45",
+  "End": "01:53:07",
+  "Text": "you think is uh the best movie sequel of all time speaking part too? most of them suck in movie Sequels and you tweeted about movies. So this is a tiny tangent is what's a favorite movie sequel, Godfather part two? Um Are you a fan of Godfather because you didn't even tweet or mention The Godfather? I don't"
+}

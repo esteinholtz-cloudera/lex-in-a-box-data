@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:54",
+  "End": "01:11:35",
+  "Text": "because that's exactly, I mean, that would be saying is quite brilliant. I mean, because it's a really strong signal and if, if there's alien civilizations out there, then there are probably going to be many of them and they're probably going to be more advanced than us and they're probably going to have something like industrial pollution, which would be a much stronger signal than some basic gas, could have a lot of different explanations. So something like oxygen or, I mean, you know, we could talk about signs of life on Venus and so on. But if you want a strong signal, it will be. I love how garbage"
+}

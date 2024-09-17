@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:22:01",
+  "End": "00:22:39",
+  "Text": "enough to see each other. And then once you see something that is definitely complex life, if we see something, we're probably going to be intensely aggressively motivated to figure out what the hell that is and try to meet them. What would be your first instinct to try to at a generational level, meet them or defend against them or what would be your instinct as a president of the United States the scientist, don't know which hat you prefer in this question. Yeah,"
+}

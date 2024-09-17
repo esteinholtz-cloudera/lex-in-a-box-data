@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:28:48",
+  "End": "03:29:10",
+  "Text": "look forward to the day that our kids are rolling jiu-jitsu and my kids are, you know, hanging out with your kids. And um if that notion sounds remotely interesting and fun, then, then it's sort of like you kind of backpedal from that and you go, how do you get first"
+}

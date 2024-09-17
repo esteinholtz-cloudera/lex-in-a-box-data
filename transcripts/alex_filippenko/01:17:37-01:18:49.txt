@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:17:37",
+  "End": "01:18:49",
+  "Text": ". But, but, but going back to what he said that we shouldn't be, um, broadcasting our presence to others there, I actually disagree with him respectfully because first of all, we've been unintentionally broadcasting our presence for 100 years since the development of radio and TV. Ok., secondly, any alien that has the capability of coming here and squashing us, uh, either already knows about us and, you know, doesn't care because we're just like little ants and when there are ants in your kitchen, you tend to squash them. But if there are ants on the sidewalk and you're walking by, do you feel some great conviction that you have to squash any of them? No, you, you generally don't. Right. We're irrelevant to them. they need to do is keep an eye on us to see whether we're approaching the kind of technological capability and about them and have intentions of attacking them and then they can squash us. Right. Um, know, they could have done it long ago. They'll do it if they want to, whether we advertise our presence or not, is irrelevant. So I really think that that's not a huge existential threat."
+}

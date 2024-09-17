@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:14:42",
+  "End": "00:14:53",
+  "Text": "my favorite subjects. I love talking about it. I'll never get over it. I'll never be able to really wrap my head around the reality of it. The truth of it. What"
+}

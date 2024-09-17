@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:12",
+  "End": "02:10:26",
+  "Text": "saw Sanai Google Ceo said that he likes the thing you mentioned, not the yoga Nero, but the NSDR no Sleep Deep Breath podcast over meditation. don't know if you saw that."
+}

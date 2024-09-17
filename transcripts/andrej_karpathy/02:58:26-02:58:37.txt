@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:26",
+  "End": "02:58:37",
+  "Text": "you want to achieve A G I. Um and you could have a conversation with her and ask her uh talk about anything, maybe ask her a question. What, what kind of stuff would you would you"
+}

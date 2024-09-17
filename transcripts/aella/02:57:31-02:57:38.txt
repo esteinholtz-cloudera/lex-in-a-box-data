@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:31",
+  "End": "02:57:38",
+  "Text": "you can always catch up on that. I guess the data analysis does enable you to teach you how to ask better questions in order to"
+}

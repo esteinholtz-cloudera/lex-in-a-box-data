@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:25:01",
+  "End": "00:25:15",
+  "Text": ". Well, um at least not institutionally defined as crazy yet. But um you know, getting into state of mind is something that we'd all just imagine we flip the switch. But Rick really convinced me, you have to do the work to do the"
+}

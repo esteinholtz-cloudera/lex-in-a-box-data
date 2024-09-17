@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:29",
+  "End": "00:23:41",
+  "Text": "you don't, you know, I've been reading quite a bit about history. You don't worry about human nature and, and corruption that can seep in you're saying institutionally there's protections against"
+}

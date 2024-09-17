@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:51",
+  "End": "01:04:18",
+  "Text": "that's a really good example of a technology revealing to us humans, something fundamental about our world, about our society. So it's almost this creation is helping us understand ourselves in the same can be said about artificial intelligence. So what do you think us creating something like Eva will help us understand about ourselves? How would that change society?"
+}

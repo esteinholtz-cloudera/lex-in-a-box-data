@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:42",
+  "End": "00:43:58",
+  "Text": "I seen you mentioned it, the human element in this picture as under actuated, you understand, under actuate robotics is, know, that you can't fully control the system,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:23:06",
+  "End": "02:24:23",
+  "Text": "that book? Um All's quiet on the Western front by World War One. There's this line in there. I forget what it is about how war is like the smell of a skunk. Like a little bit is actually a little bit, is slightly, um something slightly delicious of it is what it says in the, in the book. Um I happen to like the smell of like ferrets and skunks and things. I had a pet ferret when I was a kid and I like that musky scent people. Most people just, it's repulsive to them. It's actually a gene, believe it or not. Some people have the gene that makes that s the musky scent repulsive. Some people love it. Um me ask you this. There's another gene, this is a fun one. microwave popcorn smells good, neutral or disgusting to you. There are people who have a gene that them to the perception that the smell of microwave popcorn that you find is good. It smells like putrid vomit to them. It's a particular gene variant and they can smell certain elements within the microwave popcorn. Um, it's pretty, it's prominent in France, the uh this gene and um, so in laboratories where, uh you have a lot of French people that's often said like you're not allowed to make microwave popcorn smells putrid disgusting, know, so a lot of it's in the perception of the beholder, right?"
+}

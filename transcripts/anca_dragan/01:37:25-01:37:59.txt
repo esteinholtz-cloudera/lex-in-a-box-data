@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:25",
+  "End": "01:37:59",
+  "Text": "of the dreams of artificial intelligence is to create systems that will aid, expand our cognitive capacity in order to understand the, build the theory of everything with the physics and understand what the heck these multiverses are. I think there's no better way to end it than talking about the meaning of life and the fundamental nature of the universe. And so AA is a huge honor. One of the my favorite conversations I've had. I really, really appreciate your time. Thank you for talking today."
+}

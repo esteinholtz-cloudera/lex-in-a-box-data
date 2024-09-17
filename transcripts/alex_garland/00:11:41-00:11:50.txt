@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:41",
+  "End": "00:11:50",
+  "Text": "it's so, but Clark speed was slower our human life clock speed, but it's faster than evolution"
+}

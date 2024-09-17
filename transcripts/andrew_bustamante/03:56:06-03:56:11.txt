@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:56:06",
+  "End": "03:56:11",
+  "Text": "What, what do you think is the meaning of this whole thing? What's the meaning of life,"
+}

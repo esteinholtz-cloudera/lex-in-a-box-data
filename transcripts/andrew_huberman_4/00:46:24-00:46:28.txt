@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:24",
+  "End": "00:46:28",
+  "Text": "together through a process of fear, anxiety,"
+}

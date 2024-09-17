@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:17:57",
+  "End": "01:18:04",
+  "Text": ". Although she, she kind of didn't fall in love with him or she fell in love with like a million other people, something like that."
+}

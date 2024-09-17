@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:31:52",
+  "End": "01:31:59",
+  "Text": "much, there's so much, only so much time as well and you have to choose what problems you work on. You know,"
+}

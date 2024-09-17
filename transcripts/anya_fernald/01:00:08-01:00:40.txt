@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:08",
+  "End": "01:00:40",
+  "Text": "interaction is the cool one. I mean, I also read an article that like that like cows, for example, have social, like they have friends.. Yeah, that's fascinating. I mean that piece with the social interaction with a young social interaction with each other at a basic level, I'm sure that interaction is not as rich as humans, but that piece seems to be part of the humane picture. you said also just a quick comment, uh evolutionary diet, meaning the diet that they were evolved to have."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:26",
+  "End": "00:10:52",
+  "Text": "you still think about the brain side of it? So as neural nuts is an abstraction or mathematical abstraction of the brain, do you still draw wisdom from, from the biological neural networks or even the bigger question? So you're a big fan of biology and biological computation. impressive thing is biology do doing to you that computers are not yet that gap."
+}

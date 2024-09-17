@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:21",
+  "End": "01:49:24",
+  "Text": ", but the software wallet is connected to the internet. Yeah."
+}

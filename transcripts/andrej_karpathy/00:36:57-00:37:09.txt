@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:36:57",
+  "End": "00:37:09",
+  "Text": "think it's deterministic. Oh, there's tons of, well, I, I want to be careful with randomness pseudo random. Yeah, I don't like random. Uh I think maybe the laws of physics are deterministic. Um Yeah, I think they're determination. Just"
+}

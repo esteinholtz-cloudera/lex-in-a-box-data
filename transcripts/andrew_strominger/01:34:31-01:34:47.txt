@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:31",
+  "End": "01:34:47",
+  "Text": "physicists, I guess don't have, don't know what to do with that. always do with cellular because you can describe the simple rules that will govern the system or how complexity can emerge. Like incredible complexity."
+}

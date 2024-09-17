@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:51:29",
+  "End": "00:51:59",
+  "Text": "you can? But one of the most intuitive things that we all learn as babies, right is whenever you throw something, if I was going to toss something to you, I toss it up because I know that it has to compensate for the fact that that Kurian arc is going to draw down the, you know, equations of motion are going to draw it down. would in space, I would just shoot something directly towards you. So like straight line of sight. And so that would be very different for any type of ball sport is to retrain your human mind to have that as your intuitive arc of motion or lack"
+}

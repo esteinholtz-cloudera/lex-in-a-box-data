@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:32:14",
+  "End": "02:33:19",
+  "Text": "some, well, he is kind of out of favor now because he was more moderate than this, this most recent regime. What the point is that you look, this is something almost uh institutional cons constitutional to the regime. This is a regime that rejects all of the executive powers it's because the division between the supreme authority as the place of a supreme authority versus the presidency has problematic. It is as if there would be a supreme leader in the United States above all the three sources of power. That's the kind of any view that we can see in today's Iran. And of course, he is at the focus of all the criticism that he receives from the demonstrators in today's Iran."
+}

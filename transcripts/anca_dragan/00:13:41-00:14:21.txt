@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:41",
+  "End": "00:14:21",
+  "Text": "? So when you start to think about incorporating the human into the state model, apologize for the philosophical question. But uh how complicated are human beings do you think like, can they be reduced to uh kind of uh like an object that moves and maybe has some basic intents or is there something, do we have to model things like mood and general aggressiveness? And I mean, all these kinds of human qualities or game theoretic qualities? Like what's your sense complicated? How hard is the problem of human robot interaction?"
+}

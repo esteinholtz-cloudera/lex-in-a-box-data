@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:21",
+  "End": "00:05:49",
+  "Text": "and in a self driving car realm, do you think from a robotics perspective, we kind of think that perfection means following the rules perfectly, sort of defining staying in the lane, changing lanes. When there's a green light, you go and there's a red light, you stop and that that's the and be able to perfectly see all the entities in the scene, the limit of what we think of as perfection. And"
+}

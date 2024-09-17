@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:43",
+  "End": "02:02:09",
+  "Text": "forget they look at these celebrities. just like looking at criticism of Will Smith, you forget that they're human too. That's, that's one of the most surprising things for me having done this podcast and met celebrities and stuff like that. human. They're all human. And that's inspiring to me, like some of these great folks that have won Nobel Prizes and built some cool things. They're just human, like the rest of us. Well,"
+}

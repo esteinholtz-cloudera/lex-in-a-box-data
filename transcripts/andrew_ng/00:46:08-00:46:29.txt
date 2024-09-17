@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:08",
+  "End": "00:46:29",
+  "Text": ", the diverse skill help you discover the right tool for the job. is the most beautiful, surprising or inspiring idea in deep learning to you? Something that your imagination? Is it the scale that could be the performance that could be achieved with scale or is there other ideas?"
+}

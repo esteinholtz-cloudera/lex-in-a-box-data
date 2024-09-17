@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:11:18",
+  "End": "00:12:03",
+  "Text": "also so many feedback loops that I don't think we know the beginning of that our bodies are picking up on around nutrients, available, nutrients, immune response. Like there's deep levels of sensory evaluation that lead to health and alertness and wellness. You, you hear about this a lot like with babies that you know, if there's a risk of an infection that a mom's breast milk will help the baby develop a resistance. Like there's this way that our bodies can tune into health and can't extrapolate from that in a specific way. But think about that as an example of like the many ways in which our bodies are reading available nutrients in food to signal other aspects of wellness and health. That said"
+}

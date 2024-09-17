@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:00:45",
+  "End": "01:01:22",
+  "Text": ", maybe you have to start declaring when uh you know, we have to start drawing those boundaries and keeping track of. OK. Uh What are digital entities versus human entities? And uh what is the ownership of human entities and digital entities and uh something like that? Um don't know, but I, I think I'm optimistic that this is, uh, this is possible and in some, in some sense, we're currently in like the worst time of it because, um, all these bots suddenly have become very capable, but we don't have the fences yet built up as a society and, but I think that doesn't seem to me intractable. It's just something that we have to deal with. It"
+}

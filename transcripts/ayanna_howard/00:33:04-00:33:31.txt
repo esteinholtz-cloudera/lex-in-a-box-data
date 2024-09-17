@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:04",
+  "End": "00:33:31",
+  "Text": "? So think about it from the very beginning is important. What about sort of algorithms that train on data kind of thing?, our society already has a lot of negative bias. And so if we collect a lot of data, if it's a balanced way that's going to contain the same bias that a society contains. And so yeah, is there things there that bother you? Yeah. So"
+}

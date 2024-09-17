@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:18:24",
+  "End": "02:18:59",
+  "Text": ", I need to load my working memory with the problem and I need to be productive because there's always like a huge fixed cost to approaching any problem. Uh You know, like I was struggling with this, for example, at Tesla because I want to work on LEX small side project. But OK, you first need to figure out OK, I need to ssh into my cluster I need to bring up A VS code editor so I can like work on this. need to, I, I run into some stupid error because of some reason, like you're not at a point where you can be just productive right away. You are facing barriers. And so it's about uh really all that barrier and you're able to go into the problem and you have the full problem loaded in your memory"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:18",
+  "End": "01:28:33",
+  "Text": "convert, you know, the goal of the process of intelligence and mechanize it. I had the same experience I was really interested in psychiatry and trying to understand human behavior. And then A I and modern approach is like, wait, you can just reduce it all"
+}

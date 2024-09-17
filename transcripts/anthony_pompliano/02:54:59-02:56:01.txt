@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:54:59",
+  "End": "02:56:01",
+  "Text": "the podcast and uh email are like the two most selfish things I do because the podcast is a way for me to learn from other people. So I get them to come on and tell me all the things they're thinking about and I can ask some questions, what was it called, by the way, just a po podcast. so in doing that, um it really is informative for me. And I think that my whole goal is just like, if I'm learning other people will be learning and then the email, uh I read it every morning because it forces me to collect my thoughts and actually articulate them in somewhat of a coherent way. so it's just something that um is like a practice that I probably would do, even if no one read it and then by being able to publish it, uh what does it do? It elicits, you know, both the good and bad responses. And so people will let me know if they think I'm an idiot and they'll usually not respond if they think that it's something smart. And so um those two things are uh really um educational for me and, and I think kind of force me to uh to be able to articulate a lot of ideas, a lot of what I share or learn on those things come from these other resources."
+}

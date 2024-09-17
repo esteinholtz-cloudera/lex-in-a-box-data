@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:13:44",
+  "End": "03:13:57",
+  "Text": ", I think a technology used like very sparingly. I don't love when it sort of gets in the way of humanity in many ways. Uh I like just people being humans in a way we sort of like slightly evolved and prefer, I think just by default, people"
+}

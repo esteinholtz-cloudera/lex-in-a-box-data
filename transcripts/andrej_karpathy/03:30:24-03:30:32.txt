@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:30:24",
+  "End": "03:30:32",
+  "Text": "? Yeah, I think that's the question number one, practically speaking because you can't, you're not going to calculate the answer to the deeper questions in the time you have."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:00",
+  "End": "00:45:05",
+  "Text": "you said 10,000 years as fast. So it takes that long, tens of thousands, tens of thousands"
+}

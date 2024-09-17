@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:49",
+  "End": "02:33:32",
+  "Text": "ask your opinion on NSA and then maybe we could mention about bulk connection collection in general in the CIA. But, you know, let's look at some history with the NSA and Snowden. What's your opinion on the mass surveillance is reported to have been conducted by the NSA? We talked about ethics. Are you troubled by the, a public perception, unethical nature of mass surveillance of especially American citizens?"
+}

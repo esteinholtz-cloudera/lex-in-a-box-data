@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:31",
+  "End": "00:19:36",
+  "Text": "absolute temperatures we're talking about? Or is it just even relative? Just even just the decrease?"
+}

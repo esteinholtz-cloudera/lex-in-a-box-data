@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:20:27",
+  "End": "00:20:30",
+  "Text": ", I was four years old when my mom got in"
+}

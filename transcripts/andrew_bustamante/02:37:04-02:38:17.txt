@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:04",
+  "End": "02:38:17",
+  "Text": "you said a few really interesting things there. So because you are kind of an insider war for time, an insider meaning you were able to build up an intuition about, the good, the bad and the ugly of these institutions. specifically the good. A lot of people don't have a good sense of the good, they know the bad and the ugly or can infer the bad and the ugly, mentioned that the one little key little thing there at the end saying the NSA doesn't care about whether you hate the president or not., that's what people really worry about is they, they're not sure they can trust the government to not go into full dictatorial mode. And based on your political preference, your oppositions, your basically one of the essential powers uh the, the freedom of speech in the United States is the ability to criticize your government. Exactly. And that they, they worry while the government get a hold of the NSA and start to ask the basic question. Well, can you give me a list of people that are criticizing the"
+}

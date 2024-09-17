@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:52",
+  "End": "01:43:00",
+  "Text": "is the best way to learn Python and the best reason to learn machine learning is to solve actual, like"
+}

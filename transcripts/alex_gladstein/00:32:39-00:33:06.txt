@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:32:39",
+  "End": "00:33:06",
+  "Text": "we'll talk about one of the most fascinating technologies which is Bitcoin, how it can help. But I have a sense that technology like most innovations will give power to the individuals, will give will fight authoritarian governments as opposed to give more power to authoritarian governments. But your sense is there's ways to give technology to"
+}

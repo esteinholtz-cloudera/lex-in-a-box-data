@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:00",
+  "End": "00:12:03",
+  "Text": "is hypothesis for different fields like with names"
+}

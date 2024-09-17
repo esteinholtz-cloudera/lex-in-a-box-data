@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:41:25",
+  "End": "02:42:11",
+  "Text": ", I, I like that. Um, in some countries, not so much in the US, uh Children are treated with more respect for their intelligence, know, that and not constantly getting this drivel of, of just kind of moronic explosions and whistles and bells and the, the voices that um just kind of, you know, Children obviously are Children and need to be, their brains are young and plastic and need to be um treated and nurtured uh as such. But they, but they have an intelligence and I think that um treat them like morons and they're going to behave like morons. You treat them as, you know, people who can consume information and make sense of it in their own way. And that's what they're going"
+}

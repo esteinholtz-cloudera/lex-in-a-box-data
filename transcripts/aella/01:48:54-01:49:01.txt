@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:54",
+  "End": "01:49:01",
+  "Text": "escrow, I just feel like I haven't been getting, you know, I've been undervaluing my services and I would like to really step"
+}

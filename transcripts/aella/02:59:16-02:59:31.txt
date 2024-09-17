@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:59:16",
+  "End": "02:59:31",
+  "Text": "a dominant fashion, blog post titled Rape Spectrum survey results. are the key takeaways from that survey?"
+}

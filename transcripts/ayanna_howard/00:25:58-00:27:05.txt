@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:25:58",
+  "End": "00:27:05",
+  "Text": "don't even think of it as a burden if we train this concept correctly from the beginning. And I use and not to say that coding is like being a medical doctor. But think about it, medical doctors if they've been in situations where their patient didn't survive, right? Do they up and go away? No, every time they come in, they know that there might be a possibility that this patient might not survive. And so when they approach every decision that's in the back of their head, and why isn't that we aren't teaching? And those are tools though, right? They are given some of the tools to address that so that they don't go crazy, but we don't give those tools so that it does feel like a burden versus something of I have a great gift and I can do great, awesome good. But with it comes great. I mean, that's what we teach in terms of if you think about the medical schools, right? Great gift, great responsibility. I think if we just change the messaging a little great gift being a developer, great responsibility. And this is how you combine those."
+}

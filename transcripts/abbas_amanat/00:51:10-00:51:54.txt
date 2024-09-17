@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:51:10",
+  "End": "00:51:54",
+  "Text": "not blindfolded. No, not blindfolded. So I went to a bazaar in the city of Khoi, which is in the northwestern Iran on the border with what is today, the Republic of Turkey. I went to the bazaar and I was interested in the kind of a leather work that they produced. Uh So I tried to buy some stuff and they were surprised to see that how few people knew Persia. they could not communicate in person with you either. They have to ask somebody from some other store to come and translate for you. This is 1968 96."
+}

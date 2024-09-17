@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:50",
+  "End": "00:39:03",
+  "Text": "we're kind of this beautiful dance between, we've been talking about astronomy that astronomy, the stars inspires. And at the same time, there's this pragmatic aspect that we're talking about. And so I see space exploration as the same kind of way that it's reaching out to other planets, reaching out to the stars. Is this really beautiful idea? But if you listen to somebody like Elon Musk, he talks about space exploration as very pragmatic like we have to, we have to be, has this ridiculous way of sounding like an engineer about it, which is like, it's obvious we need to become a multi planetary species if we were to survive long term. So maybe both philosophically in terms of beauty and in terms of practical. What's your thoughts on space exploration, on the challenges of it, on much we should be investing in it and on a personal level, like how excited you are by the possibility of going to Mars colonizing Mars and maybe going outside the solar system,"
+}

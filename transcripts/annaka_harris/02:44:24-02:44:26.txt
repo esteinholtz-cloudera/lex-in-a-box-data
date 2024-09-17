@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:44:24",
+  "End": "02:44:26",
+  "Text": "career manifests itself."
+}

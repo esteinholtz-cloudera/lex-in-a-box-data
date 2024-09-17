@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:38",
+  "End": "01:23:07",
+  "Text": "hoping introversion will also be a superpower in space. Ok. Well, first, I'd love to get your opinion on commercial space flight, what SpaceX or blue origin are doing. And also another question on top of that is you've worked with a lot of different kinds of people, culturally, what's the difference between spacex or commercial type of efforts? NASA MIT and academia,"
+}

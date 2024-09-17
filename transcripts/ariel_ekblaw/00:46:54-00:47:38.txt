@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:46:54",
+  "End": "00:47:38",
+  "Text": "a ex physicist? I'm now much more on the aerospace engineering side for space architecture. But as an ex ex physicist, I hope it is uh prolific. I think the challenge is if it's as prolific as we would hope, if there are many, many, many civilizations, then the question is, where are they? Why haven't we heard from them? Uh And the Fermi paradox, is there some great filter that life only gets to some level of sophistication then kills itself off through war or through famine or through different challenges that filter that society out of existence. And it would be an interesting question to try to understand if the universe was teeming with life, why haven't we found it or heard from it yet? To our knowledge?"
+}

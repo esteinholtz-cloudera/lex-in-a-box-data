@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:56",
+  "End": "00:48:36",
+  "Text": "doesn't sell quite as well in terms of advertisement. It doesn't. you've started your career at NASA Jet Propulsion Laboratory. But before I ask you a few questions there, have you happened to have ever seen space Odyssey 2001. Space Odyssey?. OK. Do you think, do you think hell 9000? So we're talking about ethics. Do you think he did the right thing by taking the priority of the mission over the lives of the astronauts? Do you think hell is good or evil? questions."
+}

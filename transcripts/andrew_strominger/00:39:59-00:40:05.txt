@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:59",
+  "End": "00:40:05",
+  "Text": "another term for the bar later tonight. Parody Violation."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:29:33",
+  "End": "00:29:50",
+  "Text": ". That's the only thing I'm really mocking is this discovery that life is trying to survive is greater than the discovery of fire. OK. I mean, it gets a little silly, but that's fine. can agree that the fact that life is trying to survive has meaning and is meaningful and can be, is valuable and, and it's true. I mean, life is trying to survive."
+}

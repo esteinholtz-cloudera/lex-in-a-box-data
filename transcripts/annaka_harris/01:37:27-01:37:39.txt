@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:27",
+  "End": "01:37:39",
+  "Text": ". Where is the line between you kind of accepting the challenges you're born with? And this is what life will be versus then figuring out that life can be somehow different."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:13:18",
+  "End": "00:14:23",
+  "Text": "thing that we have our technology only for 100 years and it's evolving exponentially right now on a three year timescale. So imagine what would happen in 100 years in 1000 years, in a million years, or in a billion years. Now, the sun is actually late in the star formation history of the universe. Most of the sun like stars formed earlier and some of them already died, you know, became white dwarfs. And um if you imagine that a civilization like ours existed around a typical sun like star by now, if they survive, they could be a billion years old and then imagine a billionaire technology, it would look like magic to us. It, you know, an approximation to God, we wouldn't be able to understand it. Uh And so to in my view, we should be humble by the way, we should probably just listen and not speak because there is a risk, right? If, if, if you are inferior, there is a risk, if you speak too loudly, something bad may happen to"
+}

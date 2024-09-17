@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:17:40",
+  "End": "02:17:48",
+  "Text": "asked about the human condition. It's an interesting phrase. I'm like, I'm like, this is not a phrase that's common in my own thinking."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:11:37",
+  "End": "02:12:28",
+  "Text": ". I think humans definitely, I mean, obviously we have uh we learn a lot during, during our life span, but also uh we have a ton of hardware that helps us initial initialization coming from sort of evolution. so I think that's also a really big, a big component. A lot of people in the field, I think they just talk about the amounts of like seconds and the you know that a person has lived pretending that this is a tab aa sort of like a zero initialization of a neural net. And it's not like you can look at a lot of animals like for example, uh zebras, zebras get born and they see and they can run there's zero train data in their lifespan, they can just do that. somehow I have no idea how evolution has found a way to encode these algorithms. And these neural net initialization are extremely good into a tcgs. And I have no idea how this works. But apparently it's possible because here's a proof by existence."
+}

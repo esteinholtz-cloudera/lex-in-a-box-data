@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:24:36",
+  "End": "01:25:18",
+  "Text": ". Exactly. And so what I envision is is that we will establish some type of norm at some point, that it might evolve, right? If you look at women's rights, now there are still some countries that don't have and the rest of the world is like, why? That makes no sense, right. And so I do see a world where we do establish some type of grounding, it might be based on property rights, it might be based on animal rights. And if it evolves that way, I think we will have this conversation at that time because that's the way our society traditionally evolved."
+}

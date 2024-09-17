@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:13:45",
+  "End": "00:14:56",
+  "Text": "think, I think once upon a time, only a small part of humanity was literate, you could read and write and,, and maybe you thought maybe not everyone needs to learn to read and write. You know, you just um go listen to, to, to a few monks, right? Read to you and maybe that was enough or maybe just need a few handful of authors to write the best sellers and then no one else needs to write. But what we found was that by giving as many people, you know, in some countries, almost everyone basic literacy, it dramatically enhance human to human communications and we can now write for an audience of one such as if I sent you an email, you send me an email. I think in computing we're still in that phase where so few people know how to code that the code is mostly have to code for relatively large audiences. But the one, well, most people became um developers at some level similar to how most people in developed economies are somewhat literate. would love to see the owners of a mom and pop store be able to write over the code to customize the TV display for their special this week. And I think it will enhance human to computer communications, which is becoming more and more important in today's world. So you"
+}

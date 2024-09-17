@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:39",
+  "End": "00:16:07",
+  "Text": "how I think about it because I often eat one meal a day, especially when I'm traveling. It feels like a cheap meal because it allows, it gives you a bit of more freedom to just lose yourself in the quantity of the food. I did the three day fast and I ate chicken breast like literally just chicken breast with nothing else, just grilled and it was the most delicious piece of meat I've ever eaten. that uh and that gives you the problem is when you fast for three days, you really can't pig out. You really shouldn't."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:30:45",
+  "End": "01:31:25",
+  "Text": "people who cover scientology have published stories Shelley's Moskvich family member told a story to another family member who told the story to a friend who told the story to a former Scientologist who told the story to a journalist who published the story created the impression that some of Shelley Muscat's family members are actually talking to the press when in fact, that has never occurred. so the very people who are publishing about Shelley Moskvich missing have contributed to the fact that Shelley Miscavige does no longer speak to those family members she thinks they're talking to the press when they never have. It's pretty messed up. It's"
+}

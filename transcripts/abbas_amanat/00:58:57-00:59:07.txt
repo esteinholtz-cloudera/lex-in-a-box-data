@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:57",
+  "End": "00:59:07",
+  "Text": ". So even violence, extreme violence to return to the massacre. What what were the uses of violence to suppress protests? Well,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:36:37",
+  "End": "01:37:52",
+  "Text": "the point is people didn't get excited about space since the Apollo era and it's about time for us to go into space. of months ago, I was asked to participate in a debate organized by IBM and the Bloomberg news. And the discussion centered on the question is the space race between the US and China good for humanity. And all the other debaters worried about the military threats I just couldn't understand what they're talking about because military threats come from hovering above the surface of the earth, right? And we live on a two dimensional surface. We live on the surface of the earth. But space is all about the third dimension getting far from earth. So if you go to Mars or you go to a star, another star, there is no military threat. What are we talking about? Space is all about, know, feeling that, you know, we are one civilization, in fact, not fighting each other, just going far and having aspirations for something that goes beyond military threats. So why would we be worried that the space race will lead? That's"
+}

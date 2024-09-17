@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:18:44",
+  "End": "03:19:07",
+  "Text": "on. Yeah, I wonder what in the future A I textbooks will be because, you know, there's artificial intelligence, the modern approach I actually, I haven't read if it's come out. The recent version. The recent, there's been a recent edition. also saw there's a science of deep learning book. I'm waiting for textbooks that are worth recommending, worth reading. It's tricky because it's like papers code, code"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:05",
+  "End": "01:03:07",
+  "Text": "public know that it comes from Scientology? It"
+}

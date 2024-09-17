@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:35:08",
+  "End": "00:35:29",
+  "Text": "the Sea Org makes $50 a week. Everybody except David Miscavige. But, and, and some, some posts might have a cash bonus incentive structure. But fundamentally their pay is $50 a week. So even the head of a big Scientology organization getting 50 bucks a week"
+}

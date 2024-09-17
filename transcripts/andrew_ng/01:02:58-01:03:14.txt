@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:02:58",
+  "End": "01:03:14",
+  "Text": ". But I think when someone interviews, you know, at the university or the research lab or the large corporation, it's good to insist on just asking who are the people who is my manager. And if you refuse to tell me, I'm going to think, well, maybe that's because you don't have a good answer may not be someone I like."
+}

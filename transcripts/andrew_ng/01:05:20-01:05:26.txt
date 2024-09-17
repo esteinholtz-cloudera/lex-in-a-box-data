@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:20",
+  "End": "01:05:26",
+  "Text": "can you give me the idea of why you started the A I Fund?"
+}

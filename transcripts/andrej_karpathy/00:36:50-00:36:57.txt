@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:50",
+  "End": "00:36:57",
+  "Text": "don't think, uh as Einstein said, God doesn't play dice. you think it's mostly deterministic? There's no randomness in the thing?"
+}

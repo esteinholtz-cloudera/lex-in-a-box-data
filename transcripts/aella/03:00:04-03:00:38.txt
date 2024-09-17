@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:00:04",
+  "End": "03:00:38",
+  "Text": "and you reduce them into a more concise description of the situation like in this visualization. So you have this rape spectrum. That's a result where on top are things that are less likely to be considered raped by the people that took the survey and the bottom. More likely the likeliest is a stranger forcibly assaults someone who screams and fights the entire time that gets 100. do we make of something that's not zero? It's like a 12 is what, what is that? How are we supposed to interpret? A 12 out of 100?"
+}

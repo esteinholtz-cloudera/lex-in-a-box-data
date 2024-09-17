@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:00:37",
+  "End": "02:00:58",
+  "Text": ", space gets very curved, you get crushed, know, the body gets ripped apart because the forces are different on different parts of sure. But if it, but if it can be less curved, so that the curvature is very noticeable, but you're not ripped apart."
+}

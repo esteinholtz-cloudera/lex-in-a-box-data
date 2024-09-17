@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:26",
+  "End": "01:49:40",
+  "Text": "isn't it wild to you? Yes. For, to be emergent. How do we intuit these kinds of ideas as human beings, for whom space and time seems as fundamental as apples and oranges,"
+}

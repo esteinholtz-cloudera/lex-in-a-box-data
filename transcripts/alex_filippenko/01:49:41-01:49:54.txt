@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:41",
+  "End": "01:49:54",
+  "Text": "period of uh your life that work with the incredible team of people that won the Nobel Prize. just fascinating work, but uh"
+}

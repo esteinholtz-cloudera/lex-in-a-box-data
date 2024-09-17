@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:56",
+  "End": "00:43:09",
+  "Text": ", I don't think anyone's ever turned the interview on me. I think that's a really good question., it's really hard to capture the moment when they struggle. I think you put it really eloquently. I do think there's moments that are like aha moments that really inspire people. I think for some reason, reinforcement learning, especially deep reinforcement learning a really great way to really inspire people and get what the use of neural networks can do even though neural networks really are just a part of the DRL framework. But it's a really nice way to paint the entirety of the picture of the neural network being able to learn scratch, knowing nothing and explore the world and pick up lessons. I find that a lot of the aha moments happen when you use deep RL to teach people about neural networks, which is counterintuitive. I find a lot of the inspired sort of fire in people's passion in people's eyes. It comes from the RL world. Do you find reinforcement learning to be a useful part of the teaching process? Or? No,"
+}

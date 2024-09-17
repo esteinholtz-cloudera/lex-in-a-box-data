@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:19",
+  "End": "01:29:38",
+  "Text": "uh apologize for the romanticized questions. But uh and the silly ones, if a doctor gave you five years to live,, sort of emphasizing the finite of our existence. What would you try to accomplish?"
+}

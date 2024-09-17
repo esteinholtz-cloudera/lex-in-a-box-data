@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:11:26",
+  "End": "01:11:27",
+  "Text": "show,"
+}

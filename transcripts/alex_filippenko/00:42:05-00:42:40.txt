@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:42:05",
+  "End": "00:42:40",
+  "Text": "going to be easy as easy as growing a whole plot of potatoes. Like in the movie, the Martian, you know, or something. Right. not gonna be that easy. But, you know, so there's, there's this thin atmosphere, it's got the wrong composition, it's mostly carbon dioxide. Um, there are these violent dust storms, the temperatures are generally cold. know, you'd need to do a lot of things. You need to terraform it basically in order to make it nicely livable without some dome surrounding you. And if you, and if you insist on a dome, well, that's not going to house that many people, right? You know, so"
+}

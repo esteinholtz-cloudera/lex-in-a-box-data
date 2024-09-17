@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:20",
+  "End": "01:01:32",
+  "Text": "has a positive or negative effect on society? The realization that you are not, you cannot control your actions essentially, I guess is the way that could be interpreted."
+}

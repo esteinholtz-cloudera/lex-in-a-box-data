@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:58:26",
+  "End": "00:59:37",
+  "Text": ". I think they have to be a combination because if you get some human data and then you say this is going to be my model of the person, what for simulation and training or for just deployment time. And that's what I'm planning with as my model of how people work regardless if you take some data. Um you don't assume anything else. And you just say, OK, this is some data that I've collected, let me fit a policy to help people work based on that. What tends to happen is you collected some data in some distribution and then now your robot sort of computes a best response to that is what should I do if this is how people work and easily off of distribution where that model that you've built of the human completely sucks because out of distribution, you have no idea. There's, if you think of all the possible policies. And then you take only the ones that are consistent with the human data that you've observed that still leads a lot of, a lot of things could happen outside of that distribution where you're confident and you know what's going on by the way"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:25",
+  "End": "00:26:43",
+  "Text": "that's uh like you said, it's a little bump. That, that seems to be a very small fraction of the human experience. Right. So it's kind of fascinating to study it because most of us move through life without experiencing that kind of focus."
+}

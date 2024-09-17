@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:55",
+  "End": "02:20:41",
+  "Text": "is getting away and it's so powerful. Do you think in some sense, the few people that have turned down the prize made a much more powerful statement. I don't know if you're familiar in the space of mathematics with the Fields Medal Gore Pearlman turned down the prize. So he, I've committed one of the reasons I started this podcast is I'm going to definitely talk to Putin. I'm definitely talking to Pearlman and people keep telling me it's impossible. I love hearing that because I'll talk to both anyway. But do you have, do you have sense of um he turned down the prize? And is that a powerful statement to you?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:47",
+  "End": "00:43:08",
+  "Text": ". But like there's a lightness of being that comes with laughter. I mean, I've gotten, sure. I guess, you know, I spent the day with Elon today. He just gave me this burnt hair. Do you know what this is? I have no idea. I'm sure there's actually, it should be a hor lab episode on this. It's a cologne burnt hair and it's supposedly a really intense smell and it is, it's not going to"
+}

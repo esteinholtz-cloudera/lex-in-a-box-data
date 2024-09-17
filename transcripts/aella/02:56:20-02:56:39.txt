@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:56:20",
+  "End": "02:56:39",
+  "Text": "trying not to hold on to one theory because I'm not sure one is possible like decreasing testosterone levels, testosterone seems to be, I have a little bit of other research, but I'm still checking it out. That seems to indicate that higher testosterone you're more likely to be dominant. So we're seeing decreased testosterone levels across society where it should be seeing a greater gap. Um"
+}

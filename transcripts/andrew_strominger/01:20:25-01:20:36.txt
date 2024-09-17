@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:25",
+  "End": "01:20:36",
+  "Text": "my friend dedication. Uh, what did you learn about physics? What did you learn about life, uh, from, uh, having worked with Stephen Hawking?"
+}

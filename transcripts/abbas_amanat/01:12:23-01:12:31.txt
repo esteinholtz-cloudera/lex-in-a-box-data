@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:23",
+  "End": "01:12:31",
+  "Text": "they're also in facing internal facing. What's their, what's their, what's the stated purpose of the revolution"
+}

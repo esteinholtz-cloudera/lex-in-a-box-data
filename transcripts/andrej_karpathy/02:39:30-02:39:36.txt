@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:39:30",
+  "End": "02:39:36",
+  "Text": "speed up the rest of the community. But I don't know to what extent that's part of their objective function. Also."
+}

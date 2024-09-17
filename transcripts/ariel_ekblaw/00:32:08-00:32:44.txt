@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:32:08",
+  "End": "00:32:44",
+  "Text": "there a third one. My third one is a ring world just because every science fiction book ever that's worth anything has a ring world in it and a donut. Yeah. So a really big tours that could encircle a planet or encircle another celestial body, maybe an asteroid or a small moon. the promise here is just the beauty of being able to have that geometry in orbit and all that surface area for solar panels and do. And um essentially just all of what that enables to have a ring world at that scale in orbit. By"
+}

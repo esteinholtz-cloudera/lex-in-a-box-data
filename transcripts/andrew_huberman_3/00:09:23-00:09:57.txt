@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:09:23",
+  "End": "00:09:57",
+  "Text": "done that several times. Yeah, I don't do this anymore. But, um, the entire time I was a postdoc. So, five years and the entire time I was a pre tenured professor. So, five years. So I basically followed the uh Tim Ferris low carb diet, which is, you know, people can look it up but it worked really well. It was basically, you know, like good animal proteins, you know, fish and meat and things like that. Slow carb, like low glycemic stuff is mostly lentils and beans and, and things and vegetables. No, no dairy. No. Um anyway, but then"
+}

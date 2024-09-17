@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:15",
+  "End": "03:05:30",
+  "Text": "that movie at all? No, it's not your fault. As I said, Lord of the Rings. That's self explanatory. Terminator Two, which is interesting. re watch that a lot. Is that better than Terminator One? You like"
+}

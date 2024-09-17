@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:25",
+  "End": "01:26:37",
+  "Text": ". Well, he could be conjuring up the stories because uh he understands the power of myth and narrative and so on to uh inspire. Sure. But like, but also if we look at history both with, this is an interesting thing because I've been reading a lot about Hitler and Stalin and it seems like both of them in different ways believed uh the stories they were telling even when the stories, this is the fascinating, especially with Hitler and propaganda where they were literally conjured up at first. But then you start to believe you're in propaganda with Stalin. I think what he always believed is the bigger idea of, of pure communism. And anything justifies journey to communism because it will ultimately be good for humanity to achieve the state of pure communism. And then he's a godlike figure that can, can, can bring humanity there. But like with Hitler, it's interesting because this constant propaganda that he knows is not true a little bit, there's got to be doubt. But then he like all doubt is removed very quickly. So I guess humans are just, this is how they operate"
+}

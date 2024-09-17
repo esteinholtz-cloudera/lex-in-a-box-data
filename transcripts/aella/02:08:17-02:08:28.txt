@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:17",
+  "End": "02:08:28",
+  "Text": ", in some way it's actually making it stronger, like, or enriching it, like, making it more,, giving it more context, giving a deeper understanding. I think"
+}

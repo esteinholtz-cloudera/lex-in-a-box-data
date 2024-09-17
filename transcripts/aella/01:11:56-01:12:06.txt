@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:11:56",
+  "End": "01:12:06",
+  "Text": ". Yeah. So we would like work together and, you know, stream together and swap our clothes and stuff. It was great. Swap ideas too. Ideas."
+}

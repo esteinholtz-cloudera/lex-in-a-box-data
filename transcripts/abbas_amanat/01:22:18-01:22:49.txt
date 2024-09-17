@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:22:18",
+  "End": "01:22:49",
+  "Text": ". In 1906, there was a period a actually as you might know, the first decade or so of uh of the 20th century witnessed numerous referred to as constitutional revolutions including Russia in 1905, the first revolution, the Chinese revolution in 19 cons revolution in 1910, the young T revolution in 1908 and the Iranian revolution in 1906. Do you understand"
+}

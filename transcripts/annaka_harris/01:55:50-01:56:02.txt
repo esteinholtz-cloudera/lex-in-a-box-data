@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:55:50",
+  "End": "01:56:02",
+  "Text": "them for five days and not speaking and impossible. I've only done one retreat since I had kids doing another one."
+}

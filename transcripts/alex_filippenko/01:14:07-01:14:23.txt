@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:14:07",
+  "End": "01:14:23",
+  "Text": "would be bad news, right? Because if we find lots of pretty advanced life that would suggest and especially if we found some, you know, defunct, you know, fossilized civilization or something somewhere else bacteria,"
+}

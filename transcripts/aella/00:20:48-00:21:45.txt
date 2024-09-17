@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:48",
+  "End": "00:21:45",
+  "Text": "statement? Summarizing the entire scientific discipline of terror management theory? I don't know people, I haven't rigorously looked at how good of it is psychologically. I think it is interesting philosophical, the way Freud talked about the subconscious mind, philosophically. It's an interesting discussion. Then you have to get rigorous with it for sure. But the idea is that, it's not that religious people rid of the terror of death. is just one of the popular ways they create an illusion on top of it. That's that idea, like a myth that allows that makes it easier for them to forget, escape that terror. But everybody else does different, methods. Like fill your days with like capitalism as a whole, as a whole religion of itself, like the rat race for getting more and more material possessions and so on. I mean,"
+}

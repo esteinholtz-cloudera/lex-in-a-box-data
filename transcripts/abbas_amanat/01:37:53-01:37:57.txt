@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:53",
+  "End": "01:37:57",
+  "Text": "the Soviet Union have a significant influence on the course."
+}

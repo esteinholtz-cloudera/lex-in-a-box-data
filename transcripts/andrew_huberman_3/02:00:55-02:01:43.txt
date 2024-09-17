@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:00:55",
+  "End": "02:01:43",
+  "Text": "think if I may I sorry to interrupt. But um know, anytime we observe something very limbic, very emotional, you know, we generally can empathize somewhat, right? Uh We all know what it's like to feel angry. We all know what it's like to feel ashamed. We all know what it's like to feel shocked. Images of war are for most people very hard to relate to. We see it. It's, you know, the there are these images and they're very traumatic and, and challenging to look at at times and yet most people have no idea what it feels like be shot at or what it feels like to have your home destroyed or what it feels like to be um uh an aggressor in that way. So it's very so I think that people naturally orient towards things that feel familiar to them, even though the circumstances are different. And people"
+}

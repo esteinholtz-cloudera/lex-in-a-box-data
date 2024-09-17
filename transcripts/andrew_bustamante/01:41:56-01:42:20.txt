@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:41:56",
+  "End": "01:42:20",
+  "Text": "no work involved. Somebody else is doing all the work telling me where to be. And when it's a lot like basic training in the military, anybody who's ever been through basic training will tell you they hated the first few days. And then by the end, it was really comforting because you just did what you were told. They told you when to eat, they made the decision of what to eat. Then you just, you marched when they told you to march, shined your shoes when they told you to shine your shoes. Human beings love being told what to do."
+}

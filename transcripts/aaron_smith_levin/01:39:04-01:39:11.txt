@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:39:04",
+  "End": "01:39:11",
+  "Text": "the highest ranking executives in Scientology author. There you go. A billion, a"
+}

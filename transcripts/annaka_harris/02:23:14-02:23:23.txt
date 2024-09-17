@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:14",
+  "End": "02:23:23",
+  "Text": ", there's questions of ethics and is it capable of suffering is suffering connected to"
+}

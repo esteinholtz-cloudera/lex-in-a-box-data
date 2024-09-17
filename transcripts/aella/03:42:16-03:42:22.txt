@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:42:16",
+  "End": "03:42:22",
+  "Text": "mean, like we are having less sex and making fewer babies and that seems like, probably not great."
+}

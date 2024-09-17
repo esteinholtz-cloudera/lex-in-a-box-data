@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:48:08",
+  "End": "00:48:14",
+  "Text": "guess I don't see mental illness necessarily being linked to truth or not truth. So"
+}

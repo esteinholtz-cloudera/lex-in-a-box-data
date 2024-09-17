@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:07:09",
+  "End": "02:07:29",
+  "Text": "think you just, you should know if you've researched the topic, you should know it inside you because it would be, is there anything you're afraid to ask that would be make sure you're asking all the questions as long as you're asking all the questions that you have, you're good. But if there's something you're afraid to ask,, then maybe you're self censoring, right? That's a good way. It"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:38",
+  "End": "01:45:56",
+  "Text": "up against the nothing right? Until they have mathematical models that break down nicely to where you can actually start to infer things. you think? Let's work on it? Do you think it could?"
+}

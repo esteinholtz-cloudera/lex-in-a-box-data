@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:26",
+  "End": "01:00:54",
+  "Text": "there some sexual repression aspect to that? Like, uh you know how they say that there's um it's, it's, it's not just homeschooling but just like Catholic girls and so on. Just because like, there's moral, you're forbidden to do certain things. Like there's a kind of liberating feeling of saying, basically rediscovering yourself, rediscovering a freedom by doing just diving head in headfirst into the sexuality interior your own sexuality. Is there some aspect"
+}

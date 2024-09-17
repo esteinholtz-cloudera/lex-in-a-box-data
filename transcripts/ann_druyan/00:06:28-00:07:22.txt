@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:06:28",
+  "End": "00:07:22",
+  "Text": ", first of all, as Socrates thought, you know, knowing that, you know, little is knowing, really knowing something, knowing more than others. And it's the, it's that voice whispering in our, our heads, you know, you might be wrong, which I think is not only it's really healthy because we're so imperfect, we're human of course. But also, you know, love to me is the feeling that you always want to go deeper, get closer, you can't get of it, you can't get close enough, deep enough. So and that's what science is always saying. And science is never simply content with its understanding of any aspect of nature. It's always saying it's always finding that even smaller cosmos beneath. So I uh I think the two are very much parallel."
+}

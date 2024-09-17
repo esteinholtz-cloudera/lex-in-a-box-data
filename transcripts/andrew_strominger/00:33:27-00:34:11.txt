@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:33:27",
+  "End": "00:34:11",
+  "Text": "so much fun has been happening. And so that's all um that's, that's all pretty well understood. There's some things that might or might not around the edges of that, you know, dark matter neutrino masses, some sort of fine points or things we quite measured perfectly and so on. But it's largely a very complete complete theory and we don't very new in the completion of that."
+}

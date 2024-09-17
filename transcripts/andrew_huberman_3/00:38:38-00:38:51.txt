@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:38:38",
+  "End": "00:38:51",
+  "Text": ", right. They'll all want to be engineers or physicists. Um, they won't want to be biologists. Um, in all seriousness, I look forward to the day that our kids play together."
+}

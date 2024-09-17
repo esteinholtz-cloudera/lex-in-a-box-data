@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:18:29",
+  "End": "02:19:05",
+  "Text": "with most things in life? Uh depends who you ask. Um uh the uh most um uh kind of enthusiastic and uh uh parts of the Bitcoin community shit coin is anything else, right? Kind of if you ascribe to kind of a maximal view of the world shit coin would be anything if you look at people who I would say are Bitcoin proponents uh yet value in other things, sh coin may be the bottom half of the others, right? I think again, it's really important kind of who you ask is how you'll get that answer. So there's"
+}

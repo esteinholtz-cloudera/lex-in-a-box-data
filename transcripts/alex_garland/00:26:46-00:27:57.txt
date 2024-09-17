@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:26:46",
+  "End": "00:27:57",
+  "Text": ", they may or may not be, but it's just a zone with a lot of bullshit flying about. And there's also another thing which is that this actually goes back to uh I always thought about some sports that later turned out to be corrupt in the way that the sport like who, who won the boxing match or uh how a football match got thrown or cricket match or whatever it happened to be. And I used to think, well, look if there's a lot of money there really is a lot of money, people stand to make millions or even billions, you will find corruption that's going to happen. So, so it's, it, it's in the nature of its, of its voracious appetite that some people will be corrupt and some people will exploit and some people will exploit whilst thinking they're doing something good. But there are also people who I think are very, very smart and very benign and actually very self aware. And so I'm not, I'm not trying to, I'm not trying to wipe out motivations of this entire area. Um but I do, there are people in that world who scare the hell out of me. Sure."
+}

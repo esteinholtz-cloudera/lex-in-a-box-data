@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:00:05",
+  "End": "03:00:16",
+  "Text": ", it's limited. And I think that's totally fine. By the way, I don't think, uh I think it's fine and plausible to have a limited and imperfect a GIS"
+}

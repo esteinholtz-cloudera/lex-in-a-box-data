@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:10:06",
+  "End": "01:12:16",
+  "Text": ". So um first of all, um hair on black holes is a word that was coined by the greatest phrase master in the history of physics, John Wheeler invented the word black hole. And he also said that uh he made the statement that black holes have no hair that is every black hole in the universe is described just by its mass and spin. They wrote, they can also rotate as was later shown by Kerr. And um this is very much unlike a star, right? Every star of the same mass is different in a multitude of different ways. Um different chemical compositions, different motions of the individual molecules, every star in the universe, of the same mass is different in many, many different ways, black holes are all the same. that means when you throw some in Einstein's description of them, we think must be corrected. um you throw something into a black hole, it gets sucked in. if you uh throw in a red book or a blue book, black hole gets a little bigger, but there's no way within Einstein's theory of telling uh how they're different. that was one of the assumptions that Hawking made in his 1974 75 papers which he concluded that black holes destroy information. You can throw encyclopedias thesis defenses. The Library of Congress doesn't"
+}

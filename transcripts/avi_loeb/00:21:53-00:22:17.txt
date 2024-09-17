@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:53",
+  "End": "00:22:17",
+  "Text": "and it doesn't have to be exact copies of the humans. It could just contain some basic elements of life and then have enough life on board that it could uh the process of evolution on another place. So, I mean, that also makes you sad. Of course, because you confront the mortality of your own little precious consciousness and all your own memories and knowledge and all that stuff."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:31:29",
+  "End": "00:32:02",
+  "Text": "I think it's, it's typically the case that that's what people think they're doing. And I think that um but you don't need to go to Stalin. I mean, Stalin, I think Stalin probably got pretty crazy. But actually that's another part of it, which is that the other thing that comes from being convinced of your own virtue is that then you stop listening to the modifiers around you and that tends to drive people crazy. other people that keep us sane and if you stop listening to them, I think you go a bit mad. That also that's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:06:52",
+  "End": "00:07:18",
+  "Text": "a black hole is defined theoretically as a region of space time which light can never escape. Therefore, it's black., that's just the starting point. Many weird things uh follow from that basic definition. But that is is the basic definition."
+}

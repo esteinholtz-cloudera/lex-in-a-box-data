@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:11",
+  "End": "02:42:48",
+  "Text": "do. They have a seriousness of looking at the world. I love people that talk with Children like they're adults this, like here as if you're talking to Minnie Einstein because you're like, really, uh they're asking some big questions. And I think, I mean, people sometimes s speak of me in this way, like dumb is this childlike person. But like, no, no, there's intelligence in these dumb simple questions like that a child asks and I always love those questions, the simplicity, but also the depth of the, those those questions."
+}

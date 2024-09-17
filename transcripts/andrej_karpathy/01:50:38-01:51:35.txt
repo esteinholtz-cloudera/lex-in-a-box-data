@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:38",
+  "End": "01:51:35",
+  "Text": "was this soul searching like? Because you took a little time off and think like what um how many mushrooms did you take? mean, what, what was going through your mind? The human lifetime is finite. Yeah. He did a few incredible things. You're one of the best teachers of A I in the world. You're one of the best. And I don't mean that, I mean that in the best possible way, you're one of the best tinkerers in the A I world, meaning like understanding the fundamental fundamentals of how something works by building it from scratch and playing with the basic intuitions. It's like Feynman were all really good at this kind of stuff. Like small example of a thing to, to play with it, to try to understand it. Uh So that and obviously now with, with eu help build a team of machine learning um uh like engineers and a system that actually accomplishes something in the real world. So given all that, like, what, what was the soul searching like?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:50:50",
+  "End": "00:50:55",
+  "Text": "think if you're open to evidence, then the evidence clearly takes you in one direction, right?"
+}

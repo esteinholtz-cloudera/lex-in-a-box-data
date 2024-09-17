@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:41:34",
+  "End": "03:42:09",
+  "Text": "to then be first honest with the effects that porn has. So, is it a negative thing? Is it a positive thing in real life, sex interaction? know, you're gonna have that more and more with like, porn and VR or maybe porn A I porn, is that, is that a bad thing? Like what if porn with A I even like in physical spaces? Like sex robots? Like what if that's more pleasurable in a bunch of different dimensions than with other humans,"
+}

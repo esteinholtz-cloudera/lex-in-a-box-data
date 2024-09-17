@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:03:16",
+  "End": "01:03:19",
+  "Text": "man with no moral compass. Aaron"
+}

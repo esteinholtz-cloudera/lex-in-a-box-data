@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:52",
+  "End": "00:34:58",
+  "Text": ". So how does one get started in deep learning? And where does deep learning dot A I fit into that?"
+}

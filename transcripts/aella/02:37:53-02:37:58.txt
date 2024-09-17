@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:37:53",
+  "End": "02:37:58",
+  "Text": "as like a concrete sexual interest. Like I am specifically interested in this thing. Yeah."
+}

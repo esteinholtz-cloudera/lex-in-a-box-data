@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:23:19",
+  "End": "01:23:31",
+  "Text": "was sort of how the brain works generally is to give people some background. And then we did four episodes on sleep, including some stuff about food temperature exercise, jet lag, shift work for the jet lag folks and shift"
+}

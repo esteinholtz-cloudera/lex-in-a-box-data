@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:17",
+  "End": "02:00:20",
+  "Text": "it ever hurt to say goodbye?"
+}

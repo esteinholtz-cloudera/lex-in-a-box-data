@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:16:28",
+  "End": "00:16:53",
+  "Text": ". I've been preoccupied with this question quite a bit recently. Uh Basically the F for repair docs and just thinking through and, and the reason actually that I am very interested in uh the origin of life is fundamentally trying to understand how common it is that there are technological societies out there uh um in space and the more I study it, the more I, I think that um there should be quite a few, quite a lot."
+}

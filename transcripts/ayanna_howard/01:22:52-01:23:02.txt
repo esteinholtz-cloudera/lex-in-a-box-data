@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:52",
+  "End": "01:23:02",
+  "Text": "what you say, because robots 50 years from now, I'll be listening to this and you'll be on TV, saying this is what roboticists used to believe,"
+}

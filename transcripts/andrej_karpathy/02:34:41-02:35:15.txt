@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:34:41",
+  "End": "02:35:15",
+  "Text": "? 100%? think the big question in my mind is for sure GP T will be able to program quite well competently and so on. How do you steer the system? You still have to provide some guidance to what you actually are looking for? And so how do you steer it? And how do you say, how do you talk to it? How do you um it and verify that what is done is correct? And how do you like work with this? And it's as much not just an A I problem, but a Uiux problem. Yeah. Um So beautiful fertile ground for so much interesting work uh for VS code plus plus where you're not just, it's not just human programming anymore. It's amazing."
+}

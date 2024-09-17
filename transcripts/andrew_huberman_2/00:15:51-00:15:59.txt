@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:51",
+  "End": "00:15:59",
+  "Text": "blowing my mind and thinking like what other mechanism could possibly exist to create that kind of oscillation."
+}

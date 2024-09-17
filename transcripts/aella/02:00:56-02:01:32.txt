@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:56",
+  "End": "02:01:32",
+  "Text": "? It's not a thing but like you're on camera. So like I feel feelings but people usually want you. Like interaction is such that you probably want me to show feelings on my face. Yeah. There you go. So like I I definitely there could be just an introvert thing where you like have a vibrant inner world that you forget to show to the rest of the world. And also I'm scared of social interaction and just have a lot of anxiety about interacting with the external world. So yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:23",
+  "End": "01:17:57",
+  "Text": "that's part of the thing that you were talking about is people that build the technology, had to be thinking about ethics have to be thinking about access and all those things and not just a small, small subset. Let me ask some philosophical, slightly romantic questions. People that listen to this will be like here he goes again. OK. you think, do you think one day we'll build an A I system that we, a person can fall in love with? And it would love them back like in the movie her, for example."
+}

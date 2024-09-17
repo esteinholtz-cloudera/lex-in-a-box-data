@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:27",
+  "End": "02:32:42",
+  "Text": "the first step of um of seeing the beauty of something. So, yeah, and the question is the ultimate form of curiosity. me ask, uh what is the meaning of life,"
+}

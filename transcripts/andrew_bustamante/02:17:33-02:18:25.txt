@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:33",
+  "End": "02:18:25",
+  "Text": ", that, that's actually what I did my phd and that's what I did at Google is forming a good representation, unique representation, acquire the entire world based on the behavior of the person. specific task there is so that you don't have to type in the password. The idea was to replace the password. But it also allows you to actually study human behavior and to think, all right, what is the unique representation of a person? How um because we have very specific patterns and a lot of humans are very similar in those patterns. What are the unique identifier within those patterns of behavior? that's, I think that's from a psychology perspective, a super fascinating question and from a machine learning perspective, it's something that you can as the systems get better and better and better. And as we get more and more digital data about each individual, you start to get, you start to be able to do that kind of thing"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:42:55",
+  "End": "00:43:06",
+  "Text": "uh she miss party, miss those that belongs to a party of Ali which was goes back to the early Islamic history of seventh century."
+}

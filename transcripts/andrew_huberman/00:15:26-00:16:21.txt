@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:15:26",
+  "End": "00:16:21",
+  "Text": "and heights. So any kind of depth we're just programmed to um to not necessarily recoil but to be cautious about that edge and that depth and then looms things coming at us that are getting larger. There are looming sensing neurons even in the retina at a very, very early stage of visual processing. um incidentally uh the way muller and you know, folks learn how to not get eaten by Great White sharks. When you're swimming outside the cage is as they start lumbering in, you swim toward them and they get very confused when you loom on them because clearly you're smaller, clearly they could eat you if they wanted to. But there's something about forward movement toward uh any creature that that creature questions whether or not it would be a good idea to generate forward movement toward you. so that's actually the survival tool of these cage exit white shark divers. Are you"
+}

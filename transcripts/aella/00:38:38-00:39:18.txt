@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:38:38",
+  "End": "00:39:18",
+  "Text": ". My dad probably has narcissistic personality disorder. And so it was very centered on very controlling childhood immensely. So, um we were homeschooled and pretty isolated from the outside world. Like we didn't know anybody else who wasn't homeschooled. We went through a program called Growing Kids God's Way. Um which was very, it was like the kind of program where you're not supposed to pick up babies when they cry to train them that they can't manipulate the parents because like, baby crying was viewed as like, you're teaching them from an early age that they're allowed to make the parents do what the kids want and they're very against this philosophy. So, you know, that combined with a narcissistic personality disorder, dad was pretty rough. Uh"
+}

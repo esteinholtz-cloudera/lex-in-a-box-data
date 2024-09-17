@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:40",
+  "End": "00:44:07",
+  "Text": "done mushrooms before. It was very awesome, more intensely awesome. But like, because I was just looking at nature, it makes nature even more beautiful, I think. But it's already, it's already pretty beautiful. I haven't done MD Ma. Um, people say that I should. It's very nice. Yeah. Anyway, but I'm already, yeah. What did you call it? Resting happiness? Day,"
+}

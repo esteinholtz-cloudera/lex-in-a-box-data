@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:10:49",
+  "End": "01:11:44",
+  "Text": "interesting when you, you know, just a minute ago talking about the reflection of space can be so aspirational and so uniting, there's a great quote from Bill Anders from the Apollo eight mission to the moon, which is he, it's the earth rise photo that was taken where you see the earth coming up over the horizon of the moon. And the quote is something along the lines of we came all the way to discover the moon and what we really discovered was the earth, really powerful image looking back. And so we're also trying to think for our lunar mission, we realize we're very privileged group at mit to get the opportunity to do this. How could we bring humanity along with us? And so one of the things we're still testing out, I don't know if we're going to be able to, to swing it do something like a Twitch plays Pokemon, but with the robot, so let a lot of people on earth actually control the robot or at least benefit from the data that we're gathering and try to release the data openly. So we're exploring a couple of different ideas for how do we engage more people in this mission?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:36:54",
+  "End": "00:36:59",
+  "Text": ", I'd love to. I would be proud to,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:21:06",
+  "End": "02:21:15",
+  "Text": ", I certainly don't want one to be very nearby and it would have to be within something like 10 light years to be an existential threat. So"
+}

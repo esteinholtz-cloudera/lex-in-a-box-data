@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:32",
+  "End": "01:15:39",
+  "Text": "? The Good Hearts, Good Hearts Law. So the moment you specify a metric, it stops doing his job."
+}

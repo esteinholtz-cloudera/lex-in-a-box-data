@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:58",
+  "End": "01:58:08",
+  "Text": "you just going on tangents here? the hardest finding the papers or understanding what a paper is saying?"
+}

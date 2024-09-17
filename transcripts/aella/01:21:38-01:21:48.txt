@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:21:38",
+  "End": "01:21:48",
+  "Text": "Well, I mean, I think you get like a resting set point of happiness regardless of how much money you have. But money can buy, being less stressed, I would say,"
+}

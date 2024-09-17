@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:43:13",
+  "End": "01:43:22",
+  "Text": ". I have a hope that it's a fixable problem. I think, I think it's fixable because there's demand for it to be fixed. That's the way I think about"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:00:02",
+  "End": "02:00:30",
+  "Text": ", what's interesting earlier, we were talking about the challenge with David that you're about do. I mean, that is a psychedelic experience of sorts because you're biasing your mind towards a pretty extreme neurochemical state and you don't know what you're going to find there. And that's kind of the excitement, at least for me as an observer, it's like, I want to know what, what the experience is like, afterward, I want to know like, how was it? I mean, I'm sure you're gonna get something like you said, you're going to grow. The question is how and"
+}

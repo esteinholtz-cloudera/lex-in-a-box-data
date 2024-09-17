@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:01",
+  "End": "00:27:23",
+  "Text": "go following Google brain and there the intuition was scale will bring for the system. So we should chase a larger and larger scale. And I think people don't realize how groundbreaking it's simple, but it's a groundbreaking idea that bigger data sets will result in better performance."
+}

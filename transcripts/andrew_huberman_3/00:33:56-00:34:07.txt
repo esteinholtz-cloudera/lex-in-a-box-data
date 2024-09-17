@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:56",
+  "End": "00:34:07",
+  "Text": "and there's probably a process like that for anything that you do in life that you take seriously. So the people that have perfected. This is athletes, like, if Olympic level athletes, they have to have a process like"
+}

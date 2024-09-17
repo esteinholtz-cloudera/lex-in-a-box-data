@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:24:00",
+  "End": "01:24:05",
+  "Text": ". Well, and people were worried about how that would affect society."
+}

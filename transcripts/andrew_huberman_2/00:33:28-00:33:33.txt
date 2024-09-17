@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:28",
+  "End": "00:33:33",
+  "Text": ", no, like 90 minutes, but longer than 90 minutes like two hours."
+}

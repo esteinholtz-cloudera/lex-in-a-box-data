@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:58:50",
+  "End": "02:59:06",
+  "Text": "would expect it to give solutions? I would expect it to be like, well, I've read all of these textbooks and I know all these things that you've produced. And it seems to me like here are the experiments that I think it would be useful to run next. And here are some gene therapies that I think would be helpful. And uh here are the kinds of experiments that you should run."
+}

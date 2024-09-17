@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:55",
+  "End": "01:03:09",
+  "Text": "mentioned trust before. What role does trust from interacting with autopilot to in the medical context? What role does trust play in the human robot interaction? So"
+}

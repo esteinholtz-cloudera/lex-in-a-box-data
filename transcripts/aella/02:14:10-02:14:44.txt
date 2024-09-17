@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:10",
+  "End": "02:14:44",
+  "Text": "you. It sounds like you're censoring the most important word. This is like 1984 all over again. OK. Also on the book reading list, OK. Listen, no romantic love. Like a deep intimacy for somebody. Like a deep connection with a human being. That is also, mean, yeah, with polyamory, it's tricky and your relationship with sex is sex is also tricky. So like, what's the difference between a deep friendship a and a friendship that also has a sexual component? I remember"
+}

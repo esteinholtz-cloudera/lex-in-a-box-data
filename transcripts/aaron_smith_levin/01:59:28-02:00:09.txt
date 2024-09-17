@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:28",
+  "End": "02:00:09",
+  "Text": "versus them and them could be, your family could be your loved ones that uh deeply destructive. And one of the things you would probably throw into the definition of a cult is something that's actually destructive because like, I do a lot of stuff that's a cult. Like, like jiu-jitsu, like there's a lot of really close knit tribes, but there's no negative toxicity to it. There's no uh divide, there's no divisions or if there is, it's more try being a fan of a certain soccer team and then becoming a fan of another soccer team that's hardcore and like,"
+}

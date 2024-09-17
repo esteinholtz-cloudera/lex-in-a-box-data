@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:34",
+  "End": "00:52:07",
+  "Text": "I think that and the authority in not in some kind of weird current where everyone questions institutions but more like the authority of the senior scientist, the the junior scientists coming up. Wait, wait a minute, why have we been doing things this way? And that, that first step, I feel like rebelliousness or that open mindedness or maybe like resistance to or maybe curiosity that's uh is not affected by whatever the mainstream science says of"
+}

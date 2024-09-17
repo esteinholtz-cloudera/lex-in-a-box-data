@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:16",
+  "End": "02:10:28",
+  "Text": "you think about him, miss him part of what you doing in memory of him?, for sure. this is,"
+}

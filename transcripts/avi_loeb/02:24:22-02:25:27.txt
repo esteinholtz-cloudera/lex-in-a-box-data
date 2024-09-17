@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:22",
+  "End": "02:25:27",
+  "Text": ", absolutely. Um The space that you kind of touched on full of theories is perhaps detached from appreciation of empirical evidence or longing for empirical evidence or grounding in empirical evidence is the theoretical physics community and the interest in unifying the laws of physics. And with the theory of everything, not sure from which direction to approach this question. But how far away are we from arriving at a theory of everything do you think? And how would we, how important is it try to arrive at it at this kind of goal of this beautiful simple theory that unlocks the very fundamental basis of our nature as we know it. And you know, how what are the kinds of approaches uh we need to take to get there."
+}

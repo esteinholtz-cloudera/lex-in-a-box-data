@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:34",
+  "End": "02:46:30",
+  "Text": "there's digital art being displayed in the digital museum and people are being charged for access. And perhaps we plug in our senses, which means we start to operate more and more in a virtual reality, augmented reality, virtual reality way with this digital world and increasingly go into this world, basically lived most of our productive and social lives in this digital world. And increasingly essentially create a simulation where the biological basis is just there to sustain the brain that's used to operate in a in a virtual world. Taking us back to the original when we started talking about war. I wonder what conflict looks like in that world that the people who are born today maybe will be fighting wars the space in, in that museum world in that digital world. Remember what I"
+}

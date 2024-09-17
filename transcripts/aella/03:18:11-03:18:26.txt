@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:18:11",
+  "End": "03:18:26",
+  "Text": "almost like a kind of at least intellectual, like forgiveness for him. that, so that, that trip just took you through your whole, were you alone, by the way, when you're doing the trip?"
+}

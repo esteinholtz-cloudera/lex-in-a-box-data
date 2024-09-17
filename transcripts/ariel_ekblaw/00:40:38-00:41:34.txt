@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:40:38",
+  "End": "00:41:34",
+  "Text": "now? Your go to menu is going to be mostly freeze dried every so often. NASA will arrange for a fun stunt or fresh food to get up to station. So they did bake Doubletree cookies with Hilton a couple of years ago. As I recall, I think sometime before the pandemic. there's work actually in our lab at Mit Maggie Copeland, one of my staff researchers is looking at the future of fermentation. Everybody loves beer, right? Beer and wine and Kimchi and miso these foods that have just been, you know, really important to human cultures for eons because we love the umami and the better flavor in them. it turns out they also have a good shelf life if done properly. And they also have an additional health benefit for the microbiome for probiotics and prebiotics. So we're trying to work with NASA and convince them to be more open minded to fermented food for long duration deep space missions that we think is one of the future elements in addition to in situ growing your own food."
+}

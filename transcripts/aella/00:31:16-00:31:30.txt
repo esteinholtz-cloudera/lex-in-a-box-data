@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:16",
+  "End": "00:31:30",
+  "Text": "then I realized it's actually public information that I voted because I think my face shows up. There's like, damn, it, it's going to influence could make the fake Guiton or I could be lying. Right? And then dump the stuff or whatever, you know,"
+}

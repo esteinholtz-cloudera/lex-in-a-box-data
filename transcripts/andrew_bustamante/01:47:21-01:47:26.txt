@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:21",
+  "End": "01:47:26",
+  "Text": "? Maybe there's some people that are just chilling the whole time and that's their baseline."
+}

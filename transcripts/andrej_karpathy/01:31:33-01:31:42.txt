@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:31:33",
+  "End": "01:31:42",
+  "Text": ". And then of course, all of us drive it and we can also see it. It's really nice to work with a system that you can also experience yourself. And you know, it drives you home."
+}

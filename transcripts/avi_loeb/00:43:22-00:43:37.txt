@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:22",
+  "End": "00:43:37",
+  "Text": "are little sensors that's fascinated to think about. So there could be, I mean, not necessarily literally a grid but just even in some definition of evenly spread out set of objects like these that are just out"
+}

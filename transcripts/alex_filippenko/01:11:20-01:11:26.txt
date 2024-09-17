@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:20",
+  "End": "01:11:26",
+  "Text": "uh is like a, they enjoy, this is like a TV show for them. It's like a reality"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:00:09",
+  "End": "01:00:24",
+  "Text": ". Yes, actually during the demonstrations that three weeks ago, they, as I said, they had people in Sydney, Australia, New Zealand, Tokyo, all over the world,"
+}

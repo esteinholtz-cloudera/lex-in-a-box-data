@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "02:00:08",
+  "End": "02:00:34",
+  "Text": "I'll tell you, I trained jitsu as well and I have found that community of people to be one of the most loving and helpful group of people ever. Shout out to John Keller, Gracie Baha Clearwater. No, but seriously, like, it's one of, it's one of the reasons I continue to do it despite my back, my hip, my shoulder. It's like, it's just such a cool group of"
+}

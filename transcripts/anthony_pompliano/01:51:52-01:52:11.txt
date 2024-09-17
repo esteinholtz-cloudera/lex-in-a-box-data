@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:51:52",
+  "End": "01:52:11",
+  "Text": ". So at the highest level, I just think that like, learning about it is important, right? So even if you only have $5 equivalent of Bitcoin going and understanding here's how it works. Here's why it's important. Here's how I would actually withdraw from an exchange under the Harbor Wall. Like that alone, just as an exercise is a worthwhile pursuit. I think people should go do"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:06",
+  "End": "00:19:00",
+  "Text": "it's not good at an exam, but it is good when you're coming up with technology that could change the fabric of human civilization. But is a, you know, in my neck of the woods of artificial intelligence, there's a lot of trajectories. One can imagine of creating very powerful beings, the technology that's essentially you can call super intelligence that could achieve space exploration, all those kinds of things without consciousness, without something that to us, humans looks like consciousness. And there is a sad I have that consciousness too in terms of us being humble is a thing. We humans take too seriously that we think it's special just because we have it. But it could be a thing that's actually holding us back in some kind of way. It will"
+}

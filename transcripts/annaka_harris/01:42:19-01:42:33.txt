@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:42:19",
+  "End": "01:42:33",
+  "Text": ". Yeah. So, so I didn't totally answer your question first is um um way, ways that I have um worked through anxiety and depression."
+}

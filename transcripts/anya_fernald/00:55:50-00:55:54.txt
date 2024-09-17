@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:50",
+  "End": "00:55:54",
+  "Text": ". I mean, first of all, that's incredible. And second of all, is that possible to scale?"
+}

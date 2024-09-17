@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:58",
+  "End": "00:38:00",
+  "Text": "don't care. Rogan. Yes. Yes."
+}

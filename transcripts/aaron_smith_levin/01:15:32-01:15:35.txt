@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:32",
+  "End": "01:15:35",
+  "Text": "can't have a transfer of Satan's."
+}

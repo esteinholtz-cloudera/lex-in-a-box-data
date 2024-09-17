@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:26",
+  "End": "01:46:37",
+  "Text": ", it's interactive. So like, so like uh now I think it's a really nice thought experiment, think because uh Donald frames it in a scientific, like he makes a hard, as hard as our discussion has been. Now, he makes a hard scientific case that we don't know shit about reality. I think that's a little bit hardcore. But I think, I think it's, I think it's a good thought experiment that kind of cleanses the palate of the confidence we might have about because we are operating in this abstraction space., you know, and uh you know, the sensory spaces might be something very different. And, and it's kind of interesting to think about if you start to go into the realm of neuralink or start to talk about just everything that you've been talking about with dream states and psychedelics and stuff like that, which part of the, which layer can we control and play around with and maybe look into a different slice of reality. just got"
+}

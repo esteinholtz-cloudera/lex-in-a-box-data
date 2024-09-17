@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:18",
+  "End": "01:19:58",
+  "Text": "wish you collected more data about this pandemic because I feel like it's a good rough simulation of what would be out in space. A lot of people were locked down some married couples. I think a lot of marriages broke up. A lot of marriages got closer together. Um So it's like, and then the single people, some of them went off cliff and some of them discovered their new happiness and meaning and so on. It's a beautiful little experiment. A painful one. Is there a thorough way to really test that because it's such a costly experiment, humans up there. But I guess you can always return back to earth if it's not working"
+}

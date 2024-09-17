@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:10:25",
+  "End": "00:11:24",
+  "Text": "of these very fascinating things, but also I am hyper hyper alert, right? Like I'm hyper alert. Like my butt, my thumb like, oh, ok. I'm ready to take over even when I'm in my car or I'm doing things like automated backing into. So there's a feature where you can do this automating, backing into a parking space or bring the car out of your garage or even pseudo autopilot on the freeway. Right? I am hypersensitive. I can feel like as I'm navigating, I'm like, yeah, that's an error right there. Like I am very aware of it, I'm also fascinated by it and it does get better. Like I look and see it's learning from all of these people who are cutting it on like time I come on it's getting better, right? And so I think that's what's amazing about it is"
+}

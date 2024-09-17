@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:10:47",
+  "End": "03:11:07",
+  "Text": "for listening to this conversation with Aba Samana. To support this podcast. Please check out our sponsors in the description. And now let me leave you with a few words from Martin Luther King Junior from every mountainside. Let Freedom Ring. you for listening and hope to see you next time."
+}

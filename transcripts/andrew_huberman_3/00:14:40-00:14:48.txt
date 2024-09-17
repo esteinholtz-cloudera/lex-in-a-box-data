@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:14:40",
+  "End": "00:14:48",
+  "Text": "? Well, there we diverge again because for, for whatever reason and no disrespect to anyone but Indian food doesn't appeal to me. Well,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:46:57",
+  "End": "02:47:06",
+  "Text": "be able to share it with others and a lot of the characters really goofy. There's spongebob and Hitler's on there and South Park character,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:36",
+  "End": "02:10:29",
+  "Text": "neural net will actually, yeah, it will be able to leverage the synthetic data better by closing the get better understanding in which ways this is not real data. Right, to do better questions next time. That was, that was a question. But I'm just kidding. All right. Um is it possible, do you think speaking of AMN to construct neural nets and training processes that require very little data? we've been talking about huge data sets like the training, I mean, one way to say that is like you said, like the querying itself is another level of training, I guess. And that requires a little data. But do you see any value in doing research and kind of going down the direction of, can we use very little data to train to construct a knowledge"
+}

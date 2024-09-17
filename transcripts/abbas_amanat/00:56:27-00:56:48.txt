@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:27",
+  "End": "00:56:48",
+  "Text": "anxiety of the regime you hope will turn into a kind of uh realization that you have to, have to modernize, you have to make progress, you actually have to make certain compromises or constitutional changes, all those kind of stuff. So the basic process of government and law making the"
+}

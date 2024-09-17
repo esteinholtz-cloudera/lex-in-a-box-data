@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:36:04",
+  "End": "00:36:48",
+  "Text": ". Exactly. That's right. They don't all die immediately but they use up their supplies or again, this electrical toilet paper. There you go. That, that toilet paper, you know, um, or the electrical grid, I mean, imagine North America without power for a year.. I mean, we've become so dependent. We're no longer the cave people. They, they would do just fine, right. What do they care about the electrical grid? Right. What do they care about? Agriculture? They're hunters and gatherers. But we now have become so used to our way of life the only real survivors would be those rugged individualists who live somewhere out in the forest or in a cave somewhere completely independent of anyone else."
+}

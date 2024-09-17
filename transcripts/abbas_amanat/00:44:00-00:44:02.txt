@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:00",
+  "End": "00:44:02",
+  "Text": ". But in Iran is the opposite."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:09",
+  "End": "00:45:13",
+  "Text": ". That's a good, that's a good way to describe it. But it's not like some of it is genetic that you're able to notice the beauty in the world. And some of it is practiced where you realize, focusing on the negative things in life, unproductively is, um,, it just doesn't help your mind flourish. So, like you just notice that and it's like, mean, I think people with like depression, uh, learn that or like probably with trauma too is like there's certain triggers, like if you're, if you suffer from depression, you have to kind of consciously know there's going to be triggers that will spiral, like, force you to spiral down. And so just avoid those triggers. Some people have that with diet, with food and so on. And so I just don't like whenever there's a shady things happening or shady people I can help, unless, unless I can somehow help. Like, why, why focus on it? Yeah. Anyway, uh to your up upbringing. What uh what was the journey of escaping that?"
+}

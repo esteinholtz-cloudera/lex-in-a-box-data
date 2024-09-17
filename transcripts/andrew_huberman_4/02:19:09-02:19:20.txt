@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:09",
+  "End": "02:19:20",
+  "Text": "only make them uh their life more joyful and brings love to their life, it also makes them more productive, makes them better people. All that. It's like, it's, it's, it's, it's uh it's kind of"
+}

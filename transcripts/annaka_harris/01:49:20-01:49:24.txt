@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:49:20",
+  "End": "01:49:24",
+  "Text": ". I didn't realize that understanding had permeated into the culture. Yeah, that's a"
+}

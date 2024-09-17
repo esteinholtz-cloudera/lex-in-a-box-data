@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:48",
+  "End": "00:59:56",
+  "Text": "a difference in terms of intelligence between humans and other mammals? But like a fundamental leap in intelligence, it's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:53",
+  "End": "03:10:02",
+  "Text": "fantasy? uh to get Freud in for a second? What role does sexual fantasy have in the human condition?"
+}

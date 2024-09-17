@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:04",
+  "End": "01:52:37",
+  "Text": "the topic of discovery of evidence of alien civilizations, which is something you touch on in your book, what that idea would do to societies, to the human psyche and in general, do you think, you talk about the uh still have trouble pronouncing but a more wager, right? What do you think? Can you explain it? And what do you think in general is the effect that such knowledge might have on human civilization?"
+}

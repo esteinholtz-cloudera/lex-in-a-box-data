@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:10",
+  "End": "01:55:16",
+  "Text": "it has to be plausible where you could trick your mind. Interesting. I mean, yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:16:21",
+  "End": "03:16:28",
+  "Text": ", it's just like a second layer. It's a new second layer that hasn't been there before the brain. They both, they both coexist, but"
+}

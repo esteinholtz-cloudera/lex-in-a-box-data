@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:32:22",
+  "End": "00:32:38",
+  "Text": "tagline, I use my videos but like it is interesting that an organization that is so hyper capitalist and so money hungry and is known to be very wealthy at its core is run by this group of CRG members that live a communist lifestyle."
+}

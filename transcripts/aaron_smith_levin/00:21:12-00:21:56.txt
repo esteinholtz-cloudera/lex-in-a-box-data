@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:21:12",
+  "End": "00:21:56",
+  "Text": "now I run growing up in Scientology, the youtube channel. But what I primarily do is I help run an organization that helps people who are escaping from scientology. I'm the vice president of the aftermath Foundation. um we created the foundation after the television show, Leah Remini Scientology in the aftermath. And there was such an outpouring of support from non Scientologists all over the world. What can we do to help people leave Scientology uh we decided to create a foundation? And uh it's been incredibly successful. We've helped people escape from all regions and echelons of scientology. We, we, we've accomplished what we've accomplished is far beyond what we actually envisioned would be possible. It's been a huge success."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:16",
+  "End": "02:47:26",
+  "Text": "thought there was like a two dimensional space somehow. So this is like literally from zero to how kin so is a million. Who is the most, what's the character"
+}

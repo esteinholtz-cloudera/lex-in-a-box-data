@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:06",
+  "End": "03:06:21",
+  "Text": "think about it. That's because it's a really nice formulation. I, I almost like to sort of oscillate back and forth. So majority of the time spent to the mode of enough is enough of gratitude of basically being content with where you're at, deeply appreciative of every moment and all the Bitcoin, whatever Bitcoin you have being deeply appreciative and that being enough and then some fraction of time, perhaps it shrinks as you get older that maybe there's an optimal trajectory there. But some fraction of time is spent being deeply self critical and nothing is enough. Nothing you've ever done worth anything. It's the Marvin Minsky said the secret to success is hating everything you've ever done. So that mode of just hating everything you've ever done and just like trying to improve, trying to make stuff better. Nothing is enough. It's never enough, that kind of stuff. And then oscillating back and forth, don't have to have the same algorithm operating throughout the day. You could just oscillate back and forth and maybe reserve that gratitude part, the chill part to when you're hanging out with family and friends and loved ones and then when you're alone or maybe at work is that the mad man comes out kind of thing."
+}

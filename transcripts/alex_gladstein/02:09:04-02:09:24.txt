@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:09:04",
+  "End": "02:09:24",
+  "Text": "connected? I sorry to interrupt, is it, is it from the inflation perspective? Is, is a good study of inflation and the effects, does Bitcoin at all come as a, know, a discussion of money, does that come into the or is it purely the experience of inflation is almost a symptom of an authoritarian? A little"
+}

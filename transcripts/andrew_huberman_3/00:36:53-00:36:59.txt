@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:36:53",
+  "End": "00:36:59",
+  "Text": ". Yeah, there's something about it. I feel like in, in, uh, Eastern Europe they wear athletic gear where, like, the guys like zip up."
+}

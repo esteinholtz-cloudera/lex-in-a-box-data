@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:35",
+  "End": "02:20:40",
+  "Text": ". How many type one A are out there to use for"
+}

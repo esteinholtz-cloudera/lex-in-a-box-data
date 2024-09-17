@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:55:05",
+  "End": "01:55:17",
+  "Text": "that's, you would really enjoy a meditation retreat. I mean, you would also not enjoy it. It would be hard because you wouldn't go nuts. It would be hard. But you would get it."
+}

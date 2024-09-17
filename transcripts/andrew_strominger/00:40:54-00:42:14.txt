@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:40:54",
+  "End": "00:42:14",
+  "Text": "a very interesting feature of the real world that it isn't parody of variant and string theory. It was thought could not tolerate that. um then it was learned in the mid eighties that not only could it tolerate that, but if you did things in the right way, you could a world that strings that reconciled quantum mechanics and general relativity, which looked more or less like the world that live in. now that isn't to say that string theory predicted our world, just meant that it was consistent that the, the hypothesis that string theory describes our world can't be ruled out from the get go. it is also the only for a complete theory that would describe world. Still, will believe it there's some kind of direct experiment. And I don't even believe it myself."
+}

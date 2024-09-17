@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:43:56",
+  "End": "01:44:37",
+  "Text": ". So there, there's a couple of different ways to kind of uh acquire Bitcoin. And in every way, you've got to exchange some form of value for Bitcoin, right? Which is part of why it has values because you're giving up value. So um in one way is to exchange uh energy and computational power for Bitcoin. So you can mine it, you can literally take uh computer power that you have, you can rent it to the network uh and run that and then it will pay you a portion of the kind of daily revenue uh of that system. And you can acquire Bitcoin in exchange for your power and your computational um kind of contribution. And"
+}

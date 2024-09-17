@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:37",
+  "End": "00:34:08",
+  "Text": "you can correct me, but it feels like in the English speaking world, it's harder to control, harder to, to fight the information war because of, you know, some people say there's not really a freedom of speech in this country. But I think uh if you compare, there's a lot more freedom of speech and it's just harder to control narratives when there's a bunch of um gorilla journalists that are able to just publish anything they want on Twitter or anything. just harder to control narratives."
+}

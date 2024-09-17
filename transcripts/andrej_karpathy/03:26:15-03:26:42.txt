@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:26:15",
+  "End": "03:26:42",
+  "Text": "yeah, there's always like fun, fun projects basically. And stable diffusion also is opening up a huge amount of experimentation I would say in the visual realm and generate, generating images and videos and movies ultimately. And so that's going to be pretty crazy. That's going to, that's going to almost certainly work. And it's going to be really interesting when the cost of content creation is going to fall to zero. You used to need a painter for a few months to paint a thing and now it's going to be speak to your phone to get your"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:41:04",
+  "End": "00:41:41",
+  "Text": "So I'm working on an audio documentary about consciousness. Um And it picks up where my book left off. Um So all of the questions that were still lingering for me um And research that I still wanted to do, I just started conducting. So I've done about 30 interviews so far. Um And I it's not totally clear what the end result will be. I'm currently collaborating with Ted and I'm having a lot of fun creating a, a pilot with them. and so we'll see where it goes. But the idea is that it's a narrated documentary. It's like a series, a series. It will be 10 part"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:23:59",
+  "End": "02:24:56",
+  "Text": ", you need to be 18 to have a bank account or whatever. One of one of the people that we supported at A RF through our, we do software development funding for people in Bitcoin uh open source projects. And he's one of the guys we funded is this very young, smart sort of prodigy. He's like 17. But one of the reasons he got into Bitcoin was because he wanted to have control of his money when he was like 14. I mean, if you think in history, people who invented uh all kinds of incredible contributions to science or math, I mean, a lot of them did it before they were 15. Um So think about that maturity that is capable and possible in many people. Like I've participated in some of the years ago, some of the sort of selection processes for like the teal fellowship, which is like, really amazing, like these people who are, 16, who don't need to go to college, they're already like, so smart, they can figure it out, but they wouldn't be allowed to have a bank account, right? So, hey, that's kind of cool. Like now you have a permissionless money, you can, you can open up yourself without permission from your parents. It's kind of cool. Yeah,"
+}

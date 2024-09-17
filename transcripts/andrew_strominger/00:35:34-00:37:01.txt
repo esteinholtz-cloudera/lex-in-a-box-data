@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:35:34",
+  "End": "00:37:01",
+  "Text": "of the one fully uh consistent model that we have that uh reconciles it it would that sort of tames gravity and reconciles it with quantum mechanics. Uh is string theory and its cousins and we don't know what or if in any sense, string theory describes the world, the physical world. But we do know that it um a consistent reconciliation of quantum mechanics and general relativity. And moreover, one which um is able to incorporate particles and forces like the ones we see around us. So hasn't been ruled out as an actual sort of unified theory of nature. there also isn't a, my view, some people would disagree with me, but there isn't a, a reasonable uh possibility that we would be able to do an experiment in the foreseeable future, which would be sort of a yes or no to uh to string theory."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:50",
+  "End": "00:42:56",
+  "Text": "you actually linger on the the Sunni Suna? She"
+}

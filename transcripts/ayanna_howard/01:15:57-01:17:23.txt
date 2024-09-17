@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:15:57",
+  "End": "01:17:23",
+  "Text": "do, I do know that A I robotics will displace workers like we do know that, but there'll be other workers that will be defined new jobs. Um What I worry about is, that's not what I worry about. Like, will all the jobs go away? I worry about is the type of jobs that will come out? Right. Like people who graduate from Georgia Tech will be ok. Right. We give them the skills they will adopt even if their current job goes away. I do worry about those that don't have that quality of an education. Right. Will they have the ability, the background to adapt to those new jobs that I don't know that I worry about, which will be even more polarization in, our society internationally and everywhere I worry about that. Um I also worry about not having equal access to all these wonderful things that A I can do and robotics can do. worry about that. Um, you know, people like me from Georgia Tech from, say, mit will be ok. Right. But that's such a small part of the population that we need to think much more globally, of having access to the beautiful things, whether it's A I in healthcare A I in education, I and politics. Right. I worry about that"
+}

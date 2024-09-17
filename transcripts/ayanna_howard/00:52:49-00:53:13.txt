@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:52:49",
+  "End": "00:53:13",
+  "Text": "mean, I, I mean, I, I loved robotics. Yeah. So that was a 12 year old. Like I'm gonna be a roboticist actually was I called it cybernetics. But so my, my motivation was bionic woman. I don't know if you know that. Um And so, I mean, that was like a seminal moment but I didn't meet that was TV, right? Like it wasn't like I was in the same space and, I mean, I was like, oh my gosh, you're like"
+}

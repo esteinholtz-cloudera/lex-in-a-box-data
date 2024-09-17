@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:07",
+  "End": "02:27:23",
+  "Text": ", the traditional view of jealousy is exactly like you said, if you bring it up to the surface, like it's going to sound like you're overreacting to everything. you're saying like, still do it because your brain blows stuff out of proportion."
+}

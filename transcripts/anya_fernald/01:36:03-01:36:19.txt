@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:36:03",
+  "End": "01:36:19",
+  "Text": ". And there isn't, like, for me there's not like a big cake or something. Super like that. It's like really yummy things that I love. Like really fresh crusty, delicious bread that's warm and it's got a bunch of butter on it and I can put some salt on it and eat a big slab of that. That's just, that's where I'm at."
+}

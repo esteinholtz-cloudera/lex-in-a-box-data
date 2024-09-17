@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:49:15",
+  "End": "00:50:05",
+  "Text": ". So basically it gets 1000 words and trying to predict the 1001st and in order to do that very, very well over the entire data set available on the internet, you actually have to basically kind of understand the context of of what's going on in there. Um uh it's a sufficiently hard problem that you uh if you have a powerful enough computer like a transformer, you end up with uh interesting solutions. And uh you can ask it to do all kinds of things and um it, it, it shows a lot of uh emergent properties like in context learning. That was the big deal with GP T and the original paper when they published it that you can just sort of uh prompt it in various ways and ask it to do various things and it will just kind of complete the sentence. But in the process of just completing the sentence, it's actually solving all kinds of really uh interesting problems that we care about. Do"
+}

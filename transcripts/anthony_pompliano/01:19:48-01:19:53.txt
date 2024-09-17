@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:48",
+  "End": "01:19:53",
+  "Text": "shifted the power, the asymmetry of power is more symmetrical, the"
+}

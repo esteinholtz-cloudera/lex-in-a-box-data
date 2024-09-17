@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:02",
+  "End": "00:37:35",
+  "Text": "you combine that with a sense of optimism that the future can be better. Yeah, that feeds, into this productive effort of making things better. it somehow makes the vision of the things that are better, more intense, having experienced shitty things.. we talked about free will and consciousness and what drives human civilization? Question left unanswered. It's a homework problem for the reader. OK."
+}

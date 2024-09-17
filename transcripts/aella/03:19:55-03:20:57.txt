@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:19:55",
+  "End": "03:20:57",
+  "Text": ".. Maybe there needs to be a different frame. No, II, I agree with you to, I just, I've, I've made friends with and talked to this guy named uh Paul Conti. He wrote a book on, on, on trauma. He's an incredible brilliant psychiatrist. Yeah, he's probably agrees with you. I should read it. Yeah, you should. Uh may maybe you talked to, he's a fascinating human being. I'd be interested in the um psychiatrist perspective is really interesting because it's a, you do, you've been doing kind of an in person survey because you've done, done so many patients. Like, like he, he's like, just talking to him is fascinating because like if I describe my experience or somebody else's experience it, I could see his brain mapping it in interesting ways to the tens of thousands of, of like data points he has in his head and it's like, course, that's what doctors do, but it's cool as the doctor is basically the doctor of the mind and"
+}

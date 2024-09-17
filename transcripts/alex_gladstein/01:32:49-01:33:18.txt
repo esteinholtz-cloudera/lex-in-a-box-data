@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:32:49",
+  "End": "01:33:18",
+  "Text": ", I just read again this New Yorker piece that just came out that you should read. It's called ghost walls. it's the story of how the Chinese Communist Party is committing genocide right now, just like other regimes did and the Turks did to the Armenians and the Nazis did to the Jews and it's happening again right now. He said never again. And you know, that's just not true. We're letting it happen. And again, with the business stuff like people are like airbnb is like a sponsor of the Olympics. Like what at"
+}

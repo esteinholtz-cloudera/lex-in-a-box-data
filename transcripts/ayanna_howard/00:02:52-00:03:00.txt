@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:02:52",
+  "End": "00:03:00",
+  "Text": "people not only anthropomorphize but project whatever they wish for the robot to be onto"
+}

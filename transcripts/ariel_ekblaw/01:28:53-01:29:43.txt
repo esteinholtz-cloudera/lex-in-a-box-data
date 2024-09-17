@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:53",
+  "End": "01:29:43",
+  "Text": "this is the best of researchers who can do these kinds of wild ideas. I get to spend quite a bit of time with Mr Elon Musk and he's very stressed, especially about starship and all those kinds of engineering efforts. do you think about how damn hard it is to get out of space? Are we humans going to be able to do this? don't know. I think it feels like it's an engineering problem it's a scientific problem, but it's also just a motivation problem for the entire human species. And you also need to have superstar and engineers working on it. So you have to get the best people in the world to inspire them and starting from a young age and kind of"
+}

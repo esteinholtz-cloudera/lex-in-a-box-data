@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:03:41",
+  "End": "00:03:45",
+  "Text": "is the role of science in our society?"
+}

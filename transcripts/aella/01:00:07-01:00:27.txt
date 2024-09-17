@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:00:07",
+  "End": "01:00:27",
+  "Text": ", that was like moral failure. Moral failure. Yeah. Like I was not virtuous at all, like, in various way, like, you know, you were lazy and the lazy part. I have like a DH D or something and I was not good at it as a kid either. I would totally forget all the time. And"
+}

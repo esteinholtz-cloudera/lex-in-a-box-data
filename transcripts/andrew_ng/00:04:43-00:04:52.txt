@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:04:43",
+  "End": "00:04:52",
+  "Text": ". Tried to automate parts of that to make it more, to have more impact from a single teacher, single educator."
+}

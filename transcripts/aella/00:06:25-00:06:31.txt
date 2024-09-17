@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:06:25",
+  "End": "00:06:31",
+  "Text": "? I think conversations in general, like is anybody like how the certainty is really exciting? Maybe if the certainty is something new,"
+}

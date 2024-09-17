@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:02:35",
+  "End": "01:02:59",
+  "Text": "days and uh you also mentioned that sort of Bitcoin is uh is the mechanism of a peaceful revolution. So it's a way to, to resist authoritarianism in a peaceful way. It's ultimately a me, you know, you mentioned sort of um, information and money. Uh it seems like in the space of money, this is one of the peaceful"
+}

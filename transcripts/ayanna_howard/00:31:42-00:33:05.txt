@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:31:42",
+  "End": "00:33:05",
+  "Text": "think about quite a bit the medical domain. Uh just because historically, right, the healthcare domain has had these biases typically based on gender and ethnicity primarily. Um a little in age but not so much. you know, historically, if you think about um FDA and drug trials, it's, you know, harder to find a woman that, you know, aren't child bearing. And so you may not test on drugs at the same level, right? So there, there's these things. Um And so if you think about robotics, right? Um Something as simple as like to design an exoskeleton, right? What should the material be? What should the weight be? What should the form factor be? Are you who are you going to design it around? I will say that in the US, you know, women average height and weight is slightly different than guys. So who are you going to choose? Like if you're not thinking of it from the beginning as you know, OK, I, when I design this and I look at the algorithms and I designed the control system and the forces and the torques if you're not thinking about, well, you have different types of body structure, you're going to design to, you know what you're used to. Oh, this fits in all the folks in my lab,"
+}

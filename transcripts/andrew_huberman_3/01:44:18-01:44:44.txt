@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:18",
+  "End": "01:44:44",
+  "Text": ".. I mean, you know, in some sense you're first book will have, know, decades in it, right? Even if you just take a half a year to write it, it's like the first book, like the first album for a musician. I mean, it's a light, it's a journey. It's a, it's a, it's ever, but he uses uh and quotes in there really. Well,"
+}

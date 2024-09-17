@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:30",
+  "End": "02:24:05",
+  "Text": "don't know if you know who Max Tegmark is. I just recently talked to him, a friend of mine, I just recently talked to him again. And I mean, he was a little bit more explicit about saying, you know, being aware, which is something I also recommend is being aware of where the scientific community stands and doing enough to move along into your, in your career. And it's the necessary evil, I suppose if you are one of those out of the box thinkers, just naturally have this child like curiosity, which Max definitely is one of them is sometimes you have to do some stuff that fits in, you publish and you get tenure and all"
+}

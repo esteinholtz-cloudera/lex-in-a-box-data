@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:04",
+  "End": "01:34:09",
+  "Text": ", nobody understands at this point. So by the way, you need to update your"
+}

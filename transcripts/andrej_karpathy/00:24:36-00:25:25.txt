@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:36",
+  "End": "00:25:25",
+  "Text": "could have been initiated by aliens. This could be a computer running a program like, OK, if you had the power to do this when you OK? For sure. At least I would, I would pick a earthlike planet that has the conditions based on my understanding of the chemistry prerequisites for life. I would see it with life and run it, right. Wouldn't you 100% do that and observe it and then protect. I mean, that's not just a hell of a good TV show, it's a good scientific experiment and it is, it's physical simulation, right? Maybe, maybe the evolution is the most like actually running it is the most efficient way to understand computation or to compute stuff"
+}

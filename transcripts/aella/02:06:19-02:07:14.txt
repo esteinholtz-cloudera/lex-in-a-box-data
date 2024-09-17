@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:06:19",
+  "End": "02:07:14",
+  "Text": ", I I don't like the world views that pit like emotion and rationality opposite each other. They feel like beautiful parts of like a cohesive whole. Like if you're doing rationality to the extent where you're like suppressing some emotional reactions you have, then I think you're doing it wrong. You're like missing a big part of it. Like it should be like integrated, it should be like part of like one unified flow, like the things that you like if you want to be in a romantic committed relationship for the rest of your life and this is like beautiful and good and the kind of like logic that you're using to make sense of the world should be fitted into that correctly. think it's really cool. Like anytime you have sort of an internal at odds. Thing with it. I think you're using some sort of force to suppress one or the other. Like, oh, I'm not allowed to reason about this or I'm not allowed to feel about that and it feels harsh to me. And I think curiosity is the solution. If you're simply just calmly curious. Oh, why do I feel like that? Let's go find out. That's so cool. Right. You can use logic and your feelings to discover the answer."
+}

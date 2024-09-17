@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:23",
+  "End": "00:52:53",
+  "Text": ", yeah, it's kind of amazing, in my own life. Like, I, I play guitar every day for, like, I forced myself to at least for five minutes, play guitar. It's, it's a ridiculously short period of time. But because I've gotten into that habit, it's incredible what you can accomplish in a period of a year or two years. You can become, know, uh, exceptionally good at certain aspects of a thing by just doing it every day for a very short period of time. It's kind of a miracle, but that is how it works. It adds up over time."
+}

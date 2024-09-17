@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:50",
+  "End": "01:10:07",
+  "Text": "think of prompting as a kind of teaching and learning like this whole process, like another layer? know, because maybe that's what humans are where you have that background model and then you're, the world is prompting you."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:28:07",
+  "End": "00:29:10",
+  "Text": ", I don't know what determining conditions are, but definitely there's a trend line of something and we're part of that story and like, where does that, where does it go? So, you know, we're famously described often as a biological bootloader for a is, and that's because humans, I mean, you know, we're an incredible uh biological system and we're capable of computation and uh you know, and love and so on. But we're extremely inefficient as well. Like we're talking to each other through audio. It's just kind of embarrassing honestly that we're manipulating like seven symbols. Uh Sally, we're using vocal chords. It's all happening over like multiple seconds. It's just like kind of embarrassing when you step down to the uh frequencies at which computers operate or are able to coperate on. And so basically, it does seem like um synthetic intelligences are kind of like the next stage of development. um I don't know where it leads to, like at some point I suspect uh the universe is some kind of a puzzle uh these uh synthetic A is will uncover that puzzle and solve it."
+}

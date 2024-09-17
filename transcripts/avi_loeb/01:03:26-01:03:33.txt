@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:26",
+  "End": "01:03:33",
+  "Text": ". would just follow that all along to say that there should be other earth like places, there should be other life forms"
+}

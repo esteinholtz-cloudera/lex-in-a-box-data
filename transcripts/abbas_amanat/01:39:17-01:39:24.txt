@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:17",
+  "End": "01:39:24",
+  "Text": ". Wait a minute. What, what was? Yes, of course. What was the CIA? What was the CIA doing?"
+}

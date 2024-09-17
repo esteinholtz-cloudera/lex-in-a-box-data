@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:40:07",
+  "End": "03:40:33",
+  "Text": "what about like the um mean, like I said, I finished reading Brave New World, like the over sexualization. it, does it increase like sexualization of society that's not to a degree it's not good? Or is this, is this good? Like the, really, does it alter in a negative direction our relationship with sex?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:22",
+  "End": "00:44:13",
+  "Text": "is currently supplying military equipment to Ukraine. Absolutely. And a lot of that military equipment has actually been the thing that turned the tide of war a couple of times already currently, that's the high mars systems. you mentioned sort of Putin can't afford to lose but winning can look in different ways. So you've kind of defined so on at this moment, the prediction is that winning looks like capturing not just the east but the south of Ukraine, you could have narratives of winning that returned back to the what was at the beginning of this year before the invasion that Crimea is still with Russia, there's some kind of negotiated thing about Donbas where it still stays with Ukraine, but there's"
+}

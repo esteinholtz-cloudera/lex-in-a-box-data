@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:09:09",
+  "End": "00:09:51",
+  "Text": "joined when I was 17 years old, I needed my parents to uh basically sign in order to join and I graduated a semester early from high school and I thought I was going to go play football in college and kind of enroll in the spring semester. And when that didn't happen, basically was working at uh Chick Fil A and Quiznos and had in my mind, look, this is probably not the uh the path in life that I want. Um, and so I knew I was gonna go to college, I knew I was gonna go play football in the fall, but I had this window of time. And so I walked into a recruiting office and just basically was like, I'm assuming you guys need some help. And, uh, yeah, they gave me the whole pitch and, uh, you know, give you a signing bonus, you can go jump out of planes and go do all this crazy stuff. just said, ok, let's"
+}

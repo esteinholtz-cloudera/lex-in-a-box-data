@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:20:31",
+  "End": "02:20:58",
+  "Text": ". The possibility of making nuclear weapons was discovered. Right. It wa it was there before. didn't, we didn't, it's not like somebody made it. Right. Um, Picasso, you know, there would never have been a, but without Oppenheimer, there would surely have still been atom bomb."
+}

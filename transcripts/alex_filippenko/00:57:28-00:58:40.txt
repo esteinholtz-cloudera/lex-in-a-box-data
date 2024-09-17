@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:57:28",
+  "End": "00:58:40",
+  "Text": "there's this idea, um the Alkie Drive where you warp space time in front of you. So as to greatly reduce the distance and you can expand the space time behind you. So you're sort of riding a wave through space time. the problem I see with that beyond the practical difficulties and the energy requirements. And by the way, how do you get out of this bubble through which you're, you know, riding this wave of space time? And Miguel Aubie acknowledged all these things. He said this is purely theoretical fanciful and all that. But a fundamental problem I see is that you'd have to get to those places in front of you. So as to change the shape of space time, as to make the journey quickly. But, but to get there, you, you got there in the normal way at a speed, considerably less than that of light. So in a sense, you, you haven't saved any time, right? You might as well have just taken that journey and gotten to where you were going.. Right. You, what have you done? You, it's not like you snap your fingers and say, OK, let that space there be compressed and then I'll make it over to Alpha Centauri in the next month. You, you can't snap your fingers and do that."
+}

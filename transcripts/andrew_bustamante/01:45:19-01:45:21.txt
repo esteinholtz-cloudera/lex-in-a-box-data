@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:45:19",
+  "End": "01:45:21",
+  "Text": "? It's called a polygraph"
+}

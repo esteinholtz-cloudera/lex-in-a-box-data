@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:17",
+  "End": "02:19:40",
+  "Text": "you've also spoken about is private intelligence and the power and the, reach and the scale and the importance of private intelligence versus government intelligence. Can you elaborate on the role of what is private intelligence and what's the role of private intelligence in the scope of all the intelligence that is gathered and used in the United States? Yeah,"
+}

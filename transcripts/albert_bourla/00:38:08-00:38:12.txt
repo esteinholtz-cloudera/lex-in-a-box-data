@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:38:08",
+  "End": "00:38:12",
+  "Text": "on not even having aggressive sponsorships, we have very few."
+}

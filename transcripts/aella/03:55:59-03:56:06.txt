@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:55:59",
+  "End": "03:56:06",
+  "Text": "also, like, the threat of leaving. Right. Oh, yeah., that's a kind of conflict. Yeah, that's"
+}

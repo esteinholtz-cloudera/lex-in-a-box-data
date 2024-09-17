@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:36:36",
+  "End": "00:37:10",
+  "Text": "do feel a two G pull out, right? So the cost of getting those micro G parabolas is you then have a two G pull out that's hard. You have to train for it. Uh If you move your neck too quickly in that two G pull out, you can strain muscles. Um But I wouldn't say that it's actually a profound um tough thing on the body. It's really just an incredibly novel experience. And when you're in orbit and you're not having to go through the ups and downs of the parabolic plane, there's a real grace and elegance and you see the astronauts learn to operate in this completely new environment."
+}

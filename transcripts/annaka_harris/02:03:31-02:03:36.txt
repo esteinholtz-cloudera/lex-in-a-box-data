@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:03:31",
+  "End": "02:03:36",
+  "Text": "it's, I don't actually think it's one or the other. both, they're"
+}

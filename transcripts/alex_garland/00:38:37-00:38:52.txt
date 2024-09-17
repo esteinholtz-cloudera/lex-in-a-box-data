@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:37",
+  "End": "00:38:52",
+  "Text": "idea that it's a super intelligent machine, but it's just performed a particular task in doing that task, may destroy everybody on earth or may achieve undesirable effects for us. Human. Precisely. But what if"
+}

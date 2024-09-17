@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:59",
+  "End": "00:46:27",
+  "Text": "is also a mathematical tool kit and you've used it, you've used it with Kamra and Wafa. Maybe we can sneak our way back from string theory into black holes. Um What was the idea that you and Kamrava developed with the holographic principle and string theory? Were we able to discover through this, through string theory about black holes or connects us back to the reality of black holes?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:58",
+  "End": "00:13:45",
+  "Text": ". And my hope is that there's this kind of effect that there's people who are not really interested in soft to being a programmer or being into software engineering, like biologists, chemists and physicists, even mechanical engineers, all these disciplines that are now more and more sitting on large data sets. here they didn't think they're interested in programming until they have this data set. And they realize there's a set of machine learning tools that allow you to use the data set. So they actually become, they learn to program and they become new programmers. So like the just because you've mentioned a larger percentage of developers become machine learning people. It seems like more and more the kinds of people who are becoming developers is also growing significantly."
+}

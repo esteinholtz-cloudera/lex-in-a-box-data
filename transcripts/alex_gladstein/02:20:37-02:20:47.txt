@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:20:37",
+  "End": "02:20:47",
+  "Text": "guess. Are you? Ok, fine. If we do not decentralize properly out into different spaces, probably, I guess. Yeah."
+}

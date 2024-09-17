@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:39",
+  "End": "01:03:50",
+  "Text": "do you think about that calculation? Because the risk for kids is very low. Kids do die. Kids do go to the hospital from COVID, but the rate is very low,"
+}

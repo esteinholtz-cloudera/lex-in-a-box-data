@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:56:18",
+  "End": "02:56:55",
+  "Text": "human nature is not to assign competence. So,, empirically, humans overvalue losses and undervalue gains. That's something that we've seen from finance to betting and beyond. the Austin Police department starts telling you about all these heinous crimes that they have that were avoided because of their hard work. way that your brain is actually going to process that information is you are going to say if this is all the stuff that they've stopped, how bad must this place be? How much more haven't they stopped,"
+}

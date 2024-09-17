@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:24:43",
+  "End": "03:25:48",
+  "Text": "obvious to me either. It, it makes me feel like I'm missing something for the Yeah, because there is a huge even Google and so on youtube transcription. Yeah, it's unclear but some of it is also integrating into a bigger system so the user interface, how it was deployed and all that kind of stuff, maybe running it as an independent thing is much easier, like an order of magnitude, easier than deploying to a large integrated system like youtube transcription or um anything like meetings like Zoom has transcription that's kind of crappy but creating interface where the texts, the different individual speakers, it's able to um it in compelling ways, run it real time, all that kind of stuff. Maybe that's difficult. I, well, that's the only explanation I have because like, um currently paying quite a bit for human transcription, human caption annotation and like, it seems like there's a huge incentive to automate that. It's very"
+}

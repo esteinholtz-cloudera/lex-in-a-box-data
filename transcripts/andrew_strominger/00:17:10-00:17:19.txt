@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:10",
+  "End": "00:17:19",
+  "Text": "statement that you should always have the same, give it the same kind of trajectory, the same kind of uh instructions no matter the weather station."
+}

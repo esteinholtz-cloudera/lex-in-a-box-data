@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:28",
+  "End": "02:13:31",
+  "Text": "show again the same way again."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:56",
+  "End": "00:24:23",
+  "Text": "maybe you can correct me but from my very distant outsider perspective, uh the of the way that certain authoritarian governments speak about gay people is it's almost like, what is it? don't have gay people in our country kind of idea as opposed to scapegoat scapegoating, which is like,"
+}

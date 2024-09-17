@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:03",
+  "End": "02:29:28",
+  "Text": "speaking of memes, what the heck do you think is up with Elon Musk talking about Dogecoin. A lot, sort of from the Cryptocurrency community. I've been talking to a lot of, sort of technologists, I guess, and reading papers on Cryptocurrency, it's like nobody really sees Dogecoin as a revolutionary crypto technology. A lot of people talk about its security issues. There's a bunch of issues it has., you did say that money is a kind of a social construct, right? Elon Musk's combination of humor and brilliant engineering in the various companies, he runs combines to create a kind of value and excitement behind Dogecoin. It's like, what is it? He says that the most amusing outcome is the most likely kind of idea, which silly, but there could be profound truth to it. It's like, what do you make of Dogecoin philosophically or technically, is it possible that Dogecoin will overtake Bitcoin and run the entire, the entire world? I can't even because it could happen, it could happen. But if there's any serious way to answer that question, well,"
+}

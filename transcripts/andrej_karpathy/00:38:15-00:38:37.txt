@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:15",
+  "End": "00:38:37",
+  "Text": ". And now we're talking about the narrative. It's very meta looking back. What is the most beautiful or surprising idea in deep learning or A I in general that you've come across, you've seen this field explode and grow in interesting ways. Just what, what cool ideas like, like we made you sit back and go hm, small, big or"
+}

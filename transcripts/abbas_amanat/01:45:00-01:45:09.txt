@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:45:00",
+  "End": "01:45:09",
+  "Text": "a Shah is an old term in Persia that comes from a pre Islamic person of ancient times in the"
+}

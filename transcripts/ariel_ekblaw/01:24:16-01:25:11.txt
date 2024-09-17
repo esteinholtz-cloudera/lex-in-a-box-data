@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:24:16",
+  "End": "01:25:11",
+  "Text": "of the reasons we're spinning out Aurelia is, we actually realized it's cheap enough. It doesn't even have to be mit and we wanted to start democratizing access to space flight opportunities to a much broader swath of humanity. Could you take a, you know Khan Academy educational course about hey, students around the world, this is how you get ready for a zero G flight. And by the way, come fly with us next year, which is something we're going to do with our rails, we're going to bring, know, much more, just kind of day to day folks on zero G flights and get them access to engaging in the space industry. So it's become cheap enough. Um And the prices have dropped enough to consider even that. So that's amazing. It definitely doesn't have to be a consortium of universities anymore. on what you want to fly. If you want to fly James Webb, a huge telescope that's decades in the making sure you need a NASA allocation budget, you need billions. But for a lot of the stuff in the book and our research portfolio, it's actually becoming far more accessible."
+}

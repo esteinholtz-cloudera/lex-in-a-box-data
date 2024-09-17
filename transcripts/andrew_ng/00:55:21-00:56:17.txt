@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:55:21",
+  "End": "00:56:17",
+  "Text": ". And because, because you can't write as many words, you have to take whatever they said and summarize it into fewer words. And that summarization process requires deeper processing of the meaning which then results in better attention. That's fascinating. I spent, I think, yeah, because of course, I spent so much time studying pedagogy. Actually, one of the passions I really love learning how to more efficiently help others learn. Um Yeah, one of the things I do both when creating videos or when we write the badge is um I try to think is one minute spent with us going to be a more efficient learning experience than one minute spent anywhere else. And we really try to, know, make it time efficient for the learners because, you know, everyone's busy. So when, when we're editing, I often tell my teams, every word needs to fight for his life. And if can delete the word, let's just delete it, then not, let's not waste the learn this time."
+}

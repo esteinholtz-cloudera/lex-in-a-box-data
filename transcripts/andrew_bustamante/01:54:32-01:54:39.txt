@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:32",
+  "End": "01:54:39",
+  "Text": "definitely have. Oh, that's good to know. So, I don't, you know, I'm not a dancer but I do have that"
+}

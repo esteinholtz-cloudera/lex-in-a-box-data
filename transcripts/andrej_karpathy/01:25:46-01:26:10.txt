@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:46",
+  "End": "01:26:10",
+  "Text": "the question is how complex is the uh range of possibilities that might happen in the driving task that's still, is that to you still an open problem of how difficult is driving? Like philosophically speaking, all the time you work on driving? Do you understand how hard driving is? Yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:16:51",
+  "End": "00:17:21",
+  "Text": "think the relations with uh with regulators, they have been always very transparent and there are a lot of uh laws that uh they are forcing um regulators to and companies to put out their, their interactions and what exactly was discussed now to, to go into specific details of uh of some discussions. I don't know what is the reason that FDA wants to take the time and, but I'm sure they have very good reasons."
+}

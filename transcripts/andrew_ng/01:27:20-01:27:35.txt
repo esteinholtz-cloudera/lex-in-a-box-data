@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:20",
+  "End": "01:27:35",
+  "Text": ", on the second question, um Are there moments in your life that if you look back that, that you're especially proud of or you're especially happy fills you with happiness and fulfillment."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:56:16",
+  "End": "02:57:21",
+  "Text": "you have a huge lust for life. I mean, that's you. I mean, sometimes when I'm on the internet and I think is this, you know, you hear about it like, oh, it's addicting, you know, youtube's addicting all that. Actually. Sometimes I think maybe that's true. But a lot of times I just think so much here, there's a lot of garbage, but there's so many gems out there in the world now. It's almost like, sure how you allocate time is key. But I, think you can do it all, maybe not five more things but, but all, and, and one thing I just had this idea and this is not grounded in any scientific paper. But I think the answer might come to you during this um this torture that you're about to put yourself through with David because in those mental states, you're really asking the question, right? You're asking the question, where is my capacity? And I even close to my capacity? And if I am, what's, what's of the most value? I think we find the answers to those things in those non verbal, non analytic states. It just comes to us."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:27",
+  "End": "01:09:30",
+  "Text": "does that connect to the swarm aspects? Does it"
+}

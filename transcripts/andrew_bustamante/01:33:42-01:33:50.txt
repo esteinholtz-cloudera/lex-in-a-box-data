@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:42",
+  "End": "01:33:50",
+  "Text": "a lot of that has to do with like habits that are formed and all those kinds of things or maybe some right hand left hand type of situation"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:14:22",
+  "End": "01:14:27",
+  "Text": "that to education, there's no reason why it can't be done."
+}

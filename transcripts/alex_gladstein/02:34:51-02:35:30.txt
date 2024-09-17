@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:34:51",
+  "End": "02:35:30",
+  "Text": "something about the creation of beauty that seems fundamental to human nature. And what seems beautiful is these communities um don't have suffering, they don't have injustice and we have some kind of inner sense of what is injustice. don't know, like some of the human rights that you've mentioned earlier, they're just philosophical constructs. there also seem to be somehow deeply in us too., there we have a sense of what is right and what is wrong. not just a kind of illusion that we've all agreed to"
+}

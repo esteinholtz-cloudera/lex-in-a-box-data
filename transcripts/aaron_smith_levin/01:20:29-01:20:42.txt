@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:29",
+  "End": "01:20:42",
+  "Text": ". So first is kind of a shock. This is, but then you still probably believe you hope you you might be, you might turn into on yourself self critical that this is I'm just not strong enough yet."
+}

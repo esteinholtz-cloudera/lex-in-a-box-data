@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:37",
+  "End": "01:20:10",
+  "Text": ", not, not so much a fan. Actually, I should say that I just, that was the, whereas my mind was the chosen song for Fight Club the end when the buildings are coming down or something like that. So that there's certain songs that just fit just right for the collapse of human civilization. And you're calmly appreciating like. That's just it, this is how absurd this life is at any moment it can end. And this is it. This is uh"
+}

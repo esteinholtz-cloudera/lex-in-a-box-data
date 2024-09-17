@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:20",
+  "End": "00:27:29",
+  "Text": ". Well, in his case, and in general, I think part of the art uh refusing the world as you get a bigger audience change"
+}

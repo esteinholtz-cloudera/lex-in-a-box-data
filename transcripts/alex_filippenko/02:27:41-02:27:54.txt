@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:41",
+  "End": "02:27:54",
+  "Text": ". Is there uh if I could just pause for a second, you said he had one of the most intuitive understanding of nature, what you could break apart? What intuitive means like it, is it on a philosophical"
+}

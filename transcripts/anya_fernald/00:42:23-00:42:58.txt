@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:42:23",
+  "End": "00:42:58",
+  "Text": ". We were talking exactly about that. Like the nuance and the beauty of like that long slow cook in your house smelling like something. Why do people freak out about barbecue?? Because you go and it smells bomb. It smells so good. It smells like heaven, right? It smells fatty and delicious and it smells everywhere and everyone's smelling the same smell. So there's like this collective experience. It's incredible. That's, I mean, I think that's why barbecue is so sticky for people. It's like so yummy you get this huge like anticipatory thing about it. It's like because it smells incredible. What"
+}

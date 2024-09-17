@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:32",
+  "End": "01:00:46",
+  "Text": ", but that too will be a race because, um, obviously you can probably, uh, spoof or fake the, the, the proof of personhood. So you have to try to figure out how to probably, mean, it's weird that we have like social security numbers and like, passports and stuff. seems like it's harder to fake stuff in the physical space, but in the digital space it just feels like it's going to be very tricky, very tricky to out because it seems to be pretty low cost fake stuff. What are you going to put an A I in jail for trying to use a fake fake personhood proof? I mean, OK, fine. You'll put a lot of a is in jail but there'll be more a is ar like exponentially more the cost of creating a bot is very low. there's some kind of way to track accurately. You're not allowed to create any program without showing tying yourself to that program. Any program that runs on the internet, you'll be able to trace every single human programmer that was involved with that program."
+}

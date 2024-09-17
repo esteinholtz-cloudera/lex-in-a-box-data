@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:10",
+  "End": "01:43:15",
+  "Text": "just intellectually to realize that, oh, I'm not,"
+}

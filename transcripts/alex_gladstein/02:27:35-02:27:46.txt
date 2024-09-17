@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:27:35",
+  "End": "02:27:46",
+  "Text": "little bit? Like what illusion about this world was uh apart the invasion of Iraq?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:18",
+  "End": "02:34:06",
+  "Text": "on top of all this and throughout the last several years, us and Iran in the midst of nuclear deal negotiations. This is another part of the story of Iran uh the development of nuclear weapons, nuclear program. They're looking to restore the nuclear deal known as the Joint Comprehensive Plan of Action J CPO A what is the history, present and the future of uh these negotiations over nuclear weapons? What is interesting to you in this full context from the 16th century of the Mess Messianic? Um Yeah, journey. Um what's interesting to you here? You"
+}

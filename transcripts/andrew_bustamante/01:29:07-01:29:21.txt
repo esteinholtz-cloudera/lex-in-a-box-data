@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:07",
+  "End": "01:29:21",
+  "Text": "people just when they meet you, they put you in a bin and if you want to avoid being put in a particular bin, just don't act like the person that would be ju just show some kind of characteristics that bin, you in some other way."
+}

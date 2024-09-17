@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:43",
+  "End": "02:44:06",
+  "Text": "a good question actually, to ask for a lot of things. That's just machine learning. Um It's a good way to cut the, I forgot what the term we use but the fluff, the blubber, whatever, the inefficiencies in life. What do you love about teaching? You seem to find yourself often in the drawn to teaching. You're very good at it, but you're also"
+}

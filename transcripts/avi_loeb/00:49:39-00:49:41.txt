@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:49:39",
+  "End": "00:49:41",
+  "Text": "have no"
+}

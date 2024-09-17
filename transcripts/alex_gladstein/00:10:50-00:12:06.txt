@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:10:50",
+  "End": "00:12:06",
+  "Text": "opposition leader of Malaysia Anwar Ibrahim, he once told me that the funny joke that, you know, in my country, we have freedom of speech, we don't have freedom after speech. So, yeah, they can absolutely manipulate whatever they want. But I've done research into socio-economic data and I guess what I'm telling you is that authoritarian regimes which make up 53% of the world's population across 95 countries, about 4.3 billion people, those who live under those regimes are subject to massive fraud when it comes to things like literacy rates, um life expectancy, um Any sort of socio-economic data, economic growth, they can do this because there's no free press. So for us at the Human Rights Foundation and for people like me, believe that the negative rights, the liberties, the things that are in, for example, the bill of Rights in the US Constitution, these things are the table and then we can build on top of that, we can build the rest of our societies. On top of that, the freest countries in the world have both the negative liberties and the entitlements like Norway, for example, but there's a big difference between Norway and North Korea in North Korea. They only claim to have the entitlements and they definitely don't have the liberties."
+}

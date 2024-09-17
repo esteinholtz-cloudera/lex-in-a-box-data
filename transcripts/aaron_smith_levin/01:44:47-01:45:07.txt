@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:44:47",
+  "End": "01:45:07",
+  "Text": "another example would be like, I didn't go to school, I stopped going to school in the seventh grade, but people go, but you sound so smart. what am I supposed to do? I'm not supposed to say, well, it's because of Scientology. Like, how do I answer that question? Like if it's the only path I traveled, how do I answer that question? I don't necessarily want to give Scientology credit. But what the hell am I supposed to point to you know, I mean, you"
+}

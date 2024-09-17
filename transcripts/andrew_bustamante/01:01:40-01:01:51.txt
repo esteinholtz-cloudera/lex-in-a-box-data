@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:40",
+  "End": "01:01:51",
+  "Text": "then of course European nations and Germany and France. And yeah, so um what can you say about the power, the influence of the different intelligence agencies within their nation and outside? Yeah."
+}

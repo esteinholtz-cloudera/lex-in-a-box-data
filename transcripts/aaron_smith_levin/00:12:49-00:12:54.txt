@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:12:49",
+  "End": "00:12:54",
+  "Text": "I've just described, that is the fundamental that is pretty much the nuts and bolts of dianetics was it"
+}

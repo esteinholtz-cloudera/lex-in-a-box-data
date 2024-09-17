@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:53:23",
+  "End": "01:53:29",
+  "Text": "? OK. OK. That's like a Terminator Two was a little bit later. 1990."
+}

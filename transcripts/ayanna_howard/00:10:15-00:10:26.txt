@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:15",
+  "End": "00:10:26",
+  "Text": "what's your experience like? I mean, you're a human robot interaction, roboticist, you're legit, sort of expert in the field. So, what does it feel for a machine to come to you? It's"
+}

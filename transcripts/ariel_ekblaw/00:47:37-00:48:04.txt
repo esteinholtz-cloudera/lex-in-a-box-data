@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:37",
+  "End": "00:48:04",
+  "Text": ". I personally believe that it's teeming with life. And you're right. I think that's a really useful, productive engineering and scientific question what kind of great filter can just be destroying all of that life or preventing it from just constantly talking to us? Silly descendants of apes. That's a really nice question. are the ways civilizations can destroy themselves?"
+}

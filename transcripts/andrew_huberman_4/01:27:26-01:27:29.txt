@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:27:26",
+  "End": "01:27:29",
+  "Text": ", that became a meme or a little discussion. There's"
+}

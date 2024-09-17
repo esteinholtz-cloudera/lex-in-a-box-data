@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:43:01",
+  "End": "00:43:07",
+  "Text": "Sea Island Forge. It's a wood fire grill that's inspired by like a South American style of cooking. So"
+}

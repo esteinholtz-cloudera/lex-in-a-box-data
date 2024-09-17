@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:48:45",
+  "End": "00:49:51",
+  "Text": "you think about what happened? Was there was no fail safe, right? So perfection, right. What is that? I'm going to make something that I think is perfect. But if my assumptions are wrong, be perfect based on the wrong assumptions. All right. That's something that you don't know until you deploy and then you're like, oh yeah, messed up. what that means is that when we design software such as in space Odyssey, when we put things out that there has to be a fail safe, there has to be the ability that once it's out there, you know, we can grade it as an F and it fails and it doesn't continue right. There's some way that it can be brought in and removed and that aspect because that's what happened with Hal. It was like assumptions were wrong. was perfectly correct based on those assumptions and there was no way to change, change it, change the assumptions at"
+}

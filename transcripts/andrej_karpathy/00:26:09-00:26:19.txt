@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:09",
+  "End": "00:26:19",
+  "Text": "NP CS inside a video game, don't, don't observe any divine intervention either. And we might just be all NP CS running a kind of code."
+}

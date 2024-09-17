@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:52",
+  "End": "01:54:00",
+  "Text": "mean, but you have Good Will Hunting was one of the movies you mentioned. And that doesn't have any A G I either. I guess it has mathematics,"
+}

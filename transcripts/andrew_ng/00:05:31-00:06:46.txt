@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:05:31",
+  "End": "00:06:46",
+  "Text": "know, teaching online. What not many people know was that a lot of those videos were shot between the hours of 10 p.m. and 3 a.m. A lot of times we were launching the first movie that we already announced the calls about 100,000 people signed up. Uh We just started to write the code and we had not yet actually filmed the videos. So we have a lot of pressure, 100,000 people waiting for us to produce the content. many Fridays, Saturdays, I would go out have dinner with my friends and then I would think. Ok, do you want to go home now or do you want to go to the office to film videos? And the thought of being able to help 100,000 people potentially learn machine learning? Fortunately, that made me think. Ok, I want to go to my office, go to my tiny little recording studio. I would adjust my logic webcam, adjust my welcome tablet, make sure my lapel mic was on then it was not recording often until 2 a.m. or three AMI think unfortunate that it doesn't show that it was recorded that late at night, but it was really inspiring the thought that we could create content to help so many people learn about machine learning. How did that"
+}

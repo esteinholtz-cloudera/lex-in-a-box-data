@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:49:33",
+  "End": "01:49:46",
+  "Text": "science because that's the way for us to improve our understanding. If you look at quantum mechanics, nobody dreamed about it and was revolutionary and we still don't fully understand it. It's a pain for us to figure"
+}

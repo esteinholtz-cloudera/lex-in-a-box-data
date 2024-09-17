@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:37:11",
+  "End": "02:37:32",
+  "Text": "kind of scary to me sometimes humbling, beautiful, but also scary to think of. You mentioned North Korea, people are kind of living in ignorance. scary to me to think about how much ignorance there is in the world today. Like how little I know personally or us as a human civilization knows there is yet to be discovered"
+}

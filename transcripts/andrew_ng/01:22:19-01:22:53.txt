@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:22:19",
+  "End": "01:22:53",
+  "Text": "do worry about the long term fate of humanity. I do wonder as well. I do worry about overpopulation on the planet. Mars just not today. I think there will be a day maybe, maybe someday in the future Mars will be polluted. There are all these Children dying and someone will look back at this video and say Andrew, how was Andrew so heartless? He didn't care about all these Children dying on the planet Mars and I apologize to the future viewer. I do care about the Children, but I just don't know how to productively work on that today."
+}

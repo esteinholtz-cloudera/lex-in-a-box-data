@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:28:17",
+  "End": "03:28:38",
+  "Text": ", the sad thing is your brain and mind developed in a time where before Twitter, before the, before the internet. So I wonder people that are born inside of it might have a different experience. Um Like I and maybe you can, will still resist it and the people born now will not."
+}

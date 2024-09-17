@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:46:11",
+  "End": "00:46:34",
+  "Text": "the zeitgeist today is just pushing like basically, right now, the zeitgeist is do not touch the transformer, touch everything else. So people are scaling up the data sets, making them much, much bigger. They're working on the evaluation, making the evaluation much, much bigger. And uh they're basically keeping the architecture unchanged and that's how we've um that's the last five years of progress in A I kind of"
+}

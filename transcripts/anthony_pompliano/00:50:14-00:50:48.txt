@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:14",
+  "End": "00:50:48",
+  "Text": "moving the power from these centralized places, sometimes unelected to the individuals and to the people. the dollar does seem to work for Americans and for many people in the world. But you kind of have a vision, you paint a picture of a future where potentially we move to Cryptocurrency. So what kind of trajectory do you see where Bitcoin can become the main currency in the world, or at least Cryptocurrency become the main way of storing value in the world and basically overtake the dollar."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:35:07",
+  "End": "01:36:10",
+  "Text": "personally, because, because when I, when I was in those shoes, I say there's nothing anybody could have said to me to get me to change how I felt and thought about Scientology. almost foolproof that the more evidence you try to present that there's something wrong with what Scientology is doing. The more you're just working for the psychs. You know, it's very, very difficult. I mean, most people who leave Scientology leave because they have had some personal experience that was just such a grave injustice it just pushed them beyond the point of what they're willing to experience. Very rare. I've never, I'm not sure I've really ever heard a story of someone going. Yeah, I just woke up, you know, I just gradually realized it was all BS and drifted away. know, it's usually like, no, I really believed and they treated me so horribly. I almost had no choice but to leave. And then the stories get pretty crazy."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:28",
+  "End": "01:24:41",
+  "Text": "full principles, beliefs of Scientology. He is. Do you have, are you sure he believes that what exactly everything about Scientology? That is true"
+}

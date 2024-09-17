@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:13",
+  "End": "01:05:05",
+  "Text": "from an outsider perspective. It's always frustrating to me. Well, I read a lot so I'm insider in a certain philosophical sense. It's frustrating to me how often trust is used in surveys how people say make claims out of any kind of finding they make about somebody clicking on answer. Because trust is a yeah, behavior just you said it beautifully. I mean, the action your own behavior is, is what trust is. I mean, that everything else is not even close. It's almost like a absurd comedic,, poetry that you weave around your actual behavior. So some people can say they trust you. I trust my wife, husband or not, whatever. But the actions is what speaks volumes."
+}

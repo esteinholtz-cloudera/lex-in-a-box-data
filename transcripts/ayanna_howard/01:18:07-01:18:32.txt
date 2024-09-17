@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:18:07",
+  "End": "01:18:32",
+  "Text": ". So I do believe that we can design systems where people would fall in love with their robot with their A I partner. Um that I do believe um because it's actually, and I won't, I don't like to use the word manipulate. But as we see, there are certain individuals that can be manipulated if you understand the cognitive science about"
+}

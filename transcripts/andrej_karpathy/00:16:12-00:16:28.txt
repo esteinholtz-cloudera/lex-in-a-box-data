@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:12",
+  "End": "00:16:28",
+  "Text": ". So you don't think humans are unique. Got to ask you how many intelligent alien civilizations do you think are out there? And uh is there intelligence or similar to ours?"
+}

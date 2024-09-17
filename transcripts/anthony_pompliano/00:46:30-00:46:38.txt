@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:30",
+  "End": "00:46:38",
+  "Text": "you define, when you talk about censorship, you mean just the censoring your ability to operate freely in the world?"
+}

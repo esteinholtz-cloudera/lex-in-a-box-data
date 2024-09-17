@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:37",
+  "End": "00:59:54",
+  "Text": "gotten used to this terminology of not of a distribution, but it's such a machine learning terminology because it kind of assumes. So distribution is referring to the data that you've,"
+}

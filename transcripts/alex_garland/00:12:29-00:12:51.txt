@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:12:29",
+  "End": "00:12:51",
+  "Text": "any time I try to into how it might work, I would then inevitably be attaching my kind of thought processes into it. And I wanted to try and put a bubble around it where I was saying no, this is, this is alien in its most alien form. I have no real point of contact."
+}

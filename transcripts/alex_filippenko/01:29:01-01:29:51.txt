@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:29:01",
+  "End": "01:29:51",
+  "Text": "state. But anyway, I think, you know, UFO research is, is interesting and guess one of the reasons I've not been terribly convinced is that I think there are some scientists who are investigating this and they've not found any clear evidence. Now, I must admit I have not looked through the literature to convince myself that there are many scientists doing systematic studies of these various reports. So I can't say for sure that there's a critical mass of them, but it's just that, you, you never get these reports from hardcore scientists. That's the other thing. And astronomers, you know, what do we do? We spend our time studying the heavens and you'd think we'd be the ones that are most likely aside from pilots, perhaps at seeing weird things in the sky and we just never do of the unexplained UFO type nature. Yeah, I"
+}

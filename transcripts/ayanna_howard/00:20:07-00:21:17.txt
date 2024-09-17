@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:07",
+  "End": "00:21:17",
+  "Text": "and the mishmash with, with policy as well. Sort of government. All that whole, that big ball of, yeah. Got you. So that's, we're out of time now. Do you think from a robotics perspective, know, if you, if you're kind of honest of what cars do they, they kind of kind of threaten each other's life all the time. cars are very, I mean, in order to navigate intersections, there's an assertiveness, there's a risk taking and if you were to reduce it to an objective function, there's a probability of murder in that function, meaning you killing another human being and you're using that. First of all, it has to be low enough be acceptable to you on an ethical level as an individual, human being. But it has to be high enough for people to respect you to not take advantage of you completely and jaywalk in front of you and so on. So, I mean, I don't think there's a right answer here, but how do we solve that? How do we solve that? From a robotics perspective when danger and human life is at"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:39:11",
+  "End": "03:40:35",
+  "Text": ", it's so interesting how difficult empathy is for people how powerful it is, especially for, for, like you said, the spouse, like intimacy, like stepping outside of yourself and really putting yourself in the shoes of the other person, considering how they see the world. And that, that, that's a, I really enjoy that because um does that exactly lead to connection? I, I think when you start to understand the way the other person sees the world, you start to enjoy the world through their eyes and you start to be able to share in terms of intimacy, share the beauty that they see together you understand their perspective and that's and somehow you converge as well. Of course, that allows you to gather information better and all that kind of stuff. And like that, that, that allows you to work together better to uh share in all different kinds of ways. But for intimacy, that's a really powerful thing. And also for um, like people you really disagree with or people on the internet you disagree with and so on. I find empathy is such a powerful way to resolve any tensions there. Even like people like trolls or all that kind of stuff. I don't deride them. I just kind of put myself in their shoes and it becomes like an enjoyable camaraderie with that with that"
+}

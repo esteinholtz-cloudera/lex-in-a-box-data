@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:36",
+  "End": "01:26:45",
+  "Text": "that sound but the rhythmic most not can have one or the other but you can't have both,"
+}

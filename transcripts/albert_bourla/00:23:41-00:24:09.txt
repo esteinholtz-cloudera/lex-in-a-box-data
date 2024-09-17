@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:23:41",
+  "End": "00:24:09",
+  "Text": ". I think there is always uh the, the fear of corruption, particularly when you speak about public servants. But uh clearly the risk is very different country by country. uh speaking about an agencies by NC, I think the regulatory agencies uh have a very good track record and history of the US of Europe, of uh England of uh very, very good track record of integrity."
+}

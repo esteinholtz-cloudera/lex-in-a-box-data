@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:44",
+  "End": "00:28:49",
+  "Text": ", but you can mock Nietzsche for saying man is will to power. You can he claim"
+}

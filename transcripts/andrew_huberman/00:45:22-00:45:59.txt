@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:22",
+  "End": "00:45:59",
+  "Text": "how to experiment with the mind, without any medical assistance. First, you know, I pushed my mind in all kinds of directions. I definitely want to, I did shrooms a couple of times. I definitely want to figure out how I can experiment with, with psychedelics. I'm talking to Rick Doman, I think Dublin soon I went back and forth. So he does all these studies on psychedelics and he keeps ignoring the parts of my email that asks like, how do I participate in these studies?"
+}

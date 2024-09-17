@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:21",
+  "End": "01:03:30",
+  "Text": ". So you see consciousness as giving a felt experience to our uniqueness, as opposed to the uniqueness, giving birth to ca Yes."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:57:47",
+  "End": "01:58:40",
+  "Text": "the reason that happened very quickly is as you alluded to, there's a ton of copy paste from what's happening on the autopilot. A lot, the amount of expertise that like came out of the woodworks at Tesla for building the human robot was incredible to see. Like Elon said at one point we're doing this and then day, basically, like all these c ad models started to appear and people talk about like the supply chain and manufacturing and uh people showed up with like screwdrivers and everything like the other day and started to like put together the body and I was like, whoa like all these people exist at Tesla and fundamentally building a car is actually not that different from building a robot the same. And that is true, not just for uh the hardware pieces. And also let's not forget hardware, not just for a demo, but um manufacturing of that hardware at scale. It is like a whole different thing for software as well. Uh Basically, this robot currently thinks it's a car"
+}

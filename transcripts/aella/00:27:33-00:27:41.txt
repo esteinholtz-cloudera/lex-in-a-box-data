@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:33",
+  "End": "00:27:41",
+  "Text": "actually happen to know everything about you really, like more than you do. It's interesting, fascinating."
+}

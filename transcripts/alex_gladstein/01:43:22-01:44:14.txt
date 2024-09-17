@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:43:22",
+  "End": "01:44:14",
+  "Text": "., is Twitter that bad right now, like, I mean, it's fixable in as much as you can do a verification so you can give a blue check to someone and then that person is like more credible and they go to the top of the comments and there's like tweaks, you can do, you can continue to improve it, but it's not going to fix the fact that like Twitter can decide to off the president and like a lot of people are going to be upset by that. You know, like there's ways you can improve the UX over time and they continue to do so. Like Clubhouse is, is a lot of fun, great phenomenon. So it's Twitter Spaces. So they continue to iterate. But the, the censorship to platform piece, I'm not sure is fixable because if you, I mean, you watch the US government haul these people ha ha um Zuckerberg and, and Dorsey and whatever in front of Congress, want more censorship. I mean, our elected leaders want more censorship, right? See, I"
+}

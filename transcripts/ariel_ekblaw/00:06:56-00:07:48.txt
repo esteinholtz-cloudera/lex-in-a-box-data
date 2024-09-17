@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:06:56",
+  "End": "00:07:48",
+  "Text": "parents are both ex air force. So my dad's an a 10 fighter pilot and my mom trained and had qualified to be a fighter pilot, but it was early enough that women were not allowed in combat at that time. And so I grew up with these two pilots and although they themselves did not become astronauts, there's a really rich legacy of air force pilots becoming astronauts and this loomed large in my childhood. does it mean to be courageous to be an explorer to be at the vanguard of something hard and challenging and to couple with that, my dad was a huge fan of science fiction and so I as a kid read Heinle and Isaac Asimov. Um all these different classics of science fiction that he had introduced me to and that just started a love affair with space exploration and really thinking about civilization scale space exploration."
+}

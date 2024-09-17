@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:39",
+  "End": "00:29:03",
+  "Text": "mean, that's another fascinating idea that this kind of anecdotal desire to say that humans are irrational, perhaps grounded in behavioral economics is that we just don't understand the constraints and their awards under which they operate. And so our goal shouldn't be to throw our hands up and say they're irrational is to say, try to understand what are the constraints, what"
+}

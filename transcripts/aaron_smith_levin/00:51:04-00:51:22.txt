@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:51:04",
+  "End": "00:51:22",
+  "Text": ". would say that scientology is not about beliefs. It's about a application of the techniques of scientology, auditing to improve someone's spiritual awareness and ability. the belief level of scientology is pretty much the stuff we've already discussed,"
+}

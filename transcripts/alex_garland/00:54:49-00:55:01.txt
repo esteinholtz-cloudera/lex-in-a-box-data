@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:49",
+  "End": "00:55:01",
+  "Text": "we turn to our discussion of simulation thinking of the universe as a computer. Do you think the universe is deterministic? Is there a free will?"
+}

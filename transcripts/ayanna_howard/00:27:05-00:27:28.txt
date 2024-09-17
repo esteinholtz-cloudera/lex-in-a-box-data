@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:05",
+  "End": "00:27:28",
+  "Text": "do you think this is really interesting? It's outside. I actually have no friends who are sort of surgeons or doctors. mean, what does it feel like to make a mistake in a surgery and somebody to die because of that? Like, is that something you could be taught in medical school, sort of how to be accepting of that risk?"
+}

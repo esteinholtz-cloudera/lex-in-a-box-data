@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:30:45",
+  "End": "00:31:28",
+  "Text": ", I think that intention gets at the question of like, are people inherently good or bad? Right? Is I think that they're generally inherently good and the intention is driving towards the thing that they believe is the best outcome or the best uh thing for them to pursue the action, I think is where we spend most of our time focused on. Um And frankly, we actually may be a better society or uh kind of kinder as a humanity to each other if we spent more time looking at intention rather than action. Um But again, know, if somebody walks down the street and murders somebody, uh it's really hard to have a conversation and it may be inappropriate for us to have a conversation about intention versus uh any level of uh of action, right?"
+}

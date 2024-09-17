@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:24",
+  "End": "01:15:29",
+  "Text": "that like uh Ron Hubbard can sort of enter his own body?"
+}

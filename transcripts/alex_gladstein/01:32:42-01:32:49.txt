@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:32:42",
+  "End": "01:32:49",
+  "Text": "of all the projects that the Human Rights Foundation works on. What's the most important one to you right now that's been occupying your mind."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:14",
+  "End": "03:27:20",
+  "Text": "gonna like tweet something and just like, do I select randomly? Basically,"
+}

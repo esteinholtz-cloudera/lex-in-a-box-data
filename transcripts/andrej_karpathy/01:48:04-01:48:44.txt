@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:48:04",
+  "End": "01:48:44",
+  "Text": ", I would say definitely like to use a game analogy, there's some fog of war, but you definitely also see the frontier of improvement and you can measure historically how much you've made progress. And I think for example, at least what I've seen in uh roughly five years at Tesla when I joined it, barely kept lane on the highway. think going up from Palo Alto to SF was like three or four interventions. Anytime the road would do anything geometrically or turn too much. It would just like not work. And so going from that to like a pretty competent system in five years and seeing what happens also under the hood and what the scale of which the team is operating now with respect to data and compute and everything else is just a massive progress. there,"
+}

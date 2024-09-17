@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:56:56",
+  "End": "00:58:20",
+  "Text": "about this a lot because there's so much out there about how important it is to do things from a place of love. You know, I tweet about it all the time and I think and love is powerful, right? You know, it is interesting that autonomic arousal, alertness, let's just make use simple language, alertness, looks identical for love and excitement as it does for anger and frustration and wanting to defeat your opponent whoever that opponent happens to be, identical, except that the love component does tend to be associated with the release of neurochemicals of the serotonin and dopamine type that do have this replenishment component. I don't think one wants to be in constant anger and friction, but mean, I'll come clean a bit. There have been portions of my career where some of my best work, my extra two hours, my ability to nail a really hard deadline or problem has come from not wanting to get out competed or from wanting to prove something that these days II I don't, I'm not oriented from that place toward my work quite as often, but I think we should be really honest anger is, it provided, it's channeled, it's very, very powerful and it can give you a ton of fuel and gas to push when otherwise you. Yeah,"
+}

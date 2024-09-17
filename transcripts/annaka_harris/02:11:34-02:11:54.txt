@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:11:34",
+  "End": "02:11:54",
+  "Text": ", I mean, this is where I've gone in all of my conferences with physicists because the idea is so, so if we just, if we just have the basic principle that and all the information can be contained or is, is actually in a two dimensional space that gets projected. This is something that you don't buy based on the look on your face."
+}

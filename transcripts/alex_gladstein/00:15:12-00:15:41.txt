@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:15:12",
+  "End": "00:15:41",
+  "Text": "it ends poorly when the state tries to restrict speech. I think that's kind of how I would define censorship. I think censorship and deplatforming are two different things. Uh, private companies. Um know, they get to make up their own rules about what's allowed on their platforms. And I think that's very different from a government with guns and an army restricting the speech of its citizens with threats of violence. These things are different for me"
+}

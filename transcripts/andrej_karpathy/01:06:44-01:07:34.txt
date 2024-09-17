@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:44",
+  "End": "01:07:34",
+  "Text": "can do short term goals that have long term effects. So if my prompting, term goal is to get Andre Kazi to respond to me on Twitter when like I think a I might, that's the goal but it might figure out that talking shit to you, it would be the best in a highly sophisticated, interesting way. And then you build up a relationship when you were responding once and then it over time it gets to not be sophisticated and just like just talk shit OK, maybe you won't get to Andre but it might get to another celebrity. It might get into other big accounts and it'll just so with just that simple goal, get them to respond, maximize the probability of actual"
+}

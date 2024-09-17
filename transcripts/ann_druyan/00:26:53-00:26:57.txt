@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:26:53",
+  "End": "00:26:57",
+  "Text": ". We humans are so awkward in these beautiful moments"
+}

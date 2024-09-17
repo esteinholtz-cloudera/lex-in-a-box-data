@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:24:09",
+  "End": "02:24:26",
+  "Text": "day?, I've done a bunch of water fasts because I was curious what happens. Uh, anything interesting. Yeah, I would say so. I mean, you know what's interesting is that you're hungry for two days and then starting day three or so, you're not hungry. It's like such a weird feeling because you haven't eaten in a few days and you're not hungry."
+}

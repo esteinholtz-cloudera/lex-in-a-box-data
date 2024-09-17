@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:11",
+  "End": "02:39:49",
+  "Text": "certainly how I feel as well. But I've learned not to trust my feelings. Well,, you know, the folks who are religious will ask the question which I think applies whether you're religious or not. Why is there suffering in the world? Why does a just God allow suffering or those kinds of questions? I think, think does seem that suffering is a deep part of human history uh you have to, you have to really think about"
+}

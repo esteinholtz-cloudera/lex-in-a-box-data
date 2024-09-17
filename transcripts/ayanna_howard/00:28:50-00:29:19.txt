@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:28:50",
+  "End": "00:29:19",
+  "Text": "bias is this so bias, which is different than prejudice. So bias is that we all have these preconceived notions about everything from particular groups, to habits, to identity, right? So we have these predispositions. And so when we address a problem, we look at a problem, we make a decision, those preconceived notions might affect our outputs or outcomes."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:26",
+  "End": "02:30:08",
+  "Text": "such an interesting question because you look at big Pharma and pharmaceutical companies they have a quite a poor reputation in the public eye and some of it, maybe much of it is deserved, at least historically speaking. so you start to wonder, well, can intelligence agencies some of the same technique to manipulate the public, what they believe about those agencies in order to maximize profit as well, sort of finding shortcuts or unethical that allow you to not be ultimately responsible to the"
+}

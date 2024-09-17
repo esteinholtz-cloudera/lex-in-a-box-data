@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:35:58",
+  "End": "03:36:21",
+  "Text": ". But I also, I also think that the past is not that predictive of the future. Is it not if you believe in the power of the interaction between two humans, it's like nature versus nurture, I guess. Also, I don't believe in the ability of people to accurately describe their own past is because they have a very specific lens through it that doesn't necessarily like it's too biased."
+}

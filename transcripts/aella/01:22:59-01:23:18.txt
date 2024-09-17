@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:59",
+  "End": "01:23:18",
+  "Text": "I actually were to integrate, to have an integral the area under the curve, I don't know if I'm different than other people. Maybe I'm just like, really focused on the happy moments and maybe feel the down moments most intensely and maybe that like average, it's all the same. Is that possible?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:46",
+  "End": "02:24:50",
+  "Text": "these fascistic tendency,"
+}

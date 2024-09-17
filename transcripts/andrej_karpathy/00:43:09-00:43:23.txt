@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:09",
+  "End": "00:43:23",
+  "Text": "you said that uh the residual connections support a kind of ability to learn short algorithms fast and first and then gradually extend longer during training. Yeah, what's what's the idea of learning short algorithms,"
+}

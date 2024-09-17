@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:17",
+  "End": "01:24:45",
+  "Text": "possible to do that? So, II, I just have kind of anecdotal evidence for myself. I really try to be the exact same person in all conditions which makes it very easy. if you're not lying, makes it very easy to of all to, to exist, but also to communicate a kind of authenticity and a genuineness which I think is really important. Like trust integrity around trust is extremely important to me. It's the thing that opens doors and maintains relationships. And I tend to think like, when I was in Ukraine, so many doors just opened to the very sort of high security areas and everywhere else too, like, I've just interacted with some incredible people without any kind of concerns. You know, who's this guy? Is he gonna spread it? You know, all that kind of stuff? And I tend to believe that able to communicate a trustworthiness somehow if, if you just are who you are and, and I think, I suppose method actors are trying to achieve that by becoming something and they can, I, I just feel like there is very subtle cues that are extremely difficult to fake. you really have to become that person, be that person. But you're saying as a CIA agent, you have to remember that you are there to collect information. Do you think that gives you away?"
+}

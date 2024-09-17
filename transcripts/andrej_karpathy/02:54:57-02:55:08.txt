@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:57",
+  "End": "02:55:08",
+  "Text": "also this um perhaps just the narrative we tell ourselves, there's a it feels like something to experience the world, the hard problem of consciousness. But that could be just the narrative that we tell"
+}

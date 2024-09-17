@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:06:44",
+  "End": "00:07:21",
+  "Text": ", you know, that's a great question. That's one of the big questions of cosmology. And of course, we have evidence that the matter density is sufficiently low, that the universe will expand forever. But not only that there's this weird repulsive effect, we call it dark energy for want of a better term. it appears to be accelerating the expansion of the universe. So if that continues, the universe will expand forever, but it need not necessarily continue, it could reverse sign. In which case, the universe could principle collapse at some point in the far far future. So"
+}

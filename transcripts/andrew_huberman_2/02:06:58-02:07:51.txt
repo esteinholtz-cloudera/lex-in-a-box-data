@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:06:58",
+  "End": "02:07:51",
+  "Text": ". I mean, I think that computer science and engineering and chemistry bioengineering is what's creating the acceleration and progress in neuroscience right now. think it, it's actually one place where science, I'm very reassured. Science has um invited in psychologists, computational biologists, at least at Stanford mit and, and other places too. Of course, it's clear that it's a everyone's invited kind of party right now that the major issue in the field of neuroscience, at least through my view is that there's no conceptual leadership, no one is saying we need to work on and solve this problem or that problem. It's very fragmented right now., the good news is people are communicating. So, computer scientists and people who work on A I machine vision are talking to biologists and vice versa, but it's very dispersed."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:12:24",
+  "End": "00:12:34",
+  "Text": "? I'm an explorer. If I have to read the manual, then you know, I do design, then it's a bad user in your face. It's a failure."
+}

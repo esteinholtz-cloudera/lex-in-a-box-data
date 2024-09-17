@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:00",
+  "End": "00:36:36",
+  "Text": "if quantum mechanics itself is the system? And we're just thinking it's physics, we're really parasites, not parasite. We're not really hurting physics. We're just living on this organisms, this organism and we're trying to understand it, but really it is an organism and with a deep, deep intelligence, maybe physics itself is a,, the, the organism that's doing the super interesting thing and we're just like one little thing ant sitting on top of it trying to get energy from"
+}

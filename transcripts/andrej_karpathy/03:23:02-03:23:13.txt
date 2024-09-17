@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:02",
+  "End": "03:23:13",
+  "Text": "you think about A I, are you interested in all kinds of applications, all kinds of domains any domain you focus on will allow you to get insights of the big problem of A G I."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:48:58",
+  "End": "01:49:01",
+  "Text": "would have gotten in trouble for taking mushrooms too."
+}

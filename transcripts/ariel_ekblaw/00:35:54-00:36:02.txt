@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:54",
+  "End": "00:36:02",
+  "Text": "you can move at full speed, you can move your arms, your muscles, there's no resistance."
+}

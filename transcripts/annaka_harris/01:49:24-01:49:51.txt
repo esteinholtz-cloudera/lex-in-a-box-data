@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:24",
+  "End": "01:49:51",
+  "Text": "question of if it has or not because maybe I have a very narrow perspective of these kinds of things. But think what has permeated is through Hollywood ideas of what it means to be a person who smokes weed a lot and that has had its effect, which is hilarious given the effects of weed versus alcohol. But that's a whole another story."
+}

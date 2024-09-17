@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:10:40",
+  "End": "01:10:42",
+  "Text": "vomit comet prior to going to the moon"
+}

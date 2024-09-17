@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:43",
+  "End": "00:12:59",
+  "Text": "about the build up? I mean, we got, we got to watch you make the stuff over a fire. So the calmness of the air, I mean, that's an experience. We don't often get to have to see that experience of the pre it's the anticipation, like you said, maybe that's the most delicious part of a meal is the anticipation of it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:52",
+  "End": "01:20:35",
+  "Text": ", I hear from a lot of people that are in these protests now. And so uh my love goes to them and stay strong because uh inspiring to see people fighting for those things, the life and freedom, especially freedom. Um because that can only lead to a good thing in the long term, at least. And if possible to avoid a violent revolution, course, that is something that we all want to see before we return to the president. Let's jump around. Let's go to the past. We mentioned 1979 happened in 1979 in Iran?"
+}

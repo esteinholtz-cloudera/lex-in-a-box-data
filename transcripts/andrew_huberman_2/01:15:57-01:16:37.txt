@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:57",
+  "End": "01:16:37",
+  "Text": ". And by the way, I should, I should give you a big thank you for connecting me with uh Bel Campo Farms. Uh They send me some meat, I think because of you it's delicious. So I really appreciate that. I mean, it also connected me with this whole world of people who are doing farming in this ethical way and really love the whole process from both a human level but also scientific level. And the result um it's like ethical but also is delicious and it makes you think about your diet in a whole new kind of way."
+}

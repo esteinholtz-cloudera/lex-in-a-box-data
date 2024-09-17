@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:30:39",
+  "End": "01:30:51",
+  "Text": "a person technically, their interview interview like this concepts, correct? Because an interrogation, an interrogation is something very different than an interview in the world of professionals. An interrogation is very different. What's"
+}

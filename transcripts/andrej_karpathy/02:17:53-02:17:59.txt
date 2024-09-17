@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:53",
+  "End": "02:17:59",
+  "Text": "uh is this in a scale, temporal scale of a single day or a couple of days a week, a month?"
+}

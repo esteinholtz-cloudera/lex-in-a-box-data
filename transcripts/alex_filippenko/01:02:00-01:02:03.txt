@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:00",
+  "End": "01:02:03",
+  "Text": "sense is our galaxy is not teeming with life. Yeah,"
+}

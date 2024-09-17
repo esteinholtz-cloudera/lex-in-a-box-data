@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:41",
+  "End": "01:16:53",
+  "Text": "in general outside the great filter and so on, you know, it's not obvious that uh the Stephen Hawking thing, which is, it's not obvious that life out there is, is gonna be kind to us."
+}

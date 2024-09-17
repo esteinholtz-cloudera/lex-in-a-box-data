@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:49:26",
+  "End": "02:49:35",
+  "Text": ". And I think we're seeing that already in the current neural nuts, you're able to remix the training set information into true generalization in some sense"
+}

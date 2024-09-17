@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:47:13",
+  "End": "01:48:20",
+  "Text": "and then the and then the psychology is subjective, right? So it's going to take some real understanding of what that person's lexicon is like, you know, that wasn't a pun, sorry.. I'm like the worst. That's the one thing I know from the feedback on my podcast. My jokes are terrible, but I never claim to be funny the the uh but somebody who they really trust and understands when somebody says, you know, a very stoic person, like I'm imagining you interviewed The Great Dan Gable, right? I don't know anything about Dan. But can you imagine, like you asked Dan, like, you know how you feel about something while on one of these drugs and like, I mean, his languaging might, if he says that was troubling, it might mean that it was very troubling or not troubling at all. So people are language is a poor guide if I say I'm upset, how upset is that? Well, that's very subjective. So you need, we need, can you build a tool for that? Can you build the A I tool for that? Yeah. Well, maybe that's, maybe that's our, that's what the eyes could"
+}

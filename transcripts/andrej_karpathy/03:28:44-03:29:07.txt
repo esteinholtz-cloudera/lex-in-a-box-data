@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:28:44",
+  "End": "03:29:07",
+  "Text": "is the meaning of life? Andre?, we talked about sort of universe having a conversation with us, humans or with the systems we create to try to answer for the universe to, for the creator of the universe to notice us. We're trying to create systems that are loud enough to answer back."
+}

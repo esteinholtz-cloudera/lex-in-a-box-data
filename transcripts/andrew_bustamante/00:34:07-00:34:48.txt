@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:34:07",
+  "End": "00:34:48",
+  "Text": "people don't understand what freedom of speech is. That's the first major problem. And it's, it's shameful how many people in the United States do not understand what freedom of speech actually protects. that aside, you're absolutely right, fighting the information war in the West is extremely difficult because anyone with a blog, anyone with a Twitter account, anyone, I mean, anyone can call themselves a journalist. Essentially we live in a world that we live in a country where people read the headline and they completely bypass the author line they go straight into the content and then they decide whether the content is real or not based on how they feel instead of based on empirical measurable evidence."
+}

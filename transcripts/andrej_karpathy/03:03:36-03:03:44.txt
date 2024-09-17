@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:03:36",
+  "End": "03:03:44",
+  "Text": ", you need a lot of knowledge to create, to create humor about like the o human condition and so on and then you need to be clever with it."
+}

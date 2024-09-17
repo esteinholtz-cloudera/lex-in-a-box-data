@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:36:21",
+  "End": "03:36:26",
+  "Text": "you can also interpret based on the bias. If somebody describes their own past, you can kind of pick up"
+}

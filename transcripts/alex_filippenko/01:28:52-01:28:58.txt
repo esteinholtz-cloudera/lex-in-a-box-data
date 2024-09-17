@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:28:52",
+  "End": "01:28:58",
+  "Text": ". Right. Right. But, but it may mean a good thing for our ultimate survival. So I'm glad you caught me"
+}

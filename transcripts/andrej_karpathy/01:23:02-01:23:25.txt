@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:23:02",
+  "End": "01:23:25",
+  "Text": "? I think to a very large extent, we went through a number of iterations and we learned a ton about how to create these data sets. Um I'm not seeing big open problems like originally when I joined, I was like, I was really not sure how this would turn out, but by the time I left, I was much more secure. And we sort of understand the philosophy of how to create these datasets. And I was pretty comfortable with where that was at the time. So"
+}

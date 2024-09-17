@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:20",
+  "End": "01:03:23",
+  "Text": ", but those inconsistencies can give birth to other theories like"
+}

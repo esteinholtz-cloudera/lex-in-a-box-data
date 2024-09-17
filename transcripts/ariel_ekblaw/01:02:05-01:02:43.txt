@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:05",
+  "End": "01:02:43",
+  "Text": "it's out in space or on Mars. idea that sort of two people fall in love sex, child is born and then that couple has to teach that child that they came from earth. I just love the idea that somebody's born on Mars or out in space. And you have to be like that. This is not actually the original home, just them looking at earth and being like this is where it came from. I don't know, that's really inspiring to me and the child being really confused and then wanting to go back to Tik Tok or whatever. What does they do if they do"
+}

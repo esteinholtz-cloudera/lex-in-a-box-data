@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:02",
+  "End": "00:37:20",
+  "Text": "location and I was trying to clarify. Ok. So we're going to there'll be like friendly people around or something. No, it's just me and him, friendly people. I don't know, like I just feel it's very difficult to be with David alone in the"
+}

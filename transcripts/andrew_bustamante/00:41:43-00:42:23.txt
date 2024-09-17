@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:43",
+  "End": "00:42:23",
+  "Text": ", a lot of people might have said the same thing about the United States back in the independence fight. So there is, there is possibilities. As you've said, we're not saying 0% chance and it could be a reasonably high percent chance that this becomes one of the great democratic nations that the 21st century is remembered by. And so um you said support. So ideologically, first of all, you don't assign much term power to that, that us could support Ukraine purely on ideological grounds."
+}

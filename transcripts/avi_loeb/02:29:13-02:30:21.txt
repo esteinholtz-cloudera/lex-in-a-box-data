@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:29:13",
+  "End": "02:30:21",
+  "Text": "we collect data about how the universe started, we could potentially test theories of or it can educate us how to unify quantum mechanics and gravity. If we, if we get any information about what happens near the singularity of a black hole, you know, if we, if we get a sense of, you know, somehow we, we learn what happens at the that would educate. So there are places where we can search for evidence. But uh it's very challenging, I should say. And point is, you know, the string theories, they decided that they know how to approach the problem, but they don't have a single theory. Uh There is a multitude of theories and it's not tightly constrained and they cannot make predictions about black holes or about the beginning of the universe. So, at the moment I say we are at a loss and I, the way I feel about this concept of the theory of everything, we should wait until we get enough evidence to guide us. And until then, you know, there are many important problems that we can address. You know, why, why bang our head against the wall on a problem for which we have no guidance."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:54:01",
+  "End": "01:54:06",
+  "Text": "if you take creatives and you give them more psychedelics, they're not going to be able to get out of their"
+}

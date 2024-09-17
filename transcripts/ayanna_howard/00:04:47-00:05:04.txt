@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:04:47",
+  "End": "00:05:04",
+  "Text": "us. Can you linger a little bit on the word perfection?, from the robotics perspective, what does that word mean? And how is the optimal behavior as you're describing different than what we think of perfection?"
+}

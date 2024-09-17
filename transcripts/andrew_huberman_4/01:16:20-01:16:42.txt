@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:20",
+  "End": "01:16:42",
+  "Text": "seem like deep down, we all can kind of tell the difference between overt and covert. Like we have a good sense. I think one of the benefits of having this characteristic of mind where I value loyalty. I've been extremely fortunate to spend most of my life in overt relationships. I think that creates a really fulfilling life."
+}

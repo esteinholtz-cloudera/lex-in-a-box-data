@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:26:19",
+  "End": "01:26:29",
+  "Text": ". People have been fooled. I mean, and people in the humanitarian sector have been fooled into thinking that some centralized Blockchain project is going to help some refugee all collapsed."
+}

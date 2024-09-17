@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:19",
+  "End": "00:53:38",
+  "Text": "regularity and making learning a habit. Do you have, do you have general other study tips for particularly deep learning that people should, in, in their process of learning? Is there some kind of recommendations or tips? You have a as they learn"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:09",
+  "End": "02:08:17",
+  "Text": "would like to know if I was hacked, right. And so I tried to assume that I will be hacked detect it. You have a trip wire or something, trip wires through everything and not paranoid wise, just like open door. But I think that's probably the future of life on this earth is everybody of interest is going to be hacked that hopefully inspires. No, this is outside of company. These are individuals. I mean, there's course if you're actually operating, like I'm just a, who am I? I'm just a scientist person, um podcasting person. So I was actually running a company or was an integral part of some kind of military operation, then you have to probably have to have an entire team that's now doing that battle of like being trying to be ahead of the best hackers in the world that are attacking. But that, that requires a team that like full time is their focus then you still get in trouble."
+}

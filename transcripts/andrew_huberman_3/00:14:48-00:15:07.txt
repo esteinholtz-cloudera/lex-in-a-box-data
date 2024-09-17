@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:48",
+  "End": "00:15:07",
+  "Text": "a lucky man because the number of calories in that food, it sneaks like naan bread. I don't know how non bread is made, but I think it's just soaked in and it just very intensely like the density of calories is very, very high me. Barbecue I would say is probably"
+}

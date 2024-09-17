@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:20:57",
+  "End": "03:21:00",
+  "Text": "an actual qualitative data"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:07:30",
+  "End": "01:07:49",
+  "Text": "actually a place for us to build starts from scratch. So we often bring in founders and work with them or maybe even have existing ideas that we match founders with. Uh and then this launches, you know, hopefully into successful companies. So how"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:26:35",
+  "End": "00:27:29",
+  "Text": "you cut off an octahedron actually has little pointy areas, you truncate certain sections of it and you get um surfaces that are on the structure that are cubes. And I think hexagons, I have to remind myself exactly what the faces are. overall, a truncated octahedron can be bonded to other truncated octahedron and just like a cube, it fills all the gaps as you build it out. So you can imagine two truncated octahedron, they come together at an airlock, which is what we space people call doors in space and you dock them on all sides. And you've basically created this decentralized network of space nodes that make a big space station once you have enough of them and you're growing with enough big units, you can do it in any macro shape you want. That's where the nautilus comes in. Is could we design an organically inspired shape for space station?"
+}

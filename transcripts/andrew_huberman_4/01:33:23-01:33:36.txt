@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:23",
+  "End": "01:33:36",
+  "Text": "at this would say, well, why did I bring up selection as the relationship? So sexual selection in humans, I don't think you've done an episode on relationships."
+}

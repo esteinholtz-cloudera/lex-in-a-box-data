@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:41",
+  "End": "01:50:50",
+  "Text": ", so the the couple of teams of supernova cosmology project and the high Z supernova search team, so that what was the Nobel Prize given for?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:20:39",
+  "End": "02:21:00",
+  "Text": "now there are thousands of them, thousands of time, the high Z team had 16 the um supernova Cosmology project had 40 but the 16 were better measured than the 40. And so our statistical uncertainties were comparable. If you look at the two papers that were published. Does"
+}

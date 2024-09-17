@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:29",
+  "End": "00:30:11",
+  "Text": "put. Yeah. Yeah. Yeah. Yeah. It's brilliant. But like, so I think one of the fundamental drivers of my current morality,, uh, I let me just represent nerds in general. Uh, of all kinds is of constant self doubt and the signals, you know, I'm very sensitive to signals from people that tell me I'm doing the wrong thing. But when there's a huge inflow of money, it's, you're, you're that, you're just put it brilliantly that, that could become an overpowering signal that you do is right. And so your moral compass can just get thrown off"
+}

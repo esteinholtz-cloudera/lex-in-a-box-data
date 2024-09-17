@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:19:37",
+  "End": "01:19:57",
+  "Text": ", you know, iii I love the guy. I, he's so passionate about. Uh He just,, his, oneness with problem and uh I mean, it's"
+}

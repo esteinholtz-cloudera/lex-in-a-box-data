@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:37",
+  "End": "01:30:46",
+  "Text": "opposed to the mystery of a person that might be murdered. This is more of a reallocation within the organization."
+}

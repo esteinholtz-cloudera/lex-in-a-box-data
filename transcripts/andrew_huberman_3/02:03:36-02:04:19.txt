@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:03:36",
+  "End": "02:04:19",
+  "Text": "well, there are all these questions, right? I mean, obviously it was aggressive at some level. There's this question of whether or not it was impulsive. I think most people feel yes, there's a question, there was a protective nature of it because he was doing it to, you know, in it apparently to in defense. But then there's also the, the context, he lost touch with the context, right? Um Chris Rock basically gets um there, there's the possible critique that he went too far that's going to be in the eye of the beholder. Um But then depending on how you view comedy and jokes, but then there's also the fact that he took that slap and then just snapped right back so much so that people thought maybe it was faked. He also waited with his hands behind his back,"
+}

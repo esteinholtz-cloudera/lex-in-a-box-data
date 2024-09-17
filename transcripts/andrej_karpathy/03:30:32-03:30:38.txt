@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:32",
+  "End": "03:30:38",
+  "Text": "that could be extending your own lifetime or extending just the lifetime of human civilization of"
+}

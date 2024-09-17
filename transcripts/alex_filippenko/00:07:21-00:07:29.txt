@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:21",
+  "End": "00:07:29",
+  "Text": "in terms of investment advice, if you were to give me and then to bet all my money on one or the other, where does your intuition currently lie?"
+}

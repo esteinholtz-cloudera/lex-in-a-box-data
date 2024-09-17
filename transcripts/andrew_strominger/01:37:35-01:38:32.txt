@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:37:35",
+  "End": "01:38:32",
+  "Text": ". So, so that would be a really interesting state of affairs we could predict everything, not necessarily understand everything. for example, just forget about gravity. I mean, we're not too far from that situation. If we forget about gravity, the Standard Model principle, given a big enough computer almost everything. you look at the Standard Model, it's kind of a laundry list with neutrino masses and all that stuff. There, there are hundreds of free parameters. Where do they come from? there an organizing principle? Is there some further unification? So, so being able to predict everything is not the only goal that physicists have."
+}

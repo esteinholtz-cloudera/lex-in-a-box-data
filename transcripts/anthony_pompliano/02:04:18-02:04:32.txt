@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:18",
+  "End": "02:04:32",
+  "Text": "so don't look at the price of Bitcoin and all that kind of stuff, just pick a, a specific time specific day that you just buy you just keep buying. That's probably good investment advice across any kind of assets."
+}

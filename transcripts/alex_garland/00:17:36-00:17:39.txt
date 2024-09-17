@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:17:36",
+  "End": "00:17:39",
+  "Text": "true of that at"
+}

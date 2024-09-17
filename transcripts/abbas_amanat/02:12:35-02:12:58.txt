@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:35",
+  "End": "02:12:58",
+  "Text": "was a big part of it. She and the, the, the Messiah complex. Exactly the longing for this great vision of a great nation that somehow is the sublime nation that can only be fully sublime through uh through religion. Or"
+}

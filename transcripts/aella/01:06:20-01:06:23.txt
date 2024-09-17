@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:20",
+  "End": "01:06:23",
+  "Text": ". What are the good aspects? What are the bad aspects of che? Well,"
+}

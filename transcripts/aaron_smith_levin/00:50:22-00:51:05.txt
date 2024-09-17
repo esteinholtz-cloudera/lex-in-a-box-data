@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:22",
+  "End": "00:51:05",
+  "Text": "this is a belief that at the core we're all good. Yes, there's a lot of really powerful ideas in Scientology, which is so interesting that it goes wrong. Ok. What about the training? You mentioned the training of the auditor? That's really interesting. So what's, how lengthy is that process? It can take years? mean, one of that question I want to ask is, are people in sea org as an auditor? Do you believe everything? How much is there a crisis of faith that creeps in religion? You have a crisis of faith when you start to wonder, does God even exist? So in this case, how often do you start to doubt that some of the core beliefs of scientology are"
+}

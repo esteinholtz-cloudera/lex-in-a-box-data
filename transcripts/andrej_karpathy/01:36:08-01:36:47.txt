@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:36:08",
+  "End": "01:36:47",
+  "Text": ". Yeah. Do you have a fleet or not? Is significantly more important whether you have liar or not? It's just another sensor. Um And uh, I think uh similar to uh the radar discussion basically. I um, I don't think it, it um basically doesn't offer extra uh extra information. It's extremely costly. It has all kinds of problems. You have to worry about it. You have to calibrate it, et cetera. It creates blow and entropy. You have to be really sure that you need this uh this um sensor. In this case. I basically don't think you need it. And I think honestly I will make a stronger statement. I think the others, some of the other companies who are that are using it are probably going to drop it. Yeah. So"
+}

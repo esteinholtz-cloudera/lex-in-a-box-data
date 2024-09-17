@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:23",
+  "End": "01:46:28",
+  "Text": "to do. You don't seem like a man who's afraid of hard things. Ok. So she's"
+}

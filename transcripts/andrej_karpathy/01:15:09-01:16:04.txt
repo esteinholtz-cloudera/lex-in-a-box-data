@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:15:09",
+  "End": "01:16:04",
+  "Text": ". The way by which you program the computer and influence its algorithm is not by writing the commands yourself, you're changing mostly the data set you are changing the um loss functions of like what the neural net is trying to do, how it's trying to predict things. But yeah, basically the data sets and the architecture of the neural net. And um so in the case of the autopilot, a lot of the data sets had to do with, for example, detection of objects and lane line markings and traffic lights and so on. So you accumulate massive data sets of, here's an example, here's the desired label and then uh here's roughly how the architect, here's roughly what the algorithms should look like. And that's a competition neural net. So the specification of the architecture is like a hint as to what the algorithm should roughly look like. And then the fill in the blanks uh process of optimization is uh is the training process then you take your neural net that was trained, it gives all the right answers on your data set and you deploy it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:07",
+  "End": "02:40:29",
+  "Text": "for listening to this conversation with Alex Gladstein. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Alice Walker. most common way people give up their power is by thinking they don't have any. you for listening and hope to see you next time."
+}

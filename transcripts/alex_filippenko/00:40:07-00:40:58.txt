@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:40:07",
+  "End": "00:40:58",
+  "Text": ", that's the good, it's a good next step. I have to happen. I happen to disagree with him as to how quickly it will happen, right? I mean, I think he's very optimistic now, you need people like Elon to, to get people going and to inspire them. I mean, look at the success he's had with multiple companies. Uh So maybe he gives this very optimistic timeline in order to be inspirational to those who are, who are going out there and certainly his success with, you know, the rocket that reusable because it landed upright and all that. I mean, you know what, that, that's a game changer, sort of like every time you flew from San Francisco to Los Angeles, you discard the airplane, right? I mean, that, that's crazy. Right. So that's a game changer. But nevertheless, the time scale over which he thinks that there could be a real thriving colony on Mars, I think is far too optimistic. What's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:24",
+  "End": "01:36:37",
+  "Text": ". I, uh I'm not sure. Um, ready to deal emotionally with expanding space like that to me is one of the most awe inspiring things starting from the Big Bang."
+}

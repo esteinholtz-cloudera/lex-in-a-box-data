@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:31",
+  "End": "00:40:47",
+  "Text": "there's a hierarchy and uh there's a gender aspect to the hierarchy, there's men, men at the top of the hierarchy, men at the top.. But your own psychology in your own mind. So most of that self critical brain is bad, right?"
+}

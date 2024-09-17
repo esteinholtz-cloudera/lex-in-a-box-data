@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:53:09",
+  "End": "00:53:35",
+  "Text": ". I really do. I'm not great at technique and sometimes I'll fall over. But like with the following part, I'm very good at it. Do you enjoy? Yeah. Yeah. It's really nice. Again, it's a very fast physical puzzle you have to solve. It's like typing. I really like typing. That's why I was inquiring about your keyboard. Why do you like typing? Because it's like the very fast, like the really rapid response was the reaction time. I like things that like have very fast reaction times, like games like that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:48:31",
+  "End": "01:48:46",
+  "Text": "personality is extremely important for understanding human being. And I would say that there's 1000 different ways of looking at personality. The only one that I count with any, with any significance is the M BT I and the M BT I is what all the leading spy agencies around the world use as well."
+}

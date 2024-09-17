@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:56:19",
+  "End": "02:56:28",
+  "Text": ", that's what the lambda, the lambda chatbot already told this Google engineer, right? Like it was talking about not wanting to die or so on."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:18:34",
+  "End": "02:18:37",
+  "Text": ", do you have an example of a question that has, what's the"
+}

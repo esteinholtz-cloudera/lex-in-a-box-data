@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:26:35",
+  "End": "00:27:05",
+  "Text": "a cool illusion. I think it's probably like a sense of identity. I like when you, when you really meditate in your sense of identity, for at least for me, it seems like it comes down to the sense of choice. Like, oh I am doing the thinking like what does it mean to do with thinking? It's like something in me has exerted agency over having this thought or not having this thought, like the sense of self really comes down to choice. And so when I say that like free will is an illusion. I also mean there's something like the self is an illusion. Identity is trick of the light,"
+}

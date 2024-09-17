@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:06:32",
+  "End": "01:06:51",
+  "Text": ". I mean, it's like, you know, you're an ant crawling around on a sidewalk somewhere and do you notice the humans wandering around and, and the Empire State Building and, you know, rocket ships flying to the moon and all that kind of stuff? Right. It's concealed um, we haven't detected it and that we're so primitive compared to them that we're just not able to do. So,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:21:16",
+  "End": "00:21:25",
+  "Text": ", as they say, cars don't kill people, people kill people, people, right?"
+}

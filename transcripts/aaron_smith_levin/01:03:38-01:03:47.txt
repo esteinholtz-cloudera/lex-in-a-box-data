@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:38",
+  "End": "01:03:47",
+  "Text": ". The slightest thing just sets him off and he just goes totally nuts. Well, that one is true. I didn't understand why he slapped me before the interview."
+}

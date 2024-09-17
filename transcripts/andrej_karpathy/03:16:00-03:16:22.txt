@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:16:00",
+  "End": "03:16:22",
+  "Text": "just the thing that makes you special. Sure. Well, reality is what makes you special is your ability to survive on the software that runs on the hardware that was built by the genes. So, the software is the thing that makes you survive, not the hardware or"
+}

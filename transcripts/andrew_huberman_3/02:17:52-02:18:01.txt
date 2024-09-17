@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:17:52",
+  "End": "02:18:01",
+  "Text": "tell me this about Android. Now, now you want to. This is the one thing that gets me because I'm very close to someone who uses an android phone. I feel like that. So"
+}

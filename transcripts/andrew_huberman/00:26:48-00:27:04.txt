@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:48",
+  "End": "00:27:04",
+  "Text": "so many interesting words here. But what's performance and what's optimal performance? We're talking about mental ability to, to perceive the environment quickly, to make actions quickly. What's optimal performance?"
+}

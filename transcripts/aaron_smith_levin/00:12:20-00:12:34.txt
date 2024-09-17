@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:12:20",
+  "End": "00:12:34",
+  "Text": ". It's probably what Hubbard took it from um in the early days of Zs before he decided psychiatry was evil. actually credited Sigmund Freud with some of the shoulders he was standing on in writing dianetics."
+}

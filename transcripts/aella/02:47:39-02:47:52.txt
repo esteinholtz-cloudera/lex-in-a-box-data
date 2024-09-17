@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:47:39",
+  "End": "02:47:52",
+  "Text": ". So it went viral on tiktok basically because people were like what I got this insane character and then the sample size exploded from 40,000 to 500,000."
+}

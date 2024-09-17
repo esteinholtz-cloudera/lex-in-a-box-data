@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:29",
+  "End": "01:31:01",
+  "Text": ". Yeah. Yeah. That's a really beautiful way to put it. So it's like you're melding, your thinking is following the same line. Some of our podcasts do that more than movies. I think movies give you a lot more freedom to think about stuff. I feel like your thoughts are aligned and especially if the podcast is good. Like if it's listening to like a Dan Carlin podcast about history that you're on a journey together, there's an intimacy to that anyway. But I, I've, I've learned that these couples do that, know, hashtag relationship. Go, go ahead. That's"
+}

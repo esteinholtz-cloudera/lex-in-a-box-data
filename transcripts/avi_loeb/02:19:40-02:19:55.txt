@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:19:40",
+  "End": "02:19:55",
+  "Text": "holes. Let's be sincere. Why pretend? if there were in a world where there were no prizes, no honors. We would act like kids, as I said before, we would really be focusing on the ball and not on the audience. Yeah, the"
+}

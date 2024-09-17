@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:33:07",
+  "End": "00:33:10",
+  "Text": "a tool for the abuse of the scissors. And"
+}

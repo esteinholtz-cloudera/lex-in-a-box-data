@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:59",
+  "End": "00:08:06",
+  "Text": "yet, I mean, you so effortlessly mentioned dark energy. Do we have any understanding of, of what the heck that thing"
+}

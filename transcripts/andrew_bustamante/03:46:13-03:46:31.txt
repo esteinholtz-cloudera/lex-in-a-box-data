@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:46:13",
+  "End": "03:46:31",
+  "Text": "mentioned that the idea of having privacy is um is, is one that we kind of, we think we can, but we really don't. Is it possible for maybe somebody like me or a regular person to disappear from the"
+}

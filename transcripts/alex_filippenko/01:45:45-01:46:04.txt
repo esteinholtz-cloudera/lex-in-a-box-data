@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:45",
+  "End": "01:46:04",
+  "Text": ", but is it, is it philosophically or practically possible to detect signs that this was before the Big Bang or is it or is it what you said? Which is like everything we observe will as we currently understand will have to be a creation of this particular observable universe."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:38:25",
+  "End": "01:38:42",
+  "Text": ". But did that immediately translate to technology for engineering? No. Um it's still a really important part of our understanding of these fundamental laws of physics. And so I don't know that it's always immediate, but I think it is really critical knowledge for humanity to seek."
+}

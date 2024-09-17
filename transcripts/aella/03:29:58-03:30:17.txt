@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:29:58",
+  "End": "03:30:17",
+  "Text": "interesting. I'd love to see those actual questions, but because your audience is probably really a super interesting mind. OK. You mentioned body comp, said you can answer that one easily. Do you share your body count? Do you know your body count? Is there a spreadsheet?"
+}

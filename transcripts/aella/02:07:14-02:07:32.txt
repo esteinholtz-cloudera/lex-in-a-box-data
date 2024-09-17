@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:14",
+  "End": "02:07:32",
+  "Text": "you sometimes because you, you do this kind of technique, which is interesting and I, I've mentioned it to others. You'll sometimes step away from like a third person perspective and describe the feeling you're you're feeling like even just the situation, like you'll step out and talk about what is happening here,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:15:10",
+  "End": "03:15:17",
+  "Text": ", I would say like the, the idea is kind of live in the software or like our civilization in the, in the minds and so on. We think"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:11:52",
+  "End": "00:11:57",
+  "Text": "did, you know this is how we speak in uh in the Mediterranean."
+}

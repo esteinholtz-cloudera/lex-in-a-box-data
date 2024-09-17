@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:19",
+  "End": "00:44:40",
+  "Text": ". I just also like the poetry of calling human robot interaction and under actuated robotics problem. And you also mentioned sort of nudging. It seems that they, don't know, I think about this a lot in the case of pedestrians, I've collected hundreds of hours of videos. I like to just watch pedestrians and it seems that"
+}

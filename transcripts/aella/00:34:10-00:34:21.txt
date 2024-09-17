@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:10",
+  "End": "00:34:21",
+  "Text": ". Yeah. But without like, feel like idea of God wants to keep things like functioning properly. And"
+}

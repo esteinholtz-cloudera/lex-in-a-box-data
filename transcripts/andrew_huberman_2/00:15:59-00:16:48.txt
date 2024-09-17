@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:15:59",
+  "End": "00:16:48",
+  "Text": ", you're, you're Russian, it's cold in Russia for a lot of the year. The hibernation signal in certain animals is a remarkable signal. There are peptides secreted from this very same clock in animals like ground squirrels or bears. They go into a kind of a torpor where everything reproduction metabolism, everything is reduced while they're in their cave. They don't actually stay asleep all of winter. That's a myth. Um And they actually do these very um and periodic arousals from hibernation where they just shake and shake and shake, it looks like a seizure and then they go back under into the torpor that's from a peptide that's released. But that's different because that's about shutting down the whole system. It's clear that having these very regular oscillations every 24 hours is essential for everything from metabolism to reproduction."
+}

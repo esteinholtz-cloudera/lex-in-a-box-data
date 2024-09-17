@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:27",
+  "End": "00:27:11",
+  "Text": "you famously tweeted, it looks like if you bombard earth with photons for a while, you can emit a roster. So if like an hitchhiker's guide to the Galaxy, we would summarize the story of Earth. So, in that book, it's mostly harmless. What do you think is that all the possible stories? Like a paragraph long or sentence long Earth could be summarized as once it's done, it's computation. So like all the possible full, Earth is a book, right, probably there has to be an ending. I mean, there's going to be an end to Earth and it could end in all kinds of ways, it can end soon, it can end later. What do you think are the possible stories?"
+}

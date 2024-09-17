@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:02:32",
+  "End": "03:03:23",
+  "Text": ". Absolutely. I remember this was the case with my childhood. Like I talked about being very abusive, but I've talked about how, like there was a good amount of meaning there so that I didn't process it as abusive. At the time. I remember after I got out of that house in that culture, people would tell me, oh, your childhood was really abusive. And I was really confused by that because it's a total recontextualization of that narrative. It's like the things that I went through were not, you know, good and virtuous and had meaning. rather those were the result of, you know, parents who didn't love you enough or something. And even though the concrete things that happened to me did not change, like no facts shifted, the fact that the interpretation of the facts shifted caused me quite a bit of distress for a long time. I was like, oh my God, I'm a traumatized, abused person. Like I went through an abusive childhood and it was really hard for me made it worse. Like it's crazy. The power that terms have."
+}

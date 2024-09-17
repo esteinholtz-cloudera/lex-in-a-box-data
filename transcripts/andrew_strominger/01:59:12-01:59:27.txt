@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:12",
+  "End": "01:59:27",
+  "Text": "spent probably enough time with the math and the photons. Can you yourself in that space? So we're like having a conversation pretty peaceful, comfortable flat space. Are you able to put yourself in, in, in in the place around a black hole?"
+}

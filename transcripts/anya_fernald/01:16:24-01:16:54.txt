@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:24",
+  "End": "01:16:54",
+  "Text": "me for this question. But it is kind of an interesting one that people are curious about what does it feel like to be or what does it take to be a woman? Ceo of a meat company? I mean, you're no longer CEO of Bel Campo but you, you co founded Bel Campo, you ran it for many, many years. Is there something that you could say in terms of challenges associated with that? And how did you personally overcome? It"
+}

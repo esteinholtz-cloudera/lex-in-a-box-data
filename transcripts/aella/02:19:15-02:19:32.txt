@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:15",
+  "End": "02:19:32",
+  "Text": "can escape having to think by actually answering it. I see.. struggle the place where we discover something, not, not the destination,"
+}

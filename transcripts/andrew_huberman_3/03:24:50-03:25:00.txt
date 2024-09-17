@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:24:50",
+  "End": "03:25:00",
+  "Text": ", come on the, uh I think we've covered this before and it's even been me mum. I think losing love is part of the magic of love. It means you've felt"
+}

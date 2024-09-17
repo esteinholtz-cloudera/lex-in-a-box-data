@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:20",
+  "End": "01:27:25",
+  "Text": "appreciate the simplicity of food. The sim, the, the beauty within the simplicity."
+}

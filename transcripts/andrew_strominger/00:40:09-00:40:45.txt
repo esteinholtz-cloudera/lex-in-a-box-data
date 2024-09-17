@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:40:09",
+  "End": "00:40:45",
+  "Text": "look in the mirror across the bar, the universe that you see in the mirror is not identical. would be able to tell if you show your, your, your, your, the lady in the bar a photograph that shows both the mirror and you, if she's smart enough, she'll be able to, to tell which one is the real world and which one is you now, she would have to do some very precise measurements. if the photograph was too grainy, it might not be possible. But principle is"
+}

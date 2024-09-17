@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:26:17",
+  "End": "01:26:49",
+  "Text": "and you have to be careful because people don't have the bandwidth to do everything. So just because my house is messy, doesn't mean that I to be messy, right? But that just because you know, I didn't put the effort into that. I put the effort into something else. So the robot should figure out well, that something else was more important, but it doesn't mean that, you know, the house being messy is not so, it's a little subtle. But yeah, we really think of it. The state itself is kind of like a choice that people implicitly made about how they want their world."
+}

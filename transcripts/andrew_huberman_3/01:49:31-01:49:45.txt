@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:49:31",
+  "End": "01:49:45",
+  "Text": "Cash and Joe Strummer did a version of redemption song together that is uh that Rick produced, is um on loop in my house sometimes, you know, for hours and hours. That song"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:15:47",
+  "End": "02:15:51",
+  "Text": "? If you say possible? It's like anything's open. Did you"
+}

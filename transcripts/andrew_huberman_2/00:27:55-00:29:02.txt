@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:55",
+  "End": "00:29:02",
+  "Text": "interesting. So that's referring to more that there should be a consistent habit versus the total. To me like the entirety of the picture of sleep uh it's similar to nutrition in that it feels like it's, so many variables involved and it's so person specific. So, you know, a lot of studies, I mean, this is the way of science has to look and aggregate the effects on sleep. It doesn't focus on high performers, which are individuals ultimately. Like question isn't. it's a very important question is like, what kind of diet fights, obesity reduces obesity? It's another question, what kind of diet allows David Goggins to be the best version of himself? So these high performers in different avenues and the same thing with sleep, like people that tell me that I should get eight hours of sleep. like it, it's I, I mean, I, I get it and they may be right, but they may be very wrong. And there's"
+}

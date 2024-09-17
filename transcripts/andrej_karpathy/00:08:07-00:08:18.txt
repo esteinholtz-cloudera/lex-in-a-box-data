@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:07",
+  "End": "00:08:18",
+  "Text": "if you actually look at all the words you've ever said in your life and you do a search, you'll probably said a lot of the same words in the same order before."
+}

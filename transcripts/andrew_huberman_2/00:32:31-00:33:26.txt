@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:31",
+  "End": "00:33:26",
+  "Text": "is a magic to the nap and maybe you could speak to the because you mentioned these protocols that don't necessarily, so they're non sleep. But to me, the nap, one or two a day can almost irrespective of how much sleep I get the night before have a fundamental change in my mood and my performance for the better, the better. Likewise. So I do to kind of experiment with durations. It's consistently surprising to me how a nap of 10 minutes. I don't know, maybe you can speak to the perfect duration of a nap, but I find that it's like magic that a short nap as much good and often better than a longer one for me, for me"
+}

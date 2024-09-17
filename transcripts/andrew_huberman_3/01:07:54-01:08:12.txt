@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:54",
+  "End": "01:08:12",
+  "Text": "and then you'll never see me again. I mean, I love dogs so much. But the uh was also surprised and maybe um I, I have never to an intelligence agency which is very interesting to me. II, I,"
+}

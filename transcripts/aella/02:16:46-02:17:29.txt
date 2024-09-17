@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:46",
+  "End": "02:17:29",
+  "Text": "don't give a fuck about statistics. You ever heard of the flap of a butterfly wing causing like nuclear war? How do you describe that with your statistics? OK. So butterflies that's the basic infatuation, the chemistry of the initial interactions. Sure. But a deep meaningful connection like feels like sexuality is a component of that like the kind of intimacy that's only possible when you're also sexual with another human being. On top of that you have the butterfly and on top of that, you have the friendship and on top of that, you have like, what is that? That's a sandwich?"
+}

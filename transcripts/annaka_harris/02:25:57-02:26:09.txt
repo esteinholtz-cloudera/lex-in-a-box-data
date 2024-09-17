@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:25:57",
+  "End": "02:26:09",
+  "Text": ", isn't that what ethics is all about? It's about suffering. mean, I think to me, ethics is all about suffering and well being and I don't know what ethics is without that there's"
+}

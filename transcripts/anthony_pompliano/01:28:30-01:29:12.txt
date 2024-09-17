@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:30",
+  "End": "01:29:12",
+  "Text": "uh re re actually has a book principles, right? And he talks about the hero's journey. So he's like living it in some sense in terms of, know, thinking about digital currency in general, like digital finance, it's one of the big transitions, of our world in some sense. It's not just about money. you could argue that money is everything. I mean, it's like money isn't just the narrow definition of money. Money is really everything. So you could argue that Cryptocurrency is the base layer of this transformation to the digital space and everything else will just be built on top of it."
+}

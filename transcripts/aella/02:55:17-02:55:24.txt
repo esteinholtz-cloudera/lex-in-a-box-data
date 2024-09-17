@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:55:17",
+  "End": "02:55:24",
+  "Text": "say there's not many dominant men, the meaning they express a desire to be dominant in a"
+}

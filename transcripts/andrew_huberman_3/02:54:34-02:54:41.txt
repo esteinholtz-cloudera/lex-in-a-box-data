@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:34",
+  "End": "02:54:41",
+  "Text": ". I don't, I still don't know where you got that photo and you were able to find exactly the right it was, it was great."
+}

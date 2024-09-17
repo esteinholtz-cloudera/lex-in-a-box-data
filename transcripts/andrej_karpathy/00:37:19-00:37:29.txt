@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:19",
+  "End": "00:37:29",
+  "Text": "uh you said you like good will hunting. It's not your fault and it's not, man. Um So you don't like randomness? Uh"
+}

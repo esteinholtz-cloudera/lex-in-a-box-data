@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:20:04",
+  "End": "00:20:22",
+  "Text": ". It's not even a matter of training. It's that there's an entire, the entire upper half of Scientology's bridge is simply confidential. I mean, and I never even did those levels when I was in Scientology, I didn't learn what Scientologists actually believe on those upper levels until after I got out of Scientology and I was freaking born and raised in it."
+}

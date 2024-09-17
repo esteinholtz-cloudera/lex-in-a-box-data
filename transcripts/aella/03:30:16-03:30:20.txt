@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:30:16",
+  "End": "03:30:20",
+  "Text": "? Yes. Is it Google Sheets? Is it Excel Sheets?"
+}

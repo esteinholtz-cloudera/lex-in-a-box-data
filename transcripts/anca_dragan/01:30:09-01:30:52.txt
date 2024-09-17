@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:30:09",
+  "End": "01:30:52",
+  "Text": "now, I'll say that I'm wandering forever. But I watched this show. It's very, it's called The Good Place. And they reflect a lot on this and, you know, the, the moral of the story that you have to make the afterlife be finite too because otherwise people just kind of like wally, it's like around. So I think the fine helps. But, um, but yeah, it's just, you know, I don't, I don't, I'm not a religious person. don't think that there's something after and so I think it just ends and you stop existing and I really like existing. It's such a great privilege to exist. That, that, yeah, I think that's the scary"
+}

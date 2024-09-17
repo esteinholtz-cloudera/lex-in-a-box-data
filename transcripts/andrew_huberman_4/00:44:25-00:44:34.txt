@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:44:25",
+  "End": "00:44:34",
+  "Text": ", like a little scrap in the parking lot of a Facebook or something like that. Meta, but it looks like they're, they're training for real. And Zuck has competed right in JJ."
+}

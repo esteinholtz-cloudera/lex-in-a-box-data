@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:19:40",
+  "End": "02:19:55",
+  "Text": "am, I do find it interesting to know about the world. I don't know that it's useful or good, but it is part of my routine right now. So I do read through a bunch of news articles and I want to be informed and, um, I'm suspicious of it. suspicious of the practice, but currently that's where I"
+}

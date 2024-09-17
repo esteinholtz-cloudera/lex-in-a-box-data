@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:32",
+  "End": "00:35:43",
+  "Text": "beginning. So what would you say are the prerequisites for somebody to take the deep learning specialization in terms of maybe math or programming background?"
+}

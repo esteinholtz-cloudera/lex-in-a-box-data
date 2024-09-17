@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:34:29",
+  "End": "00:35:06",
+  "Text": "of the best areas of life are their own form of hypnosis, right? Um You know that you're in hypnosis, if for instance, you're in a movie and something happens and you feel the emotional lift with, with, without being self conscious about it. Um, I think that um one thing that we've tried to do in our house is around meal times to try and set a state that food isn't just something that we just throw down in our, our throats. And I'm fortunate that, you know, my partner cooks really well. And so I try and give her the space to do that and that's a whole thing of her getting into state then for the"
+}

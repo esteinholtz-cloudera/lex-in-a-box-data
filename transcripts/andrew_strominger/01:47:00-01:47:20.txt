@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:47:00",
+  "End": "01:47:20",
+  "Text": ", but, but um and many people do, could be that some of the advances in quantum information theory are important in, in that they kind of go beyond taking quantum systems and just replicating themselves but combining them with others."
+}

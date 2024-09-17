@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:54:17",
+  "End": "00:54:52",
+  "Text": "for myspace? Ar But yeah, for decades, I think as soon as we get past the three year mark, we'll absolutely want somewhere between three years and a decade, we'll want artificial gravity we know how to do that. Actually, the engineering questions still need to be tweaked for how we'd really implement it. But the science is there to know how we would spin habitats in orbit, generate that force. So even if the entire habitat is not spinning, you at least have a treadmill, part of the space station that is spinning and you can spend some fraction of your day in a near to one G environment and keep your body healthy."
+}

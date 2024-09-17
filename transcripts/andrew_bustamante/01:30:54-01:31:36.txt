@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:30:54",
+  "End": "01:31:36",
+  "Text": "? So in an interrogation, there's a of dominance, there's no equality. It also there's no escape. You are there until the interrogator is done with you, right? Anybody who's ever been reprimanded by mom and dad knows what an interrogation feels like anybody who's ever been called into the principal's office or the boss's office. That's what interrogation feels like. You don't leave until the boss says you can leave and you're there to say to answer questions, the boss asks questions. An interview is an equal exchange of ideas. You are in control of this interview sure. But if we were having coffee, I could take control. If I wanted to take control. If I wanted to ask you personal questions, I would, if I wanted to talk to you about your background, I could, why am I in control? Of this interview because the person in control is the person asking questions."
+}

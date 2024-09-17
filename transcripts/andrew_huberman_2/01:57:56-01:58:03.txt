@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:57:56",
+  "End": "01:58:03",
+  "Text": "that's supposedly where the growth is, in giving oneself over to the process."
+}

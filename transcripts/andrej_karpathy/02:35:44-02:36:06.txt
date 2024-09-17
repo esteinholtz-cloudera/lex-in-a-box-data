@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:35:44",
+  "End": "02:36:06",
+  "Text": "just like doing it as part of the program experience, like I think I'd like to write this function in C++, or like you just keep changing for different uh different programs because there are different syntax, syntax, maybe I want to convert this into a functional language. And so like you get to become Multilingual as a programmer and dance back and forth officially."
+}

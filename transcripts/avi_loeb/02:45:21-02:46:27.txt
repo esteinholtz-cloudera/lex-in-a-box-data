@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:45:21",
+  "End": "02:46:27",
+  "Text": "you have to be careful not to be depressed by it because otherwise you lose the vitality, right? So I think the most important thing to draw from knowing that you are short lived is a sense of appreciation that you're alive. That's the first thing, more importantly, a sense of modesty because how can anyone be arrogant they kept at the same time, this notion that they are short lived? I mean, you cannot be arrogant because anything that you advocate for, know, you will not be around to, to do that in 100 years. So people would just forget and move on, you know, and uh if you keep that in mind. You know, the Caesars in Ancient Rome, they, they had the person next to them telling them. Don't forget that you are a mortal. You know, there was a person with that duty because the Caesars thought that they are all powerful. You know, they had for a good reason. Someone they hired to whisper in their ear. Don't forget that you're a mortal."
+}

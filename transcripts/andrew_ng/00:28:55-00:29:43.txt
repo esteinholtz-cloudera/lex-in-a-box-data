@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:28:55",
+  "End": "00:29:43",
+  "Text": "think both are important it's also problem dependent. So for a few data sets, we may be approaching, you know, base error rate or approaching or surpassing human level performance. And then there's that theoretical ceiling that we will never surpass the base era rate. Um But then I think there are plenty of problems where, where we're still quite far from either human level performance or from bay area. A and bigger data sets with new networks with without further innovation will be sufficient to take us further. Um But on the flip side, if we look at the recent breakthroughs using, you know, transforming networks for language models, it was a combination of novel architecture but also scale has a lot to do with it. If we look at what happened with, you know GP two and birds, I think scale was a large part of the story."
+}

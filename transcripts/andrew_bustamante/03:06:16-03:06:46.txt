@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:06:16",
+  "End": "03:06:46",
+  "Text": "know, a thing that crosses an ethical line, even in a, in a time where the human, entirety of human civilization hangs in a balance, still forfeit that power. That's, that's a beautiful thing about the American experiment. That's a few times throughout the history. That's happened, including with our first president George Washington. Well, let me ask about JFK"
+}

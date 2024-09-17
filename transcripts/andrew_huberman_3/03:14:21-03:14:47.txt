@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:14:21",
+  "End": "03:14:47",
+  "Text": "I can answer it in part. Right. Because, well, partially because you're very busy. Partially because, um, you've decided that until it's time you're gonna until it's time, it's time. Right? I mean, until it's time you're waiting and then, um, you're not saving yourself for marriage. Uh, I think, but, but in some sense, um, yeah, your, your wife, your future wife is out there."
+}

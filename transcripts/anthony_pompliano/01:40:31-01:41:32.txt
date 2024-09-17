@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:31",
+  "End": "01:41:32",
+  "Text": "I do find it kind of interesting uh It is NFT based but uh I don't think it has to be this uh this idea of, I think big clout it's called or whatever idea of sort of investing in individuals, it makes me immediately think about investing in ideas. So even just the words you speak, having value, and sort of, if you have a frictionless like automated financial system, then you could do a bunch of interesting things about what it means to add value to the world. I mean, don't know if B Cloud is currently an efficient representation of that, but am truly happy that however, that thing works. I'm just one notch above Vladimir Putin, which is one of the, that's one of the bucket list items for me to have a list where I'm one notch above Putin. What"
+}

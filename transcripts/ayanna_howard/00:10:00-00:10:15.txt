@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:10:00",
+  "End": "00:10:15",
+  "Text": "? So I do have that feature. Do you drive a Tesla? I do um because I'm a gadget freak, right? So it's a gadget that happens to have some wheels and yeah, I've seen some of the videos,"
+}

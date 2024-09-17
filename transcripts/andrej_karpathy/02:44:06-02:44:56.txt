@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:44:06",
+  "End": "02:44:56",
+  "Text": "to it. I mean, I don't think I love teaching. I love happy humans happy humans. Like when I teach II, I wouldn't say I hate teaching. I tolerate teaching, but it's not like the act of teaching that I like. It's, it's that, um, know, I, I have some, I have something I'm actually ok at it. I'm ok at teaching and people appreciate it a lot. And so I'm just happy to try to be helpful and teaching itself is not like the most. I mean, it's really, it can be really annoying, frustrating. I was working on a bunch of lectures just now. I was reminded back to my days of 231 and just how much work it is to create some of these materials and make them good, the amount of iteration and thought and you go down blind alleys and just how much you change it. So creating something good in terms of like educational value is really hard and it's not fun, it's difficult."
+}

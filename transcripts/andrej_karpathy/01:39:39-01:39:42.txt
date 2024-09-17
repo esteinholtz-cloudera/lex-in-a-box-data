@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:39",
+  "End": "01:39:42",
+  "Text": "is entropy in an organization look like? Exactly."
+}

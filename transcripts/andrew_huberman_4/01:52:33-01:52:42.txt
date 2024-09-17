@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:33",
+  "End": "01:52:42",
+  "Text": "uh I went down a rabbit hole. There's like sexology, there's, there's journals. Oh yeah, on sex. Sure. Ok."
+}

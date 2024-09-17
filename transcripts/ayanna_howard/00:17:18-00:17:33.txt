@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:17:18",
+  "End": "00:17:33",
+  "Text": "even cities, right? Like if you're in Boston, people cross the street, like lights are not an issue versus other places where people will, will actually wait for the crosswalk,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:59",
+  "End": "02:16:04",
+  "Text": "you. Well, limbic friction is the source of that. But who are you talking with?"
+}

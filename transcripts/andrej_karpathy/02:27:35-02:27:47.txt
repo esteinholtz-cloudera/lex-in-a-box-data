@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:27:35",
+  "End": "02:27:47",
+  "Text": ", I think, I think balance is good but I also love to have sprints that are out of distribution and that's when I think I've been pretty uh creative and um as"
+}

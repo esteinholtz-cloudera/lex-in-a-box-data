@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:19:20",
+  "End": "01:19:26",
+  "Text": "a plane, I mean, like if the thing starts going down and there's truly nothing you can do. You might as well at least listen to your favorite song"
+}

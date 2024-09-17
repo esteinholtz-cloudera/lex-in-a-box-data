@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:40",
+  "End": "02:37:55",
+  "Text": ", we, uh, actually talk with Carl about depression, all those kinds of things that there, there could be these, what are commonly seen as negative journeys that could be when reframed be used."
+}

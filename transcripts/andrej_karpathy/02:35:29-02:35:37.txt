@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:35:29",
+  "End": "02:35:37",
+  "Text": ", maybe at some point you're just conversing with it. It's like, OK, here's what I want to do actually this variable, maybe it's not even that low level is variable. But"
+}

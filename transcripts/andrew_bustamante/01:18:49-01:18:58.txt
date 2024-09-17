@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:49",
+  "End": "01:18:58",
+  "Text": "Can you actually, we'll just take a million tangents. What, what's the level of the disguise? Uh What, what's uh what are the different levels of disguise? What are the disguises? Yeah,"
+}

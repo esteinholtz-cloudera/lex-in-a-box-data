@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:41:43",
+  "End": "02:42:26",
+  "Text": "in moderation, it could be good. The magic. This is another thing that I've found through COVID that maybe you can think about is live. used to be not understand the appeal of live video or live connection or like in this Clubhouse live events Clubhouse is technically for the most part, it's not supposed to be recorded. Most people don't record most conversations. It's a one time live event and there's a magic to that there is that's not captured by your podcast or my podcast produced video that's recorded like packaged up"
+}

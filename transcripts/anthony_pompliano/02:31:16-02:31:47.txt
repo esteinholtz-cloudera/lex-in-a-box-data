@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:31:16",
+  "End": "02:31:47",
+  "Text": "even further than that I think is he essentially is, he's using Doge coin as a way to say I'm doing this because I can, he couldn't do it with. He couldn't do it with certain types of other assets. Right. Like I almost look at it as like a Venn diagram. What's the thing that a bunch of people know about, care about? Think are funny, whatever. And also overlay that with the things that, like he could actually talk about they won't get in trouble for."
+}

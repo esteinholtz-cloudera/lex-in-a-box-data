@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:30",
+  "End": "02:34:52",
+  "Text": "don't think there's a better way to end it. Andrew. I really appreciate that you would come down and your space time and focus on this conversation for a few hours. It is a huge honor. I'm a huge fan of yours, as I told you, I hope you keep growing and educating the world about the, human mind. Thanks for talking"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:54:04",
+  "End": "03:54:14",
+  "Text": "yourself? No, I'm, I think I'm a man. I'm a grand total of seven days smarter than I was at 27. It's not a good average."
+}

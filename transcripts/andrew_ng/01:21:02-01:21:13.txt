@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:02",
+  "End": "01:21:13",
+  "Text": "you mentioned some people are interested in discovering mathematical beauty and truth in the universe and you're interested in having a big positive impact in the world. So let me ask"
+}

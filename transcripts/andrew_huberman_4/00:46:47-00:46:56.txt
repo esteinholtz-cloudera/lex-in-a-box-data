@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:47",
+  "End": "00:46:56",
+  "Text": ". Sorry. But it's a video game. So it's like it's a um, know, pretty intense combat in the video, you know, you're fighting like demons. And"
+}

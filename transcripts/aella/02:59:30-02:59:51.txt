@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:59:30",
+  "End": "02:59:51",
+  "Text": "I did the survey when I had a friend, be like, hey, I had this confusing sexual experience. Was it rape? Like somebody kind of pressured her and she eventually stopped saying it or something. I was like, that's a great question. Like I don't know how people would consider this. And so I put a whole bunch of different gray uh scenarios into a survey and then asked people to rate how rapey they thought that scenario"
+}

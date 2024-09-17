@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:56:17",
+  "End": "00:56:45",
+  "Text": ", all this interaction is mostly on the level of HTML CS S and so on. That's done because of computational constraints. Uh But I think ultimately, um everything is designed for human visual consumption. And so at the end of the day, there's all the additional information is in uh the layout of the web page and what's next to you and what's a red background and all this kind of stuff and what it looks like visually. So I think that's the final frontier as we are taking in uh pixels and we're giving out keyboard mouse commands, but I think it's impractical still today."
+}

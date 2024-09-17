@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:07",
+  "End": "00:23:13",
+  "Text": "do you think is there in that subconscious? What do you think of the young and shadow is? What, what's"
+}

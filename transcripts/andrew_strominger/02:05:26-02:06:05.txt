@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:26",
+  "End": "02:06:05",
+  "Text": "me ask you another sort of philosophical type question, but not really, actually, um seems that thought experiments are used. So it's not just mathematics that makes progress in theoretical physics but thought experiments do. They did for Einstein as well. They did for a lot of, a lot of great physicists throughout history over the years. How, how is your ability to generate thought experiments or just your intuition about some of these weird things like quantum mechanics or uh string theory quantum gravity or? Yeah, even general relativity. How's your intuition improved over the years? Have you been able to make progress?"
+}

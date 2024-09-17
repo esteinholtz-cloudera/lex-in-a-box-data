@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:18",
+  "End": "00:26:40",
+  "Text": ". I hope to be one of those people I believe that as a, maybe a devil's advocate term poorly used in this case. if some of them really are trying to build a better world? I can't, I'm sure, I"
+}

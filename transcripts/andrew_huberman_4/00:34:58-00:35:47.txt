@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:58",
+  "End": "00:35:47",
+  "Text": ", I've um been through some really low points over the past couple of years and I think the reason could be boiled down the fact that I haven't been able to find a place of peace, a AAA place where people are moments that give deep inner peace., yeah, I, you know, I think you put it really beautifully. It's uh you have to figure out given who you are various characteristics of your mind, all the things, all the contents of the cupboards, how to get space from it. And ultimately, one good representation of that is to be able to laugh at all of it, whatever, whatever is going on inside your mind, to be able to step back and just kind of chuckle at the, the beauty and the absurdity of the whole thing."
+}

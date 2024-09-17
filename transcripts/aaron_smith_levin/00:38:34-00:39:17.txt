@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:38:34",
+  "End": "00:39:17",
+  "Text": ", literally in the beginning of an auditing session when you're calibrating the sensitive sensitivity of the image or you do it, I can squeeze. So I gotta squeeze the cans, please. So I'm just like squeezing and I'm just changing the sensitivity because when you squeeze the cans, I want to get about a one third of a dial drop on the needle. The idea is you don't want, if the needle is too sensitive, then every time you shift around in your chair, the needle is gonna bounce all over the place. So you're trying to set the sensitivity of this thing that's all the, the, the knob there on the bottom to the left, that's the sensitivity knob and that determines just how much, how sensitive the needle is going to be. And the, the bigger dial is called the tone arm. And that is changing uh I want to say voltage or current, but I'm not intending I'm going to get one of those words is wrong, right? But it is"
+}

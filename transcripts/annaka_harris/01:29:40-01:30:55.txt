@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:40",
+  "End": "01:30:55",
+  "Text": "at the end of that journey, there's a clarity and an appreciation of beauty that if you just write it out, by the way, if you want to read upsetting, I'd just gotten through the boy, the four books if you want to read. Upsetting. So my audible is hilarious. So it, there's conscious in it then, so your book and then it has the Rise and Fall of the Third Reich Bloodlands by Timothy Snyder. Probably the most upsetting book I've ever read if you want to because it's not just Stalin or Hitler, it's Stalin and Hitler. It's the worst, the worst hits, the opposite of the best hits. It's really, really, really well written really difficult. I read Solzhenitsyn's Gulag Archipelago. And what else? Red Famine, which is um Anne Applebaum is that, does that hurt? Yeah. Anyway, so those are truly upsetting and that's, and those are a lot of times the results of hiding the truth versus pursuing the truth. So truth in the short term might hurt, but it did ultimately set us"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:34",
+  "End": "02:07:43",
+  "Text": ". I mean, that is bravery because what happens is fear seeps in even if it's not grounded in reality. at the same time, like, you know, my grandfather who fought in World War Two, I mean, the story is, I mean, he was very convinced and sure most of the people he fought alongside with died, he was a machine gunner, but he believed that bullets can't hit him. Right. Well, you know, he was. Right.. Because you survived. So there's some sense like you're bias that he's just like you are, I was like, I'm not brave, the bullets can't hit me. mean, there's a dark kind of truth to that. There's some, you know, it's like a, it's a feedback loop where if you have the confidence and you push on forward and you're brave in that way to not let fear seep in and affect you, it actually gives you less things to be scared about. And I mean, but that initial few steps might be for people, it might be a very difficult step to take to talk about it publicly. The"
+}

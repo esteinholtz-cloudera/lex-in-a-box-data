@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:21:41",
+  "End": "02:21:57",
+  "Text": ", it needs to exist. And then I think to me also a big factor is uh you know, are other humans are going to appreciate it? Are they going to like it? That's a big part of my motivation. If I'm helping humans and they seem happy they say nice things, uh they about it or whatever that gives me pleasure because I'm doing something useful."
+}

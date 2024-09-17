@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:32:45",
+  "End": "00:33:12",
+  "Text": "find it actually, when I'm teaching at Stanford, I increasingly encourage students at Stanford to um try to find their own project for the end of term project rather than just downloading someone else's nicely clean data set. actually much harder if you need to go to find your own problem and find your own data set rather than, you know, go to one of the several good websites, very good websites with, with clean scopes data sets that you could just work on."
+}

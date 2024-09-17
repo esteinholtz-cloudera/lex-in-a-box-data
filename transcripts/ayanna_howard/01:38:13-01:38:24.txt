@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:38:13",
+  "End": "01:38:24",
+  "Text": "? Got to say it's data. I was going to say Rosie, but I don't, I'm not really interested in her brain. I'm interested in data's brain,"
+}

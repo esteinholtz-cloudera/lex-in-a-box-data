@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:43:05",
+  "End": "02:43:44",
+  "Text": "use? Well, they're worried, they're worried about all these things. But the thing is some of the you will waste time doing something wrong. You will eventually figure out it's not right. You will accumulate scar tissue and next time you will grow stronger because next time you'll have the scar tissue and next time you'll learn from it. And now next time you come to a similar situation, you'll be like, oh, I, messed up. I've spent a lot of time working on things that never materialized into anything. And I have all that scar tissue and I have some intuitions about what was useful, what wasn't useful, how things turned out. So all those mistakes were, uh, were not dead work, you know. So I just think you should, they should just focus on working. What have you done? What have you done last week?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:41:40",
+  "End": "00:41:49",
+  "Text": "could easily do a better job than any of the people we got around at the moment. yeah, I vote her over Boris Johnson."
+}

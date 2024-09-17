@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:42:26",
+  "End": "02:42:43",
+  "Text": "anything can happen. It's that anything can happen. those, that's the kind of thing like live concerts. I definitely, I love live music. And it's the idea that because you can always listen to the album. Actually, the album usually sounds cleaner and better, but it's just this idea that anything can happen"
+}

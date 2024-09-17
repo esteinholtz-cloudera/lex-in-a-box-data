@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:13",
+  "End": "01:45:26",
+  "Text": "only that, but we agree with the things that are trying to eat us enough to where we don't, they don't eat us, meaning like. It's not just us humans, you know,"
+}

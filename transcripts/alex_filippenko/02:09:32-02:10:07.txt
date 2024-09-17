@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:09:32",
+  "End": "02:10:07",
+  "Text": ", that's right. And you know, often the breakthroughs are made based on the body of knowledge that had been assimilated prior to that. But you know, again, people like to worship heroes. You, you mentioned the Oscars earlier and know, you look at the direct, I mean, well, I mean, ok, directors and stuff sometimes get awards and stuff. But um you know, you look at even something like, I don't know, songwriters and musicians, Elton John or something, right? Bernie Taupin, right? Wrote many of the words or he's not as well known or, The Beatles or something like that."
+}

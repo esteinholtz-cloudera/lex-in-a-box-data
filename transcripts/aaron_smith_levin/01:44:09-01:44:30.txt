@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:44:09",
+  "End": "01:44:30",
+  "Text": ". Yeah. Absolutely. it's also the only path that I traveled. So I tend, I'm ok. A little less so these days. But, um, earlier in life I tended to attribute all my, all positive characteristics in me to Scientology because in my simplistic way of thinking, I was like, what else could it possibly be attributed to? That's a very black and white way of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:02:20",
+  "End": "02:02:21",
+  "Text": "glad to hear that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:58:30",
+  "End": "00:58:46",
+  "Text": ". Yeah. And uh they will get much better and they will share our digital realm and they'll eventually share our physical realm as well. It's much harder. that's kind of like the world we're going towards and most of them will be benign and hopeful and some of them will be malicious and it's going to be an arms race trying to detect them."
+}

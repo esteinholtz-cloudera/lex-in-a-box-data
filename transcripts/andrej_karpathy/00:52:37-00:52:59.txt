@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:52:37",
+  "End": "00:52:59",
+  "Text": "basically, you um you perceive the input of the uh screen pixels and uh basically the state of the computer is sort of visualized uh for human consumption in images of the web browser and stuff like that. And then you give the neural or the ability to press keyboards and use the mouse and we're trying to get it to, for example, complete bookings and you know, interact with the user interfaces. um"
+}

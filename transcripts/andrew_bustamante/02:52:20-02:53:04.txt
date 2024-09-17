@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:52:20",
+  "End": "02:53:04",
+  "Text": "uh nice about this is that we can agree to disagree and history will be the one that decides. But, but once, like, there's a reason that Edward Snowden needs to do something new every 16 or 18 months to remain relevant. Right. Um, because if he didn't, he would just be forgotten because he was not a maverick who changed history for the better. He was a man who broke a law and now he's on the run to some people, he is a hero other people. He is a criminal, but to the vast majority, he's just a blip on a radar of their everyday life. That really makes no difference to them at"
+}

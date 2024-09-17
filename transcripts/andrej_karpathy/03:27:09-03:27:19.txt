@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:27:09",
+  "End": "03:27:19",
+  "Text": "? Yeah. And what does it look like also when you can just generate on demand? And it's uh and there's infinity of it."
+}

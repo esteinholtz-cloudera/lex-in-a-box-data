@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:03:06",
+  "End": "01:03:12",
+  "Text": ". It's beautiful. So Bitcoin is currently by far the most popular sort of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:56",
+  "End": "00:15:13",
+  "Text": ", you think it's possible that machine learning becomes of similar to literacy? Where, where? Yeah, like you said, the owners of a mom and pop shop is basically everybody in all walks of life would have some degree of programming capability."
+}

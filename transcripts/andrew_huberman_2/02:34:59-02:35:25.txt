@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:59",
+  "End": "02:35:25",
+  "Text": ". You know, some of the best, some of the best investigative journalism is done by people inside the field comes to mind. A guy by the name of Elon Musk, who I love the possibility that he gets a Pulitzer for that interview. But he grilled the crap out of Vlad, the Ceo of Robin Hood. I'm not sure if he"
+}

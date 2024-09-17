@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:40",
+  "End": "00:17:43",
+  "Text": "in terms of space or in terms of time, in terms of everything, just"
+}

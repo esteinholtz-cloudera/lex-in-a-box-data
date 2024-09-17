@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:28:04",
+  "End": "01:28:30",
+  "Text": ", I'm not sure if it's, if there's too many insights, you're trying to create a neural method that will fit in what you have available and you're always trying to optimize it. And we talked a lot about it on the A I day and uh basically the the triple backflips that the team is doing to make sure it all fits and utilizes the engine. Uh So I think it's extremely good engineering. Um And then there's all all kinds of little insights peppered in on how to do it properly."
+}

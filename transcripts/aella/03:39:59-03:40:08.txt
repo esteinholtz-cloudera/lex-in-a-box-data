@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:39:59",
+  "End": "03:40:08",
+  "Text": "like, probably reduces rates of rape because like, really horny men get an outlet. That's not a real life woman. Ok."
+}

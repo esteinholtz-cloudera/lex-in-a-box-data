@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:53",
+  "End": "00:59:16",
+  "Text": "if you were to look at yourself sort of um you know, 2030 years from now, do you see yourself more and more wearing the psychology hat? Sort of another way to put it is, are the hard problems in human robot interactions fundamentally psychology or is it still robotics, the perception, manipulation planning and all that kind of stuff?"
+}

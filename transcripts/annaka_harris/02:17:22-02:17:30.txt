@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:17:22",
+  "End": "02:17:30",
+  "Text": "speak as well as I write. So I've written about this in a way that I think is, is easier to absorb than the way I just described"
+}

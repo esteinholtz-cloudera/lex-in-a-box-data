@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:31:21",
+  "End": "00:31:30",
+  "Text": "saying I always, I always refer to you as the brain and body we call Lex."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:01:20",
+  "End": "01:02:10",
+  "Text": "much you need, right? In terms of, if your state is really like the positions of everything or whatnot and velocities, who knows how much you need. And then, then there's this, there's so many mappings. And so now you're talking about how do you regularize that space? What priors do you impose or what's the inductive bias? You know, there's all very related things to think about it. Um Basically, what are assumptions that we should be making that these models actually generalize outside of the data that we've seen. now you're talking about, well, I don't know, what can you assume, maybe you can assume that people actually have intentions and that's what drives their actions. Maybe that's the right thing to do when you haven't seen data very nearby that tells you otherwise. I don't know. It's a very open question. Do"
+}

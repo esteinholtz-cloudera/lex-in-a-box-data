@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:44:12",
+  "End": "00:44:47",
+  "Text": "to be some humility there. And certainly from science fiction, we have plenty of reasons to fear that outcome as well. But I do think as a scientist, it would be profoundly exciting if we were to find life, especially in the near neighborhood of our solar system now, we would expect it to be most likely microbial life. But we have a real serious challenge in astrobiology which is it may not even be carbon based life and all of our detectors, we only know to look for DNA or RN A. would you even build a detector to look for silicon based life or different molecules than what we know to be the fundamental molecules for"
+}

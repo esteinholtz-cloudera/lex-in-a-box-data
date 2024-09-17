@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:48",
+  "End": "02:54:52",
+  "Text": "sauna? He does say that it's good to do heat."
+}

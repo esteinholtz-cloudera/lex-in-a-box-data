@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:28:33",
+  "End": "01:29:20",
+  "Text": "write math about human behavior, right? Yeah. So and I think that stuck with me because you know, a lot of what I do, lot of what we do in my lab is write math about human behavior combined with data and learning. Put it all together, give it to robots to plan with and you hope that instead of writing rules for the robots, writing heuristics designing behavior, they can actually come up with the right thing to do around people. That's kind of, you know, that's our signature move. We wrote some math and then instead of kind of handcrafting this and that and that and the robot figure stuff out. And isn't that cool? And I think that is the same enthusiasm that I got from the robot figured out how to reach that goal in that graph. Isn't that cool?"
+}

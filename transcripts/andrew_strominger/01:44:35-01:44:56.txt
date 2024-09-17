@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:44:35",
+  "End": "01:44:56",
+  "Text": ", not successfully, not, not in there. There aren't compelling papers that lots of people have read that people have taken it up and tried to go at it. But, but there aren't, there aren't, there aren't compelling. theory doesn't seem to a trick that, helps us with that puzzle."
+}

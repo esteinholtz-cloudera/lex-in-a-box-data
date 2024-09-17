@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:30:19",
+  "End": "00:31:03",
+  "Text": ", because that one has been understood since the fifties. Polly was the first person to notice it. And Hawking in the early seventies gave it a really much more visceral form. Um and people have been themselves at it trying to reduce it to some technicality, but nobody has succeeded. And the efforts to understand it have led to all kinds of interesting relations between quantum systems and uh applications to other fields and so on."
+}

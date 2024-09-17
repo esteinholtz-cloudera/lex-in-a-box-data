@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:01:26",
+  "End": "02:01:43",
+  "Text": "the tricky thing is like some people really love you. Some people, unfortunately, like you're working on something that you think is extremely valuable, useful, et cetera. Some people do hate you. There's a lot of people who like hate me and the team and the whole project and I think Tesla drivers in many cases, they're not actually."
+}

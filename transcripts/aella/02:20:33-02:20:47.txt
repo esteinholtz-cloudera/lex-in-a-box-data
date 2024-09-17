@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:33",
+  "End": "02:20:47",
+  "Text": "you date, you would describe sharing a love sandwich with them. OK. So how does I mean that's great to hear. So you're not, are you afraid of love?"
+}

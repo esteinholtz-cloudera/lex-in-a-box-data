@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:53",
+  "End": "00:46:31",
+  "Text": ". I mean, that's like, of beer, I mean, that's something I wanted to make sure in all of science to shake ourselves out of remind ourselves constantly how little we know because it might be right in front of our nose. Like I wouldn't be surprised if trees are orders of magnitude more intelligent than humans. They're just operating at a much slower scale they're talking shit about us the whole time about silly humans that take everything seriously. And we start all kinds of nuclear wars and we quarrel and we tweet about it and then, but the trees are always there just watching us silly humans"
+}

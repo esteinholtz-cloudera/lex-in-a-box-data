@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:09",
+  "End": "01:53:12",
+  "Text": "out we're going to edit out the hate towards the Godfather. How"
+}

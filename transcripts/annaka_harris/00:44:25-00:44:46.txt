@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:25",
+  "End": "00:44:46",
+  "Text": "has the craziest, most radical ideas that you talk with currently. So you can go either direction can go like panpsychism consciousness permeates everything. I don't know how far you can go down that direction or you could say that, you know, what would be the other direction"
+}

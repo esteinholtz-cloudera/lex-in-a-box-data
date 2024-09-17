@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:59",
+  "End": "00:51:18",
+  "Text": ", early part of the day, not always early part of the day for me is a very fluid concept. So you're one of those being single. One of the problems, single and no meetings. I don't schedule any meetings. I will, I've been living like a 28 hour day. So I like, uh it drifts so it's, it's all over the, the place. But after a traditionally defined full night sleep, whatever the heck that means. I, I find that like in those moments, there's a clarity of mind that's just that everything is effortless and it's the deepest dives intellectually that I make and I, I'm cognizant of it and I try to bring that to the other parts of the day. That don't have it and treasure them even more in those moments because they only last like, five or 10 minutes. of course, in those moments you want to do all kinds of stupid stuff that are completely, is worthless, like check social media or something like that. But those are the most precious things in, in, in, in intellectual life is those mental moments of clarity. And I wonder, I'm learning how to control them. think caffeine is somehow involved. I'm not sure exactly."
+}

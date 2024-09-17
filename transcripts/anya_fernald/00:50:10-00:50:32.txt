@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:10",
+  "End": "00:50:32",
+  "Text": "do you find that balance that has to do with like the frequency and the scale of the grazing essentially? Exactly. so you have to find the right balance and that, that, that connects to the both the grass. I mean, is, is the, ultimately the focus here is on the life cycle of whatever is grazing, whether it's cows or lambs or so on."
+}

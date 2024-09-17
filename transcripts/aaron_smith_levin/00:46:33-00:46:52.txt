@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:46:33",
+  "End": "00:46:52",
+  "Text": "you're a Scientologist and you're participating in, participating in an auditing session, you know, that anyone in the organization is, has the ability to know the stuff that you saw. It's not like, oh my God, I'm only telling my auditor because I think no one's ever going to know, you know, that people know, but you also trust the organization. How"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:23",
+  "End": "00:47:32",
+  "Text": "that. So for me, I'll just speak to myself and I think David is the same, but I'll speak to myself that it was a hugely draining thing not to experience the gratitude, experiencing the gratitude, just like you're saying is really energizing and it's a powerful thing. It can up your mood. But to turn on the camera and have to use words which is very difficult to do to explain what you're feeling and do it in the way that, you know, a bunch of people will be watching is really draining. And one of the things I'm concerned about that in this whole process, how do I keep my mind sharp also keeping the, the physical performance sharp? And that's a little bit scary because talking to David actual intellectually sharp thinking, being charismatic and as much as I can be and being, maintaining a sense of humor too because I become with sleep deprivation with exhaustion. start being"
+}

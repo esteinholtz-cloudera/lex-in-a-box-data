@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:01",
+  "End": "01:04:19",
+  "Text": "is it possible to intuit this, can we start by thinking about dogs and cats go to the plants and then going all the way to matter? Or is this going to be like modern physics where it's just going to be impossible to, even our reason alone, we're going to have to have tools of some kind."
+}

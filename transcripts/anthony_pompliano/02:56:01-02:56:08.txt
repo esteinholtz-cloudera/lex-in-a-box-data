@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:01",
+  "End": "02:56:08",
+  "Text": "I'm definitely subscribing, people should subscribe. But what are Bitcoin Resources books that you recommend?"
+}

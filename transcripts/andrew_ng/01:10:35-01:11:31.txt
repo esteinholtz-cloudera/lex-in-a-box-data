@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:10:35",
+  "End": "01:11:31",
+  "Text": ", I can say one other thing. Um You know, I think building companies is one thing, but I feel like it's really important that we build companies that move the world forward. Uh For example, the A I fun team, there was once an idea for a new company that if it had succeeded, would have resulted in people watching a lot more videos in a certain narrow vertical type of video. Um I looked at it, the business case was fine, the revenue case was fine, but I looked at and just said, don't want to do this like, you know, I don't actually just want to have a lot more people watch. This type of video wasn't educational as an educational maybe. And so, and so II, I called the idea on the basis that I didn't think it would actually help people. So um whether building companies or work of enterprises or doing personal projects, I think um up to each of us to figure out what's the difference we want to make in the world"
+}

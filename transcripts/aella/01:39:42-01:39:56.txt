@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:39:42",
+  "End": "01:39:56",
+  "Text": ". But you can kind of do a whole bunch of weights. So, like the person that I ended up going on a date with, he did not answer correctly to a lot of the survey questions. But he didn't have to, he was just overall, overall the weights were, like, he just tended to be more in the direction. Was there a text"
+}

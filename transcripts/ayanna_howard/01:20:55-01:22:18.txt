@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:55",
+  "End": "01:22:18",
+  "Text": "? But uh and we don't have the ability to look into each other's minds to see the algorithm. And I mean, I guess what I'm getting at is that, is it possible that especially if that's learned, especially if there's some mystery and black box nature to the system, is that, know, how is it any different? Is it any different? And in terms of sort of, if the system says I'm conscious, I'm afraid of death it does indicate it loves you another way to sort of phrase it. I'd be curious to see what you think. Do you think there'll be a time robots should have rights? kind of phrased the robot in a very roboticist way and it's just a really good way. But saying, OK, well, there's an objective function and I could see how you can create a compelling human robot interaction experience that makes you believe that the robot cares for your needs and even something like loves you. But what if the robot says, please don't turn me off. What if the robot starts making you feel like there's an entity of being a soul there?? Do you think there'll be a future?, you won't laugh too much at this but where they do ask for rights,"
+}

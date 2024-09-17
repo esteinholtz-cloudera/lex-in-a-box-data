@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:54:31",
+  "End": "00:55:13",
+  "Text": "I wouldn't say that it's just, you know, now it's just pure engineering and it's probably the, I mean, by the way, I'm speaking kind of very generally here as hypothesizing. But I think that that there are successes and yet no one is out there. So that seems to suggest that things can be expanded and can be scaled and we know how to do a lot of things. But there's still probably, you know, new algorithms or modified algorithms that you still need to put in there as you, as you learn more and more about new challenges that you get faced with. How"
+}

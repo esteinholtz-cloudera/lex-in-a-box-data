@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:03",
+  "End": "00:12:19",
+  "Text": "final product of cooking is when done well is really delicious. And what we ate yesterday was really delicious. So that aspect of it bringing the ingredients together in a way that tastes delicious. Do you see that as a science of art?"
+}

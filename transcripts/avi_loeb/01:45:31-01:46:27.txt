@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:31",
+  "End": "01:46:27",
+  "Text": "risk. Yeah, I mean, in defense of optimism, I find that there's at least a correlation if not their best friends is optimism and open mindedness is a necessary, it's preconditioned to try crazy things. And in that sense, the sense I have about going to Mars, if we use today's logic of what kind of benefits we'll get from that, we're never going to go and most decisions we make in life, most decisions we've made as a human species irrational if you, if you look at just today. But if you look at the long arc and the possibilities that it might bring just like humans left Europe and Europe and"
+}

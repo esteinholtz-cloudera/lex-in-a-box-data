@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:07",
+  "End": "01:56:23",
+  "Text": "it energizing? My fear the, the fear of the introvert is that don't know if I can handle so much love and fascinating people all around. like, I don't know."
+}

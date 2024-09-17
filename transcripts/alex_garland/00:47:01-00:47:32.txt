@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:47:01",
+  "End": "00:47:32",
+  "Text": "just to say what, what Ex Machina is, is really, it's a thought experiment. I mean, so it's, it's a construction of putting four people uh in a house. Uh Nothing about ex Machina adds up in all sorts of ways in as much as that, who built the machine parts, did the people building the machine parts, know what they were creating and how did they get there? And it's a thought experiment. So it doesn't, it doesn't stand up to scrutiny of that sort."
+}

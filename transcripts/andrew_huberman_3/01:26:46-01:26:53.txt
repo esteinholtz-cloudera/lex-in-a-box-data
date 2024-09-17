@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:26:46",
+  "End": "01:26:53",
+  "Text": "them into a puddle of tears., no, no. They're from Boston, from Boston. That's right. They're tougher than that."
+}

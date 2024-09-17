@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:47:01",
+  "End": "01:47:11",
+  "Text": "escorting. I'm not sure which is similar like I kind of use escorting as the way to have casual sex now."
+}

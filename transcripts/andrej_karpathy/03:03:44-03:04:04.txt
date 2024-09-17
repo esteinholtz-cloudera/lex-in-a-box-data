@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:44",
+  "End": "03:04:04",
+  "Text": "mentioned a few movies you tweeted movies that I've seen five plus times but am ready and willing to keep watching Interstellar Gladiator contact Goodwill hunting the Matrix Lord of the Rings, all three avatar fifth element. So on, it goes on to two mean girls. I'm not going to ask about that"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:55:19",
+  "End": "01:55:29",
+  "Text": "letters. My wife is brilliant and she still walks into doors. Yeah. mean, she'll walk in a doorway, she'll bang her knee on the same wall that's been there for the last 50 years. It's,"
+}

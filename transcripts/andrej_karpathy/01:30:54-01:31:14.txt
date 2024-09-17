@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:54",
+  "End": "01:31:14",
+  "Text": "your role in the data engine executing well on it, it is difficult and extremely important. Is there a priority of like uh like a vision board of saying, like really need to get better at stoplights like the, the prioritization of tasks is that essentially, and that comes from the data"
+}

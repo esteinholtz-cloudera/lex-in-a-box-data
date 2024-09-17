@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:36",
+  "End": "00:44:51",
+  "Text": "eventually most people will get to the floating needle and somehow floating needles, there's like a feed, there probably is a feedback mechanism that each person realizes how their mind and body., because you want the resolution, right? You want your needle"
+}

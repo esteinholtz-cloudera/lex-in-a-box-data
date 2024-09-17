@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:09",
+  "End": "02:12:14",
+  "Text": "I don't think I would have left the cut. So it's funny you probably interpret it in a different way."
+}

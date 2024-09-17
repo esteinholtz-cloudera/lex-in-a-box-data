@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:08",
+  "End": "01:31:26",
+  "Text": "can jump around a little bit? Can I just ask you on a personal note because you said you've suffered from depression and there's a lot of people that see guidance on this topic because it's such a difficult one. How were you able to, it was, when it has struck you? How were you able to overcome"
+}

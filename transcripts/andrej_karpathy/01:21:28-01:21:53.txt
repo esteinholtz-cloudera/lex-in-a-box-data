@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:28",
+  "End": "01:21:53",
+  "Text": "have you learned? You said no mistakes about humans doing annotation because I assume humans, there's a range of things they're good at in terms of clicking stuff on screen. Isn't that? How interesting is that you have a problem of designing an annotator where humans are accurate, enjoy it. Like what are they even the metrics or efficient or productive, all that kind of stuff?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:42",
+  "End": "02:57:30",
+  "Text": "then that might lead to horrible consequences because then there might be a lot of people that secretly love murder and they'll start practicing murder on those systems. I mean, there's just, to me, all of this stuff just brings a beautiful mirror to the human condition and human nature will get to explore it. And that's what like the best the Supreme Court of all the different debates we have about ideas of what it means to be human. We get to ask those deep questions that we've been asking throughout human history. There has always been the other in human history. We're the good guys and that's the bad guys. And we're going to, you know, throughout human history. Let's murder the bad guys and the same will probably happen with robots. It'll be the other at first and then we'll get to ask questions of what does it mean to be alive? What does it mean to be conscious?"
+}

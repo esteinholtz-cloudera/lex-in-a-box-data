@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:59",
+  "End": "00:30:02",
+  "Text": "to revealing some deep mystery that's yet to be uncovered."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:50",
+  "End": "00:31:12",
+  "Text": ". So we should also mention that you have prediction markets, you have votes that you, what's the site called again? Manifold Manifold. And one of them was, will I be on the Lex Friedman podcast? I voted I invested everything I own into the Yes. Is there such thing as insider trading on there that goes against the terms of the,"
+}

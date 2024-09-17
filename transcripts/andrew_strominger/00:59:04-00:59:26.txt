@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:04",
+  "End": "00:59:26",
+  "Text": ", can't the same thing be said about all, all of the constants, all of the can't that be said about gravity? Can't that be said about the speed of light? why is the speed of light so slow, fast, so slow to the size of the universe? Can't it be faster no?"
+}

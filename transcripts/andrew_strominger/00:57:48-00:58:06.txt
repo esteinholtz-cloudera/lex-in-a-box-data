@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:48",
+  "End": "00:58:06",
+  "Text": ". So there's this cosmological Einstein's cosmological constant that now hides this thing that we don't understand called dark energy. What's dark energy? What's your best guess at what this thing is? Why do we think it's there because the, it's constantly astronomers,"
+}

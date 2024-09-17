@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:10:42",
+  "End": "00:11:11",
+  "Text": ", I also think of food as one of the key ways that we interact with our environment,? We it's the the part of our environment that goes inside us most visibly, right? Of course, we interact with our environment, we could have skin creams that have certain things in them or our clothes can then be absorbed. There's things in the air, there's our water and there's food, right? It's like how we're engaging in the world. Physiologically, it's the most significant way we engage in our environment. We're"
+}

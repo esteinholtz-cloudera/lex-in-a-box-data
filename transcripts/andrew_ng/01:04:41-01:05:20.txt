@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:04:41",
+  "End": "01:05:20",
+  "Text": "think so, I think uh start up that are very customer focus. Customer says, deeply understand the customer and are oriented to serve the customer, are more likely to succeed. Uh with the proviso that I think all of us should only do things that we think create social good and moves the world forward. So I, I personally don't want to build addictive digital products just to sell a lot of ads or, you know, there are things that, that could be lucrative that I won't do. Um uh but if we can find ways to serve people in meaningful ways, um I think those can be, those can be great things to do either in the academic setting or in a corporate setting or a start up setting."
+}

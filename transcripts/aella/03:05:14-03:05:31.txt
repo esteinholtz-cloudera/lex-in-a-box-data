@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:14",
+  "End": "03:05:31",
+  "Text": "is basically your LS DJ on the for a bunch of episodes. Yeah, I get this for sure. Oh Well, it's not just about love, but it's a, about like talking in that way about reality about the world."
+}

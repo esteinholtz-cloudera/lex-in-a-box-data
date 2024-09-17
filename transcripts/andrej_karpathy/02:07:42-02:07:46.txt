@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:07:42",
+  "End": "02:07:46",
+  "Text": "a different simulation from like Unreal Engine. That's how I interpreted the question. Ah So"
+}

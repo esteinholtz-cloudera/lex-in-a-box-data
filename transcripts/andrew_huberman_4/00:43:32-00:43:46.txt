@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:32",
+  "End": "00:43:46",
+  "Text": "doesn't leave you for those listening. It doesn't quite smell terrible. It's just intense and it stays with you., this to me represents like just laughing at the absurdity of it"
+}

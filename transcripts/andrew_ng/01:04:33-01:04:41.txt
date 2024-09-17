@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:33",
+  "End": "01:04:41",
+  "Text": "as you build a start up, you have to constantly ask the question. Will the customer gives a give a thumbs up on this?"
+}

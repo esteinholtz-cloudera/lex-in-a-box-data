@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:44:07",
+  "End": "01:44:18",
+  "Text": ", I like this because it's, it's so hard to understand. I like it because it's hard to understand. But, but it's really challenging us. It's not a, I don't think we're close to solving that"
+}

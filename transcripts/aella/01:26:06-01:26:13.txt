@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:06",
+  "End": "01:26:13",
+  "Text": "? Um Is there stuff like you mentioned too edgy? Like Mr Beast tries to keep it PG Do you try to keep it PG 13? Well,"
+}

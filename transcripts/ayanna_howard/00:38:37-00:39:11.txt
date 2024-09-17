@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:37",
+  "End": "00:39:11",
+  "Text": "speaking of this really nice notion that A I is maybe flawed but better than humans. So it just made me think of it. One example of flawed humans is our political system. Do you think, or you said judicial as well? Do you have a hope for I sort of being elected for president or, or running our Congress or being able to be a powerful representative of the people?"
+}

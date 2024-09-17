@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:56",
+  "End": "00:30:05",
+  "Text": "? So off label are things that the FDA didn't approve extra stuff. You basically say this drug does extra stuff that the FDA never"
+}

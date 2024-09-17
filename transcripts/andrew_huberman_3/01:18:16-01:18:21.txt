@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:18:16",
+  "End": "01:18:21",
+  "Text": "not afraid of heights. I'm, I'm, I just, it feels like a, feels like a terrible place to die."
+}

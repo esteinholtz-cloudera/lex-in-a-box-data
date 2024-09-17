@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:59",
+  "End": "01:16:08",
+  "Text": ". Now you're just one of us living in the, you know, the cloud of mystery, not really knowing anything about what's going"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:34",
+  "End": "01:34:38",
+  "Text": "if from memory or we can look it up? Do you remember what kind of questions were on the survey?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:26:25",
+  "End": "03:26:29",
+  "Text": ". It's not romantic too. So you're terrified of what? Oh, so you are"
+}

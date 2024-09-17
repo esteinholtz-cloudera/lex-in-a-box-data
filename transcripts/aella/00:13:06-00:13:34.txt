@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:06",
+  "End": "00:13:34",
+  "Text": "that are connected to Charlton and so on and so on. They originate. Yeah, you, I mean, we'll talk about fetishes because you have a lot of really interesting writing on that. Just actually zooming out. I shouldn't mention you tweeted. I wrote this down, you tweeted. I do not understand how to have normal conversations with people in person I'm not on drugs. So I guess both agree to not have a normal conversation, I guess assuming you're not on drugs now or if you are, you don't"
+}

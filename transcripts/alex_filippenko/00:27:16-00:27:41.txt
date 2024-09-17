@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:16",
+  "End": "00:27:41",
+  "Text": "would you, um, what would you do if seemed like in a matter of months that there is some non zero probability, maybe a high probability that there would be a collision. So from a scientific perspective, from an engineering perspective, I imagine you would actually be in the room of people deciding what to do what philosophically too. It's a tough"
+}

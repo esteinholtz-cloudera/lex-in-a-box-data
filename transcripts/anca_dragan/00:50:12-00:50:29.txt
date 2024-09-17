@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:50:12",
+  "End": "00:50:29",
+  "Text": "assuming. Liar here, by the way, I think it's kind of irresponsible to not use liar. That's just my personal opinion., I mean, depending on your case. But I think like, you know, if you have the opportunity to use liar in a lot of cases, you might not"
+}

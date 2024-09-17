@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:32",
+  "End": "01:18:43",
+  "Text": ", so we focused on the mission and the push back all the mess of the industry. You try not to internalize it, try not to let it affect you and focus on"
+}

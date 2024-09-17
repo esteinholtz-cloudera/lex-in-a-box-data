@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:41",
+  "End": "00:21:07",
+  "Text": "I'm revealing my ignorance, but I didn't realize how much data they were working with. So there's a, it wasn't Einstein Freud thinking in theories, it was a lot of data and you're playing with it and seeing how to make sense of it. So, isn't, it isn't just coming up with completely abstract thought experiments? It's looking at the data and astronomy. It's"
+}

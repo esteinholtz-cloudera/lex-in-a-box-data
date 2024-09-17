@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:26",
+  "End": "00:42:36",
+  "Text": "that, but you might be wrong too, right? Uh So what do you think string theory is dead if you were to bet all your money on um the future of string"
+}

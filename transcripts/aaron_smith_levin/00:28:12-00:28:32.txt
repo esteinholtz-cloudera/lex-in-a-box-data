@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:12",
+  "End": "00:28:32",
+  "Text": ", I'm not trying to get you back in. I'm trying to take you uh get you to take seriously the power of the ideas behind scientology because I think those ideas are not bad ideas. They resonate with a lot of ideas through our philosophy, through our religions, throughout the history of human civilization. interesting aspect is how it goes wrong. But here's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:58:35",
+  "End": "03:58:40",
+  "Text": "here to destroy the, the, the, the quality of the conversation."
+}

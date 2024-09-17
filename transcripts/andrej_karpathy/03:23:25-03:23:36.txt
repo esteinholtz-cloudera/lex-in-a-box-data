@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:25",
+  "End": "03:23:36",
+  "Text": "there cool small projects like uh archive sanity and, and so on that you're thinking about the, the, the the world, the ML world can anticipate."
+}

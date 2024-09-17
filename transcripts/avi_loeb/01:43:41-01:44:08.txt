@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:41",
+  "End": "01:44:08",
+  "Text": "that's a billion years from now. I prefer shorter term deadlines so that, I mean, there's a lot of threats that we're facing currently. Do you find it exciting? The possibility of, you know, landing on Mars and starting little building a Manhattan style apartment building on Mars and humans occupying it. Do you think from a scientific or engineering perspective? That's a worthy"
+}

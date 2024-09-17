@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:10:39",
+  "End": "03:10:55",
+  "Text": "that the relationship with your mother has and, and father has a and, and probably other close people to you in your young age has a secondary tertiary, some kind of ripple effect on how yours developed, like what fantasies you might"
+}

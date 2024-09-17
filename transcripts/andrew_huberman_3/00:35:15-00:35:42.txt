@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:15",
+  "End": "00:35:42",
+  "Text": "are important roles. You could be a very good eater like there's something about is there anything better in this world than that feeling. Especially if it's a family getting around a table. Just the warmth of that. I don't know. The, like, uh, the cold outside of the cruel world cannot touch you in this place that you've returned to. And if, uh, I mean, did you grow"
+}

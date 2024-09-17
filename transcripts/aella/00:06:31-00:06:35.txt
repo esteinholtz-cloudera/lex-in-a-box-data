@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:31",
+  "End": "00:06:35",
+  "Text": "mean, novelty always comes with uncertainty, right? Almost always."
+}

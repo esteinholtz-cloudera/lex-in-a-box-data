@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:48",
+  "End": "00:35:03",
+  "Text": "you mentioned the Land Lease Act and the support of the United States support of Ukraine by the United States. you skeptical to the level of support that the United States is providing and is going to provide over"
+}

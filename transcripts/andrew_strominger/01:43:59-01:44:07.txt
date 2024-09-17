@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:59",
+  "End": "01:44:07",
+  "Text": "like you don't like singularities., I thought for somebody that works with black holes, you will get used to them by now. No, no,"
+}

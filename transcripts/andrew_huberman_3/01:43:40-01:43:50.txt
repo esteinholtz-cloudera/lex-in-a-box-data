@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:43:40",
+  "End": "01:43:50",
+  "Text": "toiled over what to engrave. And then finally, I just said, Mike, just pick something that speaks to you. You're the craftsman. And so he selected that"
+}

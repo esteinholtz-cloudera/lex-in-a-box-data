@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:28:31",
+  "End": "00:28:43",
+  "Text": "they can't afford to just do bombing raids because they're going to destroy cultural uh significant architecture. That's just too important to the Russian culture and that's going to demoralize their own Russian people."
+}

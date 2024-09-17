@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:40:05",
+  "End": "01:40:41",
+  "Text": "about states and nations, but can we just briefly talk about Facebook and Twitter and companies that have a huge impact on the world as well? And actually one of the things that make America a great nation is it is the place from which these great companies have sprung up. Is there from a human rights perspective? Is there something that bothers you about Facebook about these large companies? is there something we need to fix something we need to upset about fight back on reform, do some sort of real activism about,"
+}

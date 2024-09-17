@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:07",
+  "End": "01:03:25",
+  "Text": "was about that. Ok. I'm just loading this all in because that's kind of brilliant. So he was actually already into, it's not just about the stars, it's anticipating that there could be other life forms. Like why if this, if there's other stars, why would it, why would our star be special?"
+}

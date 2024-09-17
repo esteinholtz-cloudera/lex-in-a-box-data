@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:42:45",
+  "End": "03:42:52",
+  "Text": "you're ok if, like, this century is the last time will be something like these biological bags of meat that we are."
+}

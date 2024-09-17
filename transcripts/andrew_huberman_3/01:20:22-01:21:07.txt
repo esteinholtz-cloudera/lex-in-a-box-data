@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:20:22",
+  "End": "01:21:07",
+  "Text": "are some academics that are bold and brave. It's, it's not a phenotype being bold and brave in the physical world is not a common phenotype of academics. I mean, the great neurologists, one of my, I don't have many heroes, but Oliver Sacks is a true hero. I mean, um people think of him as a writer, but he was foremost a neurologist and he took tremendous pushback from the neurology community for doing his books and his articles. He has a great biography called On the Move. There's a wonderful documentary that just came out about him. He died in 2015. I'm actually um a kind of a collector of his things. Um but he tremendous, but he was accused of horrible things until the movie awakenings came out with De Niro and Robin Williams."
+}

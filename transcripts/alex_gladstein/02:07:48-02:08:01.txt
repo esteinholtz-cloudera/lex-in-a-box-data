@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:07:48",
+  "End": "02:08:01",
+  "Text": "put. there books, technical fiction, philosophical that had an impact on your life that you recommend or even resources like blogs, films?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:22",
+  "End": "00:35:28",
+  "Text": "inert. So can you define what it means? Inert? So they escape the interaction,"
+}

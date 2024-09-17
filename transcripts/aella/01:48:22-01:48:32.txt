@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:22",
+  "End": "01:48:32",
+  "Text": "meaning like, like, know, like selling products on Etsy versus doing a start up."
+}

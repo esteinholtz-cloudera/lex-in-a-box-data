@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:57",
+  "End": "01:11:21",
+  "Text": ", one of the interesting things we've been talking about is the rewards they seem to be fundamental to the way robots behave. So broadly speaking, we've been talking about utility functions. But could you comment on how do we approach the design of reward functions? Like how do we come up with good reward functions?"
+}

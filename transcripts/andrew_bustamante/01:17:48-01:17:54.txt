@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:48",
+  "End": "01:17:54",
+  "Text": "about this. And more importantly, I have questions about your hair. So you have short hair at the"
+}

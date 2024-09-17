@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:48",
+  "End": "02:04:34",
+  "Text": "day. Um Yeah, I've also struggled finishing projects that are new that are something new. Like, for example, one of the things I've really struggled finishing is something that's in Russian that requires translation and overdub and all that kind of stuff. The other project I've been working on for like over at least a year off and on. But trying to finish is something we've talked about in the past is I'm still on it. A project on Hitler in World War Two. I've written so much about it and I just don't know why I can't finish it. I have trouble, like, really? Um, I think I'm terrified being in front of the camera this, like this so well, actually, no, no, no solo."
+}

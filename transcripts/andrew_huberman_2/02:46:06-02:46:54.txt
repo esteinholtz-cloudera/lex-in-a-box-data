@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:46:06",
+  "End": "02:46:54",
+  "Text": "mean? When you threw out an idea, I'm not going to put it out here now because I don't want to, because knowing you, you'll hold yourself to it no matter what. But when we talked about, um, issue of the challenge of staying on a particular topic for a while, I mean, you do have some cool stuff brewing in there that's separate from this format. And I love your interview format. But, um, when you told me about that, I got really excited that you might go forward. I'm not going to tell your audience what it is, but I will say this. It is super cool. I would have never thought about it. It's distinctly different than what I'm doing or what Lex is currently doing. And you decide to do that podcast, I will be your first and your number one fan and I know there are going to be millions of other people interested. That would be amazing. So if you decide to go forward with the idea, that would be awesome."
+}

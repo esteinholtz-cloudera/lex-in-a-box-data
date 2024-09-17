@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:33",
+  "End": "00:27:17",
+  "Text": "don't know if you've seen Jiro Dreams of sushi. It's a documentary about. Yeah. So there's an obsession that that particular, first of all set of humans, but also the particular cuisine that focus on the basics of the ingredients. Um What do you think of that kind of trying to achieve mastery through repeating the making of the same over and over and over for like decades? Like do you find beauty in that journey towards mastery or do you think it should be always an exploration to where you're always trying things, you're always kind of injecting new flavors, new experiences, all that kind of stuff."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:08",
+  "End": "01:52:25",
+  "Text": "your sense is there's a connection between dreams and DMT and like psychedelic, like all of the uh you can, you can understand one by studying the other. So for example, dreams are also very difficult to study, right? But they're more accessible, it's safer to study"
+}

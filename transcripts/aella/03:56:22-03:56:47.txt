@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:56:22",
+  "End": "03:56:47",
+  "Text": "sounds romantic. OK. All right. do want to really quickly ask you about this, about the rationalist community because I've to know a few of them a few times. He tweeted a guideline to rationalist discourse, basics of rationalist discourse from less wrong. What are these folks? What's the rationalist culture? What's the rationalist discourse?"
+}

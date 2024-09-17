@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:29",
+  "End": "02:21:41",
+  "Text": "and you, so you're able to deal with bugs and programming issues and technical issues and uh design decisions that turn out to be the wrong ones. You're able to think through all of that given, given that you want to think to exist."
+}

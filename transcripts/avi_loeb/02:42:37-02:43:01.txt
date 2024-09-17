@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:42:37",
+  "End": "02:43:01",
+  "Text": "he died at a young age in an accident, unfortunately. Um And then, you know, people like Nietzsche that broke conventions I noticed that the Nietzsche is still extremely popular, you know, that's quite surprising. He appeals to the young people of today and the people that"
+}

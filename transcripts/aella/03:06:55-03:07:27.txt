@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:06:55",
+  "End": "03:07:27",
+  "Text": "construction in a way that's like uh not like playing with frames but rather committing to a different frame. I like, I like being able to play with ideas and be like, let's look at it this way or that way. That's awesome. But if you're like, OK, you know what I took LC. And now I absolutely believe the cops are outside. And you're like, dude, no, you just, you can't shift out of that, right? Your brain needs to fill in the gap. You're not allowed to have a gap. So you're not allowed to be flexible. And again, I don't think this is a personal failing. I think this is literally probably genetic or physical thing that's causing this. But"
+}

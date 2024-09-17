@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:19:21",
+  "End": "01:19:36",
+  "Text": "you. I think that's also at least part of it. Maybe all of it. Yeah. Yeah. I think there's, there's some evidence for it, I think often, like, guys will do a thing to me and I'm just like, that's a thing. Cool. I don't have any negative response whatsoever. That's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:05",
+  "End": "01:33:16",
+  "Text": "on the spirit of positiveness. What small act of kindness. If one pops to mind, were you once shown that you will never forget"
+}

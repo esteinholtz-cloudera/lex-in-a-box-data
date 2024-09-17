@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:07",
+  "End": "01:18:22",
+  "Text": ", I don't know that those words, I just recently saw it, read it. I don't know where from you. And this is going to stick with me for a while for some reason because it's not explicitly expressed. It kind of leaks indirectly from our behavior."
+}

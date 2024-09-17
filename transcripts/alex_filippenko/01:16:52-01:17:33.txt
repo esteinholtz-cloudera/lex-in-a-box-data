@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:16:52",
+  "End": "01:17:33",
+  "Text": ", yeah. So, you know, I knew Hawking and I greatly respect his, his scientific work and in particular uh the early work on the unification of general theory of relativity and quantum physics to two great pillars of modern physics, you know, Hawking radiation and all work. You know, if you were alive, he should have been a recipient of this year's physics Nobel Prize, which was for the discovery of black holes and also uh by Roger Penrose for the theoretical work showing that given uh, a star that's massive enough. You, you basically can't avoid having a, a black hole anyway. Hawking. Fantastic., I tip my hat to him. May he rest in peace? That would"
+}

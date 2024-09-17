@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:26:53",
+  "End": "00:27:49",
+  "Text": "? There is no question in my mind. Of course, many people would disagree with me that now is the most time to be a physicist. So, so people, people look back at, at um a classical thing to say among physicists. Uh I wish it were 1920 mechanics had been just understood. Uh there was the periodic table there was but in fact, that was such a rich thing that, so that was a lot of exciting stuff happened around 1920. It took, it took the whole, it took a whole century sort out the new insights that we got,"
+}

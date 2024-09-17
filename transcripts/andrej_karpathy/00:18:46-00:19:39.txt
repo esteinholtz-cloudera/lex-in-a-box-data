@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:46",
+  "End": "00:19:39",
+  "Text": ", which I don't, I get it. They're much more knowledgeable than me about the intricacies of biology. But that seems crazy because how much, how many single cell organisms are there and how much time you have? Surely it's not that difficult in a billion years is not even that long a time. Really. Just all these bacteria under constrained resources battling it out. I'm sure they can invent more complex. I don't understand. It's like how to move from a Hello World program to invent a function or something like that. I don't, I don't. Yeah. So I'm with you. I just feel like I don't see any, if the origin of life, that would be my intuition. That's the hardest thing. But if that's not the hardest thing because it happens so quickly, it's got to be everywhere. And yeah, maybe we're just too dumb to see it. Well, it's"
+}

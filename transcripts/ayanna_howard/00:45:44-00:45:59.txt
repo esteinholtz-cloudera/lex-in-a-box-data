@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:44",
+  "End": "00:45:59",
+  "Text": ". Did you ever hope that the community, us as a human civilization on the whole is good can be trusted to guide the future of our civilization into a positive direction? I think"
+}

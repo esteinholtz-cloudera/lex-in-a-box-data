@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:19:42",
+  "End": "01:19:45",
+  "Text": "coincidence."
+}

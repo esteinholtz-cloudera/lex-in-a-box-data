@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:50",
+  "End": "00:32:08",
+  "Text": "have to make some pleasing sounds that's going. So I'm supposed to talk to Danielle. So I'll probably spend an hour just discussing the sounds on the Pebbles. OK. were we talking about? So that's because you mentioned two, I think my third one"
+}

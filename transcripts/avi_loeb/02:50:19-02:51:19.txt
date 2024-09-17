@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:50:19",
+  "End": "02:51:19",
+  "Text": "for listening. To this conversation with Avi Loeb and thank you to our sponsors Zero Fasting App for intermittent fasting element, electrolyte, drink, sun basket meal delivery service, and pessimist archive history podcast. So the choice is a fasting app, fasting fuel, fast breaking delicious meals and a history podcast that has very little as far as I know to do with fasting, wisely my friends. And if you wish, click the sponsor links below to get a discount and to support this podcast. And now let me leave you some words from Albert Einstein. The important thing is not to stop questioning, curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity of life, of the marvelous structure of reality, is enough. If one tries merely to comprehend a little of this mystery every day, you for listening and hope to see you next time."
+}

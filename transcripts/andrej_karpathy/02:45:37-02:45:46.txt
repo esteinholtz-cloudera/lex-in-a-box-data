@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:37",
+  "End": "02:45:46",
+  "Text": ". It's interesting. I mean, is it difficult to go back to the like the basics? Do you draw a lot of like wisdom from going back to the"
+}

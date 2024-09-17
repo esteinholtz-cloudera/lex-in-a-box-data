@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:23",
+  "End": "01:57:37",
+  "Text": "such a Pisces thing. To say, I looked up what your astrological sign is. So you mentioned, Einstein predicted that black holes don't exist or just or don't"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:09",
+  "End": "00:37:18",
+  "Text": "really uncomfortable with the question. Do you have anxiety about whether the universe is random or not is a sort of what's"
+}

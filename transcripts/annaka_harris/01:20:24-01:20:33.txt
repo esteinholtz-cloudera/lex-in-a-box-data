@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:24",
+  "End": "01:20:33",
+  "Text": "that starts to help you build up an intuition that this conscious experience is an illusion constructed by the brain after conscious"
+}

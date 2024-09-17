@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:48",
+  "End": "03:24:03",
+  "Text": "you learn from that experience uh from transcribing the process of like you like consuming audio books and podcasts and so on. And here's a process that achieves closer to human level performance and annotation. Yeah."
+}

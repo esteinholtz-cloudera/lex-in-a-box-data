@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:24:18",
+  "End": "02:25:54",
+  "Text": ", I mean, this is not an area that I have spent for me, have not spent a lot of time thinking about this. Most people expect that I have. It's interesting, these types of questions are much less interesting to me than the other questions. And I think it's because I'm interested in the physics of things. I'm I'm somewhat interested, I'm definitely interested in, in ethical questions for human beings, but I have spent very little time thinking about the implications for other types of intelligence. I will say that I think the capacity for suffering con of the capacity for suffering of a of a conscious system goes up with memory and with a sense of self. if you take I if, if anesthesia only erased your memory and it didn't actually make you unconscious, you actually experienced experienced some surgical procedure, but we could completely wipe out your memory of it as that scenario scenario is. And I'm not suggesting we should ever do this. I would say our only option were to erase your memory of it, that would be the more ethical thing to do than to have you maintain that memory because of the suffering is then carried a longer distance through time."
+}

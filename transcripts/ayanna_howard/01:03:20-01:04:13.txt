@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:03:20",
+  "End": "01:04:13",
+  "Text": "? Basically, the way I look at it is trust is not what you click on a survey. Trust is about your behavior. So if you interact with the technology on the decision or the actions of the technology, as if you trust that decision, then you're trusting, right? And I even in my group, we've done surveys that, you know, on the thing. Do you trust robots? Of course not. Would you follow this robot in a burdening building? Of course not, right. And then you look at their actions and you're like, clearly your behavior does not match what you think, right? Or what you think you would like to think, right? And so I'm really concerned about the behavior that's really at the end of the day when you're in the world, that's what will impact others around you is not. Whether before you went on to the street, you clicked on like, I don't trust self driving cars"
+}

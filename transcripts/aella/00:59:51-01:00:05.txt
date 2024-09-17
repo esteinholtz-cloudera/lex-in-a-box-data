@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:59:51",
+  "End": "01:00:05",
+  "Text": "moral deviants was beaten out. But like you could do whatever. Deviants wasn't so much. Like I didn't have other kids making fun of me ever. I, I don't think I'd ever heard an insult about my physical appearance as a child or teenager once. So"
+}

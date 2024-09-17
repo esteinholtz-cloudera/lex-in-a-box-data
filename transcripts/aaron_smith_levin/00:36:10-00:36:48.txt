@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:36:10",
+  "End": "00:36:48",
+  "Text": "doing? It's very similar to just any other business as far as you're going to have your human resources, you're going to have your sales, you're going to have your accounting, your operations, your quality control. It's just that in Scientology, your operations is delivering courses in auditing. So, your operations and your quality control where most of the activity occurs as far as delivering scientology then you've got your, you call it business development, but that's just bringing in new members, right? So the the the function of Scientology organization is very very comparable to a a normal business in the normal world."
+}

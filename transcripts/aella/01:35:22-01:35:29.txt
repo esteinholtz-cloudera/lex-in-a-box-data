@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:35:22",
+  "End": "01:35:29",
+  "Text": "? Yeah, they could. I mean, this isn't like, but if you're going to have somebody, it's like, nicer to have them be more compatible than less."
+}

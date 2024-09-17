@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:20",
+  "End": "02:16:29",
+  "Text": "it make you sad? So you've had an interaction and perhaps a bit of a friendship with Stephen Hawking? it make you sad that he didn't win a"
+}

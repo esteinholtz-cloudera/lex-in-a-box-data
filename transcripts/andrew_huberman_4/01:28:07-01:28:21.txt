@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:07",
+  "End": "01:28:21",
+  "Text": "a small tangent, it does make me wonder how much intelligence, covert contracts require. It seems like not much if they, if you, if you can do it in the animal kingdom, there's some kind of instinctual. It is based perhaps in like fear. Yeah, it could"
+}

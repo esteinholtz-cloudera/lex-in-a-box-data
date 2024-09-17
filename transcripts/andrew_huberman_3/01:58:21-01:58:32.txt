@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:58:21",
+  "End": "01:58:32",
+  "Text": ", right? I mean, forgetting the controversy around all the stuff of 2020 21. I mean, he is an encyclopedia of all things. Virology. People"
+}

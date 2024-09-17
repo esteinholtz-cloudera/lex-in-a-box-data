@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:39:39",
+  "End": "00:39:46",
+  "Text": "interesting. So technology is basically enables the automation of oppression. Absolutely. So,"
+}

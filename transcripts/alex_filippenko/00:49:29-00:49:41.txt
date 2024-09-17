@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:49:29",
+  "End": "00:49:41",
+  "Text": ", right? So artificial general intelligence in my view encompasses a lot of these attributes that you just talked about, of curiosity inquisitiveness, you know. Right."
+}

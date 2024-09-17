@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:12",
+  "End": "01:01:16",
+  "Text": "no matter what decision you make, there will be fake stories written about you as we talked about, you"
+}

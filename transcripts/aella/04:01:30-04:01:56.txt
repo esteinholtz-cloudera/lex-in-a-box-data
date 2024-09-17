@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "04:01:30",
+  "End": "04:01:56",
+  "Text": ". I appreciate it. This is really fun, Ella. Thank you so much for talking with me today. Thank you. for listening to this conversation with Ayla. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Richard Feynman is like sex. Sure. It may give you some practical results, but that's not why we do it. you for listening and hope to see you next time."
+}

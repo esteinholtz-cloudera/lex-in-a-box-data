@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:27",
+  "End": "01:10:20",
+  "Text": ". Yeah. And it's not fun about the way you are trading time. Maybe it's a little bit indirect but maybe not., just because I brought up Eric and you're on Twitter, I'd love to hear your opinions. I talked to him a lot. He seems to have stepped into the beautiful dance of human communication and the social dynamics. That is the Bitcoin Cryptocurrency community. Do you, do you have thoughts on gauge theoretic concept, conceptualization of the world or just Eric in general? got a lot of love in his heart and he's got grace in the way he communicates. But he's also loves to play with ideas and seems to have touched a sensitive point with the Bitcoin community. Is there anything you could say that's hopeful, inspiring about that whole dynamic that went down?"
+}

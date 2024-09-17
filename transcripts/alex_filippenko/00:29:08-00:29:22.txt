@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:08",
+  "End": "00:29:22",
+  "Text": "? Right? I might have, I might have a different opinion a year ago. I'm uh a bit uh disheartened by, you know, in the movies, the um there's always extreme competence from the government,"
+}

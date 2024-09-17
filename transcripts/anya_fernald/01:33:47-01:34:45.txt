@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:47",
+  "End": "01:34:45",
+  "Text": ", I definitely, definitely like some fasting is part of a great meal for me. So like 24 hours is the minimum. more sensitive to the richness of any experience for me when I fast 24 hours. And so that's a requirement for a good meal is 24 hour fast. I think just like you're able to taste, I don't know, maybe psychological, but you're able to the various flavors in a meal as simple as like even a chicken breast. There's all kinds of flavors going on because like when you cook a chicken breast, there's like outside, the inside. I mean, the volume of the meat tastes different as you eat like the different fibers. And you can tell all those differences as you're eating when you're fasted and you can appreciate that. And of course, you're right. Part of the journey is important it makes me think like, whether restaurants is the right place to explore"
+}

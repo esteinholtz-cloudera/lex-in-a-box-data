@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:32",
+  "End": "00:33:03",
+  "Text": "is that feeling of conscious will is culturally constructed shorthand. So I and you is you could say a culturally constructed shorthand, how much of that how we think. So our parents say I in you, I in you and then we start to believe in i in you. And that is that fundamental to the human brain machine that we,"
+}

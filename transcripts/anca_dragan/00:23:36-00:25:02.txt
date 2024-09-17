@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:23:36",
+  "End": "00:25:02",
+  "Text": ". So, one of the things that's been exciting to me lately is this notion that when you try to, that when you try to think of the robotics problem as OK, I have a robot and it needs to optimize for whatever it is that a person wants it to optimize as opposed to maybe what a programmer said. That problem we think of as a human robot collaboration problem in which both agents get to act in which the robot knows less than the human. Because the human actually has access to at least implicitly to what it is that they want. They can't write it down, but they can, they can talk about it, they can give all sorts of signals they can demonstrate, and but the robot doesn't need to sit there and passively observe human behavior and try to make sense of it. The robot can act too. And so there's these information gathering actions that the robot can take to sort of solicit responses that are actually informative. So for instance, this is not for the purpose of assisting people but with kind of back to coordinating with people in cars and all of that one thing that um did was so we were looking at cars being able to navigate around people and you might not know exactly the driving style of a particular individual that's next to you, but you want to change lanes in front of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:51:14",
+  "End": "03:51:45",
+  "Text": "mentioned if anybody from the CIA is watching. So I've seen you talk about the fact that sort of people that are currently working at the CIA would kind of look down on the people who've left the CIA and they deride them, especially if you go public, especially if there's a book and all that kind of stuff. Do you feel the pressure of that to be quiet, to not to, you know, um not do something like this conversation that we're doing"
+}

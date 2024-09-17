@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:21",
+  "End": "02:37:41",
+  "Text": "the culture created the bar because you could probably yes host a pretty crappy picture or an archive. Um what's that make you feel like? What's that make you feel about peer review so rigorous peer review by 23 experts versus the peer review of the community, right? As"
+}

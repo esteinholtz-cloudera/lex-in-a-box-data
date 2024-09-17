@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:46:54",
+  "End": "03:46:58",
+  "Text": "you worship a God of some sort or would you sacrifice little small animals"
+}

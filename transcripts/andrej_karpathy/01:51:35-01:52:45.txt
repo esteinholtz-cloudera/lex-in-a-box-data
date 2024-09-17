@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:51:35",
+  "End": "01:52:45",
+  "Text": ", it was hard because obviously I love the company a lot and I love, I love Elon, I love Tesla. I want um it was hard to leave. I love the team basically. Um But, I think actually I would be potentially like, interested in revisiting it, maybe coming back at some point uh working in Optimus, working in A G I at Tesla. Uh I think Tesla is going to do incredible things. It's basically like it's a massive large scale robotics kind of company with a ton of in-house talent for doing really incredible things. And I think uh human robots are going to be amazing. Uh I think uh autonomous transportation is going to be amazing. All this is happening at Tesla. So I think it's just a really amazing organization. So being part of it and helping it along, I think was very, basically, I enjoyed that a lot., it was basically difficult for those reasons because I love the company. Uh But you know, I, I'm happy to potentially at some point come back for Act two. But I felt like at this stage, I built the team, it felt autonomous and uh I became a manager and I wanted to do a lot more technical stuff. I wanted to learn stuff. I want to teach stuff. Uh And uh I, I just kind of felt like it was a good time for, for a change of pace a little bit. What"
+}

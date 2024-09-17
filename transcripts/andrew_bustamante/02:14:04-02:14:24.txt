@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:04",
+  "End": "02:14:24",
+  "Text": "all definitions. So it could be all elements of charisma uh so, you know, uh attractiveness in the dynamic sense of the word. So it's visual attractiveness, but the the smile, the humor, the wit, the, the flirting, all that kind of stuff that could be used to uh correct to the art of conversation."
+}

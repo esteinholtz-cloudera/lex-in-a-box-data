@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:44:09",
+  "End": "00:44:25",
+  "Text": "the topic of Snowden and NSA, what should we be thinking about? Because that feels like already an outdated set of conversations because of the information we've gotten from the past. It feels like everything's gotten quiet now in terms of how much we actually know"
+}

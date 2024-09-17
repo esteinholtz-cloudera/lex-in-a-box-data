@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:01:41",
+  "End": "01:02:05",
+  "Text": ", that is the goal. And I think the current political climate is such that you can't get the trillion dollar investment to build, to start from scratch and build the sci fi make a structure. But if you can build it in fits and starts in little different pieces, which is another advantage of self assembly. It's much more like how nature works. So it's biomimicry inspired way for humanity to scale out in space,"
+}

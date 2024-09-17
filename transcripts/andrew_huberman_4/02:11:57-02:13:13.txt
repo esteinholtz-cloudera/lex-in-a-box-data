@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:11:57",
+  "End": "02:13:13",
+  "Text": "and you supply the, the peace and focus for their endeavors, whatever those might be. I mean, that, that, that symmetry there, because clearly people have different needs and the need to just really trust, you know, like when Lex is working, he's in his generative mode and, and, and I know he's good. And so then they, they, they feel sure they've contributed to that, but then also what you're doing is supporting them in whatever way it happens to be. And I think that sometimes you'll see that people will pair up along creative, creative or musical, musical or computer scientists. But I think again, going back to this conti episode on, on relationships is that the superficial labels are less important, it seems than just the desire to create that kind of home life and relationship together. And a consequence that the, the work mode and for some people, they're both people aren't working and sometimes they are. But I think that's, I think that's the good stuff, you know, and, and I think that's the big learning in all of it. Is that the further along I go with each birthday, I guarantee you're gonna be like, what I want is simpler and simpler and harder and harder to c to uh create but also worth it."
+}

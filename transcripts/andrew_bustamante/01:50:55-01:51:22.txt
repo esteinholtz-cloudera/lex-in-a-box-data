@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:50:55",
+  "End": "01:51:22",
+  "Text": "My, my type index, I'm an ENTP, that's an extrovert, intuitive perceiver, thinker, ent thinker p perceiver. My wife is an ISFJ, which is the polar opposite of me. E I'm extroverted. She's introverted. I'm an intuitive. She's a sensor. Uh uh I'm a thinker. She's a feeler. I'm a perceiver. She's a judger. Is there good"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:19",
+  "End": "01:03:36",
+  "Text": ", who is he really? Aaron Smith. Levin, a man with no moral compass. about Aaron Smith. Levins an angry man spreading hate from the internet's shadows, an open mouth shot. And you're saying like, wow, there's testimonies. Oh,"
+}

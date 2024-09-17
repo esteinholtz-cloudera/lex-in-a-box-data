@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "03:09:04",
+  "End": "03:09:44",
+  "Text": "so nice of you to say so. And I very much hope so. There are moments of despair and there are moments that's that you would think that is no hope. And but but then again, something years and you see 100,000 people in the streets of Berlin uh that are hoping for a better future for Iran. And I very much hope it eventually emerges. Even I'm hoping at the same time, there's not going to be a very strong leadership as it was the case. In the past,"
+}

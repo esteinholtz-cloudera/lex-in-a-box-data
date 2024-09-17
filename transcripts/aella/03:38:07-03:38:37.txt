@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:38:07",
+  "End": "03:38:37",
+  "Text": "cheesy but not, no, no, not cheesy. But to be like, allows you to say a simple, profound thing that we're too afraid to say with our own words. So like the quoting philosophers in that sense is, yeah, but it's still a crutch. Yes. But I feel like the past more like talking about your dreams. It is not, a crutch that doesn't care, doesn't empathize with the other person's experience of the conversation or the explanation doesn't really convey the uh"
+}

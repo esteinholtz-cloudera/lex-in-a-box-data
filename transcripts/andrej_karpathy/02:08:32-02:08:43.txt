@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:08:32",
+  "End": "02:08:43",
+  "Text": "humans use simulators um humans use simulators and they find them useful and so computers will use simulators and find them useful."
+}

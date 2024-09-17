@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:59",
+  "End": "00:10:00",
+  "Text": "the most successful in the automotive industry, robots operating today in the hands of real people are ones that are traveling over 55 miles an hour in unconstrained environments which is Tesla vehicles, Tesla autopilot. So I just, I would love to hear of your, just thoughts of two things. So one, I don't know if you've gotten to see, you've heard about something called smart summon where Tesla system, autopilot system where the car drives zero occupancy, no driver in the parking lot slowly sort of tries to navigate the parking lot to find itself to you. there's some incredible amounts of videos and just hilarity that happens as it awkwardly tries to navigate this environment. But it's, it's a beautiful nonverbal communication between machine and human that I think is a, it's like it's some of the work that you do in this kind of interesting human robot interaction space. So what are your thoughts in general about"
+}

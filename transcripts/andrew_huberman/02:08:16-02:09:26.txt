@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:08:16",
+  "End": "02:09:26",
+  "Text": "much of what we do is reflexive at the level of just core circuitry breathing, heart rate, all that, that boring stuff, digestion. But then there's a lot of reflexive stuff like how you drink out of a, a mug of coffee. That's reflexive too. But that you had to learn at some point in your life earlier when you were very little analyzing duration path and outcome. And that involves a lot of top down processing with the prefrontal cortex. But through plasticity mechanisms, you now do it. when you take on a challenge provided that you understand the core mechanics of how to, you know, run push ups and, and pull ups and whatever else you decided to do. Once you set the number and the duration and all that, then you all you have to do is just go. But people get caught in that tide pool of, well, do I really have to do it? How do I not do that? What if I get injured? What if I, you know, can I sneak at this so that, you know, and that's work? And to some extent, I, I look, I, I not David Goggins obviously um nor, nor do I claim to understand his process uh partially, you know, um but maybe a little bit, which is that it's clear that by making the decision, more resources to devote to the effort of the actual execution. Well,"
+}

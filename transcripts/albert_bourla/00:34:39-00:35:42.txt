@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:34:39",
+  "End": "00:35:42",
+  "Text": ", I think people could go one way or another because of multiple reasons from our perspective. We, I don't think we have aggressive marketing. What do we do? We go on TV. And we are having, uh, ads about our products and, uh, they are highly regulated. I think it is the right of people to know, to learn that if there is a product like that, it's very that we cannot say things that they are off label that have not been approved. We need to have every time we go on TV. As you know, FDA is forcing us to say also the bad things that can happen for a medicine sometimes that takes more time than the good things. And I don't think that we are doing aggressive marketing now. People could be influenced uh, in and can be biased in, in the podcast or in the other type of media,, activities that they have for multiple different reasons."
+}

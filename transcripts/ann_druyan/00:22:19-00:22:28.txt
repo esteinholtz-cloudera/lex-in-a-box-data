@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:22:19",
+  "End": "00:22:28",
+  "Text": "you thinking about in the meditation? Like what I mean? It's such an interesting idea of recording as you think about things. What were you thinking about?"
+}

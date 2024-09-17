@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:36:20",
+  "End": "01:37:12",
+  "Text": "pretty severe. You went there, you took it the whole way to evolution and back again. I mean, but that's, that's really it, I mean, our ability to time reference in the past, present or future, I do believe that we can be in the present and the past or the present and the future or only in the present or only in the future, only in the past. But I don't think that we can really think about past, present and future all at once. this has a similarity to uh covert attention. Like we can split our visual attention into two things. We really can do a task even though we can't multitask or we can bring those two spotlights of attention to the same location. But it's very hard to split our attention in really well into three domains, excuse me, into three domains. I think that that's very, very challenging and time, our time referencing scheme tends to be just one or two time references."
+}

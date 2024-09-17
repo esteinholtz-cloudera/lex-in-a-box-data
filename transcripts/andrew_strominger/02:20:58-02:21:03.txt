@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:58",
+  "End": "02:21:03",
+  "Text": "timing matters, right. Timing is very important. There's a guy, of course, of course, of course, of course,"
+}

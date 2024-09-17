@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:16",
+  "End": "02:09:33",
+  "Text": "that case, I mean, the, the coaches, the families, which I've met a lot of Olympic athletes and the coaches and the families of the a really the winners of the medals but they don't get the medal and it's, you know, credit assignment is a fascinating thing. I mean, that's the full human story and outside of prizes, fascinating. I mean, just to be in the middle of it for artificial intelligence, there's a field of deep learning that's really exciting. And people have been, there's yet another award, the touring awards given for deep learning to three folks who are very much responsible for the field. But so are a lot of others. And there's a few, there's a, there's a fellow by the name of Schmidt Hooper who uh sort of symbolizes the, forgotten folks in the, in the deep learning community. But, you know, that's, that's the unfortunate sad thing where you remember, remember Isaac Newton, we remember these special figures and the ones that flew close to them. We forget."
+}

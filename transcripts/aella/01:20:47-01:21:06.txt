@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:20:47",
+  "End": "01:21:06",
+  "Text": ", I just think I'm just not reactive and or maybe I'm giving off. I don't know, I don't know what's going on. Maybe it's both, maybe it's a feedback loop. So I just, I had a pretty good experience. I know not everybody did definitely people reported having antagonistic experiences, but when I was scamming, I generally really liked, people are really nice to me, had a great time, made friends."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:27",
+  "End": "01:58:30",
+  "Text": "those are ultimately formed by photons that are swirling"
+}

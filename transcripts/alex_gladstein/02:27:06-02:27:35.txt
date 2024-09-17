@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:27:06",
+  "End": "02:27:35",
+  "Text": "was going to be an engineer actually. And then in 2003, we invaded Iraq and I got very interested in why we did that as a nation. And I switched to my focus of study to like international relations. And that's how I kind of went down the kind of political science, democracy rabbit hole and ended up getting job at the Human Rights Foundation. So that, that I'm a very much a child of like 911 and the Iraq war. Those are the two really formative events for me personally. Can you break that apart"
+}

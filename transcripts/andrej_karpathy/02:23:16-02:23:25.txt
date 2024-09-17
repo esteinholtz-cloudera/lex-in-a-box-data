@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:16",
+  "End": "02:23:25",
+  "Text": "plant based. me, I don't actually know how wide the category of plant entails"
+}

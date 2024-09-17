@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:45",
+  "End": "01:27:56",
+  "Text": "no pressure, but there's a bunch of Elon's in the academic world. There's a bunch of uh no, actually, sorry, let me backtrack because the man deserves props."
+}

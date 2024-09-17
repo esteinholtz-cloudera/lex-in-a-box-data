@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:19:42",
+  "End": "00:19:52",
+  "Text": ". But if this is like one of the defining things that civilization, then we should expect to see massive differences between people who believe we're going to die and people who don't"
+}

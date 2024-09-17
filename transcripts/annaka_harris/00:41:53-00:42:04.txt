@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:53",
+  "End": "00:42:04",
+  "Text": "like the Confidence of 10., and you're not sure what the title like, not the title, but the topic. Will there be Consciousness or something bigger or something smaller? I"
+}

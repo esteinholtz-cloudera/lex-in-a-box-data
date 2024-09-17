@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:47",
+  "End": "00:52:50",
+  "Text": "this is not just about black holes, it's about any, any area"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:35:43",
+  "End": "00:36:09",
+  "Text": ", need to understand basic programming since there are program exercises in Python. And the math prereq is quite basic. So no calculus is needed. If you know calculus is great, you get better intuitions but deliberately try to teach that specialization without requiring calculus. So I think um high school math would be sufficient if you know how to multiply two matrices. I think, I think that, that, that that desperate."
+}

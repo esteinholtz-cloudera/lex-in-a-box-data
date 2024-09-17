@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:14:17",
+  "End": "00:14:54",
+  "Text": "that's people, right? That's humans. I mean, I think of even our use of, I mean, just everything on the internet, right? Like, think about how reliant we are on certain apps and certain engines. Right. years ago. People have been like, oh yeah, that's stupid. Like that makes no sense. Like, of course, that's false. Like now it's just like, oh, of course, I've been using it. It's been correct all this time. Of course, aliens, I didn't think they existed, but now it says they do"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:36:36",
+  "End": "00:36:50",
+  "Text": ". We're just kind of like these particles in the wave that I feel like is mostly deterministic and takes a universe from some kind of a big bang to some kind of a super intelligent replicator, some kind of a stable point in the universe. Given these laws of physics,"
+}

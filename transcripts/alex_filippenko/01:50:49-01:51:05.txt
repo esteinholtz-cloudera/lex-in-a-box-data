@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:50:49",
+  "End": "01:51:05",
+  "Text": "was given for the discovery of the accelerating, maybe not for the elucidation of what dark energy is or what causes that expansion that acceleration be it universes on the outside or whatever. It's just only for the observational fact. So"
+}

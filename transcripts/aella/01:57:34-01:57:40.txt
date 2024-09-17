@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:57:34",
+  "End": "01:57:40",
+  "Text": "the, the rates are around, like, if you want a median escort in a big city, it's usually four to"
+}

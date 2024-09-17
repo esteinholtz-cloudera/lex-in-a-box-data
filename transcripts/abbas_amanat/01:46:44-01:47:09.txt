@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:46:44",
+  "End": "01:47:09",
+  "Text": "mean, because that was actually the change that came about. I don't want to go too much into it, but it was called, as I pointed out before the guarded domains of Iran, they changed that to the sublime state of Iran during the constitutional revolution they wanted to give a greater sense of centrality of this state and sublime was the term. But also"
+}

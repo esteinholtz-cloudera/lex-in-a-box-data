@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:16",
+  "End": "01:44:25",
+  "Text": "do you think is the timeline to solve the problem of autonomous driving. That's still in part an open"
+}

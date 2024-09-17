@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:52",
+  "End": "01:27:42",
+  "Text": "right. But it's a slight nudging towards conformity that I think ultimately destroys or at least lessens the power of the kind of science that you can do when you encourage diversity, diversity in all of its forms, including the weirdness of ideas, the out of the box thinkers, including the flamboyant behavior online. how you choose to educate, how do you choose to inspire, you know, people talk about freedom of speech, but it's not just like freedom of speech to say controversial things. It's also freedom of speech to be weird. Like if you're for some reason fascinated in uh like you look at Elon Musk, he talks about sex a lot. Let the guy put sex memes up. Who cares? Like, I"
+}

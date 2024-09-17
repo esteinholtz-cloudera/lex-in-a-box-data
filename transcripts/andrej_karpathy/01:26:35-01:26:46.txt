@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:35",
+  "End": "01:26:46",
+  "Text": "tail end, the rare edge cases. Uh from the vision perspective, what are the toughest parts of the vision problem of driving?"
+}

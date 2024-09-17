@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:15",
+  "End": "01:04:14",
+  "Text": ", different cultures form, which is the positive way of phrasing it. But it's also human history teaches us that we have, we like to form the other. So there's this kind of conflict that naturally emerges. Um Let me ask another sort of dark question. What do you think about coming from a military family? Uh There's still, wars in the world. Do you think wars, military conflicts will follow us into space? Wars between nations? Like from my perspective, currently, it just seems like space is a place for scientists and engineers to explore ideas, but the more and more progress you make, does it worry you that nations start to step in and, you know that that go out and full out military conflict, whether it's in cyberspace space or actual hot war?"
+}

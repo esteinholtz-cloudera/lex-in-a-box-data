@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:36:45",
+  "End": "02:37:05",
+  "Text": "So archive is this preprint server? So if you have a paper, uh you can submit it for publication to journals or conferences and then wait six months and then maybe get a decision pass or fail or you can just upload it to archive then people can tweet about it three minutes later and then everyone sees it, everyone reads it and everyone can profit from it. Uh in their own little ways you can cite"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:18",
+  "End": "02:15:33",
+  "Text": "is possible. Time travel is possible. Quantum mechanics makes traveling faster than the speed of light is possible according to General relativity. Everything is possible. So you're saying there's a chance dumber taught me that"
+}

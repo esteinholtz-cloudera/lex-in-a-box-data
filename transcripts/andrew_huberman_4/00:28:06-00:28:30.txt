@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:06",
+  "End": "00:28:30",
+  "Text": ". Well, sometimes when I look inside and I do this often, know, exploring who you truly are. You come to this question? Do I accept once you see parts, do I accept this or do I fix this? Is this a, is this who you are fundamentally and it will always be this way or is this a problem to be"
+}

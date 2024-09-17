@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:51",
+  "End": "01:28:21",
+  "Text": ". I mean, this is, uh this is one of those phenomena that um 99.9% of people are almost definitely there's conventional explanations and then there's like mysterious things that probably have explanations that are a little bit more complicated there's not enough to work with. I tend to believe that if aliens showed up there will be plenty of evidence for scientists to study. And exactly as you said, voyage, your type of spacecraft, I could see sort of, um, some kind of, kind of a dumb thing, almost like a sensor that, like, probing, like, statistically speaking flying by maybe lands, maybe there's some kind of robot type of thingies that just like move around and so on, like in ways that we don't understand. But, but I feel like, well, feel like there will be plenty of hard, hard to dismiss evidence. And I also, especially this year believe that the US government is not sufficiently competent, given the huge amount of evidence that will be revealed from this kind of thing to conceal all of it, at least in modern times, you can say maybe decades ago. But in modern times., you know, I uh the, the people I speak to and the reason I bring it up is because so many people write to me, they're inspired by it,"
+}

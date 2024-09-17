@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:23:47",
+  "End": "02:24:02",
+  "Text": "?, I have, uh, accidentally, not consistently, but I've accidentally had that. I don't, I don't like it. I think it makes me feel not good. It's too, it's too much, too much of a hit. And, uh, so currently I have about two meals a day. 12 and six. I do"
+}

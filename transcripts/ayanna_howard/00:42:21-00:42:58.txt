@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:42:21",
+  "End": "00:42:58",
+  "Text": ", you know, let's put it like we will give whatever the award is that we give for the people who find these security holes, find an ethics hole, right? Find an unfairness hole and we will pay you X for each one you find, I mean, why can't they do that one? It's a win, win. They show that they about it, that this is important and they don't have to necessarily dedicate their own internal resources. And it also means that everyone who has their own bias lens, I'm interested in age. And so I'll find the ones based on age and I'm interested in gender, right? Which means that you get all of these different"
+}

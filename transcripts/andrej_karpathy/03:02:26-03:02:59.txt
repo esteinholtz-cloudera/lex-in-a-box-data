@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:26",
+  "End": "03:02:59",
+  "Text": "don't know. I, I would pro what would I talk about? I don't even, yeah, I probably I will go with the safer scientific questions at first that have nothing to do with my own personal life and mortality, just like about physics and so on to build up. Let's see where it's at or maybe see if it has a sense of humor. That's another question. Would it be able to presumably in order to, if it understands humans deeply, it would be able to generate Yeah, to generate humor."
+}

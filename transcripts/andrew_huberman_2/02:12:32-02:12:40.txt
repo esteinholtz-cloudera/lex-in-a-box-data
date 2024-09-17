@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:12:32",
+  "End": "02:12:40",
+  "Text": "the archive. There's pub med and then there's the Joe Rogan experience owned by or maintained by"
+}

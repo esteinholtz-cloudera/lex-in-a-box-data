@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:05",
+  "End": "00:56:16",
+  "Text": "those, that's more, that's less about scale, that's more about innovation. So like in many ways, what Bell Campo has done is innovative at a small scale. The question is whether that innovation could be scaled,"
+}

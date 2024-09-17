@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:06",
+  "End": "02:34:54",
+  "Text": "your childlike, open minded excitement and approach to science. I think to anyone listening to this is truly inspiring. I mean, the question I think is useful to ask is by way of advice for young people. A lot of young people listen to this, whether from all over the world and teenagers, students, even graduate students, even young faculty, even older faculty, they're all young at heart. There are many young at heart. Do you have advice for bullets? Focus on the traditionally defined sort of young folks that kind of graduate, you have advice to give to young people like that today about life, maybe in general, maybe a life of curiosity in the sciences."
+}

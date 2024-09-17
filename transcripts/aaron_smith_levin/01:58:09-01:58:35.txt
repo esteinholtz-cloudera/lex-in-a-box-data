@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:58:09",
+  "End": "01:58:35",
+  "Text": "according to that over on policy, you can. But, you know, I think he wrote that policy before he created the sea organization. And then what happened is this is actually how this came into effect. He created this organization, you had a lot of people on a ship and everybody was just banging each other and it created just a nightmare of personal relationship that it was, it was making production impossible. Not because everybody was spending so much time banging, but because everybody was so upset about who was"
+}

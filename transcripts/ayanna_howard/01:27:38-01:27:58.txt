@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:27:38",
+  "End": "01:27:58",
+  "Text": "Irobot and their story, right? Like when they first they had enough of a runway, right? When they first started, they weren't doing vacuum cleaners, right? They were, they were contracts primarily government contracts, designing robots. I mean, that's what they were, that's how they, right."
+}

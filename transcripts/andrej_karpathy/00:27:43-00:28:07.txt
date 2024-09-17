@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:43",
+  "End": "00:28:07",
+  "Text": "ends somehow, right? So it's a, a chemically diverse environment where complex dynamical systems can and become more further and further complex. But then there's a certain what is it? There's certain terminating conditions."
+}

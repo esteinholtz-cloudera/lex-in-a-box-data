@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:31:04",
+  "End": "03:31:12",
+  "Text": "would be interesting if death is eventually looked at as, a, a fascinating thing that used to happen to humans."
+}

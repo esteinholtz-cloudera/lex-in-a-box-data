@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:12",
+  "End": "02:31:29",
+  "Text": "part a search engine part um maybe getting the exact syntax correctly that once you see it., it's that and be hard thing once you see it, you know, correct you yourself, you can verify efficiently but you, you can't generate efficiently."
+}

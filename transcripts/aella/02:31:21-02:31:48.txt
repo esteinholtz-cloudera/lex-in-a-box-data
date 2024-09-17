@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:21",
+  "End": "02:31:48",
+  "Text": "really on the, but then there's like there's a power dynamic that you can be quite influential in a relationship and convincing your partner and it sure sounds like you're honestly agreeing to a thing, but you're not really agreeing. That's the, I mean, part of that is the beauty of relationships, right? Like messy, it can be messy. It's hard to know what you really want. I think"
+}

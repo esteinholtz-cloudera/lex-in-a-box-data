@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:28",
+  "End": "00:45:35",
+  "Text": "it could be just space junk from an ex from an alien civilization."
+}

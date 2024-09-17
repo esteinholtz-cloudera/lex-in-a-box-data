@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:51",
+  "End": "01:42:27",
+  "Text": ", like our origins in many ways, this very primitive origins and our dreams exactly of looking out that it is brilliant. So that is incredibly inspiring to me, but it's also inspiring of putting humans onto other or planets. I still find going to the moon really exciting. I don't know, maybe I'm just a sucker for it, but it's really exciting. And Mars, which is a new place, a new planet, another planet that might have life. I mean, there's something magical to that or some traces of previous"
+}

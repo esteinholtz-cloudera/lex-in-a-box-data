@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:06:39",
+  "End": "01:07:35",
+  "Text": ", I mean, look the numbers to Cryptocurrency in the world probably by like how useful it is to people is tether, which is totally centralized, has blacklists. So I'm not saying there won't be new digital assets that are lumped into this category that have usage. But it's not the same innovation as Bitcoin. just sort of building on this idea of like a euro dollar, maybe like a dollar that is minted outside of the control of the US Federal Reserve, right? It would be a euro dollar. So stable coins are kind of like euro dollars just minted by private actors in a way, right? But they're still tied to the dollar, they're pegged to the dollar, they're not escaping the system, escaping the system is Bitcoin. We, we aren't reliant on the dollar. We, we have our own, you know, full um store value, meaning of exchange unit of account eventually. you know, the Bitcoin world will be denominated in different terms and I think everything else will be tied to it. I really do."
+}

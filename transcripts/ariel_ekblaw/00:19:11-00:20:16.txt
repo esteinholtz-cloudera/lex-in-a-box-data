@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:11",
+  "End": "00:20:16",
+  "Text": "the self assembly component of that too. So this is your phd work and beyond. You explored autonomously self assembling space architecture for future space, tourist habitats and space stations in orbit around earth moon. And Mars, there's few things I personally find sexier than self assembling, autonomously, self assembling space architecture in general. It doesn't even need to be space. The idea of like self assembling architectures is really interesting like building a bridge or something like that through self assembling materials. It feels like a incredibly efficient way to do it because optimization is built in. So you can build the most optimal structures given uncertain changing conditions. So maybe can you talk about your phd work about this work about Tessera? What is it general? Any any cool stuff? Because this is super cool. Yeah. Yeah,"
+}

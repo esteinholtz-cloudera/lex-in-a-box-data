@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:13",
+  "End": "01:18:07",
+  "Text": "an interesting thing I also had to, ever since the war in Ukraine broke out one of the questions I was asking myself, and this is not to be dramatic. It's just a very simple honest question that I think a lot of journalists that operate in the war zone or documentary filmmakers that I've recently got a chance to meet, have to be honest with themselves. Are you willing to put at risk your life for things you do? are you willing to die for? Yeah. What, what are you willing to die for? It sounds very dramatic but whenever risk goes up. I mean, I don't know, you asked that if you want to take out a trip out to space on a commercial space flight, you have to, are you willing, are you willing to die for this for this journey? Now, the odds there are really small."
+}

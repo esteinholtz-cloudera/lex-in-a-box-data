@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:30",
+  "End": "00:15:38",
+  "Text": "any president is just a human being and has a very narrow focus and narrow focus is not a long term calculation."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:16:26",
+  "End": "02:16:51",
+  "Text": "reduction. And so that's what I think. Uh well, basically when we get that, that next supply shock, that'll carry us up over 100 or over a $1 million Bitcoin price, which if historical examples persist and again, sometimes it's hard to use historical examples to look at future events. But if that happens, we would see a million dollars of Bitcoin by the end of 2026 after"
+}

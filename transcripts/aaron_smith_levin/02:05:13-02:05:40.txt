@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:13",
+  "End": "02:05:40",
+  "Text": "kind of see through it, but it's part of the community. I mean, it's deeply integrated in the community and there's financial leverage. Um, are you ever afraid? mean, afraid for your, well being afraid for your ability to function in society because of the pressures from Scientology? No. Is that because you're genetically malfunctioning or mentally or, or is there speaking out as a kind of protection?"
+}

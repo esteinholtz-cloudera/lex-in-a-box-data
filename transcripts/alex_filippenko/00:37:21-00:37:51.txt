@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:37:21",
+  "End": "00:37:51",
+  "Text": "incredibly lucky, but we've set ourselves up to be very, very fragile and we are intrinsically complex biological creatures that for the fact that we have brains and minds with which we can, you know, try to prevent some of these things or respond to them. We as a living organism require quite a narrow set of conditions in order to survive, you know, we're not cockroaches, we're not gonna survive a nuclear war."
+}

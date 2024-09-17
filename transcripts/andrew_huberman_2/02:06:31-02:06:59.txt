@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:31",
+  "End": "02:06:59",
+  "Text": "you find computer vision, machine learning from the perspective of tooling as an interesting tool for, for processing all the data from the neuroscience world, from the Neurobiology Biology, all the different data sets that you can have about the mind, the eye, the everything that's neck and above and also the central nervous system and all. Uh"
+}

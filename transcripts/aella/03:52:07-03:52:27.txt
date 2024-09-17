@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:52:07",
+  "End": "03:52:27",
+  "Text": "much way before then I could see myself being friends with an A I system but like, people are friends with inanimate objects and, you have, there's a robot behind you. I have a lot of them. There's, I like legged robots. interesting on the shelf. Oh, it was so cool."
+}

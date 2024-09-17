@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:08:36",
+  "End": "00:09:50",
+  "Text": "these? It's a little bit of both to be honest. So yes, there are absolutely lines and more so than the lines. There are lines that divide, what our primary mission is. Everything's got to be prioritized. one of the benefits. And the s and the superpowers of the United States is we prioritize everything. different intelligence organizations are prioritized to collect certain types of intelligence and then within the confines of how they collect, they're also given unique authorities. Authorities are a term that's directed by the executive branch. Different agencies have different authorities to execute missions in different ways. FBI can't execute the same way, CIA executes and CIA can't execute the same way NGA uh executes. then at the end, excuse me, when it's all collected, then yes, CIA still acts as a final synthesizing repository to create what's known as the President's Daily Brief. The P DB. The only way CIA can create the P DB is by being the single source of all source intelligence from around the IC, the inter the intelligence community, which are those 30 some odd and always changing organizations that are sponsored for intelligence operations. What"
+}

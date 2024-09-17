@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:21:27",
+  "End": "00:21:57",
+  "Text": "? So it will be a robotic algorithms that are no, it will be robotic algorithms don't kill people. Developers of robotic algorithms kill people, right? I mean, one of the things that people are still in the loop and at least in the near and midterm, I think people will still be in the loop at some point, even if it's a developer, like we're not necessarily at the stage where, you know, robots are programming robots with different behaviors quite yet. That's"
+}

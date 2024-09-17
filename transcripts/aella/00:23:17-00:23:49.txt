@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:17",
+  "End": "00:23:49",
+  "Text": ". But aren't some things especially that have to do with the human mind that are really messy, really difficult to understand. There's so many uncertainties and mysteries around that we don't yet have the tools to collect the data. Like one of your favorite tools is the survey is asking people questions then figuring out different ways to indirectly get at the truth because there's flaws to the survey, you kind of learn about those flaws and you get better and better at asking the right questions and so on. But that's not, that's indirect access to the human mind."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:09",
+  "End": "00:25:18",
+  "Text": ". So things creative, they're also creative force. They're not just the force that runs everything. But can't those be just the fingertips of a God?"
+}

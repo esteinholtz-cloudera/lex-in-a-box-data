@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:24:00",
+  "End": "00:25:07",
+  "Text": ". So this is the first object that was spotted close to earth from outside the solar system. it was found in on October 19th 2017 and at that time, it was receding away from us. And at first astronomers thought it must be a piece of rock, you know, just like all the asteroids and comets that we have seen from within the solar system. it just came from another star. should say that the actual discovery of this object was surprising to me because a decade earlier, I wrote the first paper together with Ed Turner and Amaya Murrow Martin that try to predict whether the same telescope that was serving the sky pan stars from Hawaii would find anything from interstellar space given what we know about the solar system. So if you assume that other planetary systems have similar abundance of rocks and you just calculate many should be ejected into interstellar space, the conclusion is no, we shouldn't find anything with pun"
+}

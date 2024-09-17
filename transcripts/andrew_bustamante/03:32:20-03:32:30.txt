@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:32:20",
+  "End": "03:32:30",
+  "Text": "interviewed Joe Rogan recently? And he said something that I thought was really, brilliant during the podcast interview. He said that he's gonna love"
+}

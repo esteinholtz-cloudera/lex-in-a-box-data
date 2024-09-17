@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:34",
+  "End": "00:16:48",
+  "Text": ". So what you were deployed to uh there any memories experiences that changed you or in general? Like you're probably a different man on the other side of it. How did that time change"
+}

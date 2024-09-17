@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:09",
+  "End": "01:22:18",
+  "Text": "actually even like just do a, a World Wind review from 1906 to 1979? Ok."
+}

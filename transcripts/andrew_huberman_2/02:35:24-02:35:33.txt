@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:35:24",
+  "End": "02:35:33",
+  "Text": "the other night. Yeah, I saw you guys in there. I was kept out. I was enough. My thumbs don't go fast enough. So I was, and I wasn't about to sit in the waiting room. Have you tried"
+}

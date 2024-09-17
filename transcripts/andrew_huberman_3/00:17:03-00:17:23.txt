@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:03",
+  "End": "00:17:23",
+  "Text": "fans of the Human Lab podcast and, and if you're not a fan, what, what, what are you doing with your life? you would probably chuckle at the fact that uh Andrew just cited his sources even on that statement you're so good at, I don't know how your memory works. But um the only person whose memory is is better than Joe Rogan is"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:59",
+  "End": "02:21:24",
+  "Text": ", and that there seems to be a desire within the human mind to, to uh to participate in society that creates that pattern I, yeah, the most productive days I've ever had is just completely from start to finish. Just tuning out everything and just sitting there and then, and then you could do more than six and eight hours. Is there some wisdom about what gives you strength to do? Like, uh, tough days of long focus?"
+}

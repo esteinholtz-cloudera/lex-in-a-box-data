@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:46",
+  "End": "01:18:05",
+  "Text": "reward. You have this awesome. Again, I love the poetry of, of leaked information. You mentioned humans leak information about what they want, know, leak reward signal for the, for the robot. So, how do we detect these leaks?"
+}

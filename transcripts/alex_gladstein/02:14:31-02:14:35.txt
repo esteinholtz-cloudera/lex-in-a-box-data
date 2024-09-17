@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:14:31",
+  "End": "02:14:35",
+  "Text": "the Trojan Horse idea that there's something uh enticing about it. Yeah,"
+}

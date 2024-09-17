@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:50",
+  "End": "01:59:05",
+  "Text": ", I mean, can you maybe one of the main things you uh you have work on you expert in black holes. Can you first say what are black holes? And second, how do we know that they exist?"
+}

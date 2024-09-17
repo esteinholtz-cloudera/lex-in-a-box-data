@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:05",
+  "End": "01:10:19",
+  "Text": "? And, and also we call it, exploration is beautiful and everything. But the there is underlying this desire to explore is a desire to conquer. mean, if we're just being really honest right"
+}

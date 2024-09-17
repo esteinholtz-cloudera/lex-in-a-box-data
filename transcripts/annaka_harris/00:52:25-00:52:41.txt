@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:25",
+  "End": "00:52:41",
+  "Text": "for scientists be more interesting and much more important, be less arrogant, so arrogance, there's very little money in science and so everyone is fighting for that money and they become more and more arrogant and siloed. I don't know why I"
+}

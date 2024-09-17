@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:04:22",
+  "End": "02:04:33",
+  "Text": ", Sam and I interviewed him. Yeah. Sorry. Most of the conversations I've had with him are private. They're not public, but we used to meet before the pandemic. We were meeting about monthly to discuss ideas. I"
+}

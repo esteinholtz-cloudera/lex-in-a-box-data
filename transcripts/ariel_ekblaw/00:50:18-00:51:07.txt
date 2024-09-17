@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:50:18",
+  "End": "00:51:07",
+  "Text": "by Sans Fish and Nicole Deere, two amazing graduate student and staff researchers my team. Does it look like it looks steampunk actually? Yeah. Yeah. It's a pretty cool design. It looks like it's a geometric solid that has these interesting artifacts on the inside. And it has a lot of sensors actually additionally on the inside like im us inertial measurement sensors that allow it to detect when it's floating and when it's not floating and provides this really kind of ethereal. They later son it. So they use electronic music to turn it into a symphony or turn it into a piece. yeah, this is the object. That's Leron, how does the human interact with it by tossing it? So it's an interactive musical instrument. It actually requires another partner. So the idea was that it's something like a dance or just something like a choreography in space."
+}

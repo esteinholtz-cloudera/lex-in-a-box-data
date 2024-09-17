@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:35",
+  "End": "00:40:21",
+  "Text": "people want to respect, uh, like, uh, you know, Michael Mais lives next door to me I think people want to respect each other's privacy or something like that. And I think we all get super busy and, you know, like kind of work to do this, uh, dinner together or, you know, if you see it as a thing that needs to be scheduled, it's work, we get busy, there's a lot of stuff going on. But if it's part of a ritual or part of the culture, the all all of those walls get broken down and, and then you realize like that's like later looking back, those are the things you miss. Like that's what, that's what life is about. Like all the stupid stuff you're doing in terms of career or whatever, the busy thing, those don't matter what matters is the people and"
+}

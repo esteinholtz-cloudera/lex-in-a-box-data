@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:53",
+  "End": "02:54:05",
+  "Text": ". That have to be that way is, does it, is, it, does it have to remain secret every time the NSA or the CIA saves, the lives of Americans. It"
+}

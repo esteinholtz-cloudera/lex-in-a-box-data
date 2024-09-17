@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:23:46",
+  "End": "03:23:55",
+  "Text": ". Yeah, that was in my early twenties, people, my friends at home were taking prediction markets on whether or not I was going to get abducted and killed."
+}

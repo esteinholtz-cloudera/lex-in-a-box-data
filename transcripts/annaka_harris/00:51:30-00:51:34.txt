@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:51:30",
+  "End": "00:51:34",
+  "Text": "you know what you mean to be skeptical about the it's the authority."
+}

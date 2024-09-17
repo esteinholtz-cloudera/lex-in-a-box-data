@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:13:03",
+  "End": "01:13:32",
+  "Text": "might have slipped into or switched over rather into fol ketosis ketogenic diets done properly can be great for people. The problem is if you do it wrong, you can really mess up. I tried it once and I basically got psoriasis. I thought my scalp was going to fall off. I was like sloughing off all this and then I stopped and I was taking the liquid ketones and then all of a sudden I felt better again, I was told that I just did it wrong. So I think there's a right way and a wrong way and you have to get it right."
+}

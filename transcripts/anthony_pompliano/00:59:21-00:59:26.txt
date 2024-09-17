@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:59:21",
+  "End": "00:59:26",
+  "Text": "money is just outside the system and no one can create more of it. So nobody controls it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:10:56",
+  "End": "01:11:39",
+  "Text": "think the humans knew it. think although there, there is um the world always is progressing. Although there are a lot of things that uh need to be fixed in the society of 2020 site of 2020 is better at large than things 50 years back, years back in all different aspects from poverty, for human rights, from uh from uh science, from quality of life. From any aspect, I am positive that uh humans uh can create and always create a better future. And we'll continue doing so."
+}

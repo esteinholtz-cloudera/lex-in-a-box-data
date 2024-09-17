@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:26:23",
+  "End": "02:26:37",
+  "Text": ". So in that way, he was kind of supporting the the CIA in making sure that competent people and experienced people stay and say are incentivized"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:53",
+  "End": "00:53:32",
+  "Text": "the ethical treatment of animals. A part of regenerative farming. So in the, in the way you do things about Campo, that's a huge part. is that necessarily part of the life cycle. So like the things that you're trying to measure is like a the way like not damaging the land too much, make sure that the sort of the land is constantly healthy and producing and then the grazing process and also the carbon piece, the, fact that a carbon neutral or something like that. I mean, are all of those pieces of the regenerative farming or is this an extra part to your vision that you're thinking about? It's"
+}

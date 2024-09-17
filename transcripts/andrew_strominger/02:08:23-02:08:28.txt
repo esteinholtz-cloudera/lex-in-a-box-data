@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:23",
+  "End": "02:08:28",
+  "Text": "simplest, smaller and smaller problem."
+}

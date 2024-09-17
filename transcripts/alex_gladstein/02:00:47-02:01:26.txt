@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:00:47",
+  "End": "02:01:26",
+  "Text": "I think in most cases, is power and there's no such thing as giving a platform. The conversation just shines a light long as you shine the light well, and uh as long as in shining the light and having the conversation, you reveal something fundamental about the state of things about the people, whether that's Putin or uh some of the other controversial figures that have come up a possible future conversations. So um I don't like this kind of platform idea. I think conversations save us, they don't destroy us."
+}

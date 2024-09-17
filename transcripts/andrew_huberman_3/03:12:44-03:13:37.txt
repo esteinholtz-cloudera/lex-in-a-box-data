@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:12:44",
+  "End": "03:13:37",
+  "Text": "no one knows what other people are doing or what's normal. We kind of know deviancy, we know perversion, we know the extremes, we know the rules. Hopefully people know the rules. But, you know, just be, there are a lot of people in, in the academic community, in particular at certain east coast schools not to be named that are in open relationships. This is more common now. Um It's not very common, but it's more common. And you know, obviously that's a way of bypassing some of these more primitive emotions about jealousy, et cetera and leveraging them towards maybe even ongoing relationships. I'm not passing judgment one way or the other. would say four conditions have to be met for any discussion about, about sex and sexuality or sexual health. Age appropriate context appropriate, consensual and species appropriate."
+}

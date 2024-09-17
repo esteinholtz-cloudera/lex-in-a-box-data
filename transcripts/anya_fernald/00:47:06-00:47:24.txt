@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:06",
+  "End": "00:47:24",
+  "Text": "paint a vision. I mean, you're a visionary, you, you have a vision to have basically me in every store that comes from a, farm like Bill Campo. That's uh that's basically doing regenerative farming. How do we get there?"
+}

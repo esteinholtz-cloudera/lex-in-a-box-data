@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:56:53",
+  "End": "01:57:18",
+  "Text": "allowed to take medications. It's just, um, there's no rules expressly prohibiting it. It's just, most Scientologists tend not to, you can take Advil, but many Scientologists won't. Ok. Um, you just can't take anything prescribed by a psychiatrist, a psychologist or any drugs that are psychotropic drugs. I mean, Ssris are considered probably the closest thing to pure evil in the world of Scientology. What about"
+}

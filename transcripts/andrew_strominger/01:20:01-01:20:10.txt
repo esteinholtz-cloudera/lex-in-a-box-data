@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:20:01",
+  "End": "01:20:10",
+  "Text": "let me tell you, there's a lot of other things with his illness and with his celebrity and a lot of other things,"
+}

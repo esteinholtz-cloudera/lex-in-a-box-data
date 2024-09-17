@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:51:53",
+  "End": "00:51:56",
+  "Text": ". And that's the holographic"
+}

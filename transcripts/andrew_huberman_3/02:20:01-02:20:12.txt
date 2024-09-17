@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:20:01",
+  "End": "02:20:12",
+  "Text": "know him and, um, uh, but I get a lot of, uh, media outlets picked up on his love of NSDR. And I have to imagine running Google involves a lot of juggling a lot of,"
+}

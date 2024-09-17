@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:54",
+  "End": "02:59:02",
+  "Text": "many hour conversation about the oil industry in, in Iran and the whole region in"
+}

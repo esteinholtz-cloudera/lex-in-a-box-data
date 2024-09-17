@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "04:00:07",
+  "End": "04:00:21",
+  "Text": "right., I'm really happy. We talked, something tells me we'll probably talk a bunch more times. I think you're a fascinating human being. I think I'm a huge fan of your work. Uh, maybe one more question. What's the meaning of life"
+}

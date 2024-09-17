@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:21",
+  "End": "01:02:10",
+  "Text": "weird that the Twitter but like really crappy Twitter bots are so numerous. Is it? So I presume that the engineers at Twitter are very good. it seems like what I would infer from that is it seems like a hard problem. They're probably catching. All right. If I were to sort of steel man the case, it's a hard problem and there's a huge cost to a false positive to removing a post by somebody that's not a bot that creates a very bad user experience. So they're very cautious about removing. So maybe it's and maybe the boss are really good at learning what gets removed and not such that they can stay ahead of the removal process very quickly."
+}

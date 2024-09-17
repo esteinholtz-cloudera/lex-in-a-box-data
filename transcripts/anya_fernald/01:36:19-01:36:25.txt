@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:19",
+  "End": "01:36:25",
+  "Text": "funny. And so meat to you is not one of those indulgence."
+}

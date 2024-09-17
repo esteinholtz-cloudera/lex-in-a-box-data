@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:25",
+  "End": "01:07:06",
+  "Text": ", do you think in that way say is not doing a good job because there is, you know, the FSB much less so Jru but the K GB did this well, which is to send a signal, like basically communicate that this is a terrifying organization with a lot of power. So Mossad is doing a good job of that, correct the psychological information warfare. Um And it seems like the CIA, has, it has a lot of kind of myths about it, conspiracy theories about it, but much less so than the other agencies."
+}

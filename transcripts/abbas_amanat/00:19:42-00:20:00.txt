@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:42",
+  "End": "00:20:00",
+  "Text": "a rejection of the power of authority parents government.. It's that every person can decide their own fate. And there's no lessening of value of the wisdom of old age and old institutions."
+}

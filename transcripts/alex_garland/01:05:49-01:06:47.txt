@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:05:49",
+  "End": "01:06:47",
+  "Text": "that was true, it would certainly humble me. Although maybe almost, maybe, I don't know, I don't know what effect that would have. Um I,, I sort of, I mean, my understanding of that principle is along the lines of say that that an electron has a preferred state or it may or may not pass through uh a bit of glass, it may reflect off or it may go through or something like that and, and so that feels as if a choice has been made. And, um, uh if, if I'm going down the fully deterministic route, I would say there's just an underlying determinism that has defined that, that is defined the pre preferred state or the reflection or non reflection. So, but look, yeah, you're right. If, if, if it turned out that there was a thing that it was like to be the sun, then uh I would, be amazed and humbled and I'd be happy to be both. It sounds pretty cool and"
+}

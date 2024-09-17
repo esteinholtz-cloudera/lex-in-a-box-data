@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:48:10",
+  "End": "00:49:06",
+  "Text": "I wouldn't disagree with that at all. I don't think that somebody who's not wearing a tie and as you can, people can see that I'm not wearing a tie and you are. But um it's not about um uh being able those that they have the power to, to impose on the others, the stigma that uh you, what you are saying is misinformation. there are a few things that the society we have accomplished and science is one of them uh data is and analytics of data is another one. And uh to say that uh something uh which is highly scientific by people that they are not scientists. uh I uh I, I think that it is not what you're describing, what used to happen in the Soviet Union or in any other autocratic regime in the world right"
+}

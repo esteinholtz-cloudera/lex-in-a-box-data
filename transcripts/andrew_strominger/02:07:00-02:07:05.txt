@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:00",
+  "End": "02:07:05",
+  "Text": "it seems like there's a gray area between the two. Right. That's where you should be looking."
+}

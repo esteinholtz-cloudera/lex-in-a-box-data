@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:42",
+  "End": "02:09:03",
+  "Text": ". So you're saying it's not, I don't use simulators very often. I play a video game every once in a while, but I don't think I derive any wisdom about my own existence from those video games. It's a momentary escape from reality versus a source of wisdom about reality. So I think that's a very polite way of saying simulation is not that useful."
+}

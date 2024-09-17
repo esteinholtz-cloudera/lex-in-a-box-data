@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:42:25",
+  "End": "01:42:35",
+  "Text": "were afraid of the fact that the, that of the Soviet Union and during the Cold War, that was the cancer, they,"
+}

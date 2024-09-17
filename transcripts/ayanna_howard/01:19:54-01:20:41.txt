@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:19:54",
+  "End": "01:20:41",
+  "Text": ". So in this case, and you had asked can a a I agent love a human back? Um I think they can emulate love back, right? And so what does that actually mean? It just means that if you think about their programming, they might put the other person's needs in front of theirs in certain situations, right? You look at think about it as a return investment, like was my return on investment as part of that equation? That person's happiness you know, has some type of, you know, algorithm waiting to it. And the reason why is because I care about them, right? That's the only reason, right? Um But if I care about them and I show that then my final objective function is length of time of the engagement, right? So you can think of how to do this actually quite easily. And"
+}

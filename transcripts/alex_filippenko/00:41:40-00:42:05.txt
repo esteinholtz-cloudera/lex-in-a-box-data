@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:40",
+  "End": "00:42:05",
+  "Text": ", I was reading recently in terms of like, what's the most efficient of nutrition for humans that were to live on Mars? And people should look into this, but it turns out to be insects, insects So you want, you want to build giant colonies of insects and just be eating insects. Have a lot of protein, a lot of protein and they're easy to, uh, like you can think of them as farming, but it's"
+}

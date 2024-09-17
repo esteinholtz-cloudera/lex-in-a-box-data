@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:22:10",
+  "End": "00:23:33",
+  "Text": "know, I like theory. But when I work on theory myself and this personal taste, I'm not seeing anyone else should do what I do. But when I work on theory, I personally enjoy it more. If I feel that the work I do will influence people have positive impact or help someone. I remember when uh many years ago I was speaking with a mathematics professor and it kind of just said, hey, why do you do what you do? And, and, and he said, he, he, he actually, you know, he had stars in his eyes when he answered and this mathematician not from Stanford different University. He said I do what I do because it helps me to discover truth and beauty in the universe. He has stars in his eyes. And he said, and I thought that's great. Um don't want to do that. I think it's great that someone does that fully support the people that do a lot of respect for you. That, but I am more motivated when I can see a line to how the work that my teams and I are doing, helps people. Um, world needs all sorts of people. I'm just one type. I don't think everyone should do things the same way as I do. But II, I, when I delve into either theory or practice, if I personally have conviction, you know, that he has a power to help people, I find that more satisfying to have that conviction. That that's"
+}

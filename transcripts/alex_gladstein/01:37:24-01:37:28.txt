@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:37:24",
+  "End": "01:37:28",
+  "Text": "and potentially even a hot war. I think there's"
+}

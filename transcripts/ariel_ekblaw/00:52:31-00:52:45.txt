@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:31",
+  "End": "00:52:45",
+  "Text": ". So that's cool. It's creating a little bit of an experience. What about if you go for more than 100 days, for one year, for two years, for three years, what challenges start to emerge in that case? So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:41",
+  "End": "00:45:42",
+  "Text": "because I learn a lot. I learn a lot about myself about our human behavior from watching pedestrians, watching people in their environment. Basically crossing the street is like, you're putting your life on the line. know, I don't know, tens of millions of time in America every day is, people are just like playing this weird game of chicken when they cross the street, especially when there's some ambiguity about the right of way that has to do either with the rules of the road or with the general personality of the intersection based on the time of day and so on. I mean, and this nudging idea, I, I don't, you know, it seems like people don't even nudge, they just aggressively take, make a decision., there's a runner that gave me this advice. sometimes run in, uh, in the street and, uh, you know, not in the street on the sidewalk. And he said that if you don't make eye contact with people when you're running, they will all move out of your way."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:08:24",
+  "End": "01:09:27",
+  "Text": ". One is the future of in space manufacturing. So if we're going to build large scale space structures, yes, it's great to ship them up from earth and self assemble them. But what about extrusion orbit? It's one of the best technologies to leverage in microgravity because you can extrude a particularly long beam that would sag in a normal gravity environment but might be able to become the basis of a truss or a large scale space structure. So we're doing miniature tests of extrusion and are excited to fly this on the International Space Station in a few months. We are working on swarm robots. Uh We have just announced actually mits return to the moon. my organization is leading this mission for mit going back to the surface of the moon as early as the end of this year, 2022 maybe early 2023 and trying to take data from our research payloads at this historic South Pole site where NAS A is supposed to send the first humans back on the Artemis three mission So our hope is to directly support that human mission with our data."
+}

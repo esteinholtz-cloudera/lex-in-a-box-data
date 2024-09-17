@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:59:05",
+  "End": "02:59:56",
+  "Text": ". Let's go with this thought experiment. OK. Imagine that is actually like a prerequisite for happiness. So if we become immortal, we'll actually become deeply unhappy and the model is able to know that. So what is it supposed to tell you stupid human about it? Yes, you can become immortal, but you will become deeply unhappy if the model is, if the A G I system trying to empathize with you human, what is it supposed to tell you that? Yes, you don't have to die but you're really not going to like it. Is it going to be deeply honest? Like there's a interstellar, what is it? The A I says, like humans want 90% honesty. So you have to pick how honest I want to answer these practical questions."
+}

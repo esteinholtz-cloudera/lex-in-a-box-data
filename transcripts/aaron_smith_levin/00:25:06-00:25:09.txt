@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:25:06",
+  "End": "00:25:09",
+  "Text": "have created everything, not God."
+}

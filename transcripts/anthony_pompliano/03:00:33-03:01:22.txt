@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "03:00:33",
+  "End": "03:01:22",
+  "Text": ", I think that it was just one of these things where like you fixate on something and you worry about it then to at least to me, like you become uneasy about it. And so after an experience, like going to war, I think that everything is just so not important compared to that, right? Like when I came back, I remember uh going back into the college environment and like things people were, I was like, listen, let me explain to you, you know what the real world is like, right? But I think even today, right? If you talk to people who know me really well, I don't get worked up about a lot of stuff, I don't get, you know, in either direction, good or bad uh anything because ultimately it just comes down to, if that's the final result, enjoy it."
+}

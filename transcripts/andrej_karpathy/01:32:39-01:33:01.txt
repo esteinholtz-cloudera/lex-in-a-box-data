@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:39",
+  "End": "01:33:01",
+  "Text": "do you think? Tough questions here? Uh So Tesla last year removed radar from um the sensor suite and now just announced that it's going to remove all ultrasonic sensors relying solely on vision. So camera only that make the perception problem harder or easier?"
+}

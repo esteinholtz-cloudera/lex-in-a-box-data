@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:27",
+  "End": "01:23:43",
+  "Text": "be manipulated. It may sound brutal, but I'm coming at it from a political science perspective. For me, it's all about freedom versus dictatorship. And that's why I find it so compelling that that regardless of how much power or might or how many armies you have, you can't change the rules of Bitcoin. If"
+}

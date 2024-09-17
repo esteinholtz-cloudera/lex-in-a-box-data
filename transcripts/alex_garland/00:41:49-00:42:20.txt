@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:49",
+  "End": "00:42:20",
+  "Text": "what is a good of consciousness? Just we talk about consciousness a little bit more if something appears conscious, is it conscious? You mentioned smile, which is seems to be something done. I mean, that's a really good indication because it's a tree falling in the forest with nobody there to hear it. But does the appearance from a robotics perspective of consciousness mean consciousness to you?"
+}

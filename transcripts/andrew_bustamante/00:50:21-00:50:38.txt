@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:21",
+  "End": "00:50:38",
+  "Text": ", which serves as a counterweight to sort of authoritarian regimes. So for, for Putin resources matter, for the United States also resources matter. But the attention and the belief of the people also matter because that's how you attain and maintain political power."
+}

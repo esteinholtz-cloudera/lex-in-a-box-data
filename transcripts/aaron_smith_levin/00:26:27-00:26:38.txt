@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:27",
+  "End": "00:26:38",
+  "Text": "important to scientology on the organization level to have tax exempt status. wonder how do you, do you know the process of what it takes to prove that an organization is a religion"
+}

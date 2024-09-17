@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:11",
+  "End": "00:07:21",
+  "Text": "these multiple beings? Like, is there one Satan inside of me that's trapped in this prison? Well, the thing would be you, thing would be me."
+}

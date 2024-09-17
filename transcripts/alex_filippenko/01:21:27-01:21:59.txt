@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:27",
+  "End": "01:21:59",
+  "Text": "what, do we do with that? Because there's hundreds of thousands, if not millions and in the scientific community, you're like the perfect person. You have an awesome Einstein. What, do we do with those reports? It's most of the scientific community kind of rolls their eyes and dismisses it. Is it possible that tiny percent of those folks saw something that's worth deeply investigating?"
+}

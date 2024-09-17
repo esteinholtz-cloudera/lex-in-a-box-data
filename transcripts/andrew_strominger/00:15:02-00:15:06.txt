@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:15:02",
+  "End": "00:15:06",
+  "Text": "AC minus. OK. Same thing with gravity waves. He didn't believe he"
+}

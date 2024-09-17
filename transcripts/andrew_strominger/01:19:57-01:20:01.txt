@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:57",
+  "End": "01:20:01",
+  "Text": "his mind is all occupied by the world. That's uh yeah."
+}

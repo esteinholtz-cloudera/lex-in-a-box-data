@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:44",
+  "End": "00:49:17",
+  "Text": "so you can actually take on a whole new guilt. Oh, yeah. So I uh OK. All right. You might actually take on a lot more guilt than I go off. if you feel like that self critical aspect of the brain, because my brain is really self critical. So I could see myself manufacturing if I was forced to over time, some kind of story where I didn't genocide. A whole population of like Pluto or something at a distance is somewhere in north of Centa. So I mean, now I walk around with that guilt. Wait, I'm actually a horrible person."
+}

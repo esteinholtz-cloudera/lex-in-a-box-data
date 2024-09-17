@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:54:23",
+  "End": "02:55:17",
+  "Text": ", this is one of the things that got me into researching Fist to begin with because I think I came across some data. I did like a brief survey where roughly around 60% of women report being submissive and 40% of men report being dominant. And this was really fascinating to me. I'm like, why is there this gap? Like,, why do we not? Because I guess I have some priors that maybe this is an evolutionary thing like the submission, dominant, like strong men and, you know, like women would be like, oh, this hot, hot man. You know, the men are like ravaging and stuff. I like. Shouldn't this be in our genes? But, but there's a gap. the gap? The gap is the dominant, submissive gap. More women are submissive than there are dominant men. Oh, really? Yeah, it's a pretty significant gap and this is held up like, it depends on what you're testing. I've tested a bunch of things. This is part of why I did this big survey but it depends against again on like what kind of dominance you're measuring. But overall it's a roughly 40 to 60%. So when"
+}

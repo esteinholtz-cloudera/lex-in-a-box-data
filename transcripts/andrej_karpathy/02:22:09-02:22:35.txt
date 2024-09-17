@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:09",
+  "End": "02:22:35",
+  "Text": "the feeling of other people gaining value and happiness from the stuff you've created. What about diet? Is there? I saw you played with intermittent fast. Do you fast? Does that help with everything you played with the things you played? What's been most beneficial to the, your ability to mentally focus on a thing and just mental, mental productivity and happiness. still fast. Yeah, I"
+}

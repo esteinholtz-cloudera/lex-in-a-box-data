@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:05",
+  "End": "02:48:21",
+  "Text": ", and like like you said, companies do a significant amount of surveillance and to provide us with services that we take for granted. For example, just one of the things to give props to the digital efforts of the Zelensky administration in Ukraine. I don't know if you're aware but they, they have this digital transformation efforts where you could put like there's an, a, it's laughable to say in the United States. But they actually did a really good job of having a government app that has your passport on it. It's all the digital information you can get the doctor. It's like everything that you would think America would be doing, you know, like license, like all that kind of stuff. It's in an app, you could pay each other, there's payment to each other that's all coming. I mean, there's probably contractors somehow connected to the whole thing, but that's under the flag of government. so that's an incredible technology and I didn't guess, hear anybody talk about surveillance in that context even though it is, but they all love it and it's super easy and frankly, already it's so easy and convenient they've already taken for granted that of course, this is what you do. Of course, your passport is on your phone for"
+}

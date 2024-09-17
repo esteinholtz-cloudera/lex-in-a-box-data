@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:13:00",
+  "End": "01:13:04",
+  "Text": "of all, I believe that MS Gavi is a true believer in Scientology. I do"
+}

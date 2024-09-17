@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:13:57",
+  "End": "03:14:07",
+  "Text": "I'm not going to respond to that except to say that um long as those four conditions are met."
+}

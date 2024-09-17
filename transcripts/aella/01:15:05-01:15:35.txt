@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:15:05",
+  "End": "01:15:35",
+  "Text": ", and say we don't have good ways of measuring sex trafficking right now. Anyway, I did a big deep dive into the research that we have on sex trafficking in the western world. And the actual, like I read the studies and reports about the studies and it's really pitiful. We have terrible data. It's like there's just like vague estimations made from one guy in a basement in the eighties. That's the basis for one big study that a lot of people report on it. And so I'm like, ok, so the method I'm proposing obviously is not perfect, like the bar is so low at this point. Well, I"
+}

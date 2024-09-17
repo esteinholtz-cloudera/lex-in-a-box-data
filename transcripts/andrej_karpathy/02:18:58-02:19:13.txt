@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:58",
+  "End": "02:19:13",
+  "Text": "somehow avoiding distractions of all different forms like uh news stories, emails, but also distractions from other interesting projects that you previously worked on are currently working on and so on. You just want to really focus your"
+}

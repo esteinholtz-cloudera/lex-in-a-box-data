@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:27:19",
+  "End": "01:27:39",
+  "Text": ". So right now it's, yeah, there you go. Right now. It's super manual. Um It's basically just like a kind of a set pattern of inflating as we're testing it. But in the future, if we had a neuralink, I mean, this is something that you could imagine directly controlling just thinking thoughts and controlling it. That's a ways away. Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:31",
+  "End": "02:29:55",
+  "Text": "the best ID E VS code? What else did people? So I use emacs still, it may be cool. I don't know if it's maximum productivity. Um So what, what do you recommend in terms of editors? You work with a lot of software engineers, editors for Python C++ machine learning applications?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:35",
+  "End": "02:07:09",
+  "Text": ", there's several things you do. First of all, I, to be honest, it just makes me, it keeps me honest, not to be a douche bag or like, uh not, to, to, uh, assume everything could be public and you know, and so don't trade information that could hurt people if it was made public. So I tried to do that and the thing I try to make sure is home alone style to booby"
+}

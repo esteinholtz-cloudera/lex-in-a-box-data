@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:08:27",
+  "End": "02:09:07",
+  "Text": "I mean, most of this, I'm talking about adolescence, you know, but, but, but it was the biggest problem I thought that there was a prospect of but not 100% you know, and I was definitely to my, life in the wilderness knocking my head against the wall. But I haven't to, I haven't solved them, but I've said enough interesting things that you're, you're, you're, you're interviewing me. So, so I'm not in the wilderness. But yeah. So"
+}

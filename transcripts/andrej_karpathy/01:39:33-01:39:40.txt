@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:39:33",
+  "End": "01:39:40",
+  "Text": "a, there's a, I think Ila is a very efficient warrior uh in the fight against entropy in organizations."
+}

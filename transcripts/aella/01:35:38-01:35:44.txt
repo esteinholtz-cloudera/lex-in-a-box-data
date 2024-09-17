@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:35:38",
+  "End": "01:35:44",
+  "Text": "think so. I think that one helped a lot with the escorting, like the escorting helped a lot with knowing my preferences. But there's"
+}

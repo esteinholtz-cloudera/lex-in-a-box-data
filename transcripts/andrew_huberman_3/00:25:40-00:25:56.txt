@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:40",
+  "End": "00:25:56",
+  "Text": "on, right on time. But the stress is immense. uh on top of that, you look at like a situation with Rick Rubin., I I had to set up microphones in front of him just that stress, the anxiety."
+}

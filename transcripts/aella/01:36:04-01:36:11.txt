@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:04",
+  "End": "01:36:11",
+  "Text": "defining them in like making it clear in a survey, like asking a question about power dynamics in a relationship."
+}

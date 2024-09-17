@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:04",
+  "End": "00:12:16",
+  "Text": ". Well, the sad part they're not just opinionated, but most of us, our relationship with sex is a, think, I guess I want to say not rigorous."
+}

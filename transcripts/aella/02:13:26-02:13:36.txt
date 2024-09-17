@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:13:26",
+  "End": "02:13:36",
+  "Text": "mean, I don't know what it means, but probably the thing that other people say when they say fall in love is probably something I've experienced. do you think they mean? Um"
+}

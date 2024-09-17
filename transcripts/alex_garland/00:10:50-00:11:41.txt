@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:10:50",
+  "End": "00:11:41",
+  "Text": "this is the interesting thing is as soon as you say they're biologists, you've done the thing of attributing human type motivations to it. I, I was trying to myself from anything like that. So all sorts of questions you might answer about this notion or alien. I wouldn't be able to answer because I don't know what it was or how it works. You know, I, I had, I gave it some, I had some rough ideas it had a very, very, very slow clock speed. And I thought maybe the way it is interacting with this environment is a little bit like the way an octopus will change its color forms around the space that it's in. So it's sort of reacting to what it's in to an extent. But the reason it's reacting in that way is indeterminate."
+}

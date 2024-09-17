@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:45:22",
+  "End": "01:45:58",
+  "Text": "there's a lot of options. Uh I'm heavily biased. I went out and I scoured the market looked at all of them. Uh I've invested a lot of money in a company called Blocky that basically, um basically has financial products for crypto investors. So you can go, you can take dollars or other currency you have, you can convert it through an exchange. Uh You can leave it on uh these interest bearing accounts. You can earn interest just like you would earn in a traditional account, but higher levels of interest because it's this new thing,, or you can withdraw it and you can put it into cold storage on a hardware device. You can leave it in a software wall. There's kind of all these storage options. So blocky is, you know, kind of the one that I'm biased towards because I"
+}

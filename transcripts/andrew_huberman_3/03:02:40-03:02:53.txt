@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:02:40",
+  "End": "03:02:53",
+  "Text": "podcast that was done from a sauna continuously would be really interesting. Like you could call it like the pressure cooker or something. I mean, like a regular pod. Yeah, like you have to sit with your guests in the sauna um or they have to sit in the sauna."
+}

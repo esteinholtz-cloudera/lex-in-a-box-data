@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:32:23",
+  "End": "02:32:49",
+  "Text": "true. I, I think that you're of view is accurate. I would also say that, complexities of what makes somebody make a decision only really be properly calculated with a baseline. So because there is no baseline that you or I have on Peter Thiel, it's difficult to really ascertain he does or doesn't accept invites or why he does or doesn't appear. Well, let"
+}

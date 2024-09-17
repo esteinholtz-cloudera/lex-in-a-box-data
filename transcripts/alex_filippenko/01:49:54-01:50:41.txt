@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:49:54",
+  "End": "01:50:41",
+  "Text": "know, never in my wildest dreams as a kid did. I think that I would be involved, less, so heavily involved in a discovery that's so revolutionary. I mean, you know, as a kid, as a scientist, if you're realistic, once you learn a little bit more about how science is done and you're not gonna win a Nobel Prize and be the next Newton or Einstein or whatever. You just hope that you'll contribute something to humankind's understanding of how nature works and you'll be satisfied with that, you know, but here I was in the right place at the right time. A lot of luck, a lot of hard work. and there it was, you know, we discovered something that was really amazing and that, that was the the greatest thrill, right? I couldn't have asked for anything more than being involved in that discovery. So"
+}

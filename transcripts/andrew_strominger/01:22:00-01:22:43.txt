@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:22:00",
+  "End": "01:22:43",
+  "Text": ". I'm lucky, well equipped for that., when I out in graduate school, the problem of quantum gravity was considered interesting. did it anyway. I still did it anyway. I, I'm, I'm a little bit of a contrarian, I guess. And I think that has, has served me well. Um, uh are always sort of disagreeing with me and they're usually right, but I'm right enough."
+}

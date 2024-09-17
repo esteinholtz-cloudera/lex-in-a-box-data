@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:11:07",
+  "End": "00:11:41",
+  "Text": "to this right now. No, no, no. But lifting heavy and then taking 3 to 5 minutes rest is far and away. A different than running hard for 90 minutes. a tough thing. Just like getting in an ice bath, people say, oh, well, how is that any different than working out? Um Well, there are a lot of differences but one of them is that it's very acute stress within one second, you're stressed. So I, I think subjecting the body to a bunch of different types of stressors in space and time is really valuable. So, yeah, I've been playing with the variables in a pre systematic"
+}

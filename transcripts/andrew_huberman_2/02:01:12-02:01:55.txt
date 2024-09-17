@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:01:12",
+  "End": "02:01:55",
+  "Text": "has these two sides, the limbic friction of being tired and needing to get more energized. That's one form of stress then there's the feeling too amped up and needing to calm down. The, the, the typical discussion around stress is one thing, but it's all limbic friction. It's just that when I say limbic friction, I, that's not a real scientific term. I just mean, the limbic system wanting to pull you down into sleep or wanting to put you into panic and you using top down processing, using that evolved forebrain to say I'm not going to go to sleep and I'm not going to freak out. And those top down control mechanisms are, I mean, when those get honed, beautiful because then you real you're increasing capacity for everything."
+}

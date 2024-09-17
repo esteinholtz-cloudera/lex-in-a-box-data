@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:02:58",
+  "End": "02:03:31",
+  "Text": ". But I wonder if it's a more correct and useful perspective to take those interactions are the organisms you're, you're saying, you're still making the brain the primary, could be like the brain is what it is because of the social interactions and the social interactions are the living organism. That's a weird perspective"
+}

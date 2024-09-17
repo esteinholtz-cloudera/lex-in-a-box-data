@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:53:11",
+  "End": "01:53:34",
+  "Text": ", creativity is in the nonlinearity,? But productivity is in the implementation of linearity. I mean, that's, that's what is absolutely clear. This is why I think we were talking earlier about why a formal rigorous training in something where other people are looking at you and telling you no, not good enough, go back and do it again. There's real value to that because otherwise it's just ideas, it's just vapors."
+}

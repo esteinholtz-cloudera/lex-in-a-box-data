@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:26",
+  "End": "01:17:53",
+  "Text": "it because you know, being normal is not always like this conversation is not always great. Um this, this conversation is anything but normal. OK. And uh was a tangent on a tangent about a niche passion which is really fascinating that you're playing with those kinds of ideas of survey design but back to camming. So what were the cons, what were the negatives of"
+}

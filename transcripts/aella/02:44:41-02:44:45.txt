@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:44:41",
+  "End": "02:44:45",
+  "Text": "types of gags."
+}

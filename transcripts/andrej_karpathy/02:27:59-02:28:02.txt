@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:59",
+  "End": "02:28:02",
+  "Text": "in a while is what, once a week, once a month, once a year. Yeah, probably"
+}

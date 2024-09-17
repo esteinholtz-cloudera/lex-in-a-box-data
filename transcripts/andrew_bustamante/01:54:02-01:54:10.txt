@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:02",
+  "End": "01:54:10",
+  "Text": "you've learned this through years of experience. Well, I don't know if there's an M BT I equivalent for grace of movement."
+}

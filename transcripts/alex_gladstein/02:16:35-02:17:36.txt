@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:16:35",
+  "End": "02:17:36",
+  "Text": "it was. It was a sort of a very existential threat. And um Bitcoin survived and that's why I'm so intrigued by it is that it basically survived an attack in an environment several years ago when Bitcoin was much more vulnerable than it is today. It survived an attack by a conglomeration of Chinese billionaires, Silicon Valley corporations and a ton of people who owned the majority of the hash rate and all this infrastructure. They had 83% of all the hash rate and they couldn't get what they wanted. And that was so intriguing to me, like, why didn't, why didn't get killed? So, as Nick said, I think you should read the block size war, which is a book on that. You can get on Amazon by Jonathan beer. Really good, kind of like, really important to understand, the, the, the, the scaling conflict and the visions over the different visions of what Bitcoin should be. And you know, again, people like me believe it should be a freedom tool. Not like a payments technology for retail. And I'm just, I'm glad it worked out the way it did because it, it almost didn't."
+}

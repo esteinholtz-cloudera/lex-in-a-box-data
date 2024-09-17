@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:10",
+  "End": "02:53:17",
+  "Text": "functional stuff like your life going up the stairs is easier moving about all that kind of just regular"
+}

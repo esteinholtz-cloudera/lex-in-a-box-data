@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:38:25",
+  "End": "02:39:11",
+  "Text": "I stand with it and I'm for some reason, still optimistic that we can get ourselves to a different place. But the way things currently are, um or the way things have always been for, for animals and humans. And I think any any conscious life form is me, the suffering seems so much more impactful and powerful than any happy for lack of a better word experience that happy experience is worth, equivalent experience of suffering."
+}

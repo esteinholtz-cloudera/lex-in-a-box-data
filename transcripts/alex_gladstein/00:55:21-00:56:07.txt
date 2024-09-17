@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:55:21",
+  "End": "00:56:07",
+  "Text": "think the technology is mature enough because it's not just about the idea, it's also about the implementation of it, like, you know, Bitcoin the most part requires access to the internet. Yeah. And what do you think of this technology now as a method of activism in the worst parts of the world? We often think like all the conversations we've had about Bitcoin is essentially middle class, like wealthy people relative to the rest of the world, they're kind of talking the sort of investment and high concept ideas. Then there's also the people in the world who are suffering who are living through hyperinflation, they may not have a computer or access to the internet. Like how do you think Bitcoin can help there?"
+}

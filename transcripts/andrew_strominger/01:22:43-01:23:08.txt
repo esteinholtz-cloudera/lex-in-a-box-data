@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:43",
+  "End": "01:23:08",
+  "Text": "like you said, the contradiction ultimately paves the path of discovery. Uh Let me ask you just on this tension, we've been dancing between physics and mathematics. Um What to you is an interesting line you can draw between the two. You have done some very complicated mathematics in your life to explore the laws of nature. What's the difference between physics and mathematics you?"
+}

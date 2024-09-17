@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:01:25",
+  "End": "02:01:33",
+  "Text": "in 1963 is the first moment is a huge uprising and the government suppressed it."
+}

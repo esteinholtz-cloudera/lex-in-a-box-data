@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:37:39",
+  "End": "00:37:57",
+  "Text": "it was a small in a funny way. I think maybe people it as an evil smile like ha you know, I fooled them. But actually it was just a smile and I thought, well, in the end, after all the conversations about the test, that was the answer to the test and then off she goes."
+}

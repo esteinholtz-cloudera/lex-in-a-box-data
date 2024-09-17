@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:08:50",
+  "End": "01:09:49",
+  "Text": "just keep asking and and it won't take you very long to. the trick in being a theoretical physics is finding the questions that can answer. So, so the questions that we think we might be able to answer now and we've partially answered that, um, there is a holographic explanation for certain kinds of things and string theory, we've answered that now, we'd like to take what we've learned and that's what I've mostly been doing for the last 15, years. I haven't really been working so much on string theory proper. I've been sort of taking the lessons that you, we learned in string theory and trying to apply them to the real world only assuming only what we know for sure about the real"
+}

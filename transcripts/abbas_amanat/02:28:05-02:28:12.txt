@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:05",
+  "End": "02:28:12",
+  "Text": "that's the supreme leader. But there's been presidents. Yes. And what's the role of the"
+}

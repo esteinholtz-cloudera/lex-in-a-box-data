@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:37:26",
+  "End": "01:38:24",
+  "Text": "? It could be, I mean, I worked at CERN for two summers in undergrad and we were looking for Super symmetry, which was one of these alternatives to the Standard Model. And it was sad because my professors were getting sadder and sadder because they weren't finding it. They were excluding what we would call this parameter space of finding these super symmetric particles. the search for what that theory of everything could be or a grand unified theory, that kind of answers some of the holes within the standard model of physics would presumably of unlock a better understanding of certain fundamental physical laws that we should be able to build a better understanding of engineering and day to day services. From that, it might not be an immediately obvious thing we discovered the Higgs, the Higgs boson. I was there at cern that day. It was July 4th 2012 that it was announced. We all waited like nerds overnight in line to get into the announcement chamber. I'd never waited for even like a Harry Potter premiere in my life. But we waited for this announcement of the Higgs boson to get into"
+}

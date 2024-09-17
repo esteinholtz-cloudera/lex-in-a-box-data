@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:17:43",
+  "End": "00:18:50",
+  "Text": ", either one space or time that gets very tricky. And Einstein uh didn't,, didn't have it right. And in fact, he had an earlier version of General relativity 1914 which he was very excited about which was wrong. gave it wasn't fully coordinate. In variant, it was only partially coordinate and variant. It was wrong. gave the wrong answer for bending light to the sun. a factor of two, was an expedition sent out to measure it during World War one, they were captured they could measure it. that gave, that gave Einstein four more years to clean, to clean his act, act up by which time he, he'd gotten it right. it's a very, it's a very tricky business. But once it's all laid out, it seems uh, it's, it's"
+}

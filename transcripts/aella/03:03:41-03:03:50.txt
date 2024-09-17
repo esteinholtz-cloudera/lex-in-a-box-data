@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:03:41",
+  "End": "03:03:50",
+  "Text": "difficult to describe because it's like, like, it changes sort of aspects about your environment that are invisible to you because they're so stable."
+}

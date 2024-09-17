@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:51:02",
+  "End": "03:51:26",
+  "Text": ", no, no, no, they don't. That embryogenesis process that's really not well understood at all. That's really tough. I think much more likely to have crappy humanoid robotics. Like I don't think the body is overrated in terms of like if the A system is super intelligent, can uh use charm make up for the crappy"
+}

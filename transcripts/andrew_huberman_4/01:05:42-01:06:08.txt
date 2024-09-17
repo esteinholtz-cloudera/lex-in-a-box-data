@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:42",
+  "End": "01:06:08",
+  "Text": "know, I mean about prayer in general, you said information and figuring out how to get stronger, healthier, smarter, all those kinds of things. A part of me that deeply, you know, you can gain a lot of knowledge and wisdom through learning. a part of me believes that all the wisdom I need was al was there when I was 11 and 12 years old"
+}

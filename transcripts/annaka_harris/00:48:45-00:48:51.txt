@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:48:45",
+  "End": "00:48:51",
+  "Text": "out. I think that's what conspiracy theories always provide people. Why is it? So"
+}

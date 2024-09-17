@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:08:28",
+  "End": "01:08:37",
+  "Text": ". And there are good reasons to start with that assumption versus the other that I think we're just now starting to realize."
+}

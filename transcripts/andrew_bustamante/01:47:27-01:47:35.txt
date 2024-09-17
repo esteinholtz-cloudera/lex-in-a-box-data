@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:27",
+  "End": "01:47:35",
+  "Text": "what they're doing. They're establishing a base. I mean, I guess that means the polygraph is, uh, a, is a skill that you develop to do to do it. Well,"
+}

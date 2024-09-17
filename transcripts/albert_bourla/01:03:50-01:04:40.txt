@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:03:50",
+  "End": "01:04:40",
+  "Text": "rate is lower but kids they do die. how can you say that I'm not going to, I'm not going to protect a kid for something that it is likely to happen. And it is not only that what happens in the school when they stop the education process because a kid got the disease and they don't have vaccines so that they can control. It is such a big disruption such a big risk for for the health of of the, of the kids that it shouldn't be a debate. Look many kids are having polio right now. fewer number than those that they are having COVID in, in the hospital. But everybody is getting the vaccine. um well,"
+}

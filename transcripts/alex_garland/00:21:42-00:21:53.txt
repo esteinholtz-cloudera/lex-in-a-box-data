@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:21:42",
+  "End": "00:21:53",
+  "Text": "anything that's new. I don't think for example, I've got my anxieties relate to things like social media. So I've got plenty of anxieties about that, which is"
+}

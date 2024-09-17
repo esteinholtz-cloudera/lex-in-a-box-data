@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:54",
+  "End": "01:59:32",
+  "Text": ". Where is the line? And by the way, I'm one of those old school people with the secrets. I, I think a Karma thing again, back to the trust. I think in the short term, you can benefit by sharing a secret. But in the long term, if people know they can trust you like the juicy of the secret, if it's a test of sorts,, if they know you can keep that secret, that means like you're somebody that could be trusted. And I believe that like not just effectiveness in this life but happiness in this life is, is in forming a circle of people you can trust, right?"
+}

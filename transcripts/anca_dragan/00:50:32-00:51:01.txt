@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:50:32",
+  "End": "00:51:01",
+  "Text": "really just don't know enough to say, well, vision alone, you know, what's like, there's a lot of how many cameras do you have? Is it, how are you using them? I don't know. There's a sort of sorts of details. I imagine there's stuff that's really hard to actually see, you know, how do you deal with exactly what you were saying? Stuff that people would see that, that, that you don't, I think I have more of my intuition comes from systems that can actually use lighter as well."
+}

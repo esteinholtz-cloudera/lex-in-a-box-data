@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:45:01",
+  "End": "00:46:00",
+  "Text": ", now it really means something and, and I would bet the farm on the, um, the, uh, guess that 100 years from now, string theory will be viewed as a stepping stone towards a greater understanding of, of nature. And, and it would, I mean, another thing that I didn't mention about string theory is, of course, we knew that it the infinity's problem. And then we later learned that it also solved Hawking's puzzle about inside of a black hole. you put in one assumption, you get five things out somehow you're doing something, right? You know, probably not everything but you're, you're, you're, you know, there's some good signposts and there, there have been a lot of good signposts like that."
+}

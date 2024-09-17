@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:36",
+  "End": "00:15:16",
+  "Text": ", from a psychology from a neuroscience perspective, this whole construction that you've developed is fascinating. did this a little bit with autonomous vehicles. So to try to understand the decision making process of a pedestrian when they cross the road and trying to create an experience of a car, you know, that could run you over. So there's the danger of there. was so surprised how real that whole world was and the graphics that we built wasn't ultra realistic or anything. But I was still afraid of being hit by a car. Everybody we tested were really afraid of being hit"
+}

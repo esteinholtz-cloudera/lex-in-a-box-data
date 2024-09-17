@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:22:44",
+  "End": "01:22:53",
+  "Text": "guess it depends on what role have they attained at that point, right? And so if I think about now,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:06",
+  "End": "01:04:19",
+  "Text": "? He gave me a bobblehead of the guy? Um I don't, I don't know him. I was just I would like to talk to him about him. But this uh there's a very fine here with the bobblehead. The"
+}

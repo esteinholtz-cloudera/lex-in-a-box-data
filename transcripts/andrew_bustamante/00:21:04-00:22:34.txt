@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:04",
+  "End": "00:22:34",
+  "Text": "this winning idea is very interesting in what way, short term and long term is Russia winning. Some people say there was a miscalculation of the way the invasion happened. There was an assumption that you would be able to successfully take Kiev, be able to successfully capture the East, the south and the north of Ukraine. And with what now appears to be significantly insufficient troops spread way too thin across way too large of a front. that seems to be like an intelligence failure. uh and that doesn't seem to be like winning in another way. It doesn't seem like winning. If we put aside the human cost of war, it doesn't seem like winning because the hearts and minds of the West were completely on the side of Ukraine. This particular leader in Vladimir Zelensky captured the attention of the world and the hearts and minds of Europe, West and many other nations throughout the world, both financially in terms of military equipment and in terms of sort of social and cultural and emotional support for the Independence Fight of this nation, that seems to be like a miscalculation. So against that push back, why do you think there's still colonels uh winning in this on the Russian side?"
+}

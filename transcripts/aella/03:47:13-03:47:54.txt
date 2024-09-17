@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:47:13",
+  "End": "03:47:54",
+  "Text": "super exciting and terrifying how quickly it's accelerating. Like language models are freaking me out. It's very unexpected that it's the same exact, I mean, chat GP T is just GP T 33.5. It's the same model relatively small to what it could be to what GP T four will be in the other competitors just like a few tricks made it much better in terms of interaction with humans. And then we'll keep discovering extra tricks. thing I'm really excited about is how everyone kind of knows how it works. So you can kind of create, especially with competition becoming cheaper and cheaper. You, there'll be a lot of competitors."
+}

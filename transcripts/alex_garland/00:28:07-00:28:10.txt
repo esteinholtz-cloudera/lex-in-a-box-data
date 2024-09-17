@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:28:07",
+  "End": "00:28:10",
+  "Text": ", you might be one of the good guys."
+}

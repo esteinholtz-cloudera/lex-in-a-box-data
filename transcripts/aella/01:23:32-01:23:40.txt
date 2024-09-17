@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:23:32",
+  "End": "01:23:40",
+  "Text": ", I mean, like I said, like I think the harshness comes from the bad meaning like, and I had good meaning applied to you were a stoic"
+}

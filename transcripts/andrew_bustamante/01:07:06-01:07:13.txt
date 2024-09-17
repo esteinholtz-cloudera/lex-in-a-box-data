@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:07:06",
+  "End": "01:07:13",
+  "Text": "does a good job of playing to the mythos. So when General Petraeus used to be the director of CIA 2000"
+}

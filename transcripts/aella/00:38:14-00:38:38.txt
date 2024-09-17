@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:14",
+  "End": "00:38:38",
+  "Text": "Do you want to actually talk about your childhood? I think it's interesting because you also worked at a factory. It's like your childhood is really fascinating and difficult traumatic. So, um and you've written about it, a lot of ways we could talk about it. But maybe are the things you remember? The good and the bad of your childhood, of your maybe interaction with your father?"
+}

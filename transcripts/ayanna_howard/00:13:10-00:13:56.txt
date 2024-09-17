@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:13:10",
+  "End": "00:13:56",
+  "Text": "that there's kind of 33 things going on now? I think terms of will people go like as a user as a adopter? Will you trust going to that point? I think so, right. There are some users and it's because what happens is when, when you're hypersensitive the beginning and then the technology tends to work, your apprehension slowly goes away. And as people, we tend to swing to the other extreme. Right? Because like, oh, I was hyper, hyper, fearful or hyper sensitive and it was awesome and we just tend to swing. That's just human nature. And so you will have, I mean, it's"
+}

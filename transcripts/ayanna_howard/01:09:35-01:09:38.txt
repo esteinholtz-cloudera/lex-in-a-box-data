@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:35",
+  "End": "01:09:38",
+  "Text": ". So it's a fascinating balance to have to strike."
+}

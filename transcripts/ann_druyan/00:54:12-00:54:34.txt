@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:54:12",
+  "End": "00:54:34",
+  "Text": "the above, you'd have to be silly not to think and not to look at, for instance, our burgeoning capability in artificial intelligence, not and to see how sick uh so much of the planet is not to be concerned"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:10",
+  "End": "03:03:37",
+  "Text": ", I think that that will resonate with a lot of people. I think that's a brilliant reframing of it that said you kind of imply. There's a, there's a reason behind this whole existence of ours, there's a meaning to it. So let me ask, what is the meaning of life, Anthony? Do you think about these ridiculous big questions that have no answer every once in a while or do you just enjoy the shit out of every day?"
+}

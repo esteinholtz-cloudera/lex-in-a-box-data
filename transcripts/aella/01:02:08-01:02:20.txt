@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:08",
+  "End": "01:02:20",
+  "Text": "you have any peer pressure saying like, that's not good or that is good or like any, did you feel any currents of society in any direction or you independently just thinking like, from first principles? I"
+}

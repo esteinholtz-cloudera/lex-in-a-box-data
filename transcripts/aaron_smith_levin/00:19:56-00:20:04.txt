@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:56",
+  "End": "00:20:04",
+  "Text": "a fundamental part of the Church of Scientology is the secrecy. Yeah. that's where you're trained as you go up through the ranks of secrecy."
+}

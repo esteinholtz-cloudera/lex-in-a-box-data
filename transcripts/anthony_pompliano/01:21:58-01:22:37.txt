@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:21:58",
+  "End": "01:22:37",
+  "Text": "thing I would say too is um one of the elements. Uh that's always kind of funny to me is how much of the entertainment is love,? So when you start to think about how many of the memes that are posted, for example, are for outsiders versus insiders laser eyes, right? Which seems absolutely ridiculous. Elementary and and frankly uh beneath anyone in any level of power or influence in the world somehow has congressmen and senators who have done it. not trying to convince their colleagues in elected positions to become Bitcoins. They're speaking directly internally to the Bitcoin community."
+}

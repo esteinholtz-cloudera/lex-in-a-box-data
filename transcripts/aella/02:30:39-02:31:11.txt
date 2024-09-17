@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:30:39",
+  "End": "02:31:11",
+  "Text": "I mean, it depends if they want to, like, I often find people attractive. I don't want to pursue. also ok with people entering into agreements like if you and I want to agree, like I'm only going to enter this because I'm going to be so hurt if you pursue somebody else. So I'm not going to pursue anybody else that seems fine to me. But I also extend that if somebody's like, I don't want you to have any friends, I'm going to feel really insecure for you and like ok, if you want to enter that agreement, I feel the same way. I think you should have the right to do it if this is what you want. But I also kind of, I feel like a little weird about restricting your partner from doing things, you know."
+}

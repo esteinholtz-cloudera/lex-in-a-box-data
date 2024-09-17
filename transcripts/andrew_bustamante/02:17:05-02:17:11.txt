@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:05",
+  "End": "02:17:11",
+  "Text": "to form a good model, predictive model of what their behavior is going to be like,"
+}

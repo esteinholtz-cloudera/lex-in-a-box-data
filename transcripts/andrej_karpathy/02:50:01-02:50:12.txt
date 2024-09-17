@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:50:01",
+  "End": "02:50:12",
+  "Text": "able to perceive the world or perceive the whatever the inputs are and to make predictions based on that or action based on that. That's, that's the reason. Yeah,"
+}

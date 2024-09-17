@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:02:42",
+  "End": "01:03:06",
+  "Text": ", correct with their culture. You know what a Chinese person who lives in Syria thinks of themselves as a Chinese person. Do you know what a Chinese person, a Chinese national living in the United States thinks of themselves as a Chinese person,? Americans living abroad, often think of ourselves as expats ex patriots living on the local economy, embracing the local culture. That is not how Chinese people view traveling around"
+}

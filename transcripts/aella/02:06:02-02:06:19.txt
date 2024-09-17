@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:02",
+  "End": "02:06:19",
+  "Text": "curiosity. That's such a curiosity is like both emotion and reason, right? So it's like this pull because reason is the tool you use to figure out the puzzle and then curiosity is the pull towards the puzzle."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:40",
+  "End": "00:28:07",
+  "Text": "which is very interesting in robotics with fish and water. So you could see that they've experienced with like dead fish and they keep swimming. the fish is capable of all kinds of complicated movements as a system. But any one moment, the river, the full complexity of the river defines the actual movement of the fish"
+}

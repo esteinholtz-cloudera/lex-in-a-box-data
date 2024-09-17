@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:06",
+  "End": "00:57:05",
+  "Text": "Yes. So let me ask a silly sounding ridiculous sounding but probably extremely important question. Sex and space, including intercourse, conception, procreation, birth being a parent like raising the baby. So basically from birth, well, from the before the birth part, like the birds and the bees and stuff. And then the whole thing, how complicated is that? I remember looking at the Thank you. remember looking at this exact Wikipedia page actually. And I remember being the Wikipedia page is sex and space and fascinating how difficult of an engineering problem the whole thing is, is that something you think about too, how to have generations of humans self self replicating yeah, societies essentially, I mean, I guess with micro like if you solve the gravity problem, you solve a lot of these problems."
+}

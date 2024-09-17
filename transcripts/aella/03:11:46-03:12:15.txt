@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:11:46",
+  "End": "03:12:15",
+  "Text": "? Yeah, to be fair, I'm not sure he was good at it because I was a kid. I think he's probably not very good at it actually. But when you're a child being raised in a house where he works from home and you're homeschooled. It's just kind of what's going to happen to be fair, I do think that like, strong f control is quite rare. I don't think most people are kind of doing something like this but not nearly to the degree that makes, gives me the ick, I've met maybe like five or six people, I think who I really don't like because of those very subtle things that they're doing."
+}

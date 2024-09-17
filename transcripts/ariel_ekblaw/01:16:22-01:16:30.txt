@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:22",
+  "End": "01:16:30",
+  "Text": "beautiful connection that we have with robots. But I think it's greater and greater importance when it's out in space because it could help alleviate some of the loneliness."
+}

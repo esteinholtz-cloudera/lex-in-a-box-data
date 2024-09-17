@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:48",
+  "End": "00:17:04",
+  "Text": "the preferences thing is tricky. So figuring out those preferences, be able to interactively to understand what the human is. So it really boils down to understand the humans in order to interact with them and in order to please them, right? So"
+}

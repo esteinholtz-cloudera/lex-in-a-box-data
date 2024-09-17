@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:11",
+  "End": "00:40:05",
+  "Text": ". So, actually, that's funny. So such a, such a small short exploration of consciousness that I'm afraid. And then you just with X Mach and say, OK, we're going to magnify that part and then minimize the other part. So that's a good way to sort of compare the two. But if you could just use your imagination and if Ava of, um I don't know, he was president of the United States. So had some power. So what kind of world would you want to create if you kind of say good? there is a sense that she has a really, there's a desire for a better human to human interaction, human robot interaction in her. But what kind of world do you think she would create with that desire?"
+}

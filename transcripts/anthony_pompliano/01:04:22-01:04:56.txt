@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:22",
+  "End": "01:04:56",
+  "Text": "be the reason it's valuable is because of the scarcity of time. We currently have the bi the biology, the physics. means that this is not just the narrative we tell ourselves, maybe it is, I don't know, but it feels like pretty sure we're mortal. And in that sense, the scarcity there gives value to time. It's fascinating to think about all the thought experiments here of if that could actually be on the economy, if you could actually convert time in a frictionless way to money."
+}

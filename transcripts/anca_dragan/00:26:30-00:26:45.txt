@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:30",
+  "End": "00:26:45",
+  "Text": "fascinating dance. That's so, that's so cool that you could sort of use your own actions to gather information. That's a, feels like an totally open exciting new world of robotics. Pro I mean, how many people are even thinking about that kind of thing?"
+}

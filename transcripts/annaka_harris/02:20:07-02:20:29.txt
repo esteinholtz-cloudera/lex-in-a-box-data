@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:07",
+  "End": "02:20:29",
+  "Text": ", that's really interesting. First of all, Max is great man, this is really interesting to think about how, what is fundamental. It's a good exercise to do in general to truly think through it. I mean, ultimately, it's a very humbling process because we're probably in the very early days of what can currently, right?"
+}

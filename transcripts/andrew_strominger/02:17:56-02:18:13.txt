@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:17:56",
+  "End": "02:18:13",
+  "Text": "? I think so. Maybe different symbols. Oh, well, they might have discovered different, might have discovered it differently they might have had a different idea of what a proof is."
+}

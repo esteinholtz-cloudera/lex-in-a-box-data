@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:53:29",
+  "End": "02:53:41",
+  "Text": ", I feel pretty open to what I'm going to find. Like, I often have no idea what the data is going to tell me. And I'm like, I pre commit like, ok, I could say A B or C and I'm like, down to publish any of those findings."
+}

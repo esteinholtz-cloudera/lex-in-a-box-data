@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:19:09",
+  "End": "02:19:54",
+  "Text": ". What it is is it's a meme and it's used to uh articulate the idea that whatever you want to put in that bucket has no value. So shit coin, right? Or coins that have no value. Uh What is fascinating about it? I think that again, speaks to the power of the Bitcoin community is uh there was congressional hearings a couple of years ago and at one point, uh a congressman from Ohio Warren Davidson, who uh who, who was definitely uh open minded and, and uh excited about Bitcoin, asked a uh an individual on the congress floor uh during testimony uh talk about these other coins. And at one point basically read into the record, terminology of shit coin."
+}

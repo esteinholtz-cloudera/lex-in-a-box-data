@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:11",
+  "End": "01:26:17",
+  "Text": "that. Wait a minute, wait, wait, wait, wait a minute. I've seen enough animals that are murdering the Children."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:25:48",
+  "End": "03:26:15",
+  "Text": "were sociopaths. But the uh well, when two sociopaths can make you do crazy. Normally, it's interesting. Normally, sociopaths don't team up because they, because they manipulate each other. Sociopaths sadly are um are usually only interested in manipulating the highly pliable or unsuspecting. Um when romantic attraction is woven in, then it gets um really diabolical."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:33:29",
+  "End": "02:33:54",
+  "Text": "mean, I guess it depends on what you mean by default. Like most of human history has been sort of a weird mix. Like you get polygamy and monogamy are the kind of the main arrangements, but it's just like human nature. Yeah. People are attracted to other people and they want to, especially in longer term relationships. I, in my relationship, I attract the amount of cheating over time in a relationship. Like, how long have you been in this relationship? And have you cheated?"
+}

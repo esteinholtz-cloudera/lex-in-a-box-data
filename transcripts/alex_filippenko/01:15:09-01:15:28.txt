@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:09",
+  "End": "01:15:28",
+  "Text": "said you started saying you're a little bit on the pessimistic side. But it's funny because we're doing this kind of dance between pessimism and optimism because I'm not sure if us being alone in the observable universe as intelligent beings is pessimistic."
+}

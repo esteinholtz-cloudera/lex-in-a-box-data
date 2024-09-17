@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:35:24",
+  "End": "00:35:54",
+  "Text": "profound. It is unlike anything else you will experience on earth because it is this true feeling of weightlessness with no drag. So the closest experience you can think of would be floating in a pool, but you move slowly when you float in a pool and your motion is restricted. When you're floating, it's just you and your body flying like in a dream. It takes the littlest amount of energy like a finger tap against the wall of the plane to shoot all the way across the fuselage."
+}

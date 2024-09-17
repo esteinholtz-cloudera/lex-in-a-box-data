@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:50:23",
+  "End": "02:50:36",
+  "Text": ". Let me ask you about A G I, what, what are some moons set ideas you think might make significant progress towards A G I or maybe in another way is what are the big blockers that we're missing now?"
+}

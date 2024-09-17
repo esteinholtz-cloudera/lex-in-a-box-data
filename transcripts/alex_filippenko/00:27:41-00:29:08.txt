@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:27:41",
+  "End": "00:29:08",
+  "Text": ", right? Because if you only have a few months, that's not much time in which to deflect it, detection and, and um early action are key because when it's far away, you only have to deflect it by a tiny little angle. And then by the time it reaches us, the perpendicular motion is big enough to, you know, to, to miss earth, all you need is one radius or, or one diameter of the earth, right? That actually means that all you would need to do is slow it down. So it arrives four minutes later or speed it up. So it arrives four minutes earlier and earth will have moved one radius in, in that time. So it doesn't take much. But you can imagine if a thing is about to hit, you, you, you have to deflect it 90 degrees or more. Right. You know, and you don't have much time to do so and you have to slow it down or speed it up a lot if that's what you're trying to do to it. And so decades is sufficient time, but months is not sufficient time. So, at that point, I would think the, the name of the game would be to try to predict where it would hit if it's in a heavily populated region, to to start an orderly evacuation perhaps. But you know, that might cause just so much panic that I'm, how would you do it with New York City or, or Los Angeles or something like"
+}

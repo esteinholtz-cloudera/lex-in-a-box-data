@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:30:18",
+  "End": "02:30:51",
+  "Text": ". Can't we be patriotic and be pro America? But like not want the petro dollar? Like I should be proud of my country. Why do we need to be propping up the Saudis? Why do we need to be, you know, threatening to invade other countries if they sell their oil for a different currency? think we can be just as powerful as we are today, if not more powerful in a Bitcoin world. If you think about the infrastructure, Americans are building all the innovations, we're building all the wealth we have. I think we'll be fine, better than fine and, and we won't have these horrible negative externalities. It's, it's really an optimistic vision for the future."
+}

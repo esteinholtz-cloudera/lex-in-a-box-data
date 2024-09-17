@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:31",
+  "End": "00:55:36",
+  "Text": "said so many brilliant things. So one if you read books described the habits of uh people like writers, they do control that sensory experience in the, in the hours after wake like many writers, know, they have a particular habit of several hours early in the morning of actual writing. They do. I'm doing anything else for the rest of the day, but they control, they're very sensitive to noises and so on. I think they make it very difficult to live with them. I try to, I'm definitely like that. Like I could,, I love to control the sensory uh how much information is coming in. There's something about the peaceful, just everything being peaceful at the same time. And we, we're talking to a mutual friend of Whitney Cummings who um has has a, has a mansion, a castle on top of a cliff in the middle of nowhere. She actually purchased her own island. So she wants silence, she wants to control how much sound is coming"
+}

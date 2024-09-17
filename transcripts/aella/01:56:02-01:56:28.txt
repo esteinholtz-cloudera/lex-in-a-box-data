@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:56:02",
+  "End": "01:56:28",
+  "Text": ". But I laugh at so many jokes automatically. It's interesting because I don't mean to, I'm not trying to be fake. But if I'm in a group of people and somebody makes a joke and everybody laughs, I laugh even before I'm checking within myself, like, do I genuinely enjoy this joke? So it's like, I don't know the degree that I am sort of just like a result of social programming in all cases that when I'm with a client back when I was doing it full time, it doesn't feel significantly different. It just felt like a different version of myself."
+}

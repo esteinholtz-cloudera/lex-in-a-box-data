@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:03",
+  "End": "02:07:12",
+  "Text": "let me push back on that because maybe there's simulation that we do in our heads like simulate if I do this, do I think will"
+}

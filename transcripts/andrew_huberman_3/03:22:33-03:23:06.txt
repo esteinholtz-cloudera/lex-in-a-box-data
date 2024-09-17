@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:22:33",
+  "End": "03:23:06",
+  "Text": ". And this kind of intense attraction. I, uh actually uh one of the poems that Carl uh Desso introduced me to, I think it's two English poems is the name. But the uh one of the things I find myself for prolonged periods being attracted to like you notice some kind of magic you keep wanting to dig to the depths like that magic to"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:38:41",
+  "End": "00:39:39",
+  "Text": "mean, the practical application in Xinjiang, which is a territory the size of Alaska where a large percentage of the population has been put into prison camps. The current issue of the New Yorker has an absolutely harrowing uh essay that, that tells the story of one such woman who in I believe 2020 17 got sucked into one of these camps and it took her a year or or more to get out. Um And, and she's talking about how in each home in Xinjiang, each home has a QR code on it that the police can scan and get like a quick instant download of who lives there. car has, you know, like a scannable code every every single person has their DNA taken and the DNA is being sifted through and analyzed by algorithms. So this is like the Chinese government's laboratory for how can we use technology to? It's sort of like digital Leninism. And that to me is one of the biggest risks in our world today and it's not talked about enough."
+}

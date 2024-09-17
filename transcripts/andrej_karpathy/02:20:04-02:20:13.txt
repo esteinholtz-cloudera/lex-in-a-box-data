@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:04",
+  "End": "02:20:13",
+  "Text": "also on your ability to deeply understand the world because there's a bunch of sources of information you're not really focused on deeply integrating that"
+}

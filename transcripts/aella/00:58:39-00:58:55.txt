@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:58:39",
+  "End": "00:58:55",
+  "Text": "camming is like you talk to the live on the computer that you live stream. It's kind of like Twitch and then people are typing in the chat like, hi, do this stuff and then the people can tip you money and then you can do things in response. Like, oh, if you tip me 100 tokens, you know, I'll take my shirt off or something like that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:00",
+  "End": "01:15:19",
+  "Text": ". And because it's their job and they have power, their prestige, there's a huge incentive to join them and to join them. And to stay. So like they, you know, when they're having dinner at home with their families, not an incentive to uh to join the protests."
+}

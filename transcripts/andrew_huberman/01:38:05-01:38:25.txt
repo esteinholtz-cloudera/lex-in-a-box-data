@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:05",
+  "End": "01:38:25",
+  "Text": "be nice to educate. I'm showing my ignorance. So the, the smart stuff is, is on the surface. So I didn't realize that I didn't quite realize because you keep saying deep. Yeah. So, so like the early stages are deep in actually physically in the brain. Yeah. So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:35:35",
+  "End": "02:35:51",
+  "Text": "gone in there a few times and check some things out. I'm there. I have a few questions about it that, um, like if I'm in there, how one can participate or not participate. I like being a fly on the wall for those conversations. I've been very curious as to what's going on in there."
+}

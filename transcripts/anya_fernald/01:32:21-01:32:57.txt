@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:21",
+  "End": "01:32:57",
+  "Text": "there could be flavors yet to be discovered. That's a whole other thing because I just uh and physically feel good on me. But that's not, that doesn't mean like maybe like uh a rice based dish like sushi or something like that or, uh, or Indian cuisine where it's like sauces and the breads and whatever, you know, I love that stuff too. So we're not talking about like, know, a meal is an experience that could be like a one night sand. But with a, a piece of food, right? It could be a totally different than what actually makes you feel good when you eat it every"
+}

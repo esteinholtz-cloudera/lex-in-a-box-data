@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:01",
+  "End": "01:25:30",
+  "Text": "there's other constraints on the state of the world humans use to understand the world. I mean, vision ultimately is the main one. But we're like, we're like referencing our understanding of human behavior and some common sense physics that could be inferred from vision from a perception perspective. But it feels like we're using some kind of reasoning predict the world, not just the"
+}

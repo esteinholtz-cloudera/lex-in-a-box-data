@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:50:07",
+  "End": "00:50:31",
+  "Text": "this flat is following your intuitions and not being open to counterintuitive ideas. It's a, it's a very closed way of viewing things saying it's actually it's not the way you feel, there's information that tells us there's something else going on and that type of person will say no, it's the way it feels to me."
+}

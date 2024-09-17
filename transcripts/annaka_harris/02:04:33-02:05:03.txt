@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:33",
+  "End": "02:05:03",
+  "Text": "love to be a fly on the wall of those discussions, but he wrote a book. Case against Reality. Makes the case that our perception is completely detached from objective reality. you explain his perspective and let us know? No, no, maybe not fully but to which degree you agree and don't. So this is much more focused. I guess you guys have an agreement that consciousness is somehow fundamental."
+}

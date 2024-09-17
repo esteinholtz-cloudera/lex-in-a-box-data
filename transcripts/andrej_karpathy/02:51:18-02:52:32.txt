@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:51:18",
+  "End": "02:52:32",
+  "Text": "? Well, that's the big open question I would say in my mind is if you also require the embodiment and the ability to uh sort of interact with the world, run experiments and um have a data of that form, then you need to go to Optimus or something like that. And so I would say optimist in some way is like a hedge um in a G I because it seems to me that it's possible that just having data from the internet is not enough. that is the case, then optimists may lead to A G I. Uh because optimists would I to me, there's nothing beyond optimists. You have like this Humanoid form factor that can actually like do stuff in the world, you can have millions of them interacting with humans and so on. And uh if that doesn't give rise to A G I at some point, like not, I'm not sure what will. So from a completeness perspective, I think that's the uh that's a really good platform, but it's a much more harder platform because uh you are dealing with atoms and you need to actually like build these things and integrate them into society. So I think that path takes longer. Uh but it's much more certain and then there's a path of the internet and just like training these compression models effectively uh on uh trying to compress all the internet. that might also give these agents as well"
+}

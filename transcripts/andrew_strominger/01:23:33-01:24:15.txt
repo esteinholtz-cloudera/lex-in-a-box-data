@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:23:33",
+  "End": "01:24:15",
+  "Text": "has its, its, its own appeal and I certainly enjoyed it. And ultimately, I would like to think, I wouldn't say I believe, but I would like, like to think that there's no difference between physics and mathematics that mathematics is realized in the physical world and physics has a firm mathematical basis that, that they're really the same thing. I mean, why would there be math that had no physical? It seems a little odd, right? You have two kinds of math, some that relevant to the"
+}

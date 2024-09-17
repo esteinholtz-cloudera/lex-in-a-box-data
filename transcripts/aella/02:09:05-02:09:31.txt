@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:05",
+  "End": "02:09:31",
+  "Text": "that is actually like a chess move. You did, you had a purpose for that chess move. But the flirtation is on, he could have like uh done a better move that would make you like, curious, like that's like, interesting because you had an agenda with that, but he could have changed your mind like he could have with a few words because you just created extra layers, extra entry"
+}

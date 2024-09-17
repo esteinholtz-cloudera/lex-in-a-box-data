@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:08",
+  "End": "01:39:18",
+  "Text": "one of the best definitions of infinity by the way. That's, that's one of the best sort of, uh, physical manifestations of infinity."
+}

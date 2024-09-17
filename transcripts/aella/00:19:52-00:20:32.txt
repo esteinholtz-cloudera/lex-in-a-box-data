@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:52",
+  "End": "00:20:32",
+  "Text": ". I love it that you think it scientifically here. But, and they have actually answers. There's a whole terror management theory where they do write psychology type papers and they do actual experiments. I can mention how their methodology is interesting. They prime with the discussion of death like they take one certain set of people, they have a conversation with them and another set of people, they mention death to them before the conversation and see how that affects their um the nature of the conversation. It's really interesting because death fundamentally alters the nature of the conversation. Just even priming reminding you that you're going to die briefly, changes, changes, a lot of things, these"
+}

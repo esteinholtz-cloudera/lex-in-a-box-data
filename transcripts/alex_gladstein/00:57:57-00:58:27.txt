@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:57:57",
+  "End": "00:58:27",
+  "Text": "know, most users today are using Bitcoin in a, in a custodial manner. So this is kind of like having a bank account um where you have a deposit uh account at a bank, right? So you have a claim, right? You go to the bank and they have some of your money and you take it out, right? You with an ATM. So uh what I would call a non custodial Bitcoin use would be similar to withdrawing cash from an ATM. You have it, it's a Bear instrument. OK. when I, what's called the Bear"
+}

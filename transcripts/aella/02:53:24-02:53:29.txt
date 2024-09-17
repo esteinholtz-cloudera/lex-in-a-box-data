@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:24",
+  "End": "02:53:29",
+  "Text": "you do it in a way that's not, it's not feel like it has an agenda, right? You're just exploring."
+}

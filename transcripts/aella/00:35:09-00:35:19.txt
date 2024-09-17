@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:35:09",
+  "End": "00:35:19",
+  "Text": ", that's, that's kind of what I feel like, like if I had the power to do anything, I think I would probably want to have a life very similar to where I am now."
+}

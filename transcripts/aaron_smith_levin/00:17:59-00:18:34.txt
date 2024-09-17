@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:59",
+  "End": "00:18:34",
+  "Text": ". Do you honestly deeply believe that's the case, there's not going to be a high level official that would sit down for a conversation., I disagree with you. I hope you're right because I think that given the current dynamics of what's happening, I think in order to say from their perspective, in order to save the Church of Scientology, they have to be transparent and authentic, basically steel men their case. But better you would think so., we'll talk about the other ways you could do. That was just the manipulation through propaganda, through control media and all that kind of stuff."
+}

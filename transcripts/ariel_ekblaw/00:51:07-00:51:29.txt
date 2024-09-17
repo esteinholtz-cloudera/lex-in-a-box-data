@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:07",
+  "End": "00:51:29",
+  "Text": "it. And speaking of which you also talked about sports and like ball sports, like playing soccer. So you mentioned that, so you're muscles can move at full speed then if you push off the wall lightly, you fly zoom across. So how does the physics of that work for? Can you still play soccer? For example, in"
+}

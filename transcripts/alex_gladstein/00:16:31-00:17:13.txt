@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:16:31",
+  "End": "00:17:13",
+  "Text": ", it's a bit of a generalization but Alex Jones would be in prison or dead if he were in North Korea or in Cuba or in Russia or in China that the authorities would not tolerate him to do what he did. And here he can kind of do what he wants. He's encountering some resistance in the marketplace of ideas, uh, large organizations, corporations and a lot of public sentiment uh in different parts of our country don't like him. doing their best to drown out his voice. But that's very different from a violent threat of censorship from the state. And that's what we study. That's what I study, you know, what is the state doing? That's kind of paramount for me."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:59:17",
+  "End": "01:00:05",
+  "Text": "think that there are multiple good options of which doing A phd could be one of them. I think that if, if someone is admitted to a top phd program, you know, at MIT Stanford top schools, I think that's a very experience. Uh, or someone gets a job at a top organization at the top A I team. I think that's also a very good experience. Um There are some things you still need a phd to do. If someone's aspiration is to be a professor, you know, at the top academic university, you just need a phd to do that. if it goes to, you know, start a company, build a company, do great technical work. I think A phd is a good experience, but I would look at the different options available to someone, you know, where are the places where you can get a job, where are the places and get a phd program and kind of weigh the pros and cons of those."
+}

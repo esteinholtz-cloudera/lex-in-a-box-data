@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:25:51",
+  "End": "01:26:11",
+  "Text": ". So, not destroy enough of itself, uh, that it can't get to reproductive competent age. I mean, I think that, know, we have a, a natural, I mean, healthy people have a natural reflex to protect. I don't"
+}

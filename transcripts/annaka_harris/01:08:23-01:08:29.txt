@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:23",
+  "End": "01:08:29",
+  "Text": "a possibility, an understudied possibility. So it deserves serious reverse"
+}

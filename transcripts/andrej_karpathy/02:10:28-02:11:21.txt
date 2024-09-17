@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:10:28",
+  "End": "02:11:21",
+  "Text": "? 100%? I just think like at some point, you need a massive data set and then when you pre trainin your massive neural nut and get something that, know, as, as like a GP T or something, then you're able to be very efficient at training any arbitrary new task. So a lot of these GP TS, you know, you can do tasks like sentiment analysis or translation or so on just by being prompted with very few examples. Here's the kind of thing I want you to do. Like here's an input sentence, here's the translation into German input sentence translation to German input sentence blank and the neural ne will complete the translation to German just by looking at sort of the example you've provided. And so that's an example of a very few shot uh learning in the activations of the neural net instead of the weights of the neural net. And so I think um uh just like humans, neurons will become very data efficient at learning any other new task. But at some point, you need a massive data set to pre trainin your network"
+}

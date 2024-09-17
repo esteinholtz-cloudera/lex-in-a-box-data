@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:57:52",
+  "End": "00:58:15",
+  "Text": "mental model when you're really young and you're kind of getting your mental model of physics. We do think that that would change kids' abilities to, if they were born in microgravity, their ability to have that intuition around an earth based one G environment might be missing because a lot of that is really crystallized in early development, early childhood development. So that makes sense that they would see that in mice. Yeah."
+}

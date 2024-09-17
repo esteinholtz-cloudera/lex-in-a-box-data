@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:37:27",
+  "End": "01:37:49",
+  "Text": "don't drink very much. I like red wine. Um But I just don't really II, I love, yeah, I love red wine with good food. Um And um I also co founded a rum business. Um that's an organic rum. So I love that product. But that's not for me, it's like, I'm, I'm more interested in the, in the food say. Is"
+}

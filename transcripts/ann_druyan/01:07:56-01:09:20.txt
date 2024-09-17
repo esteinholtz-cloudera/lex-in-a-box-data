@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:56",
+  "End": "01:09:20",
+  "Text": "you. for listening to this conversation with Andrew Young and thank you to our presenting sponsor, Cash app. Download it, use Code Lex podcast. You get $10.10 dollars will go to first an organization that inspires and educates young minds to become science and technology innovators of tomorrow. If you enjoy this podcast, subscribe on youtube, give it five stars on Apple podcast support on Patreon or simply connect with me on Twitter at Lex Friedman. now let me leave you some words of wisdom from Carl Sagan. What an astonishing thing? A book is, it's a flat object made from a tree with flexible parts on which are imprinted, lots of funny dark squiggles. But one glance at it and you're inside the mind of another person. Maybe somebody dead for thousands of years across the millennia. An author is speaking clearly and silently inside your head directly to you. is perhaps the greatest of human inventions binding together people who never knew each other citizens of distant epochs.. Break the shackles of time. A book is proof that humans are capable of working magic. you for listening and hope to see you next time."
+}

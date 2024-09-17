@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:19:57",
+  "End": "01:20:29",
+  "Text": ". That's what we hope. You hope you don't have like a, you know, Apollo 13 situation that doesn't quite make it back. But yeah, this is also why Mars is such a challenge. The moon is only three days away, that's a lot quicker to recover from. If there's a psychological problem with the crew or any type of maintenance problem, anything three years is such a challenge compared to these other domains that we've been getting more used to in terms of human space flight. this is a question that we will need to have explored more before we start really sending crews to Mars."
+}

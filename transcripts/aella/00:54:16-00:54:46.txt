@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:16",
+  "End": "00:54:46",
+  "Text": ", it's well. Oh, I see. Yes. More than more than like a laptop keyboard. But like you don't have to, one of the main things is you don't have to move your fingers at all. So like, um so like, for example, a lot of people that I think they have a backspace up in the top right corner. So if you have to make mistakes, which is like, mean, that's like so metaphorical every mistake you have to really hurt yourself for because you have to stretch for the backspace. There's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:16:06",
+  "End": "00:16:22",
+  "Text": ", your stomach will shrink in size already. Your gut microbiome is almost completely depleted by fasting. lot of people think oh, cleanses and fasts are great for the microbiome. They quash your microbiome. However, when you start eating again, the microbiome comes back better than it was before you're"
+}

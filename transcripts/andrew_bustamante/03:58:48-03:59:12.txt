@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:58:48",
+  "End": "03:59:12",
+  "Text": "for listening to this conversation with Andrew Bustamante. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Sun Tzu in the art of war. your plans be dark and Impenetrable as night when you move fall like a thunderbolt. you for listening and hope to see you next time."
+}

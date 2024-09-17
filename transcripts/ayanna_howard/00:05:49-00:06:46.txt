@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:05:49",
+  "End": "00:06:46",
+  "Text": "think that's where the problem comes is that when people think about perfection for robotics, the ones that are the most successful are the ones that are quote unquote perfect. Like I said, Rosie is perfect, but she actually wasn't perfect in terms of accuracy, but she was perfect in terms of how she interacted and how she adapted. And I think that's some of the disconnect that we really want perfection with respect to its ability to adapt to us. We don't really want perfection with respect to 100% accuracy, with respect to the rules that we just made up anyway. Right? And so I think there's this disconnect sometimes between what we really want and what happens and we see this all the time like in my research, right, like the the optimal quote unquote optimal interactions are when the robot is based on the person, not 100% following what's optimal based on the rules"
+}

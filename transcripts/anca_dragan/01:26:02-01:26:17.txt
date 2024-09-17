@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:02",
+  "End": "01:26:17",
+  "Text": "actually tells the information leaks information. I mean, the environment is the way it is because humans somehow manipulated it. So you have to kind of reverse engineer the narrative that happened to create the environment as it is and that leaks the preference"
+}

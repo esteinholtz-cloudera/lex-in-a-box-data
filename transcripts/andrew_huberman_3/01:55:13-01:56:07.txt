@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:55:13",
+  "End": "01:56:07",
+  "Text": "did. I went up to University of British Columbia, um uh and did a lecture on a, on a college campus and one of the more gratifying things that happened is this guy, this kid in his early twenties I think stood up and said, know, I've never been on a college campus. I didn't think I could go on to a college campus and that I still rings in my mind whoever you are out there that meant so much to me because I was like, yes, there was something about that to me. I was like, ok, this, it made sense to come all the way up here and do this in person because you can get out to a lot more people on the speaking events. It's not like it's that lucrative or anything. I mean, unless you're whatever, you're a famous celebrity or politician or something, I'm sure there are people that do well with it, but that's not what it's about for us. It's really about being able to connect with people in a different venue and for interactions like that. Uh, I don't know how many of them we will do. Um, but I'm curious to see how it goes, but I'd love to do a podcast with you."
+}

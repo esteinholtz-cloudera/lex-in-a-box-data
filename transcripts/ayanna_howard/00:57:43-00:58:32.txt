@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:57:43",
+  "End": "00:58:32",
+  "Text": "you? Tons. So we like my group as well as I read a lot in the cognitive science literature, as well as the psychology literature because they understand a lot about human human and developmental milestones and things like that. Um And so we tend to look to see what, what's been done out there. Um Sometimes what we'll do is we'll try to match that to see. Is that human, human relationship same as human robot? Sometimes it is and sometimes it's different and then when it's different, we have to, we try to figure out, ok, why is it different in this scenario? But it's the same in the other scenario, right? And so we try to do that quite a bit. Would"
+}

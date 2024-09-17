@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:12:15",
+  "End": "01:12:24",
+  "Text": ", the same as the army. But these are more ideologically up with the states"
+}

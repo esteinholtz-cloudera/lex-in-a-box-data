@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:29:59",
+  "End": "02:30:19",
+  "Text": "one of the things that Bitcoin community has motivated me to do is to look back to the histories that I have studied myself from just even the two world wars, the history of the 20th century from a perspective of the monetary system of money. it's, it's interesting, it's interesting to look at human history in the context of"
+}

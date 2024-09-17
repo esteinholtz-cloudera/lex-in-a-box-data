@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:08:56",
+  "End": "01:09:09",
+  "Text": "um that would be yeah, or some other more competent organization. Um So uh I don't know. So currently, for example, maybe Bing has another shot at it, you know,"
+}

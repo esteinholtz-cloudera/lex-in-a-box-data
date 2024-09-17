@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:14",
+  "End": "00:38:26",
+  "Text": "why the round trip is that the was asking about the one way trip? Ok, cool. So for just literally flying to Mars and around it takes three years,"
+}

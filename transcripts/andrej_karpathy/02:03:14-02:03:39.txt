@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:14",
+  "End": "02:03:39",
+  "Text": ", one of the things that makes me sad is some folks in the robotics community don't do the cheerleading and they should, there's a because they know how difficult it is. Well, they actually sometimes don't know how difficult it is to create a product that scale, right? They actually deploy in the real world, a lot of the of robots and A I system is done on very specific small benchmarks and as opposed to real world"
+}

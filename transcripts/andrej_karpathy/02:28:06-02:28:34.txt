@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:28:06",
+  "End": "02:28:34",
+  "Text": ". That's when you like really care about a problem. It must exist this will be awesome. You're obsessed with it and now you can't just do it on that day. You need to pay the fixed cost of getting into the groove and then you need to stay there for a while and then society will come and they will try to mess with you and they will try to distract you. Yeah. The worst thing is like a person who's like, I just need five minutes of your time. This is cost of that is not five minutes and society needs to change how it thinks about just five minutes of your time."
+}

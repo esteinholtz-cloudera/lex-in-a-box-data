@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:12:31",
+  "End": "01:13:06",
+  "Text": "believe the the thing that's shiny and sexy like the Trojan horse, the number go up uh and for it to, to uh to define that a little further as meaning as it does seem like the more people get excited and start using Bitcoin, the more of its value grow. So it's just a good feedback loop. Yeah, it's a feedback loop. And then the reason you're excited about it especially is that FGG freedom, freedom go up, which is, it ultimately gives power to the individuals to so decentralized."
+}

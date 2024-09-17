@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:42:28",
+  "End": "01:42:33",
+  "Text": ", so the interview process is the"
+}

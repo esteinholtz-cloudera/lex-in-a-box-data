@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:55",
+  "End": "00:44:24",
+  "Text": "if money is an idea that we all, it's like an emergent idea that we believe in, you're saying that security is one of the most fundamental catalyst or fuels for that idea to sort of take hold and be stable and sort of take over the world. The other stuff is really nice to have, but if you don't have the security, you're not going to like, it's not going to spread in a viral sense in our human brains."
+}

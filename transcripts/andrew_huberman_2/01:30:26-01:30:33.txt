@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:26",
+  "End": "01:30:33",
+  "Text": "goal of this kind of therapy is in the uncoupling for that to be permanent, to separate."
+}

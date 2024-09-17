@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:44:58",
+  "End": "01:45:03",
+  "Text": "things turn out to be much harder and some things turn out to be much easier. you"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:28",
+  "End": "01:03:31",
+  "Text": "the number of people in Israel is much, much smaller"
+}

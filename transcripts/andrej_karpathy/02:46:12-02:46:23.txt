@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:46:12",
+  "End": "02:46:23",
+  "Text": "that's why it's really cool. They literally code, you run it in the notebook and it gives you a result and you're like, oh wow. And like actual numbers, actual input, you know,"
+}

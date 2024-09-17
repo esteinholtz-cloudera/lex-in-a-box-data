@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:57:36",
+  "End": "01:58:50",
+  "Text": "in nature. When Einstein came up with this theory of gravity in 1915, November 1915, a few months later, physicist Carl Schwartzchild, he was the director of the Potsdam Observatory, but he was a patriot, a German patriot. So he went into the first World War fighting for Germany. But while he was at the front, he sent a postcard to Einstein saying, you know, a few months after the theory was developed, saying actually I found a solution to your equations that was the black hole solution. And then he died a few months later. And Einstein was a pacifist and he survived. So the the lesson from this story is that if you want to work out uh the consequences of a theory, you better be a pacifist. But um but the point is that uh this solution was known shortly after Einstein came up with his theory. But in, but in 1939 Einstein wrote a paper the analysis of mathematics saying even though the solution exists, I don't think it's realized in nature. And his argument was if you imagine a star collapsing, uh stars often spin and the spin will prevent them from making a black hole collapsing to a point."
+}

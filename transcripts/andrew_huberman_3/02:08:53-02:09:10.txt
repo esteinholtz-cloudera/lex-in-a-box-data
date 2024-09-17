@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:53",
+  "End": "02:09:10",
+  "Text": "funny. First of all, he's funny, the funniness really helps you. But the ethic of the comedian is that fearlessness, what I really liked. It is like the, the danger, there's risk to comedy and there's also consequences."
+}

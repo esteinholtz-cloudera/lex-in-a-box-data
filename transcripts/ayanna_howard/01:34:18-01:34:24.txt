@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:18",
+  "End": "01:34:24",
+  "Text": "overall, you're saying if we start to think more and more as a community about these ethical issues, people should not be afraid. Yeah,"
+}

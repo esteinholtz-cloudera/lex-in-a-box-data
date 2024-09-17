@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:08",
+  "End": "00:52:49",
+  "Text": "meeting them in person. Like for me, it was a magical moment that I can't, it was life transforming that I recently met Spot Minnie from Boston dynamics. I don't know why. But on the human robot interaction, for some reason, I realized how easy it is to anthropomorphize. it was, I don't know, it was, it was almost like falling in love with this feeling of meeting and I've obviously seen these robots a lot on video and so on, but meeting in person just having that one on one time is different. So have you had a robot like that in your life? That was made you maybe fall in love with the robotics sort of like meeting in person."
+}

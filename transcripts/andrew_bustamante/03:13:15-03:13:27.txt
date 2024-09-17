@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:13:15",
+  "End": "03:13:27",
+  "Text": "in general, people are incompetent if left to their own means, they, they're, they're more incompetent. There are than they are malevolent at a large organizational"
+}

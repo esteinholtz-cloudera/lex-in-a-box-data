@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:07:57",
+  "End": "01:08:53",
+  "Text": "? Yeah, I think uh we, we've been constantly improving and iterating on our processes, how we do that. things like, you know, how many customer calls do we need to make in order to get customer validation, how do we make sure this technology can be built? Quite a lot of our businesses need cutting edge machine learning algorithms. So you know, kind of algorithms that developed in the last one or two years. And even if it works in a research paper, it turns out taking the production is really hard. There are a lot of issues for making these things work in the real life uh uh that are not wide the address in academia. So how do we validate that this is actually doable. do they build a team? Get the specialized domain knowledge, be it in education or healthcare or whatever you are focusing on? I think we're actually getting, we've been getting much better at um giving the entrepreneurs a high success rate. But I think we're still, I think the whole world is still in the early phases freaking this out. But do"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:15:15",
+  "End": "01:15:23",
+  "Text": ", like how the, how the timing has to work so that we conscious so that our experiences of it happening at the same time."
+}

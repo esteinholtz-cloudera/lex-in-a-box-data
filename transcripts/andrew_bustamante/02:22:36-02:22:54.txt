@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:36",
+  "End": "02:22:54",
+  "Text": "it. So what uh the close connection between Peter Thiel and Donald Trump did that have a role to play in the um in Donald Trump's leveraging of private intelligence? Or is that completely disjoint?"
+}

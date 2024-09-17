@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:08:18",
+  "End": "02:08:23",
+  "Text": ", the graphics, the physics and the agents that you put into the environment and stuff like that."
+}

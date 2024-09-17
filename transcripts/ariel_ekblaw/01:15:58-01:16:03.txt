@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:15:58",
+  "End": "01:16:03",
+  "Text": ", I think there's a great book by Kate darling, who's one of my colleagues that"
+}

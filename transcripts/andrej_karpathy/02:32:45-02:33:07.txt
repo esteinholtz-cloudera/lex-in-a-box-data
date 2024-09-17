@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:32:45",
+  "End": "02:33:07",
+  "Text": "in that case, it wasn't fundamental and I think things can improve. But yeah, I think humans have to supervise. I am nervous about people not supervising what comes out and what happens to, for example, the proliferation of bugs in all of our systems. I'm nervous about that, but I think there will probably be some other copilots for bug finding and stuff like that at some point because there will be like a lot more automation for"
+}

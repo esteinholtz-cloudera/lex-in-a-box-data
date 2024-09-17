@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:41:19",
+  "End": "02:42:00",
+  "Text": ", the, the, I mean, my apologies but mit mind and hand, I love that there's uh the root of philosophy that you gain from your mom. And the hand that action is all that ultimately in the end matters from your dad, that's, that's really powerful. If we could take a small detour into philosophy. Is there by chance any books,, whether philosophical or not, you mentioned Satre that stand out to you that were formative in some small or big way that perhaps you would recommend to others, maybe when you were very young or maybe later on in life. Well,"
+}

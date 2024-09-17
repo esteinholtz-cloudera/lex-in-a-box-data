@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:02",
+  "End": "00:54:19",
+  "Text": "the difference in flat space and asymptotic Sitter space? So flat space is just an approximation of like the world we live in. So like the Sitter space asymptotic, I wonder what that even means, meaning like asymptotic over"
+}

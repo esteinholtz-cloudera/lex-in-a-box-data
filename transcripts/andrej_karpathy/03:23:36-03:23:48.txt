@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:23:36",
+  "End": "03:23:48",
+  "Text": "always like some fun side projects. Um Archive sanity is one the basically like there's way too many archive papers. How can I organize it and recommend papers and so on. Uh I transcribed all of your podcasts. What"
+}

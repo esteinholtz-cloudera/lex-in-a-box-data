@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:37",
+  "End": "02:13:54",
+  "Text": "you think? Do you think neon thats can have long term memory? that approach is something like humans. Do you think you do? Do you think there needs to be another meta architecture on top of it to add something like a knowledge base that learns facts about the world and all that kind of stuff?"
+}

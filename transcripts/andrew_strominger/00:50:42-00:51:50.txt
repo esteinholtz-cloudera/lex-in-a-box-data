@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:50:42",
+  "End": "00:51:50",
+  "Text": ", um, Einstein's black holes is shorter black hole. They can't store information, stuff, stuff goes in there and it just keeps flying and it goes to the singularity and it's gone., Einstein's theory is not exact, it has corrections string theory tells you what those corrections are. so you should be able to find some way of some alternate way of describing the black hole that enables you understand the gigabytes are stored. what Hawking and Beckenstein really did was they showed that physics is inconsistent a black hole can store a, a number of gigabytes proportional to its area divided by four times constant times planks constant."
+}

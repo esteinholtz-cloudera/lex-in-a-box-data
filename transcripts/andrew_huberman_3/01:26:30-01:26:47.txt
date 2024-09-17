@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:30",
+  "End": "01:26:47",
+  "Text": "very fortunate to have a lot of leverage to where I have completely resist the pressure. But I, I'm very sure that there's young faculty that with that subtle pressure um"
+}

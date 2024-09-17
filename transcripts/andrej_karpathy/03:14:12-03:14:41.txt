@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:14:12",
+  "End": "03:14:41",
+  "Text": "of course, I think in biology as an example, the vital question is a good one. Anything by Nick Lane? Really? Uh Life ascending I would say is like a bit more potentially uh representative is like a summary a lot of the things he's been talking about. I was very impacted by the selfish gene. I thought that was a really good book that helped me understand altruism as an example and where it comes from. And just realizing that, you know, the selection is on a level of genes was a huge insight for me at the time and it sort of like, cleared up a lot of things for me. What do you think"
+}

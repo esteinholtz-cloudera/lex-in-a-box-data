@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:31:29",
+  "End": "02:31:46",
+  "Text": "copilot really, I mean, it's it's autopilot for programming, right? And currently is doing the link following which is like the simple copy paste and sometimes suggest. But over time it's going to become more and more autonomous. so the same thing will play out in not just coding, but actually across many, many different things. Probably"
+}

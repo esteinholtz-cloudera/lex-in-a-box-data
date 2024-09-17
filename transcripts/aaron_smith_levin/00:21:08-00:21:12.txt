@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:08",
+  "End": "00:21:12",
+  "Text": ". And what do you do now in terms of scientology?"
+}

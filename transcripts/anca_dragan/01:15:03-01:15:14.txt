@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:15:03",
+  "End": "01:15:14",
+  "Text": "optimal behavior that is actually optimal. I mean, I guess the idea of unintended consequences, it's optimal respect to what you specified, but it's not what you want there's a difference between those,"
+}

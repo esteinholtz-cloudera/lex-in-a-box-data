@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:10:42",
+  "End": "01:11:20",
+  "Text": "itself, it limits itself, you know, it's planted its seeds in a number of places. So it's not vulnerable to a single point failure, right? going off near one of these stars or something or an asteroid or a comet coming in from the art cloud equivalent of that planetary system. And without warning, you know, thrashing them to bits. So they've got their seeds in a bunch of places, but they chose not to colonize, colonize the galaxy. And they also choose not to interfere with this incredibly prevalent primitive organism, Homo Sapiens, right? Or"
+}

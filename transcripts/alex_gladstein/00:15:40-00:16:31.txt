@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:15:40",
+  "End": "00:16:31",
+  "Text": "violence is a fundamental difference. don't know. I, I, um, I've gotten the chance to have dinner with Alex Jones and, uh, I've, I've talked to him a few times offline and it does, I understand why people are so off put by him, it does bother me that he's universally removed from every platform. feels like there's many more people, bad people compared to Alex Jones who still are given a voice on these platforms. And so I'm uncomfortable with the universality of the application of the censorship by, uh, by these platforms, but on the flip side, you're right. There's not a violence, there's not tanks, there's not guns behind that censorship."
+}

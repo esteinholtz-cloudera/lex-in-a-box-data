@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:17",
+  "End": "02:56:34",
+  "Text": ". What, what do you think about the meeting between Khamenei and Vladimir Putin in July? that alliance? What's that partnership? Is it surface level geopolitics or is there a deep growing connection?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:52:24",
+  "End": "00:52:33",
+  "Text": "now as a civilization ready to be a teenager, venturing out into college, we're returning back. Exactly."
+}

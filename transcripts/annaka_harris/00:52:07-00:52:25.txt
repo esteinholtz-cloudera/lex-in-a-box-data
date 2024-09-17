@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:52:07",
+  "End": "00:52:25",
+  "Text": ". Yes, I feel like mainstream science has never been mainstream and it's always a struggle for science to become mainstream. It's part of the reason why I started doing the work I did actually helping scientists make their work more accessible is that usually not. Yeah, it's usually not. Here's"
+}

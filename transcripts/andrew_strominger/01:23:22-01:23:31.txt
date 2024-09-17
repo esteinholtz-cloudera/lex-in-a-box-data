@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:23:22",
+  "End": "01:23:31",
+  "Text": ", in service of physics. But then of course, in the, the heat of it, it has its own appeal and uh in the heat"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:38",
+  "End": "00:40:58",
+  "Text": "vulnerability. It's really interesting that I think of like being pushing back, being assertive the only mechanism of of forming a connection of gaining respect. But perhaps vulnerability, perhaps there's other mechanisms that are less threatening is"
+}

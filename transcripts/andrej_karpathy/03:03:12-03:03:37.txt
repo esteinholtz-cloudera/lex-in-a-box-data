@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:12",
+  "End": "03:03:37",
+  "Text": ", it's hard in a way, like a turing test. The original intent of the turing test is hard because you have to convince humans and there's nothing, that's why, why when comedians talk about this, like, there's, this is deeply honest because if people can't help but laugh and if they don't laugh, that means you're not funny, they laugh, that's funny. And you're"
+}

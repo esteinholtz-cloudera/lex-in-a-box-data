@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:50",
+  "End": "01:14:22",
+  "Text": "if you narrow the definition of the group or in the size of the group enough, you'll, you'll be able to address their individual, it's not individual needs, but really the group, most important group needs, right? And that's kind of what a lot of successful recommender systems do. Spotify and on. So, it's sad to believe. But I'm as a music listener, probably in some sort of large group. It's very sadly predictable. Yeah. I've been labeled and successfully so, because they're able to recommend stuff that I, yeah, but"
+}

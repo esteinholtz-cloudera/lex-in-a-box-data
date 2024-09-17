@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:32:57",
+  "End": "01:33:19",
+  "Text": "should people be afraid? I don't think people should be afraid, but with a caveat, I don't think people should be afraid. Given that most of us in this world understand that we need to change something, right? So that now if things don't change, be very afraid,"
+}

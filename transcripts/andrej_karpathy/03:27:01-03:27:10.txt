@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:01",
+  "End": "03:27:10",
+  "Text": "then there'd be some voting mechanism like how do you have a ne like? Would there be a show on Netflix as generated completely automated,"
+}

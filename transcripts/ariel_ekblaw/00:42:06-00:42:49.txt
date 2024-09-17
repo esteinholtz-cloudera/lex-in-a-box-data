@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:42:06",
+  "End": "00:42:49",
+  "Text": "body as the recycling system and then you drink what you peed out as you know, clarified refined fresh water. The next day, that is one source of water, source of water in the near neighborhood of our solar system would be on the moon. So water ice deposits, there's also water on Mars. This is one of the big things that's bringing people to want to develop infrastructure on the moon is once you've gotten out of the gravity well of earth, if you can find water on the moon and refine it, you can either make it into propellant or drinkable water for humans. And so that's really valuable as a potential gateway out into the rest of the solar system to be able to get propellant without always having to ship it up from earth."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:23",
+  "End": "02:08:32",
+  "Text": ", I think I feel like you said that it's not that important, I guess for the future of A I development. Is that, is that correct to interpret that way? I"
+}

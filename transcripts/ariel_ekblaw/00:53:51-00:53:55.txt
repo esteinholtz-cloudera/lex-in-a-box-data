@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:51",
+  "End": "00:53:55",
+  "Text": "what are the negative effects of radiation on the human body out in space? A higher"
+}

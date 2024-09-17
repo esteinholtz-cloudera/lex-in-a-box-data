@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:33",
+  "End": "00:44:38",
+  "Text": "always going to be wrong, but hopefully a little bit less wrong every time."
+}

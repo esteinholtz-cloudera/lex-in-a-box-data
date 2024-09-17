@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:38:49",
+  "End": "03:39:37",
+  "Text": ", I'm OK asking about your past you've really carefully thought about that aspect of it. And we didn't really talk about your past outside of the things you've written about. And I've really thought about like, there's like with most conversations you'll start talking about past stuff, that's the stuff that's actually bothering you. You still probably have not written a blog post about. All right, there's probably still stuff like maybe it's more recent, like the last few months, the last couple of years,, that's usually what will come up with conversation and just,, it's good. It's good but it's not as deep and I would say it's not as intimate as talking about the actual in your mind and how you interact with the world."
+}

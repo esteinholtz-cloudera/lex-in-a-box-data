@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:20",
+  "End": "00:16:46",
+  "Text": "interesting. And I agree with that, but it's a beautifully put live in a world where most courses and talks have slides, powerpoint keynote. And yet you famously often still use a marker and a whiteboard. The simplicity of that is compelling and for me, at least fun to watch. So let me ask, why do you like using a marker and whiteboard? Even on the biggest of stages,"
+}

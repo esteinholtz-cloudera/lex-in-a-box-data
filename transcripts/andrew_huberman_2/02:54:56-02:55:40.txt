@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:54:56",
+  "End": "02:55:40",
+  "Text": "I also know a little bit, I have some glimpse into the fact that you put your heart and soul into everything you do. You're not a, you're lighthearted about certain things, but you're even lighthearted about being full gas pedal 24 7. There's kind of this, you know, was it, um, it Laird Hamilton always says, you know, the big wave surfers, he always says, you know, um, bright light, dark shadow, you know, and I think it's that intensity and when you do that and then suddenly people are starting to like, throw some paint on your picture, you're like, wait, hold, you know, you're going max capacity. But I think the company is an interesting one because you've talked about doing this company before."
+}

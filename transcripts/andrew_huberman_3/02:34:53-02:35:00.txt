@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:53",
+  "End": "02:35:00",
+  "Text": "anxiety., what is that? And can it be leveraged for"
+}

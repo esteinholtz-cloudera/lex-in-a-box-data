@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:47:04",
+  "End": "03:47:10",
+  "Text": ". So you're concerned about the existential risks of CG BT"
+}

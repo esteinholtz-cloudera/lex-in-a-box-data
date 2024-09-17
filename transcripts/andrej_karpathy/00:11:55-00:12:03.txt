@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:55",
+  "End": "00:12:03",
+  "Text": "anything. They, they're an agent in a multi agent self place system that's been running for a very, very long time"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:29",
+  "End": "00:20:37",
+  "Text": "then about seven years ago I got out and you're on what youtube channel now? And you're an educator."
+}

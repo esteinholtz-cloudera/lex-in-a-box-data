@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:30",
+  "End": "01:28:43",
+  "Text": "actually zoom out because I don't think we talked about the data engine, the entirety of the layout of this idea that I think is just beautiful with humans in the loop. Can you describe the data engine? Yeah,"
+}

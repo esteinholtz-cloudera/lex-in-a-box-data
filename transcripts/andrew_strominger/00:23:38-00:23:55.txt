@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:38",
+  "End": "00:23:55",
+  "Text": "the corrections are for uh Maxwell's equations is when you get super tiny and then the corrections for the um for Newton's laws of gravity is when you get super big that, that, that's when you require"
+}

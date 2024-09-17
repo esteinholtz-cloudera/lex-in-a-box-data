@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:23",
+  "End": "01:39:36",
+  "Text": "deeply felt memoir of a life lost to false belief and courageously regained Lawrence. Wright, billion years might escape from a life in the highest ranks of Scientology. Mike Rinder,"
+}

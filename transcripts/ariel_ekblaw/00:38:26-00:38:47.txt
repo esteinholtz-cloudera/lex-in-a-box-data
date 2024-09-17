@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:38:26",
+  "End": "00:38:47",
+  "Text": "some interstitial time because you really can only go between Earth and Mars at certain points in their orbits where it's favorable to make that journey. And so part of that three years is you take the journey to Mars a few months, 6 to 9 months, you're there for a period of time until the orbits find a favorable alignment again. And then you come back another 6 to 9 months. So"
+}

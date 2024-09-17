@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:03:25",
+  "End": "01:03:28",
+  "Text": "culture and the faith based aspects. Exactly right."
+}

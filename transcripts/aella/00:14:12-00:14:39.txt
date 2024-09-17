@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:12",
+  "End": "00:14:39",
+  "Text": "is reality. Not everything maps perfectly into a Twitter poll, but in this case, because there's four options and it is a small number of characters. It does. But I'd like to think I am more interested. You know what think your Twitter polls are fundamentally interesting. There's something about the, the brevity of a poll limiting to a set of choices and having an existential crisis and searching for the answer. That's beautiful. That"
+}

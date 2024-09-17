@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:47:22",
+  "End": "02:47:31",
+  "Text": "always making fun of the meat heads. I love it. Um, I put myself in the meat head category only because I don't do a real sport. Now, I work out and I run, um, which is"
+}

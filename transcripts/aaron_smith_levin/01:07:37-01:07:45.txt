@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:07:37",
+  "End": "01:07:45",
+  "Text": "current leader of Scientology. He was actually not selected by L Ron Hubbard to take over but ended up usurping power and taking over."
+}

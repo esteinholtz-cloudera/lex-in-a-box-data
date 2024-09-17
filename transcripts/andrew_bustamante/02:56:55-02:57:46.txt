@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:55",
+  "End": "02:57:46",
+  "Text": "take your point. It's a powerful psychological point. But I looking at the other picture of it, looking at the police force, looking at the CIA, the NSA people and now with the, with the police, they're seen there's such a negative feeling amongst Americans towards these institutions who the hell wants to work for the CIA now and the police force, like that's, you're going to be criticized. that's a, I mean, that's really bad for the CIA. It's terrible, like, as opposed to being seen as a hero. Like, for example, currently, uh, soldiers are for the most part seen as heroes that are protecting this nation. Um, not the case for the CIA."
+}

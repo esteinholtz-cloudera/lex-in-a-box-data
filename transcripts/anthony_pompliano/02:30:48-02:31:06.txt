@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:48",
+  "End": "02:31:06",
+  "Text": "he could be talking about Bitcoin, he could be talking about Cryptocurrency, but that's not going to be as beautifully humorous and whatever the hell internet culture is as Dogecoin, he's finding the right language. He's speaking the language of the people the, of the in the digital age. If you"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:06:13",
+  "End": "03:06:23",
+  "Text": "Sergei wants to ask you about sex performance. very journalistic, very hardcore hitting questions that we have here in the"
+}

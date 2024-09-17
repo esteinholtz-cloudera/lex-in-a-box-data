@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:55",
+  "End": "01:34:27",
+  "Text": "Steven. That's awesome to me. Forget physics, forget all that cellular automata no sense. They're so beautiful. They're from simple rules. You can create complexity. I just don't think he wrote a book, a new kind of science. hinting at which a lot of people have hinted as. We don't have a good way to talk about these objects. We can't figure out what is happening here. These simple, these trivial rules can create incredible"
+}

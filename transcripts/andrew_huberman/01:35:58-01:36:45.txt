@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:35:58",
+  "End": "01:36:45",
+  "Text": "abstractions are different than mine. I actually think the comment section you know, on, on social media is a beautiful example of where the abstractions are different for different people. So much of the misunderstanding of the world is because of these a these ideas fields, they're not the same. Whereas I can look at a photo receptor neuron or a factory neuron or a V one neuron and I am certain I would bet my life that yours look and respond exactly the same way that Lisa's do and mine do. But once you get beyond there, it gets tricky. And so when you say something or I say something and somebody gets upset about it or even happy about it, their concept of that might be quite a bit different. They don't really know what you mean. only know what it means to them."
+}

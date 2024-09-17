@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:09:31",
+  "End": "01:09:36",
+  "Text": "not sure I'm understanding the connection between those two things. But"
+}

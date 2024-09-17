@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:44",
+  "End": "01:30:01",
+  "Text": "guess this way, it's exciting. You don't know if we're going to be able to pull this off, that we could fail miserably. And that, I suppose, I mean, that's where the best of engineering is done is success is not guaranteed. And even if it happens, it might be very painful."
+}

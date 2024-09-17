@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:01",
+  "End": "03:30:24",
+  "Text": "kind of the ultimate at least first way to sneak up to the why question is to try to escape the system, the universe. And then for that, sort of uh backtrack and say, OK, for that, that's going to be take a very long time. So the wide question boils down from an engineering perspective to how do we"
+}

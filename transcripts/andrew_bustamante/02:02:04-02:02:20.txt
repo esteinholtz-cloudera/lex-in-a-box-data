@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:02:04",
+  "End": "02:02:20",
+  "Text": ", that's so to speak to that. Um, know, I take security pretty seriously but not to the degree that, you know, it runs my life, which I'm very careful about."
+}

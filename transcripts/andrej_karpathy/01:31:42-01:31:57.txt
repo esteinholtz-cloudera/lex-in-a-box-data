@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:42",
+  "End": "01:31:57",
+  "Text": "there some insight you can draw from your individual experience that you just can't quite get from an aggregate statistical analysis of data. It's so weird. right?, it's not scientific in a sense because you're just one anecdotal sample."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:15",
+  "End": "01:24:10",
+  "Text": "like the immune system. It does a lot of crappy stuff. But overall, it's a, it's a major net positive. this is a bit of a personal question for me just out of my own curiosity. But I've talked to Ray Dalio a few times. So Ray Dalio I think was one of those people that took that journey. The Bitcoin journey. Do you have thoughts about him specifically about that whole world and about the journey, maybe of others that are going through the same process because Ray is least from my perspective, I'm a bit of an outsider. He's one of the most insightful and deep thinkers about investment, about finance, about economics in general. Actually, about life. So it's interesting to see him go on that journey. Do you have something in common about Ray or just those kinds of people in general? So,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:16:51",
+  "End": "02:17:00",
+  "Text": "2024 basically is the supply shock. And within you know, 18 to 24 months, you would see the uh the the kind of top of the next"
+}

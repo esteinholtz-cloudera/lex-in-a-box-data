@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:27",
+  "End": "00:37:31",
+  "Text": "some deep aspect of love is the history you have together."
+}

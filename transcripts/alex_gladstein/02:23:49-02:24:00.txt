@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:23:49",
+  "End": "02:24:00",
+  "Text": "being, it sounds silly to say, but I remember being really uncomfortable that I was dependent on my parents a young age for like"
+}

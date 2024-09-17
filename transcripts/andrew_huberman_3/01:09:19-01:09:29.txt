@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:19",
+  "End": "01:09:29",
+  "Text": "love. Ok. So 100%. And it's, I mean, especially here in Austin, Texas, people are so, amazing. I go just hugs and just, I love people. But do you"
+}

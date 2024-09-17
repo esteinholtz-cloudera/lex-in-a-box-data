@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:13",
+  "End": "01:26:30",
+  "Text": "your life has been a great journey from teaching to research to entrepreneurship. Two questions. One are there regrets moments that if you went back, you would do differently. And two are there moments? You're especially proud of moments that made you truly happy."
+}

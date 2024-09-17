@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:55",
+  "End": "01:30:28",
+  "Text": "role do humans play in this? So what's this biological system like a human body is made up of cells? What role, how do you optimize the human system? The multiple engineers collaborating, figuring out what to focus on what to contribute, which task to optimize in this neural network who's in charge of figuring out which task needs more data. can you can you speak to the hyper parameters of the human uh system?"
+}

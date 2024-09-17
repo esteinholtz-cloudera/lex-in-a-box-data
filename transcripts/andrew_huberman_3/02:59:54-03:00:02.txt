@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:59:54",
+  "End": "03:00:02",
+  "Text": "so whenever I'm in New York, and there's also one in San Francisco, though the one in San Francisco is, is clothing optional. Just to warn people, there's a place called Archimedes baa"
+}

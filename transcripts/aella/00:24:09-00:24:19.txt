@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:24:09",
+  "End": "00:24:19",
+  "Text": ", I mean, it might be more useful shorthand like morality, I don't think morality makes any sense, but it's really useful shorthand to use when handling concepts and a lot of the time,"
+}

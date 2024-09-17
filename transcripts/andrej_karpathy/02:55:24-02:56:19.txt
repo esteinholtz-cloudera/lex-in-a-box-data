@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:55:24",
+  "End": "02:56:19",
+  "Text": "be a lot of actual fascinating ethical questions like Supreme Court level questions of whether you're allowed to turn off a conscious A I, if you're allowed to build the conscious A I, uh maybe there would have to be the same kind of debates that you have around. sorry to bring up a political topic. But abortion, which is the deeper question with abortion is what is life and the deep question with A I is also what is life and what is conscious? And I think that'll be very fascinating bring up. It might become illegal to build systems that are capable of such a level of intelligence that consciousness would emerge and therefore the capacity to suffer would emerge. And some a system that says, no, please don't kill me."
+}

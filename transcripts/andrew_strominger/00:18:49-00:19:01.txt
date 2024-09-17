@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:49",
+  "End": "00:19:01",
+  "Text": "then, why do you think Einstein believe his own equations? And didn't think that black holes are real well, why was that such a difficult idea for him?"
+}

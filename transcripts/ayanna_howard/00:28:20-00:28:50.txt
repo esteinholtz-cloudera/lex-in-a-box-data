@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:20",
+  "End": "00:28:50",
+  "Text": "right. And I think burden is the wrong word if it's a gift, but you have to treat it extremely seriously. Correct a slightly related note in a recent paper, the ugly truth about ourselves and our robot creations, you discuss, you highlight some biases that may affect the function of various robotic systems. Can you talk through if you remember examples of some, there's a lot of examples. What is bias? First of all?"
+}

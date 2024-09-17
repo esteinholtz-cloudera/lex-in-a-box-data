@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:33:35",
+  "End": "01:33:55",
+  "Text": ", I did um an episode on attachment um but not on relationships. The, the series with conti includes one episode of the four. That's all about relational understanding and how to select a mate based on matching of drives and all"
+}

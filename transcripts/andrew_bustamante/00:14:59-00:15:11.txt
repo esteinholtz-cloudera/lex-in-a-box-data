@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:59",
+  "End": "00:15:11",
+  "Text": "of that communication between the president and the CIA could be fixed to, help um fix the problems that you're referring to in terms of the decline of American power."
+}

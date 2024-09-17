@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:02:59",
+  "End": "03:03:13",
+  "Text": ". I think that's actually a wonderful benchmark almost like, is it able, I think that's a really good point basically to make you laugh. Yeah. If it's able to be like a very effective stand up comedian that is doing something very interesting. Computationally, I think being funny is extremely hard."
+}

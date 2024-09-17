@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:09:00",
+  "End": "01:10:20",
+  "Text": ", very much. So, um you know, starting a company to most entrepreneurs is a, is a really lonely thing I've seen so many entrepreneurs not know how to make a certain decisions. Like when, when, when do you need to uh how do you do B to B sales? Right? If you don't know that this is really hard or how do you market this efficiently other than, you know, buying ads which is really expensive, are more efficient tactics that or uh for machine learning project, you know, basic decisions can change the course of whether machine learning product works or not. so there are so many hundreds of decisions that entrepreneurs need to make and making a mistake in a couple of key decisions can have a huge impact uh on, on the fate of the company. So I think a start of studio provides a support structure that makes starting a company much less of a lonely experience. And also um when facing with these key decisions, like trying to hire your first uh VP of engineering, good selection criteria? How do you solve? Should I hire this person or not? By helping by, by having our ecosystem around the entrepreneurs, the founders to help. I think we help them at the key moments and hopefully significantly um make them more enjoyable and then higher success rate. So there's"
+}

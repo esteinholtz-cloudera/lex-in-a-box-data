@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:54:54",
+  "End": "00:56:07",
+  "Text": "in trip force you this for if you've ever been in those carnival rides, the gravitron that spin you up around the side. That's the concept. And this is actually one of the reasons why we are spinning out a new company from my mit lap spinning out. That was accidental but well noted Space Punts, it could possibly do it. Um But yeah, we're spinning out a new company to look at next generation space architecture. how do we actually scale humanity's access to space? And one of the areas that we want to look at is artificial gravity. Is there a name yet? Yep. There's a name. We are brand new. We are just exiting stealth mode. So your podcast listeners will literally be among some of the first to hear about it. called Aurelia Institute. Aurelia is an old English word for chrysalis. And the idea with this is that we humanity collectively are at this next stage of our metamorphosis like a chrysalis into a spacefaring species. And so we felt that this was a good time, a necessary time to think about next generation space architecture, but also Starfleet Academy, if you know that reference from Star Trek."
+}

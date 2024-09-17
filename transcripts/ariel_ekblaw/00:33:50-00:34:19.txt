@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:33:50",
+  "End": "00:34:19",
+  "Text": "flown nine times on the affectionately known as the Vomit comet. the parabolic flight and essentially it does what you'd want a plane never to do. It pitches really steeply upwards at 45 degrees. Yeah. That's right. That's super early in my phd some of just the passive tiles before we even put electronics in, we were just testing the magnet polarity. And the essentially is it an energy favorable structure to self assemble on its own? So we tweaked a lot of things between,"
+}

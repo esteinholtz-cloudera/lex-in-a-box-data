@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:09:25",
+  "End": "00:10:13",
+  "Text": ". Or it could be the same laws, could be the same underlying laws of physics. You know, it's a machine uh created or it's, it's a creature created in a quantum mechanical way. It just ends up in a very, very different place to the one we end up in. So, so part of the preoccupation with annihilation was to come up with an alien that was really alien and didn't give us it, it didn't give us and we didn't give it any kind of easy connection between human and the alien because I, I think it was to do with the idea that you could have an alien that landed on this planet that wouldn't even know we were here and we might only glancingly know it was here. There'd just be this strange where the Venn diagrams connected where we could sense each other or something like"
+}

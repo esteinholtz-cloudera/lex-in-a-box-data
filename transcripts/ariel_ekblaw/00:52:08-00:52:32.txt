@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:52:08",
+  "End": "00:52:32",
+  "Text": "even after one or two parabolic flights. You can gain a certain facility with moving in that environment. think most astronauts would say maybe several days on station or a week on station and their brain flips. It's amazing the plasticity of the human brain and how quickly they are able to adapt and so pretty quickly they become creatures of this new environment."
+}

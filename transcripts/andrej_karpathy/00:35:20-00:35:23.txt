@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:35:20",
+  "End": "00:35:23",
+  "Text": "source of pleasure solving in the universe?"
+}

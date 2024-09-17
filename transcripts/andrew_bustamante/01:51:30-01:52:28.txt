@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:51:30",
+  "End": "01:52:28",
+  "Text": ", I don't think there's a lot of good data in personalities writ large because there's not a lot of money to be made in personality testing. But I would say that there's uh that with, with experience a good M BT I test with a good paid test, a 405 100 question test, once you understand your own code and then you're, you're taught how to assess the code of others with those two things kind of combined because then you have experience and learning, uh it's, becomes very useful and you can have high confidence in this, in the conclusions that you reach about people's professions, about uh people's relationships with family, about people's relationships, professionally, people's capabilities to deal with stress, uh how people will perform uh when pushed outside of their comfort zones, really, really powerful, useful stuff in corporate world and in the espionage world."
+}

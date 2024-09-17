@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:02:27",
+  "End": "01:02:46",
+  "Text": ", I know you've had a long standing interest in to him, I think now, you know, uh, well, the I don't understand um how would sit down and have a conversation with somebody like that, but that's not in, in the range of my skill sets, right? I, or"
+}

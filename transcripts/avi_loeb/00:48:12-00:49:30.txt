@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:48:12",
+  "End": "00:49:30",
+  "Text": ", because uh there, OK. So first of all, you know, the solar system, the outermost edge of the solar system is called the old cloud. It's a cloud of rocks um of different sizes that were left over from the formation of the solar system. And uh it, it's thought to be roughly a ball or a sphere. Um And it's halfway the extent of it is roughly halfway to the nearest star. OK. So you can imagine planetary system basically touching uh the old clouds of those stars that are near us are touching each other. Space is full of these billiard balls that are very densely packed. And what that means is any object that you see, irrespective of whether it came from the local standard. So we said that this object is special because it came from a local standard of rest. But even if it didn't, would never be able to trace where it came from because these old clouds overlap. So if you take some direction in the sky, you will cross many stars as you have in that direction, there is no way to tell which old cloud it came from."
+}

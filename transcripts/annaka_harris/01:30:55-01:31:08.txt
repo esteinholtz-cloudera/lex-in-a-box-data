@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:30:55",
+  "End": "01:31:08",
+  "Text": ". I believe that. And I also think um whatever the truth is, we have to find a way to civil society and love and all the things that are important to us if"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:54:37",
+  "End": "00:55:52",
+  "Text": "much cruelty and brutality is happening at this very moment. And I would put climate change higher up on that list because I believe that there are unforeseen discoveries that we are making right now. For instance, all that methane that's coming out of the ocean floor that was because of the permafrost, which is now melting. Uh You know, I think there are other effects besides our greed and short term thinking. Uh you know that we are triggering now with all the greenhouse gasses we're putting into the atmosphere. And that worries me day and night. I think about it every single moment really because I really think we, that's how we have to be. We have to to really focus on how grave the challenge is to our civilization uh to the other species that are, a, this is a mass extinction event that we're living through and we're seeing, we're seeing news of it every day."
+}

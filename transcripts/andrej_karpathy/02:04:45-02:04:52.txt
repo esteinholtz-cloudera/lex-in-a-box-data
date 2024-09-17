@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:45",
+  "End": "02:04:52",
+  "Text": "on them though, right? Strong paper like paper that focus on like how do we learn small amount of data,"
+}

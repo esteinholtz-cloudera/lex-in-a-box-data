@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:23",
+  "End": "00:15:11",
+  "Text": ". You mentioned we should be humble. Also in the sense with the analogy to ants that they might be better than us. there's a kind of scale that we're talking about. And in the question, you mentioned the word sentient, so sentient or maybe the more basic formulation of that is consciousness, do you think Do you think that this thing within us, humans, in terms of the typical life form of consciousness is the essential element that permeates if there's other alien civilizations out there, that they have something like consciousness as well? Or is this, I guess I'm asking, can you try to untangle the word sentient?"
+}

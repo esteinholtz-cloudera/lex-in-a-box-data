@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:15",
+  "End": "01:51:37",
+  "Text": ". And uh the interesting thing about kind of preparing for the solo episode, uh just interacting with Rick about that process of preparation. And you mentioned with interviews, by the way, you do solo solo, you're the only one in the room or no?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:36",
+  "End": "02:00:42",
+  "Text": ", sorry. What does making facial expression have to do with saying goodbye? Well,"
+}

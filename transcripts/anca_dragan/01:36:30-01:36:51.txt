@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:30",
+  "End": "01:36:51",
+  "Text": "mean, how do you make sense of these multiverses? Are you inspired by the immensity of it? Do you, mean, you can, is there um, is, is it amazing to you or is it almost paralyzing in this, in the mystery of it?"
+}

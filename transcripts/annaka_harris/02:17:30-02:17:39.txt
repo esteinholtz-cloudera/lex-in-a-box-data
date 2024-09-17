@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:30",
+  "End": "02:17:39",
+  "Text": ". But I think causality is a trick, trickiest one trickier one time is a tricky one to like"
+}

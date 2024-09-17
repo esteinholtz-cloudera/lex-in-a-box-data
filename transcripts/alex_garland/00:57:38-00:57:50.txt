@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:57:38",
+  "End": "00:57:50",
+  "Text": "yeah, but, but, but that yes, but essentially what you just described that the yes forwards and yes backwards, but you might get a slightly different result, very different result"
+}

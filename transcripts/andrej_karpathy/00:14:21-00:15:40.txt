@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:21",
+  "End": "00:15:40",
+  "Text": "explanations would be interesting. One is that this is just a continuation of the same kind of process. There's nothing special about humans. That would be deeply understanding, that would be very interesting that we think of ourselves as special. But it was obvious it was already written in the code that you would have and greater intelligence emerging. And then the other explanation, which is something truly special happened, something like a rare event, whether it's like crazy rare event like a space Odyssey. What would it be? See if you say like the invention of fire as Richard Wrangham says, the beta males deciding a clever way to kill the alpha males by collaborating. So just optimizing the collaboration, really the multi agent aspect of the multi agent and that really being constrained on resources and trying to survive collaboration aspect is what created the complex intelligence. But it seems like it's a natural outgrowth of the evolutionary process. What could possibly be a magical thing that happened like a rare thing that would say that humans are actually human level intelligence is actually a really rare thing in the universe."
+}

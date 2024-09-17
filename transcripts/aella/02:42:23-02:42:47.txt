@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:42:23",
+  "End": "02:42:47",
+  "Text": ".. One of the interesting things I found, I mean, this data set is so huge, it's taking me a long time to go through it. So this is like snippets from what I remember when I was glancing through the data. So this part is not rigorous, but I seem to get the impression that um if you are a fetish occurs for you earlier, like if you've much earlier onset, you're more likely to report being extremely interested into it. So later onset means you're going to be like less into the fetish. But if it hits earlier"
+}

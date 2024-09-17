@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:02:47",
+  "End": "02:03:14",
+  "Text": "people are also very negative and very vocal. So they're very prominently featured. But actually, there's a ton of people who are cheerleaders, but they're silent cheer cheerleaders. And uh when you talk to people just in the world, they will tell you. It's amazing. It's great, especially like people who understand how difficult it is to get the stuff, working who have built products and makers, entrepreneur, entrepreneurs, like making this work and changing something is, is incredibly hard. Those people are more likely to cheerlead you."
+}

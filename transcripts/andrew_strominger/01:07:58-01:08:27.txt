@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:07:58",
+  "End": "01:08:27",
+  "Text": "a black hole store information on a holographic plate. think we do understand in in great mathematical detail and also intuitively and it's very much like an ordinary where you have a holographic plate and you sh it contains all the information you shine a light through it and you get an image which looks three dimensional."
+}

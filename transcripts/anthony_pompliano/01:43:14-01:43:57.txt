@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:14",
+  "End": "01:43:57",
+  "Text": "I think the world is waiting and some of us are trying to create that future world, which is like, what are the applications of this technology that will transform the world. And then, you know, I hate the term but killer apps like cool ideas that are implemented effectively at scale that transform the world. And there's been a, been a lot of different ideas popping up. Like there's a lot of ideas about social networks that are built on top of the technology and all that kind of stuff. But let me actually drag us back down to something basic. If a person wanted to buy Bitcoin store, Bitcoin, do they actually do it?"
+}

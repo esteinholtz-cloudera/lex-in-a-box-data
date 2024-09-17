@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:14",
+  "End": "01:03:26",
+  "Text": "if you don't particularly connect, if something feels off with the people, then stick to it. You know, that's a really important signal to consider."
+}

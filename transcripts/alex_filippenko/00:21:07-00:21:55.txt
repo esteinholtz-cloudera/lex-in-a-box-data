@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:21:07",
+  "End": "00:21:55",
+  "Text": "work, right? The principia, was based in part on Galileo's observations of balls rolling down inclined planes supposedly fall, falling off the leaning tower of Pisa. But that's probably apocryphal in any case, you know, um the, the the inquisition actually did the Roman Catholic church uh did, did history a favor, not that I'm condoning them, but they placed Galileo under house arrest and that gave Galileo time to publish, to assemble and publish the results of his experiments that he had done decades earlier. It's not clear he would have had time to do that, you know, had he not been under house arrest? And so Newton, of course, very much used Galileo's observations."
+}

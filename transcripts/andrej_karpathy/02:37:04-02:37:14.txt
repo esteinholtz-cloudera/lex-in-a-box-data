@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:04",
+  "End": "02:37:14",
+  "Text": "it has an official look to it. It feels like a pub, like it feels like a publication process. Yeah, it feels different than if you just put it in a blog post."
+}

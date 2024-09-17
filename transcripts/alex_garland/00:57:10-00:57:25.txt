@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:57:10",
+  "End": "00:57:25",
+  "Text": "you were able to do it, it would certainly have to be a quantum computer, something that worked in a quantum mechanical way in order to understand a quantum mechanical system. Uh I guess, but, but,"
+}

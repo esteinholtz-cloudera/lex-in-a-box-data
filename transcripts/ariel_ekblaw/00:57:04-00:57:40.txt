@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:57:04",
+  "End": "00:57:40",
+  "Text": "the hope. Yeah, is like the central challenge of microgravity to human reproduction. we do host a workshop every year at beyond the cradle, which is the space event that we run at MIT. And we always do one on pregnancy in space or motherhood or raising Children in space because there are huge questions. Um There have been a few mammal studies that have looked at reproduction in space. But there are still really major questions about how does it work? How does the fetus in microgravity if you were pregnant in space? And I think the near term answer is just going to be we need to be able to give humans a one g environment for that phase of our"
+}

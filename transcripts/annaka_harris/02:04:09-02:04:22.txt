@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:09",
+  "End": "02:04:22",
+  "Text": ", it's weird. So you've spoken with Don Hoffman a few times in his bookcase against reality. Maybe more than a few. There's a lot of fun ones was that one was was"
+}

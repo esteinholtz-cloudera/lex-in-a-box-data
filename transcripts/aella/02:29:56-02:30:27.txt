@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:29:56",
+  "End": "02:30:27",
+  "Text": ". I mean, depends on if you're like, hey, you can do whatever you want. But you and I are going to spend the rest. Like, we just, you're 80 years old and like, oh, we spent 60 years in a marriage together. We've never had sex with anybody else. I think that's like, awesome. That's what you want. That's great., I have like, a little bit more problems with people doing that while also forcing their partner not to misbehave if they want to., if you're like, oh, we only made it this far in my relationship because I forced my partner not to pursue an intimacy that she wanted to. Then I feel like a little more like, I don't know if that's great."
+}

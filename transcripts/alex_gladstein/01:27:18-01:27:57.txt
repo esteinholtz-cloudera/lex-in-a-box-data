@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:27:18",
+  "End": "01:27:57",
+  "Text": "wrong with Bitcoin and I've seen it, people fall for, I mean, in these different countries, I'm trying to talk to different people at Bitcoin and the amount of MLM schemes, pyramid schemes, Ponzi schemes, are just so many of them and there's plenty here too. But like in Zimbabwe, I was talking to this guy who is a reporter who studies the FX like the foreign currency exchange markets. He's just saying one of the main reasons people don't want to get into Bitcoin is because they've been scammed so hard by all these other things. So I would say that that's 11 way it could go wrong is that like people just continue to be like afraid of it because of things that are like that in the past that it's not"
+}

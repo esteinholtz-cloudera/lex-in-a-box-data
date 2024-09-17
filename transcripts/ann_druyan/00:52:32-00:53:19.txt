@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:52:32",
+  "End": "00:53:19",
+  "Text": ". And that, and that's one of my theories about our current situation that this is our adolescence and I was a total mess as an adolescent, I was reckless, irresponsible. Totally. I didn't, I was inconsiderate the reality of other people's feelings and the future didn't exist for me. So why should a technologically adolescent civilization be any different? But, you know,, the vast majority of people I know made it through that period and went on to be wise. And that's what my hope is for our"
+}

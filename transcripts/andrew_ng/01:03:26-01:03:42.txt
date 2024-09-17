@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:03:26",
+  "End": "01:03:42",
+  "Text": ", and actually I um in my standard class CS 230 as well as an AC M talk, I think I gave like a hour long talk on career advice, including on the job search process and some of these. So if you can find those videos online,"
+}

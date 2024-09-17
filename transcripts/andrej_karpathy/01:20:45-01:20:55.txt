@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:45",
+  "End": "01:20:55",
+  "Text": ". So the there's overlap between the cameras and you do the reconstruction and there's uh if there's any inaccuracy. So that's caught in the annotation step."
+}

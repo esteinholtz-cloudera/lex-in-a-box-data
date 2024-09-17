@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:27",
+  "End": "02:22:16",
+  "Text": "is a I mean, it's called the, the polyamory post. You have so many good blog posts. People, people should just go look at your uh your, read your writing because it's, it's really, really strong and often backed by data, but also just a deeply honest look at yourself and your understanding of the world. It's, it's like, it's,, it's, it's refreshing to be like with a lot of stuff I disagree with. But I feel like if I disagree with it, you'll be very open to arguing and, and kind of thinking through it. There's just the honesty that really is from the whole thing anyway. So, uh yeah, I mean, it would be interesting to kind of explore what polyamory, like how it works. What are the different versions? What is the, what is that freedom look like? What is it. What is that freedom feel like be able to go see other people?"
+}

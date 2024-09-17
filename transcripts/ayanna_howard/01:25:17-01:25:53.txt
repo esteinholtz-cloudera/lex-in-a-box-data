@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:17",
+  "End": "01:25:53",
+  "Text": "put just out of curiosity, Anki Gibbo Mayfield Robotics with the robot Curry sci fi works. We think robotics were all these amazing robotics companies led created by incredible roboticists and they've all went out of business recently. Why do you think they didn't last longer? Why is it so hard to run a robotics company? Especially one these, which are fundamentally hr hr I human robot interaction robots."
+}

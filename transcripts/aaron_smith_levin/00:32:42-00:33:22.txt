@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:32:42",
+  "End": "00:33:22",
+  "Text": "organization is the most dedicated version, the most dedicated brand of scientologists. So there's three like echelons of scientologists, there's public who just live normal lives in the real world and they pay to do scientology courses and auditing. Then there's staff members who also live in the real world. but work on 2.5 year contracts or five year contracts at their local Scientology organization. And then once they finish their contract, their, their debt is paid or whatever. And then there's the sea org members. These are the guys who signed the billion year contracts. They don't have lives in the outside world, they don't own property, they live in Scientology provided housing, they eat Ciento, they eat in Scientology run cafeterias. Is there an actual"
+}

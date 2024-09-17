@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:58:10",
+  "End": "00:58:23",
+  "Text": "do, I think so because you can take models and train with them ahead of time for instance, you can,"
+}

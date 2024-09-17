@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:07",
+  "End": "00:11:11",
+  "Text": "almost attracted to the questions you're not supposed to ask."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:09",
+  "End": "01:12:15",
+  "Text": "you're out in San Francisco, you should train with Mark Zuckerberg. He just started. So you guys get"
+}

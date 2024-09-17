@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:20:03",
+  "End": "03:20:19",
+  "Text": "advice you give advice to folks interested in machine learning and research. But in general life advice to a young person, high school, early college about how to have a career they can be proud of or a life they can be proud of."
+}

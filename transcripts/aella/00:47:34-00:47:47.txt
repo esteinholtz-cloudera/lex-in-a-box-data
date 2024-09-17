@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:34",
+  "End": "00:47:47",
+  "Text": "also assuming like there's causality in the universe, time is real. Yeah, that like that, first of all, the thing that your senses are perceiving is real, assuming a lot of things."
+}

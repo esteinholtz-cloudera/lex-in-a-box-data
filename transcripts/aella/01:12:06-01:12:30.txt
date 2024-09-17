@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:06",
+  "End": "01:12:30",
+  "Text": ". And uh actually on a small tangent, maybe a big tangent. What do you think? Because it's the recent controversy of Andrew Tate that he, I think in the past ran a camming business and he's being accused of sex trafficking. What do you think from your own experience? do you understand about you? Is he a good person? Is he a bad person? Is there something shady about his practices"
+}

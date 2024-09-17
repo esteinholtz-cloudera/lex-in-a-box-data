@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:52:05",
+  "End": "00:53:09",
+  "Text": "this guy doesn't go to school. He hasn't been to the school or he was not fully exposed to it and usually are very conservative places. So it stuck in my mind. Now, in recently, in 2004, I was traveling to the same area, not to the same city but to the same area. I was amazed to see how the youth soon as they would know that you are coming from somewhere. So conversation with you talking about the latest movies that was produced in the West. And it's not only Hollywood. Of course, there's a huge amount of fascination with Hollywood and Western cinema. Cinema is a major thing. Filmmaking is a major thing. So these kids in the city of Aar, asking me, we're having lunch, they're asking me OK. Then what do you think about this producer, not producer, this director or that actor American American European as well, but mostly American,"
+}

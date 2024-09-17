@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:36",
+  "End": "01:58:50",
+  "Text": "beyond. So like orbit and lose orbit like they are they like. So wow, and that starts to give you what can you possibly figure out mathematically about the black hole? Can you the geometry of it, the"
+}

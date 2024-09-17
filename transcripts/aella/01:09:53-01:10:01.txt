@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:53",
+  "End": "01:10:01",
+  "Text": "? Willingly or unwillingly because you also have to defend against that question being criticized later when you publish about it all that you have to think about it all."
+}

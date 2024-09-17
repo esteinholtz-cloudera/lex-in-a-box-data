@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:35",
+  "End": "00:52:58",
+  "Text": "you kind of follow? Oh I see. Don't you hit hint at a lead when you're following? Like, don't you? Just by the dynamics of your movement you're not perfectly following? I mean, because it is like the lead is listening to your body, right? So like kind of both figuring out what you do"
+}

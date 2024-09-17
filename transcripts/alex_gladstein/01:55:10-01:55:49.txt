@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:55:10",
+  "End": "01:55:49",
+  "Text": ", I'm not, I'm not sure but I'm, I'm hopeful as well. hopeful that if you look at the trend of technologies, they ultimately are ones that respect privacy, respect security and basic human rights. I mean, that's at least the hope, Gary Kasparov, I'm Russian. means a lot to me on a personal level. He is the chairman of a human rights foundation. does Gary have to do with anything? What's your relationship like with him? Do you like chess? What are his specific focuses and ideas on the HR F? Can you just speak to it in General."
+}

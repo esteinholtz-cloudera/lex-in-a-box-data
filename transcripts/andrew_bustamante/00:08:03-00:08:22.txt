@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:03",
+  "End": "00:08:22",
+  "Text": "there clear lines to be drawn between? Like you just said, the FBI, CIA FBI and the other us intelligence agencies like the Dia Defense Intelligence Agency, Department of Homeland Security National Security Agency. And there's a list, there's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:13:38",
+  "End": "02:13:55",
+  "Text": "know it's a fantastic question. I think love is one of those words that refers to a billion different concepts. And I think we maybe should just taboo the term to have a better understanding of what we're referring to because there's things like feeling intense attachment, there's something feeling soulfully aligned, there's sexual attraction, there's like are you talking"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:42:23",
+  "End": "02:42:47",
+  "Text": ", whatever helps you. So I do think to a large extent it's a psychological problem for yourself. Uh One other thing that I help that I think is helpful for the psychology of it is many times people compare themselves to others in the area. I think it is very harmful. Only compare yourself to you from some time ago. Like, say a year ago, are you better than you a year ago is the only way to think., and I think this, then you can see your progress and it's very motivating."
+}

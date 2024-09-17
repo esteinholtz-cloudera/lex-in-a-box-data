@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:21",
+  "End": "01:18:26",
+  "Text": "., first of all, death anywhere is not great."
+}

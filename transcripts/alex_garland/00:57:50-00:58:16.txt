@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:50",
+  "End": "00:58:16",
+  "Text": "very different along the same lines. You've explored some really deep scientific ideas in this new series. And I mean, just in general, you're unafraid to, to uh to ground yourself in some of the most amazing scientific ideas of our time. are the things you've learned or ideas you find beautiful, mysterious about quantum mechanics multiverse string theory, quantum computing that you've learned?"
+}

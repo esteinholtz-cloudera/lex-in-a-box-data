@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:37:05",
+  "End": "01:37:37",
+  "Text": ", it's there. They've hardened themselves in their search and who knows what dark place their brain is in their heart is in. But that, that longing is still there. Even if it's an ember, it's there. the reason why, why in World War One and World War Two, you know, enemy combatants still shared cigarettes on the front lines, you know, during periods of holidays or bad weather or whatever else. Because that human connection, man, it, it triumphs overall. See,"
+}

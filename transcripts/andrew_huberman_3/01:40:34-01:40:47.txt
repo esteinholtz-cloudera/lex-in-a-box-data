@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:34",
+  "End": "01:40:47",
+  "Text": ", what's the story? I mean? Yeah. So, but it's because it's not,, it's quite bad ass if I may say so, the craftsmanship is obvious, but also it is a knife."
+}

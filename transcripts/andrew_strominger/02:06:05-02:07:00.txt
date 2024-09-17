@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:06:05",
+  "End": "02:07:00",
+  "Text": "hard part in physics problems are either doable, most problems the theoretical calculation that a theoretical physicist would do there. There's no end of problems answer is uninteresting be solved. But the answer is uninteresting. also no end of problems that are very interesting. of which you've asked me, but we don't have a clue how to solve them. when first presented with a problem, almost every problem is one or the other,, it's the jackpot when you find one that isn't one or the other."
+}

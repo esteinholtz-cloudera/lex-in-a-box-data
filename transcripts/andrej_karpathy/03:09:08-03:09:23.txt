@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:09:08",
+  "End": "03:09:23",
+  "Text": ", I think in general it's really weird about like the dynamics of humanity and this explosion we talked about is just like the insane coupling afforded by technology and uh just the instability of the whole dynamical system. I think it's just doesn't look good honestly."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:57",
+  "End": "01:24:12",
+  "Text": "mutual friend Andrew Hein mentioned something offline to me about something involving the mob. Is there something you could share or is this or are people going to hurt if you share this? It's"
+}

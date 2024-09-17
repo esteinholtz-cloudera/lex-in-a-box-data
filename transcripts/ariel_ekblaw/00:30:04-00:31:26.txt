@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:04",
+  "End": "00:31:26",
+  "Text": "been hanging out with grimes recently. I just feel like she belongs up in space. This is designed for artists essentially, I imagine. I mean, this is what South by keeps introducing me to is there's the weird and the beautiful people and the artists and it feels like there's a lot of opportunities for art and design. It's like space is a combination of arts design and great engineering with a, a safety critical with the highest of stakes so you can't mess it up. First of all, are you talking about tiling? So Neil Stevens is obsessed about, I don't know if it's related to any of this, but he seems to be obsessed with how do you tile a space? That's like a geometric notion, the tessellation. And I mean, it's a beautiful idea for architecture that you can self assemble these different shapes and can have probably some centralized guidance of the kind of thing you want to build, but they also kind of figure stuff out themselves in terms of the low level details, in terms of the figuring out when everything fits just right for the O CD people. Like, what's that subreddit? Pleasantly, like really fun. Everything they have like videos of everything is just pleasant when everything just fits perfectly, very"
+}

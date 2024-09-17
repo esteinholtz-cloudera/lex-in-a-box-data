@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:16",
+  "End": "01:21:35",
+  "Text": ". But, uh, the, the injury has been a really difficult psychological thing for me because, um, I've injured my finger, pinky finger. I injured my knee. Your kitchen is filled with splints. Splints. I'm trying to, I'm trying to figure out"
+}

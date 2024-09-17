@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:03",
+  "End": "00:12:58",
+  "Text": ". Every time you speak, I get a million tangent ideas but cut me off. No, no, no, no, no. Please keep talking. This is amazing. There's a million ideas. So one sort of on the dark side, let me ask, do you think about the threats to human civilization that kind of motivate the scaling of the expansion of humans in space and on other planets? What are you worried about nuclear war pandemics? super intelligent artificial intelligence systems, know, more not existential crises but ones that have significant, potentially significant detrimental effects on society like climate change, those kinds of things. And then there's of course, the fun asteroid coming out from the darkness and hitting all earth. There's been a few movies on that anyway, is there something that you think about that threatens us in this century?"
+}

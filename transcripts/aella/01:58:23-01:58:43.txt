@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:58:23",
+  "End": "01:58:43",
+  "Text": ", absolutely. Usually if people are interested in hanging out with me, it's because of that. that's, that's different. Like, I think besides the, like the fun part, like the, this is a kink as opposed to, this is a job, like with, this is a job. Usually the high end is closer to 2000 an hour. Like the very high end have"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:40",
+  "End": "00:32:01",
+  "Text": "kind of where a lot of uh Soviet implementation of communism went wrong is the ends justify the means the equality, the justice for the workers. If we have to kill murder in prison censor in, in the name of that, then it's, it's for the greater good in the long term to achieve the the ideal of communism"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:54:36",
+  "End": "00:55:29",
+  "Text": ", like the surface of this table is is flat. Let me just give an intuitive explanation surface of the table is flat, but the surface of a basketball curved. the universe itself be flat like the surface of a table or it could be curved like a basketball which actually has a positive curvature. And then there's another kind of curvature called the negative curvature. curvature can be even weirder because kind of curvature I've just described is the curvature of space. But Einstein taught us that we really live in a space time continuum. So we can have curvature in a way that mixes up space and time. that's kind of hard to visualize"
+}

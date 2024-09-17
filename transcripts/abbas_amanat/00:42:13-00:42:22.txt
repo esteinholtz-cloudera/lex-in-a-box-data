@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:13",
+  "End": "00:42:22",
+  "Text": "we should say that most of Iran is she, is she and other. a branch of Islam Shiism."
+}

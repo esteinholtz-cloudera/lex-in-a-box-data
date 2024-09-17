@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:12:35",
+  "End": "03:12:58",
+  "Text": ", you know, Ockham's razor? So Harem's razor is that you can never prescribe to conspiracy, could be explained through incompetence, right? That is one of those are 22 fundamental guidelines that we follow all the time, right? The simplest answer is oftentimes the best and never prescribe to conspiracy. What can be explained through incompetence?"
+}

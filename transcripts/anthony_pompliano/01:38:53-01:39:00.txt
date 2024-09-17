@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:53",
+  "End": "01:39:00",
+  "Text": "use the term, which is why you use the term automation, which I think is kind of brilliant reframing of all of this"
+}

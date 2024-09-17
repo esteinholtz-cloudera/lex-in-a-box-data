@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:49:08",
+  "End": "02:49:27",
+  "Text": "in a way that humans think through a problem and come up with novel ideas,, it feels like reasoning. Yeah. So the the novelty I don't want to say but out of out of distribution ideas, think it's possible?"
+}

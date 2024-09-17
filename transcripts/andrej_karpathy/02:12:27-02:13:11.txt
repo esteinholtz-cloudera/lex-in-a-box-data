@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:27",
+  "End": "02:13:11",
+  "Text": "something magical about going from a single cell to organism that is born to the first few years of life. I kind of like the idea that the reason we don't remember anything about the first few years of our life that it's a really painful process, like, it's a very difficult challenging training process, like, intellectually, like, maybe, yeah, I mean, I don't, why don't we remember any of that? There might be some crazy training going on and that the, maybe that's the background model training that is, is very painful. And so it's best for the system once it's trained not to remember how it's constructive."
+}

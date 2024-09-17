@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:43",
+  "End": "02:57:57",
+  "Text": ". So women are more, at least in private, able to say that they would like to be submissive and men even in private are not disproportionately saying they're not willing to be dominant."
+}

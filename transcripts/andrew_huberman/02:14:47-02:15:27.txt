@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:14:47",
+  "End": "02:15:27",
+  "Text": "folks, if, if Lex does this again, comments more like, well, the problem with you getting more followers is you're gonna get more. Actually, I should say that's the benefit. I don't know, maybe it's not politically correct for me to ask. But, like, there is this stereotype about Russians being, you know, like, like, like, like, like, like being really, um, you know, durable and, and, you know, I, I started going to that Russian Banya that way back before COVID and, um, could tolerate a lot of heat, you know, and, and they would sit very stoic, you know, and no one was going, oh, it's hot in here. They were just kind of like ease into it. Um So maybe there's something there,"
+}

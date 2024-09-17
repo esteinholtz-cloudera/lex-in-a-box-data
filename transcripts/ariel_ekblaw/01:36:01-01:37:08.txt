@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:36:01",
+  "End": "01:37:08",
+  "Text": "I loved about having this chance to do a liberal arts education was trying to understand the human condition. I think more designers for space exploration should be thinking about that because there's so much depth of like we were talking about issues of issues and opportunities around human connection, human life, meaning in life. How do you find fulfillment or happiness? And I think if you approach these questions just purely from the standpoint of an engineer or a scientist, you'll miss some of what makes it a life worth living. And so I love being able to combine some of this notion of philosophy and the human condition with my work. But I'm also a pragmatist and I didn't want to stay just purely in these big picture questions about the universe. I wanted to have an impact on society. And I also felt like I had such a, wonderful childhood and a really fantastic setup that I owe society some work to really make a positive impact for a broader swath of citizens. And so that kind of led me from the physics domain to thinking about engineering and practical questions for life and space in"
+}

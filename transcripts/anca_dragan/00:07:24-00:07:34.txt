@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:24",
+  "End": "00:07:34",
+  "Text": "you compete in program like these days? Romania, probably that's like a big thing. There's a programming competitions. Did that touch you at all? I did a"
+}

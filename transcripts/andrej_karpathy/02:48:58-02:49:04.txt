@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:58",
+  "End": "02:49:04",
+  "Text": ". you think there are already reason? Yes. What's your definition of reasoning?"
+}

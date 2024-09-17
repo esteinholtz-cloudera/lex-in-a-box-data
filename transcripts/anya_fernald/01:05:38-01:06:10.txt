@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:38",
+  "End": "01:06:10",
+  "Text": "different creative ways. And actually, that'd be interesting if like Neuralink somehow has especially because Elon Musk is involved in Kimball Musk is like, has his whole effort and appreciation of regenerative agriculture that wonder if Neuralink has a role to play, like exploring the the neurobiology of the animal. If that somehow will create innovations that uh lead to uh improved scaling of regenerative agriculture. I be interesting, but you're saying you should be open to all those possibilities."
+}

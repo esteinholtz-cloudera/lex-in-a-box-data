@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:38:05",
+  "End": "02:39:07",
+  "Text": "I also mean, just like even laziness but cognitive limitations and just historical scientific limitations, like, know, very young species, like all of the exciting stuff we've been talking about have happened on the scale of decades, maybe centuries. It's, we're very young in all the cool stuff we've come up with. And it's just humbling to think about how little we know. But you're right that, you know, ultimately having the freedom to keep exploring, keep venturing out. Even if we later discovered that a lot of the stuff we've been doing now is, ethically horrible if you think about animals or I think about robots a lot, the kind of things we might be doing to other consciousnesses that are here on earth might be, we might see as atrocities later on. But ultimately, you have to have the freedom to explore those kinds of ideas and without that freedom, don't even get the chance to be lazy."
+}

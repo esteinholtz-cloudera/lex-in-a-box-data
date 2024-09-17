@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:29:35",
+  "End": "00:29:55",
+  "Text": "do you think represents humanity? If you kind of, if you think about it are darker moments, are they essential for humanity? All the wars who have been through all the tortures and the suffering and the cruelty that essential for happiness, for beauty, for creation journalism."
+}

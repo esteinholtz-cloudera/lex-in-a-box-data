@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:10",
+  "End": "00:35:37",
+  "Text": "Cave. I mean, you really explored, you could argue that how sort of space Odyssey explores the idea of the Turing test for intelligence, not test, there's no test, but it's more focused on intelligence. And ex mach in a of goes around intelligence and says the consciousness of the human to human, human to all by interaction is more, more, more at least the focus of that particular movie."
+}

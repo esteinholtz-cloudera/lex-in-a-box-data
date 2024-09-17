@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:53:37",
+  "End": "00:54:17",
+  "Text": "thing I still do when I'm trying to study something really deeply is uh take handwrit notes. Um it varies. I know there are a lot of people that take the deep learning courses during the commutes or something where, where it may be more awkward to take notes. So I know it may not work for everyone. uh when I'm taking courses on Coursera, you know, and I still take some every now and then. The most recent I took was a, was a course on clinical trials because I was interested about that. I, I got out my little moleskin notebook and I was sitting at my desk, I was just taking down notes of what the instructor was saying. And that act, we, we know that that act of taking notes preferably handwrit notes, uh increases retention."
+}

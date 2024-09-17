@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:18",
+  "End": "01:18:26",
+  "Text": "about other humans, relationship with other humans? Do those get, get weird when you get past a certain number of humans."
+}

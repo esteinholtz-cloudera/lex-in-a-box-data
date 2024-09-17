@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:51:12",
+  "End": "00:52:23",
+  "Text": "think getting the habit of learning is key and that means regularity. So for example, we send out our weekly newsletter, the batch every Wednesday. So people know it's coming on Wednesday, you can spend a little bit of time on Wednesday catching up on the latest news uh through the batch on, on, on, on, on Wednesday. And for myself. I've picked up a habit of spending some time every Saturday and every Sunday reading or studying. And so I don't wake up on a Saturday and have to make a decision. Do I feel like reading or studying today or not? It's just, it's just what I do and the fact is the habit makes it easier. So I think if someone can get into that habit, it's like, you know, just like we brush our teeth every morning. I don't think about it if I thought about this a little bit annoying to have to spend two minutes doing that. it's a habit that it takes no cognitive load, but it would be so much harder if we have to make a decision every morning. Um, so, and, and actually that's the reason why we're the same thing every day as well. It's just one less decision. I just get up and we sure. So, but I think if you can get that habit, that consistency of studying then, then it actually feels easier."
+}

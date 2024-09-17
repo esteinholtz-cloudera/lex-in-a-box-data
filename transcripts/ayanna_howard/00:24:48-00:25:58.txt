@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:48",
+  "End": "00:25:58",
+  "Text": ". And it's, uh it's a really heavy burden. I've, I've had to feel it recently in the last few months, but I think it's a, it's a good one to feel like I've gotten a message more than one from people. know, I've unfortunately gotten some attention recently and I've gotten messages that say that I have blood in my hands because of working on semi-autonomous vehicles. The idea that you have semi-autonomous means people would become, would lose vigilance and so on. That actually be humans as we describe. And because of that, because of this idea that we're creating automation, there will be people be hurt because of it. I think that's a beautiful thing. I mean, it's, you know, it's many nights where I wasn't able to sleep because of this notion, you know, you really do think about that might die because of this technology. Of course, you can then start rationalizing and saying, well, you know what, 40,000 people die in the United States every year. And we're trying to ultimately try to save lives. But the reality is your code you've written might kill somebody. And that's an important burden to carry with you as you design the code."
+}

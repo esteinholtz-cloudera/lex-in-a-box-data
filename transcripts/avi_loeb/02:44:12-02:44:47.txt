@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:44:12",
+  "End": "02:44:47",
+  "Text": "death? I'm not afraid. You know what EpiCor? Actually, EpiCor was a very wise person. Uh According to Lucretius, uh of course, didn't leave anything in writing. But, uh he said that he's never afraid of death because as long as he's around, death is not around and when death will be around, he will not be around. So he will never meet death. So why should you be worried about something you will never meet. Uh, you know, and an interesting philosophy of life, you know, you shouldn't be afraid of something that you will never encounter. Right. But there, there's"
+}

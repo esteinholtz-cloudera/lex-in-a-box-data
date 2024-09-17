@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:58",
+  "End": "00:41:12",
+  "Text": "biggest challenges to you? is just getting rockets, not rocket, but people out there and two is the colonization. Like, what do you have thoughts about this? Um, the challenges of this kind of prospect? Yeah,"
+}

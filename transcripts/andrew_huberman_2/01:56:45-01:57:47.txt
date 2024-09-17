@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:45",
+  "End": "01:57:47",
+  "Text": ", I do wonder, Jessica, we've been talking about if there's any ways to push that to its limits to explore further. don't like leaning. This is why I'm bothered. There's not more science than psychedelics is I haven't done almost. So I've eaten mushrooms a few times allegedly, but that's it. You know, and the reason I don't do more, the reason I haven't done DMT is because it's illegal and it's not well studied and, you know, I'm in those things. I'm not usually at the cutting edge, but I'm very curious and it feels like could be tools to be discovered there. Not for fun, not for recreation, but for like, whether you're a linear, they get to go nonlinear or it's non linear to go linear to shake things up. You mentioned Dan Gable. The idea of Dan Gable psychedelics is fascinating to me because he's such a control freak. I mean,"
+}

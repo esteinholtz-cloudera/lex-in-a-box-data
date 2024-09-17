@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:47",
+  "End": "01:30:09",
+  "Text": ". Sorry, Dylan on that for a second. Do you, I mean, do you meditate or ponder on your mortality or human? fact that this thing ends, it seems to be a fundamental feature. Do you think of it as a feature or a bug too? it, you, you said you don't like the idea of dying? But if I were to give you a choice of living forever, you're not allowed to"
+}

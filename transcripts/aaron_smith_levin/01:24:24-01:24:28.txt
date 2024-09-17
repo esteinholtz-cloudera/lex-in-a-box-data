@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:24:24",
+  "End": "01:24:28",
+  "Text": ". Oh, you mean his faith that only L Ron Hubbard could have ever been the one to do"
+}

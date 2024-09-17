@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:29",
+  "End": "01:44:47",
+  "Text": "it. It's a beautiful way to see, to see life no matter what happen to you, you attribute you focus on the positive and you feel like sometimes people have traumatic experiences with parents and so on and if you focus on the positive, it's a good way to let go of the trauma associated with it. True."
+}

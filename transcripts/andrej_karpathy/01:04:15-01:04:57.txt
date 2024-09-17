@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:04:15",
+  "End": "01:04:57",
+  "Text": "plausible in my mind. I think these A is are actually quite good at human human connection, human emotion. A ton of text on the internet is about humans and connection and love and so on. So I think they have a very good understanding in some, in some sense of, of how people speak to each other about this. And um very capable of creating a lot of that kind of text. The um a lot of like sci fi from fifties and sixties that imagined a is in a very different way. They are calculating Cold Balkan like machines. That's not what we're getting today. We're getting pretty emotional. A is that actually uh are very competent and capable of generating, know, plausible sounding text with respect to all of these topics."
+}

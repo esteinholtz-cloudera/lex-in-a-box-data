@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:37",
+  "End": "00:21:43",
+  "Text": "doesn't give you anxiety, it doesn't excite you like anything that's not,"
+}

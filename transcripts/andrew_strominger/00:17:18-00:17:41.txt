@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:17:18",
+  "End": "00:17:41",
+  "Text": ", there's some very delicate subtleties to that which to be noticed in the, in the fifties. mostly true. But when you have a space time with edges, gets very tricky how you label the edges in"
+}

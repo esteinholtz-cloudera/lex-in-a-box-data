@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:00:02",
+  "End": "03:00:06",
+  "Text": "there any scientific evidence that being naked is beneficial in"
+}

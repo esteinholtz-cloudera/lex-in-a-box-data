@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:09:23",
+  "End": "00:10:21",
+  "Text": "on that topic, I'd like to ask your opinion and a feeling I have that I'm not sure what to do with, which is the the skeptical aspect of science. the modern skeptics community and just in general, scientists, many scientists, maybe most scientists that apply the scientific method are kind of rigorous in that application and it feels like sometimes miss out some of the ideas outside the reach of just slightly outside of the reach of science and they don't dare to sort of dream or think of revolutionary ideas that others will call crazy in this particular moment. So how do you think about the skeptical aspect of science that is really good at of keeping us in check, keeping us humble. But, but at the same time, sort of the kind of dreams that you and Carl Sagan have inspired in the world. It kind of shuts it down sometimes a little bit."
+}

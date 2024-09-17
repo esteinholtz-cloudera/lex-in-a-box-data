@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:03:07",
+  "End": "01:03:14",
+  "Text": ", it says right on the bottom. Copyright 2000 whatever Church of Scientology International, they didn't even try to hide it."
+}

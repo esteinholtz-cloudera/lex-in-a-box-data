@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:06",
+  "End": "01:46:51",
+  "Text": "pretend we live in a world where in 100 years we have an answer to that.. What would that answer look like? Who, what department is that from? fields left? Let us there? What not, what fields, what set of ideas in theoretical physics? Um Is it experimental, is it theoretical what can you imagine possibly could have possibly lead us there? Is it through gravitational waves and some kind of observations there? Is it investigation of black holes? Is it simulation of universes? Is it uh maybe you start creating black holes somehow? I don't, I don't know. Uh some kind of high energy physics type of experiments."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:53:56",
+  "End": "02:54:11",
+  "Text": ", if you, if you have the trillion chimps, you can't, they're not gonna like it when you try to start killing them off. All right, but back to Bitcoin,"
+}

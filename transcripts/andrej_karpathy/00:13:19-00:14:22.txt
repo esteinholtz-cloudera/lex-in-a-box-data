@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:13:19",
+  "End": "00:14:22",
+  "Text": ", I would say it's an extremely remarkable story that I'm only like briefly learning about recently all the way from. Um actually, like you almost have to start at the formation of earth and all of its conditions and the entire solar system and how everything is arranged with Jupiter and moon and the habitable zone and everything. And then you have an active earth that's turning over material and um and then you start with a, a biogenesis and everything. And so it's all like a pretty remarkable story. I'm not sure that can pick like a single unique piece of it that I find most interesting. Um guess for me as an artificial intelligence researcher, it's probably the last piece. We have lots of animals that uh you know, are, are not building technological society, but we do. And um it seems to have happened very quickly, it seems to have happened very recently and um something very interesting happened there that I don't fully understand. I almost understand everything else kind of, I think intuitively, I don't understand exactly that part. And how quick it was,"
+}

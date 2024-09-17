@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:35",
+  "End": "01:05:52",
+  "Text": ". a like a deep respect for women in a, a tradition of protecting them. But instead this kind of idea that was instilled in law has turned into a deep disrespect of women."
+}

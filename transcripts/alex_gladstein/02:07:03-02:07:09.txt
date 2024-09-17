@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:07:03",
+  "End": "02:07:09",
+  "Text": "there a good resource to study whitewashing. Like to know what manipulative pr looks like."
+}

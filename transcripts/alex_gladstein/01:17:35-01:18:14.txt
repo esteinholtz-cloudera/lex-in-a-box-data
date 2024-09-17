@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:17:35",
+  "End": "01:18:14",
+  "Text": "you could do that today? Absolutely. It's called the coin join, for example. But right now it's more expensive to coin join in Bitcoin. You have to pay a premium for your privacy. would flip that on its head and would basically say if you have one transaction, hey, pile them all in, have as many parties as you want. The more parties you get in the cheaper it's going to be per party. Ok? And, and that's not possible in Bitcoin today, but it might be in the future. But again, the beauty, the beauty in Bitcoin are these like these ways that it just aligns human incentives and it aligns our like most base desires and needs and realities like freedom and privacy that I've never seen before. And that's why I think it's so interesting. So"
+}

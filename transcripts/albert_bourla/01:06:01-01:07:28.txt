@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:06:01",
+  "End": "01:07:28",
+  "Text": "of all, uh uh what this is about? This is a real game changer. is a course of treatment that you get. Only if you get the disease, you get COVID. what happens is that you will take for five days pills, day and night twice a day for five days. instead of 10 people from those that is to go to hospital, only one will go. is an end all the caveats that the numbers are small, no one died. It was 100% efficacy on deaths. Of course, I'm sure that uh in uh real world when the numbers are getting very high, we may have uh 99 instead of 100. But uh are spectacular results for something that you can take home and stay home. The biggest problem right now in Europe, in the US, when you have surges every time that we have a surge of uh of COVID, it is that the IC US are full, the hospitals are paralyzed. They have to postpone surgeries, they have to postpone other operations because they don't have the capacity because of that keeping people out of the hospitals home, keeping people uh dying. Uh It is something that I didn't have before. Uh and this is a significant, significant game changer."
+}

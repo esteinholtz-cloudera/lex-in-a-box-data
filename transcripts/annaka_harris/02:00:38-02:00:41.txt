@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:38",
+  "End": "02:00:41",
+  "Text": "the universe and it's not even I'm"
+}

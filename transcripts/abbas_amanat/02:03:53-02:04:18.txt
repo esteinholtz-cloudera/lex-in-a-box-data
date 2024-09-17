@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:53",
+  "End": "02:04:18",
+  "Text": "I also mean, like he is a man that was able to take power to become popular, sufficiently popular. So I would like is it the ideas, is it an accident or is it the man himself, the charisma or something about the man that led to this particular person changing the tide of history in this part of the world in a way that unexpected,"
+}

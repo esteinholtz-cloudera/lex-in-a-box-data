@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:12:26",
+  "End": "00:12:58",
+  "Text": ", I think, I think free speech is probably the most fundamental. It's probably why the founders chose to make it into the first amendment. A lot of things are downstream from there. Property rights are also very, very important. Um Obviously, we've seen the toll of violent redistribution is, you know, over the last 100 years, whether it was Lenin or Stalin or Mao or other regimes and everywhere from Ethiopia to colonial colonialists, everywhere to North Korea. It's not a pretty legacy"
+}

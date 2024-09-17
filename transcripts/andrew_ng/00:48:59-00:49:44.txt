@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:48:59",
+  "End": "00:49:44",
+  "Text": "? I don't think there's a whole enchilada. I think it's just a piece of, I think this one piece on self supervised learning is starting to get traction. We're very close to it being useful. Well, word embedding is really useful. I think we're getting closer and closer to this, having a significant real world impact maybe in computer vision and video. Uh But I think this concept and, and I think there'll be other concepts around it, you know, Univ learning things that I worked on. I've been excited about. Um I was really excited about spas coding and IC a slow feature analysis. I think all of these are ideas that various of us were working on about a decade ago before we all got distracted by how well supervised learning was doing."
+}

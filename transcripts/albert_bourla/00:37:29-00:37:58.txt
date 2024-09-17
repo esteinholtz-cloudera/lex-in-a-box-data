@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:37:29",
+  "End": "00:37:58",
+  "Text": "need to know that we are so, so careful with sponsorships. First of all, we have very few very, very few. You have a team that for every single one could be $2000. They will try to see if there is a conflict of interest in the way we do it. And also what is the reputation the, of the, the persons or the programs that we are sponsoring? So, I don't think, um, our friend I think was from Texas. Uh, yes. Yeah,"
+}

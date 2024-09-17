@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:49:41",
+  "End": "01:49:48",
+  "Text": ". Long, long time from now, we have a lot of propulsion challenges to answer to get that far. Do you have a"
+}

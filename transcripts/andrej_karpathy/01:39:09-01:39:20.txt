@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:09",
+  "End": "01:39:20",
+  "Text": "did you learn about machine learning about engineering, about life about yourself as one human being from working with Elon Musk."
+}

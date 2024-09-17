@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:08:38",
+  "End": "03:09:25",
+  "Text": "usually. Yeah, I mean, I think maybe I chose the term kind of poorly because I think to some degree people are always a little bit manipulating each other. But I think it's generally obvious, like for example, if I disagree with you, I want you to believe what I believe. But this is like an obvious thing that is like visible between. It's like an object on the table. It's like here's the box where I want you to believe what you have.. So we're under a shared context where we understand that we're trying to move each other. This is chill to me. I think this is cool. We just all the time and it's important. But frame control is the kind of thing where you are trying carefully to obscure the existence of that box. You're like, oh the thing that I'm doing, I'm using tactics to try to influence what your reality is without us being both aware that this is what I'm doing."
+}

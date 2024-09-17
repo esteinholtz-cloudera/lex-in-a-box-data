@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:25",
+  "End": "02:25:42",
+  "Text": "Khomeini held power for 10 years then took power. The next supreme who is still the leader today for over 30 years. Who is he?"
+}

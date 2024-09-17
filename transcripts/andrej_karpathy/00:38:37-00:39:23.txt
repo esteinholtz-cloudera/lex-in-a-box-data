@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:38:37",
+  "End": "00:39:23",
+  "Text": "., the one that I've been thinking about recently, the most probably is the transformer architecture. Um So basically, uh neural networks have a lot of architectures that were trendy have come and gone for different uh sensory modalities like for vision, audio text, you would process them with different looking neural NS. And recently we've seen these, this convergence towards one architecture, the transformer and uh you can feed it video or you can feed it, you know, images or speech or text and it just gobbles it up and it's kind of like a of a general purpose uh computer that is also trainable and very efficient to run on our hardware. And so uh this paper came out in 2016, I wanna say, um attention is all you need attention is all you need."
+}

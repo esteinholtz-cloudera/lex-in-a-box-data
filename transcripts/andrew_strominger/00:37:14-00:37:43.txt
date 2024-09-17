@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:37:14",
+  "End": "00:37:43",
+  "Text": ", the basic idea which emerged in early seventies was that if you uh take uh the notion of a particle and you literally it by a little loop of string, strings are sort of softer, then particles,"
+}

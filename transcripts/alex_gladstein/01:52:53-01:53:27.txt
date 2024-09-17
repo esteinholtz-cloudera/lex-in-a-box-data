@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:52:53",
+  "End": "01:53:27",
+  "Text": "is, the kind of paint to use if you want privacy signals way better. I mean, and it's way better than it was five years ago and it's, it's not quite as good as, like, not quite as seamless, right? As like a whatsapp yet. Um But it's almost there they were able to do it and and, and you're going to see that with, with Bitcoin wallets as well. I mean, they're, they're almost there. They're like, if you use like a moon wallet is like, I mean, it's so cool looking and it's so seamless and they've spent so many hours thinking about your experience. We are getting there. Whereas 10 years ago it was impossible"
+}

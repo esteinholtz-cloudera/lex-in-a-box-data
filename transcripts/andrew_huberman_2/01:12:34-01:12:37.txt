@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:34",
+  "End": "01:12:37",
+  "Text": "on which day"
+}

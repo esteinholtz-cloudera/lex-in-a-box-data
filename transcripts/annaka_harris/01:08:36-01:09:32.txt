@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:36",
+  "End": "01:09:32",
+  "Text": "just clarify when we're talking about consciousness, we're talking about the hard problem of consciousness that it feels like something to, know, there's a subjective experience. we, know, if consciousness permeates all matter is fundamental? Is that going to be somehow, our current intuition about consciousness? Like very tiny subset of what cautiousness actually is. So like we have our intuitions about personal experiences, like what it feels like what it takes to eat a cookie or something like that. Um But seems like a very specific implementation of consciousness in an organism. So how can we even reason about something that if consciousness is fundamental, how can we reason about that?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:37:42",
+  "End": "03:37:50",
+  "Text": ", I see. Is it like, I get really annoyed when people quote philosophers when they're trying to talk about philosophy? Is it like that"
+}

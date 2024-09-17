@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:02",
+  "End": "02:24:09",
+  "Text": "nonstop. I'm doing it now to one meal a day. It's interesting. It's an interesting feeling. Have you ever fasted longer than"
+}

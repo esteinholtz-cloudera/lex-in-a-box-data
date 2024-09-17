@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:32",
+  "End": "01:14:06",
+  "Text": ". And so I've experimented quite a bit with Keto to see how my body feels and doing it the right way and following all the instructions that there's definitely a huge difference uh like for example, one of the things I discovered, everyone know who said this. And but I tried this uh recently over the past year I started drinking when I don't feel great if I'm fasting bone broth, a chicken bone broth. And for some reason, magically, it could be this is the other thing, the mind, I don't know, but it makes me feel really"
+}

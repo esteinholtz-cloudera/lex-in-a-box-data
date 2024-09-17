@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:52:32",
+  "End": "00:53:14",
+  "Text": "think it a sense, it really depends. I think that were talking about how well look, it's really hard because anticipating what we do is hard. And on top of that playing the game is hard, but I think you sort of have the fundamental, some of the fundamental understanding for that. And then you already see that these systems are being deployed in the real world, know, even driverless, there's I think now a few companies that don't have a driver in the car in some small areas. I"
+}

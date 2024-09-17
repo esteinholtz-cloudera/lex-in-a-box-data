@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:28:38",
+  "End": "03:28:44",
+  "Text": ", I do feel like humans are extremely malleable. Yeah. uh you're probably right."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:17:35",
+  "End": "02:18:09",
+  "Text": "you think, uh, human civilization will destroy itself? So, if we think about all the threats human civilization, nuclear war, natural or engineer pandemics, know, we talk about human rights violations, we talk about authoritarian governments taking control of the money supply. But do you have grander concerns for the future of human civilization? you have hope for us becoming multi planetary species?"
+}

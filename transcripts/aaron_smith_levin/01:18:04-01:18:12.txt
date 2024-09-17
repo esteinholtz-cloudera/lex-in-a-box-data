@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:04",
+  "End": "01:18:12",
+  "Text": "of a mental journey? that leads it, it, it could lead anywhere. It, it probably lead to a very bad place. right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:05",
+  "End": "01:03:16",
+  "Text": "mean, OK, that's very life and death. You mean like that? Uh Because string theory was central to your work at that time, is that what you mean?"
+}

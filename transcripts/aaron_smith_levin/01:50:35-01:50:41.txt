@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:35",
+  "End": "01:50:41",
+  "Text": "ambitious, they're dreamers, they got hope they're driven all that kind of"
+}

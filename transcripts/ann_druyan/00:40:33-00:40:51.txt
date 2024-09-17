@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:40:33",
+  "End": "00:40:51",
+  "Text": "to clarify. The series was rolled out. So it was shown in, that many countries. You said we were in the show, which is incredible. I mean, the hundreds of million, whatever that number is, the people that watched it. It's just, it's crazy. It's"
+}

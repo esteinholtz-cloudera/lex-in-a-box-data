@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:31",
+  "End": "01:11:42",
+  "Text": "lending A I, you help already established companies grow their A I and machine learning efforts. How does a large company integrate machine learning into their efforts?"
+}

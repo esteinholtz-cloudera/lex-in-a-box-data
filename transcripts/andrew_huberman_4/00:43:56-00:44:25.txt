@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:56",
+  "End": "00:44:25",
+  "Text": "is a huge believer of this idea of the most entertaining outcome is the most likely. And almost like there is almost the sense that there's not a free will and the universe has a kind of deterministic gravitational field pulling towards the most fun he's just a player in that game. So, from that perspective, I think it seems like something like that is inevitable, like"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:00",
+  "End": "00:34:21",
+  "Text": "there a science? Is there an art to cooking meat? Well, and the different kinds of meat? Is there something you can convert it into to say ideas how to bring out the best out of what particular meat, whatever steak we're talking about, whatever beef we're talking about. Is there something that can be"
+}

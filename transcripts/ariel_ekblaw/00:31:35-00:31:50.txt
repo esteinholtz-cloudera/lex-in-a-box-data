@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:31:35",
+  "End": "00:31:50",
+  "Text": "are Little Cubes that have MS in them electro permanent magnets and they can self distance.. So they'll turn off. And so you'll have this little structure that all of a sudden can flip the little pebbles over and essentially just disaggregate."
+}

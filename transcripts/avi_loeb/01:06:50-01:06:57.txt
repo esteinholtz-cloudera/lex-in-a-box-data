@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:06:50",
+  "End": "01:06:57",
+  "Text": "of what nature is, should be a dialogue with nature rather than a"
+}

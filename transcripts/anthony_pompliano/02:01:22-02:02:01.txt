@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:22",
+  "End": "02:02:01",
+  "Text": "to you. There's less room for corruption, less room for manipulation. That's and like that's not actually productive. Yeah, definitely. you said you moved a lot of your investment into Bitcoin is there when you look, so you're a special human being in many ways. Uh So you're like a strategic thinker, but you're also like a deep thinker about this whole thing. But when you look at a regular club like me, in terms of just investing and moving into thinking about Cryptocurrency, is there a strategy that you recommend? What are the different options about investing into Bitcoin? So"
+}

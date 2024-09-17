@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:35",
+  "End": "01:16:20",
+  "Text": "also if there's ways to design a survey that gets at the, at the victims of sex trafficking also, which is they presumably have public access to the internet. And I wonder how many of them are distinctly aware that they're victims. Like it's asking the question you're inside of a toxic relationship, are you inside of a toxic relationship? I mean, if, if the toxic relationship is truly toxic, sometimes your, your mind is fucked with, right? You're not, you don't even know what's true. So, it's interesting if you can design surveys that actively sex traffic, who break through that. So basically get data on how many people are getting sex trafficked directly."
+}

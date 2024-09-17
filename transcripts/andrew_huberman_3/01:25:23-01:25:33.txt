@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:25:23",
+  "End": "01:25:33",
+  "Text": ". Uh Whenever I'm in Kendall Square, I've seen uh the, they have those buildings there that actually tilt toward the ground. These are these uh the architecture of MIT is also really impressive."
+}

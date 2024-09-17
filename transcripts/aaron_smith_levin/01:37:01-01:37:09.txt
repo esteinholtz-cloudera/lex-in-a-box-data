@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:37:01",
+  "End": "01:37:09",
+  "Text": "seems that way numbers of Scientologists have been going down and down and down since the early nineties."
+}

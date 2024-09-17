@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:58:42",
+  "End": "01:59:26",
+  "Text": "thinks it's a car. Um Some of the earlier demos, actually, we were talking about potentially doing them outside in the parking lot because that's where all of the computer vision that was like working out of the box instead of like in inside. Um but all the operating system everything just copy paste, uh computer vision, mostly copy paste. I mean, you have to retrain the neural NS but the approach and everything and data engine and offline trackers and the way we go about the occupancy tracker and so on everything, copy paste, you just need to retrain the neural NS. And then the planning control of course, has to change quite a bit, but there's a ton of copy paste from what's happening at Tesla. And so if you were to, if you were to go with goal of like, OK, let's build a million human robots and you're not Tesla, that's, that's a lot to ask if you're a Tesla. It's actually like it's not, it's not that"
+}

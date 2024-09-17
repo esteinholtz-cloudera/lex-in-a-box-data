@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:34",
+  "End": "00:48:10",
+  "Text": ", I don't like the word misinformation because know, again, back to the Soviet Union, who opposes the state is spreading misinformation. So you can basically call anything misinformation. That's the unfortunate times we live in is can call anyone. You can basically call anybody a liar and say I'm the sole possessor of the truth and just no offense to me just because you wear a tie doesn't mean you're more likely to be in the possession of the truth than anyone else."
+}

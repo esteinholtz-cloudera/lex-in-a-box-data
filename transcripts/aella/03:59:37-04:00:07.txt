@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:59:37",
+  "End": "04:00:07",
+  "Text": "like the you have, I'm not used to talking to somebody who feels like some of the core way that they approach the world is so different than mine. Like usually the difference is that arrive like higher up the tree, but there's something about your root system that I think is very different from mine. But also the way that you can engage with others is still flexible. Like usually when I encounter somebody with such a different root system, there's like, it's like more aggressive or something, but there's something about the way that you're structured that feels very gentle."
+}

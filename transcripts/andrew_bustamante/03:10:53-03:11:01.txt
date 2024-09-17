@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:10:53",
+  "End": "03:11:01",
+  "Text": "American citizens again speaking organizationally. So that, that would be my sense. Yes."
+}

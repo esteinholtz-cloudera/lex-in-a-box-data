@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:42",
+  "End": "01:10:49",
+  "Text": "must look so cool. So, they're basically moving along different metallic surfaces. Yeah, exactly."
+}

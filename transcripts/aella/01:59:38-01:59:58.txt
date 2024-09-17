@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:59:38",
+  "End": "01:59:58",
+  "Text": ", I know that it's brief and I know that it's like kind of weird. But like, there's, there's like a real glimpse into somebody's soul when you get to be intimate. And I think this is especially true for men because a lot of time, men don't have like a way to be really vulnerable in front of anybody. But like, if you're in bed with a woman that you find to be attractive, you can of let loose a little bit more"
+}

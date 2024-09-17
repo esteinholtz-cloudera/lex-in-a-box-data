@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:09",
+  "End": "00:49:59",
+  "Text": "a scientist who's studying humans a collective. I tend to be just a one person scientist of just looking at myself. And, you know, I play these deep thinking deep work sessions, I'm very cognizant like in the morning there's times in my mind is so eloquent at being able to jump around from ideas and hold them all together. And I, I'm almost like I step back from a third person perspective and enjoy that whatever that mind is doing. I do not waste those moments. And I'm very conscious of this little creature that woke up that's only awake for, we're being honest, maybe a couple of hours a day,"
+}

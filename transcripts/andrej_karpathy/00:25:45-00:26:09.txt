@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:25:45",
+  "End": "00:26:09",
+  "Text": "of this idea of like a deliberate puria as you described it sort of. And I don't see a divine intervention in some way in the, in the historical record right now, I do feel like um the story in these, in these books, like Nicklas books and so on, sort of makes sense and it makes sense how life arose on earth uniquely. uh yeah, I don't need, I don't need to reach for more exotic explanations right now. Sure."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:33",
+  "End": "01:25:55",
+  "Text": ", the overshadow the problems that we have already today, they are exceptionally challenging, like those you said, and even the silly ones, but the ones that have a huge impact, which is the lighting variation outside of your factory window. uh that ultimately is what makes the difference between, like you said, the Jupiter notebook and something that actually transforms an entire industry potentially."
+}

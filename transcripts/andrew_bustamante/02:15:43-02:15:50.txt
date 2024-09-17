@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:43",
+  "End": "02:15:50",
+  "Text": "to know to trust. Like how do you know your wife or how does your wife know that you're not a double agent from Russia?"
+}

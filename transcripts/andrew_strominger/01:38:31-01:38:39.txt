@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:31",
+  "End": "01:38:39",
+  "Text": "on the way to trying to predict you're trying to understand, that's actually probably the goal is to understand."
+}

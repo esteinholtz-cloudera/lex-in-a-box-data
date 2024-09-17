@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:20",
+  "End": "01:33:24",
+  "Text": "then the IRS is, is going to be quickly baked in"
+}

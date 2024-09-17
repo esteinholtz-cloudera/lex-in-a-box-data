@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:31:43",
+  "End": "03:31:45",
+  "Text": "revolving around the sun, the earth"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:03:15",
+  "End": "01:03:19",
+  "Text": "of the things of geophysics,"
+}

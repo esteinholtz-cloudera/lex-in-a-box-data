@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:09",
+  "End": "01:01:05",
+  "Text": "mean, ultimately, the reference, the temporal reference frame here is a human life maybe. Isn't that the important thing for us uh descendants of Apes? Isn't that a really important aspects of physics? uh because we kind of experience the world, we intuit the world through the eyes of these biological organisms. I mean, I guess mathematics helps you escape that for a time. But ultimately, isn't that how you wonder about the world?. That like a human life time is only 100 years. Because if you think of everything, if you're able to think in, I don't know, in billions of years, then maybe everything looks way different, maybe universes are born and die and all of these physical phenomena become much more intuitive that we see at the grand scale of general relativity."
+}

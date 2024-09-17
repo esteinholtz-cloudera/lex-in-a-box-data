@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:48",
+  "End": "00:44:20",
+  "Text": "way, I highly recommend Sean Carroll's Mindscape podcast. I think it's called, it's amazing. One of my favorite things when he interviews physicists, it's great. But any topic his aim is. But one of my favorite things is how frustrated he gets with panpsychism, he's still like, it's like a fly towards the light for some reason, he can't make sense of it, but he still struggles with it. And I think that's the sign of a good scientist, really struggling, struggling with these ideas. I"
+}

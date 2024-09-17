@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:09:42",
+  "End": "00:10:26",
+  "Text": "a lot of knobs somehow you know, so speaking concretely, um one of the neurons that people are very excited about right now are our GP TS, which are basically just next word prediction networks. So you consume a sequence of words from the internet and you try to predict the next word. And um you train these on a large enough data set, um they, you can basically uh prompt these neural mas in arbitrary ways and you can ask them to solve problems and they will uh so you can just tell them, you can, you can make it look like you're trying to um some kind of a mathematical problem and they will continue what they think is the solution based on what they've seen on the internet. And very often those solutions look very remarkably consistent, look correct, potentially."
+}

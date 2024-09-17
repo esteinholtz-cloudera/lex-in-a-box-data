@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:52:12",
+  "End": "01:52:53",
+  "Text": "much like with Steve Jobs on this. I think the founding principles are exceptionally important. But at the end of the day, the design of how sleek it is, how easy it is to use. And that's not just like pretty icing on the cake. That is icing is the cake because how easy it is to use, how natural it is. It's the Trojan horse thing you don't get, it has to be pretty and shiny. It has to fundamentally connect to the basics of human nature, which is what is pleasant to use, what feels good to use. have to, you know, to, to trick people into eating the broccoli, you have to put like a delicious whatever"
+}

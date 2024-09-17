@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:26",
+  "End": "00:14:04",
+  "Text": "role did that have psychologically for you when you then in 2006 joined the army? mean, this is a very different joining the army than in a time when it's more peaceful here you're essentially facing. mean, I don't know if you see it that way, but there is a war on terror and I know that people kind of criticize that whole formulation framework of thinking, but nevertheless, you are going to Iraq, you are going to Afghanistan, you're going to these places and are fighting these complicated. Like, mean, it's not even clear what you're fighting."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:33",
+  "End": "00:34:47",
+  "Text": "generation. Yeah. So the bootloader for an A I that A I will be a boot loader for another A A I. And then there's no way for us to introspect like what that might"
+}

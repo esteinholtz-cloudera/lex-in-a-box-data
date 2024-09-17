@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:47:23",
+  "End": "00:47:53",
+  "Text": "about a network of smaller producers working together with shared values. There's a limit on regenerative farming in that it requires more human knowledge., regenerative farming is more difficult to scale in a single operation. It'd be really challenging to have a regenerative farm that was like 200,000 acres because of the amount of manpower needed to pay"
+}

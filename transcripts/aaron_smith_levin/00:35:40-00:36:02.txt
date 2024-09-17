@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:35:40",
+  "End": "00:36:02",
+  "Text": "don't have to give you anything at all. It's just, oh, you mean like what's the idea behind? Not paying? Yeah, basically not paying you need is already being provided for you. You're not here for the money. working all the time anyway. It's not like you don't have days off. I mean, you're, you're, you're working all the time. There's, there's not, it's, there's no concept of the weekends. There's no, oh, thank God. It's Friday. Friday is just another day. And how"
+}

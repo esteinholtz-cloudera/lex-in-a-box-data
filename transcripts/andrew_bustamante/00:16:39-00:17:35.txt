@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:16:39",
+  "End": "00:17:35",
+  "Text": "? So let me start with the good first because there's a lot of people who don't think there was any good. the good thing is we saw that the president, who's the chief customer, the executive to the CIA, when the president doesn't want to hear what CIA has to say. He's not gonna listen. I think that's an important lesson for everyone to, to take home. If the president doesn't care what you have to say, he's gonna take funding away or she will take funding away, they're gonna take attention away, they're going, they're going to shut down operations, your missions, they're going to kill the careers of the people working there. Think about that for the four years that President Trump was the president. Basically, everybody at CIA, their career was put on pause. Some people's careers were ended. Some people voluntarily left their career there because they found themselves working for a single customer that didn't want what they had to produce."
+}

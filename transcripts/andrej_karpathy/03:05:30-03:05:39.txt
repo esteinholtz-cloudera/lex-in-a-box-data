@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:05:30",
+  "End": "03:05:39",
+  "Text": "like Arnold like Terminator One as well? Uh I like Terminator Two a little bit more. But in terms of like at surface properties,"
+}

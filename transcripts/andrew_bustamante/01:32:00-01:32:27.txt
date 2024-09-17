@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:00",
+  "End": "01:32:27",
+  "Text": "that and start asking me questions that should, you know. Uh so, but you're saying that there's through this, through conversation, you can call it interviewing. You can start to, could start to see um cracks in the story of the person and the degree to which they exaggerate or lie or to see how much they could be trusted, that kind of stuff."
+}

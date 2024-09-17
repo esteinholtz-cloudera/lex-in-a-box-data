@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:56",
+  "End": "01:50:32",
+  "Text": "Freedom. There's certain songs where you're like it, it it um an emotion unlike anything else. I mean, I was, I was trying to figure that out with, with Rick too. Like there's certain songs that make you want to pull over to the side of the road and just weep or just uh get inspired to just get shit done or all of those kinds of things. Remember your family, the people you've lost all that kind of stuff. I mean, hurt, hurt myself today to see if I still"
+}

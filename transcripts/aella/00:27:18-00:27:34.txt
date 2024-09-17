@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:27:18",
+  "End": "00:27:34",
+  "Text": "I really take a lot of delight in it. I used to be very into like deconstructing it. Like you maybe, you know, I did a bunch of like way too much jealousy for a while and at that point, very, no, no ego. And now I'm like, very ego. I really enjoy having a lot of ego."
+}

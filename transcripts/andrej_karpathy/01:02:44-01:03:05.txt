@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:02:44",
+  "End": "01:03:05",
+  "Text": "mean, definitely there's a lot of Laon Fruit, but I will say, I agree that if you are a sophisticated actor, you could probably create a pretty good bot right now. Um You know, using tools like GP TS because it's a language model, you can generate faces that look quite good now. Uh And you can do this at scale. And so I think um yeah, it's quite plausible and it's going to be hard to defend."
+}

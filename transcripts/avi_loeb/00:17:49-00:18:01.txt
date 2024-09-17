@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:49",
+  "End": "00:18:01",
+  "Text": "way to do the leap is actually to find, literally discover versus come up with the idea in our own limited human capacity, like cognitive capacity."
+}

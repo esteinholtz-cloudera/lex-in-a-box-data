@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:45",
+  "End": "02:05:56",
+  "Text": "suffering. I mean, I just, I mean, I admire all aspects of it, including him and his girlfriend slash wife. I'm not sure she'll probably know this"
+}

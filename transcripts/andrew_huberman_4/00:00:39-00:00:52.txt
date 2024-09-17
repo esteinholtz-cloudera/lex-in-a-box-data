@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:00:39",
+  "End": "00:00:52",
+  "Text": ", the days, the minutes, the seconds I've gotten to live on this beautiful earth of ours. I really don't want to leave just yet. think I'd really like to stick around."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:04:52",
+  "End": "02:04:57",
+  "Text": "stuff? Yeah, I could see that being helpful but not in sort of like mainline computer vision research anymore. Of course, I think"
+}

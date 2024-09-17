@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:23:46",
+  "End": "02:23:52",
+  "Text": "they have anything that has a conscious experience can experience suffering?"
+}

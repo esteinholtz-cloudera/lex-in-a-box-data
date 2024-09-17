@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:52",
+  "End": "01:57:06",
+  "Text": ". No, like what, what are the competitors like if this, like, what do you, are you distinctly work because you said it, it's a lot of it is a bit more shrouded in mystery, I guess, more confidential. Like, do you have some transparency to the market? What the competitors"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:15:50",
+  "End": "02:16:10",
+  "Text": "There's a, a large element of uh of experience and time that goes into that she's also trained. Uh And I, I think my wife and I also think my wife and I also have the benefit of, of being recruited uh young and together where"
+}

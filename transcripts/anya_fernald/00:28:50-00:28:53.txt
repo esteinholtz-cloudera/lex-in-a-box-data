@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:28:50",
+  "End": "00:28:53",
+  "Text": "be butter, suet and olive oil"
+}

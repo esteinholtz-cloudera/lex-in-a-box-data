@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:04:18",
+  "End": "01:04:30",
+  "Text": "would, I would, it's like kind of cringy, but I would like, I would like to walk up to guys or send them messages. Like, would you like to have coitus is what I would say. I said that,"
+}

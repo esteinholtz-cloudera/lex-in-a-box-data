@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:21:57",
+  "End": "02:23:14",
+  "Text": ", I mean, this answer is slightly different or very different depending on whether I kind of follow the assumption that consciousness emerges at some point in physical processing or whether it's fundamental. since I've just chosen to stay on the fundamental channel, um mean, then, then it's kind of a silly answer because if consciousness is fundamental in, in the way I currently think about it, the only way I imagine it working. Um physical thing we perceive is a representation of a conscious experience. So, I mean, yes, it's true, true of everything in the world. Um However, I would say if that's the case, though there's a way in which it's behaving in similar ways to a human being, the way it's constructed what it is actually made of. And the physics of it is so different that I would expect it to have entirely completely nonhuman conscious experience. whether it even feels like a self, I think would be a big question mark."
+}

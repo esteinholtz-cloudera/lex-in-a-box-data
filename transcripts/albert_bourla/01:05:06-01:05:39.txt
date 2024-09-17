@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:05:06",
+  "End": "01:05:39",
+  "Text": "choosing to vaccinate Children makes a choice so that something could not potentially hurt them, which is the disease. That's why we are doing vaccinations since ever. I know that uh there are people that they are concerned for themselves and for, for their kids. What I know it is, but I'm a scientist and I'm a parent and am telling you that vaccines is a very good thing for kids and thank God we were able to develop them."
+}

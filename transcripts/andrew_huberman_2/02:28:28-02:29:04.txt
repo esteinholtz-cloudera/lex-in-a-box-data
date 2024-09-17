@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:28:28",
+  "End": "02:29:04",
+  "Text": ". Well, it's like a, remember those shows, um, like where those shows where someone would come out and like spin plates and they're running back and forth and really good scientific discussion like that you have to be maintaining three or four different logical arguments and jumping back and forth. It's occasionally get into like a real streak of linearity. But as we found today that typically there's three or four different things that we're bouncing back and forth from. And that requires a lot of updating of these, you know, four brain circuits. It's not, it's not a passive listening experience, but I like to think that the brain likes that."
+}

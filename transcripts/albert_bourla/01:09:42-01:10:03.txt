@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:42",
+  "End": "01:10:03",
+  "Text": ", some of the big ones have been retracted, means they weren't. Yes. So this is definitely something that people need to look at the people that kind of question the effectiveness I ever met and definitely something to think about. And I think is the reason that"
+}

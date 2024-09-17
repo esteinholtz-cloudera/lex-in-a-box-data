@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:49",
+  "End": "01:18:56",
+  "Text": "guess another way to phrase is you're getting at is it could be algorithm or something? It could be a relationship"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:34:38",
+  "End": "01:34:41",
+  "Text": ", people do it. Do you, do you or for no"
+}

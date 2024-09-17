@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:49:53",
+  "End": "03:50:30",
+  "Text": ", what about falling in love in the A I system? Do you think you'll have a since you're like this is the freedom you have being poly amorous, you can kind of A I and like it not really have to dedicate your commit fully. you still commit, but you have other humans who you can kind of diversify to, because it's kind of a big thing like come to a party and your boyfriend is an A I, that's monogamous boyfriends and a I, it's an issue. Right."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:16:30",
+  "End": "01:16:51",
+  "Text": "know, I did this is what started my relationship surveys. So I've done a series of relationship surveys and that was because I knew somebody in a terrible relationship. And I was like, I bet if she took a survey where she answered questions about her relationship and at the end got a score that compared her to everybody else, she'd be like, oh, wait, everybody else has much better relationships than I do. So that's why I started making the relationship surveys was exactly for that reason. Yeah, that's really,"
+}

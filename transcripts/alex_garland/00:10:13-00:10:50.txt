@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:13",
+  "End": "00:10:50",
+  "Text": ". So in the movie, first of all, incredibly original view of what an alien life would be. And it's, it's in that sense, it's a huge success. go inside your imagination. Did the alien that alien entity, know anything about humans when it landed. So the idea is you're, you're basically an alien is trying to reach out to anything that might be able to hear its mechanism of communication. Or was it simply, was it just basically their biologist exploring different kinds of stuff?"
+}

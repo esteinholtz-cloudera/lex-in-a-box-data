@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:32:17",
+  "End": "03:32:23",
+  "Text": "pursuit of happiness. I don't know if you have that the nature of the landscape of happiness,"
+}

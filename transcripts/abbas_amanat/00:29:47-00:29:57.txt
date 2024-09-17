@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:47",
+  "End": "00:29:57",
+  "Text": "really important to highlight that Iran a very modern and tech savvy nation. just"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:21",
+  "End": "00:11:41",
+  "Text": "what are the, the currents of pain, emotion? What is this turmoil that rose to the surface that resulted in these big protests? What are the different feelings, ideas that came to the surface here that resulted in such quick scaling of this protest?"
+}

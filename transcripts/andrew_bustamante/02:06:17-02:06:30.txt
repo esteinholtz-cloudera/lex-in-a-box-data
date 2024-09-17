@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:17",
+  "End": "02:06:30",
+  "Text": ", I tend to think exactly as you said, that the long hanging fruit protects against. Yeah, crimes of opportunity. And then I assume that people can just hack in if they really"
+}

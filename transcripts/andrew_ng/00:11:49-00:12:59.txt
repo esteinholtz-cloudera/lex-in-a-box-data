@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:11:49",
+  "End": "00:12:59",
+  "Text": "think with, with the whole um machine learning movement as well. I think it didn't come out of nowhere. Instead what happened was uh as more people learn about machine learning, they will tell their friends and their friends will see how it's applicable to their work. And then, and then the community kept on growing and I think it was still growing, know, I don't know in the future, what percentage of all developers will be A I developers. Um I could easily see it being north of 50% right? Because um uh so many A I developers broadly construed, not just people doing the machine learning modeling, but the people building the infrastructure data pipelines, you know, all the software surrounding the core machine learning model. Uh Maybe it's even bigger. feel like today, almost every software engineer has some understanding of the cloud, not all you know, but maybe this is my micro controller developer doesn't need to deal with the cloud. But I feel like the vast majority of software engineers today are sort of have an app, appreciate the cloud. I think in the future, maybe we approach nearly 100% of all developers being, you know, in some way, an A I developer or at least having an appreciation of machine"
+}

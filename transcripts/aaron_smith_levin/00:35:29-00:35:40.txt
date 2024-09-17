@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:29",
+  "End": "00:35:40",
+  "Text": "celebrities also part of Sea Org or they're not usually. So this is really the management layer., what's the idea behind $50 a week? Is that basically live a humble life?"
+}

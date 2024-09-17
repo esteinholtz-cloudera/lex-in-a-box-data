@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:06:48",
+  "End": "01:07:52",
+  "Text": ". So this is still an open area of research. But basically what I would like in a perfect world is that people trust the technology when it's working 100% and people will be hypersensitive and identify when it's not. But of course, we're not there. That's the ideal world., but we find is that people swing, right, they tend to swing, which means that if my first and we have some papers like first impressions and is everything right? If my first instance with technology with robotics is positive, um, it mitigates any risk, it correlates with best outcomes. Um It means that I'm more likely to either not see it when it some mistakes or faults or I'm more likely to forgive it. And so this is a problem because technology is not 100% accurate. Right? It's not 100% accurate, although it may be perfect."
+}

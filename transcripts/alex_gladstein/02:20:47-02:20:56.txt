@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:20:47",
+  "End": "02:20:56",
+  "Text": "then, I mean, do you have concerns that are immediately facing you? So, um not in terms of the injustices on the world, but nuclear"
+}

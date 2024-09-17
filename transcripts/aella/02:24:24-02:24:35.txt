@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:24",
+  "End": "02:24:35",
+  "Text": "does an orgy compare sexually to a one on one sexual experience?, like what is it the same ballpark or is it fundamentally different?"
+}

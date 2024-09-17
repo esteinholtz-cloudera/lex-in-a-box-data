@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:20",
+  "End": "01:45:23",
+  "Text": "in the constitution. The actual"
+}

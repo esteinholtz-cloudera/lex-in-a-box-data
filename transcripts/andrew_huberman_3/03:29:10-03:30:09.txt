@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:29:10",
+  "End": "03:30:09",
+  "Text": "think from first principles about love, Andrew? You're thank you for being my friend. Thank you for being an amazing human being who's so inspiring to so many people for constantly. I told this to Carl, one of the things that was really refreshing about you that, when I tell you an idea and I tell you a thought when I tell you something, you didn't, you don't shut it down as a first step. I was saying that that's common in scientific community that's common in people around you. You're seeing, what's the goal there? You get excited, you get excited together and that's how you can really have a great friendship and a great, great stuff together. So I'm deeply grateful for that and just for connecting so many interesting people together. You're doing an amazing job, man and uh thank you for existing. Thank, thank you for being here. Thank you for talking today. And uh next time I'll see you in the sauna and"
+}

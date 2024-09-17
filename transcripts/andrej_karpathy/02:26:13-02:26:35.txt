@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:26:13",
+  "End": "02:26:35",
+  "Text": ". Yeah. That's weird. You humans with the habits and stuff. Uh, what are your thoughts on work life balance throughout a human lifetime? Tesla in part was known for sort of pushing people to their limits terms of what they're able to do in terms of what they're trying to do in terms of how much they work, all that kind of stuff. Yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:01",
+  "End": "02:16:10",
+  "Text": "feels like a passive aggressive suggestion that we shouldn't talk about love anymore, but we shall continue. We should"
+}

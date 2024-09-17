@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:53",
+  "End": "01:14:07",
+  "Text": "one of the really exciting scientific things is that that particular point is something that we might be able to discover even in our lifetimes that find life elsewhere like Europa or be able to,"
+}

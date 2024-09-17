@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:59:26",
+  "End": "01:00:09",
+  "Text": ", the speed of lights is a funny one because you could always choose units which the speed of light is one. You know, we measure it in kilometers per second and it's 100 and 86,000 or miles per second. It's 100 and 86,000 miles per second. but if we had used different units, then we could make it one but you can make dimensionless ratios. um you know, you could say, why is the time scale set by the expansion of the universe so large compared to the time scale of a human life or so large compared to the time scale for a neutron to decay. You know,"
+}

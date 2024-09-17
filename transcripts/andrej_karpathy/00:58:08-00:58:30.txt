@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:58:08",
+  "End": "00:58:30",
+  "Text": ", at some point, I think it might be, I think the society, society will evolve a little bit like we might start signing digitally signing uh some of our correspondence or, you know, things that we create. Uh Right now, it's not necessary but maybe in the future it might be, I do think that we are going towards a world where we share, share the digital space with uh A is"
+}

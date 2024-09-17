@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:35:35",
+  "End": "01:36:02",
+  "Text": "me? Like, it's the, the ingredients that I associate with like indulgence. Like, be fresh bread with like my favorite cultured butter on it. Be a food of my childhood. I grew up in Oregon. We always had salmon and I'd smoke salmon or salmon eggs, like really good salmon eggs. I love cheese. I love goat cheese. I love all kinds of cheese. So there'd be cheese. I love meat. Obviously I'm imagining it's sort of like abundance of, like, 10 things. I love. It's not a dish, you know, it's like all the, all"
+}

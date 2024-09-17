@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:37",
+  "End": "02:07:55",
+  "Text": "the ambition of youth.. What, what, what made you fall in love with physics at first? If you can go back the early days, you said, uh black holes were there in the beginning. But what made you, do you remember what really made you fall in love?"
+}

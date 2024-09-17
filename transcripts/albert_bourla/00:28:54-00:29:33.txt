@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:54",
+  "End": "00:29:33",
+  "Text": "been in Pfizer for 28 years. Time flies when you're having fun and you've become CEO uh in 2019. It is a company you love a company you believe in, a company that has developed drugs that has helped millions of people. So let me ask yet another hard question. On this topic of reputation in 2009, Pfizer pleaded guilty to the illegal marketing of arthritis drug Bextra and agreed to a $2.3 billion settlement. do you make sense of the fact that this happened accompany you love and that you believe in"
+}

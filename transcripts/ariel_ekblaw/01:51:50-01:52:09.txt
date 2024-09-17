@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:50",
+  "End": "01:52:09",
+  "Text": "can't wait, bring it on aliens. Listen, your work. You're an incredible communicator, incredible young scientist there. It's a huge honor that you would spend your time with me. I can't wait what you do the future. And thank you for representing MIT so beautifully, so Master Fleet. You're an incredible person. Thank you for, thank"
+}

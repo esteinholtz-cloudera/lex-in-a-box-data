@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:16",
+  "End": "01:02:19",
+  "Text": ". So you find that there is ineffective,"
+}

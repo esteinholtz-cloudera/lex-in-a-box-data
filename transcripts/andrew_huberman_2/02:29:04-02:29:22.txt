@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:04",
+  "End": "02:29:22",
+  "Text": ", I do want to ask just because we, I don't want to forget., the question came up to me is your podcast the same kind of rigor that I think like a Dan Carlin podcast has, who's a history podcaster?"
+}

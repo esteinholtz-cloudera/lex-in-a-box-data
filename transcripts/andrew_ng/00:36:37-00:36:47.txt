@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:37",
+  "End": "00:36:47",
+  "Text": "mention some of the key concepts in deep learning that students should learn that you envision them learning in the first few months in the first year or so."
+}

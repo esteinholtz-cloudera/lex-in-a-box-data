@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:15:46",
+  "End": "00:16:10",
+  "Text": "agree. In fact, it's one of the I have on my channel is wanting to talk about Scientology in a way that would actually resonate with current Scientologists, not just resonate with former Scientologists. I want people who are still in to be able to hear how I talk about it and go wow, he's being really fair and really accurate. He's not just a hater. You know what I mean?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:58:10",
+  "End": "02:58:26",
+  "Text": ", it's very fascinating. uh we can also of course, also like shape it. It's not just a pure average, we can mess with the training data, we can mess with the objective, we can fine tune them in various ways. So we have some um you know, impact on what those systems look like"
+}

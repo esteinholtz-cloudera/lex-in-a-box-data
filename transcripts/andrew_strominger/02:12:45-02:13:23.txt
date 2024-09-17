@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:45",
+  "End": "02:13:23",
+  "Text": "the excitement is a precondition for uh for breakthroughs. Um But you are also somebody like, just like you said, you don't have a cynical view of the modern state of physics., so there's a lot of people that glorify like the early days of string theory and that, you know, all these made in the, but you're saying like this to you uh might be one of if not the most exciting times to be a theory like when the alien civilizations 500 years from now that visit Earth will look back. They, they'll think the 21st century, some of the biggest discoveries ever were made in the 20"
+}

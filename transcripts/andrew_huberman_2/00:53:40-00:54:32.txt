@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:53:40",
+  "End": "00:54:32",
+  "Text": ". That's right. So one thing that could, could be very efficient and we're doing some work with athletes. Now, these are unpublished data. But if you, while you're running, if you want to get into a nice cadence of heart rate variability do double inhales you're running, what this will do is that when you do the double inhale has the effect of of reopening the aoli of the lungs. You, your lungs are filled with tons of little sacks when you they tend to collapse as you fatigue when you and carbon dioxide builds up in the bloodstream. And that's when we start getting stress. If you've ever been sprinting, you start getting beat and you're going as hard as you can. What, what you really need to do is double inhale and reinflate these sacs in the lungs and then offload a lot of carbon dioxide. when you're at a steady cadence and you're feeling good, double inhale, exhale, double inhale, exhale is a terrific way to breathe while you're in ongoing effort. By the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:21",
+  "End": "01:30:54",
+  "Text": ", I I take that phrase back because people deeply for some reason. Well, I know why but it's I think exaggerated distrust Facebook because of the privacy concerns and so on. And with robotics, one of the things you have to make sure is all the things we've talked about is to be transparent and have people deeply trust you to let a robot into their lives into their home. When do you think the second batch of robots will, is it 5, 10 years, 20 years we have robots in our homes and robots in our hearts?"
+}

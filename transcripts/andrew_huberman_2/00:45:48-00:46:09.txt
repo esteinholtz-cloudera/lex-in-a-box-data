@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:48",
+  "End": "00:46:09",
+  "Text": ". But for an introvert like myself and I think David, I don't know if he's an introvert, but he's not, the fact that he has written a great book and he communicates, he puts himself out there. He's not really a fan of communication. He's not, I don't know if he's energized by speaking his mind. I"
+}

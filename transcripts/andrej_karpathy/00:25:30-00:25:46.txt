@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:30",
+  "End": "00:25:46",
+  "Text": "make me kind of feel weird that we're part of a science experiment, but maybe it's everything is a science experiment. Does that change anything for us? a science experiment? Um I don't know, two descendants of apes talking about being inside of a science. I'm"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:40:49",
+  "End": "02:41:07",
+  "Text": "code is a source of truth, the papers and everything else. It's a high level summary. I don't uh, just a high level summary. But at the end of the day, you have to read code, it's impossible to translate all that code into actual uh you know, uh paper form. Uh So when, when things come up, especially when they have a source code available, that's my favorite place to go. So,"
+}

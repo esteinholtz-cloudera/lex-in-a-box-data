@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:21:00",
+  "End": "03:21:21",
+  "Text": "be able to, I mean, that's where the poetic stuff comes in. Ultimately, as a psychiatrist, you're exploring the human mind with a bit of a sort of romantic element, you can't be really systematic about it, but it does seem like frame or not be able to just talk through the experiences you had really"
+}

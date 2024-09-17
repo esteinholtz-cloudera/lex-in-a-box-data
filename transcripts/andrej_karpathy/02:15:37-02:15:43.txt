@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:37",
+  "End": "02:15:43",
+  "Text": "? So this is the early days of a system that eventually will look like this like from a rich, rich certain perspective."
+}

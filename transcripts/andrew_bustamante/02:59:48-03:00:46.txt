@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:59:48",
+  "End": "03:00:46",
+  "Text": "I think that's a very good question. The, the folks I left behind when I left CIA who continue to serve as faceless nameless heroes every day. am grateful to them. truth is that if you, they were motivated by something else, they wouldn't be as good as they are at doing what they do. I, I see your point about shouldn't we be celebrating our victories? But when celebrating our victories runs the risk of informing our our, how we operate, giving away our informational advantage, giving away our tactical battlefield advantage and running the risk of shaping a narrative intentionally among our own American people. And now all of a sudden we're turning into exactly the thing that the American people trust us not to become."
+}

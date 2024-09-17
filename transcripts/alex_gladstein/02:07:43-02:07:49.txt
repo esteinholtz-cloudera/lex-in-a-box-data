@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:07:43",
+  "End": "02:07:49",
+  "Text": "as long as you feel like you're a free person when you're interviewing, I think you're good. That's"
+}

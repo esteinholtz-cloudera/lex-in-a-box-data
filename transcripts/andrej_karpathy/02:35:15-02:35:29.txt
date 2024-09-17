@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:35:15",
+  "End": "02:35:29",
+  "Text": ". So you're interacting with the system. So not just one prompt, it's iterative prompting. You're trying to figure out having a conversation with the system. I mean, to me that's super exciting to have a conversation with the program I'm writing."
+}

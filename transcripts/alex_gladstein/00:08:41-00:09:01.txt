@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:08:41",
+  "End": "00:09:01",
+  "Text": "free speech, freedom of assembly, freedom of belief, freedom to participate in your government, the freedom to have privacy, the freedom to own things, property rights. These are all basic fundamental negative rights, what we call them. These are the basic fundamental human freedoms."
+}

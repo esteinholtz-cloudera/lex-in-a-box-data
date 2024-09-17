@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:59",
+  "End": "01:57:20",
+  "Text": "been hard? Sorry to interrupt with the podcast. You uh there's certain episodes, mean, you're like taking just incredibly difficult topics and you know, they're going to be, there's going to be a lot of really good scientists listening to those with a very skeptical and careful eye. how hard do you struggle meeting that deadline"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:22:16",
+  "End": "02:23:09",
+  "Text": "thinking about my own upbringing, I went to a public school here and um we never learned about money. It was never part of our curriculum. Um Even personal finances was not part of our curriculum. You could take like an optional course to learn about business or something. And I think that that would be really valuable uh as a young person or as a teenager um to, to start incorporating into your children's lives is like a curiosity about what is money. I think it would be very healthy regardless of what path that takes them down. Um Because we don't think about it enough either from an administrative sort of personal finance thing about like responsibility uh or more fundamentally like what is it? And who creates it? Where did it come from? of those things are very important. So my advice to a young person would be to get to the point where you feel like you can answer the question, what is money?"
+}

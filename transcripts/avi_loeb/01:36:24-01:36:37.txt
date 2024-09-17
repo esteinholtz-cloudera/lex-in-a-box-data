@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:24",
+  "End": "01:36:37",
+  "Text": "crazy. But I've talked to a bunch of people in. know it sounds crazy but it's actually it will work. This is one of those. It's just beautiful. I mean, this is science"
+}

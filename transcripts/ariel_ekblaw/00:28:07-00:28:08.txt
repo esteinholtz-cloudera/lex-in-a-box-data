@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:28:07",
+  "End": "00:28:08",
+  "Text": "how that dynamic"
+}

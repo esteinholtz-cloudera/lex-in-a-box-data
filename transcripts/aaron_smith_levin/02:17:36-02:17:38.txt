@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "02:17:36",
+  "End": "02:17:38",
+  "Text": "next time."
+}

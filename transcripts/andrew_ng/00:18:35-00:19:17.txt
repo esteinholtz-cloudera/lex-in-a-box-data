@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:18:35",
+  "End": "00:19:17",
+  "Text": "know, um I was really fortunate to have had Peter of you as my first phd student. Um And I think even my long term professional success builds on early foundations or early work that, that, that Peter was so critical to. So I was really grateful to him for working with me. Um You know, what not a lot of people know is just how hard research was and, and still is. Um Peter's phd thesis was using reinforcement learning to apply help. And so, you know, actually even today, the website heli dot Stanford dot Eduhel, I dot Stanford dot E is still up, you watch videos of us using reinforcement learning to make a helicopter fly upside down, fly loops, Ross. Cool."
+}

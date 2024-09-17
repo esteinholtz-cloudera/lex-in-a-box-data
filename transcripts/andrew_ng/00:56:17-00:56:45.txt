@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:17",
+  "End": "00:56:45",
+  "Text": "so, it's so amazing that you think that way because there is millions of people that are impacted by your teaching and sort of that one minute spent has a ripple effect right through years of time, which is just fascinating to talk about. does one make a career out of an interest in deep learning? Do you have advice for people? We just talked about sort of the beginning early steps. But if you want to make it an entire life's journey or at least a journey of a decade or two, how"
+}

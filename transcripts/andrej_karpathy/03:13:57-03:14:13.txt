@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:13:57",
+  "End": "03:14:13",
+  "Text": "asking me because they know you love reading. Are there particular books you enjoyed that had an impact on you for silly or for profound reasons that you would recommend, mentioned the vital question."
+}

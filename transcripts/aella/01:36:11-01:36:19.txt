@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:36:11",
+  "End": "01:36:19",
+  "Text": "don't think I asked about power dynamics in relationships because I just assume most people don't. And there's a lot of things that are kind of like most"
+}

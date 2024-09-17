@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:49:02",
+  "End": "03:49:42",
+  "Text": "technical difficulties and there's cost at scale. Like the terrifying thing about A I is it can accelerate overnight the capabilities but the printing of stuff they actually changing physical reality very costly. It's very difficult to exponentially accelerate. The more terrifying thing is A I becoming exponentially intelligent and then controlling humans, which there's many of us and then that's how we achieve scale. We humans build stuff or start wars or so on. Like it starts manipulating our minds, gets in our mind becomes our friends then starts uh I don't know, I think"
+}

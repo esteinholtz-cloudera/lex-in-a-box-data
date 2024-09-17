@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:48",
+  "End": "01:05:51",
+  "Text": "you ever, did you say fuck again for a"
+}

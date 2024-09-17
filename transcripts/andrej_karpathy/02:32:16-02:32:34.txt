@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:16",
+  "End": "02:32:34",
+  "Text": ". And there could be like you like testing mechanisms if it writes a function and that function looks pretty damn correct. But how do you know it's correct because you're getting lazier and lazier as a programmer, like your ability to because like little bugs, but I guess it won't make"
+}

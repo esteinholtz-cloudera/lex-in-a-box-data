@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:08:28",
+  "End": "02:09:05",
+  "Text": "like a way of going meta that is a flinch move. Like, oh, I noticed that we're doing this thing. I'm going to name it. And I think the thing that I described earlier, like when the homeless guy approached me and asked, you know, can you go home with me? And I was like, oh, are you trying to have sex with me right now? I was doing is like a meta, you're stepping outside and like, OK, what is the purpose of this conversation? And we explicitly identify it? And in that case, I think that is sort of like a flinch move. Like I'm not telling him my emotional response, I'm not being fully present. I'm sort of identifying it as a way to subvert what's going on. And I absolutely think this is a possible thing, but I used to try to be aware of that myself. And it depends on the purpose of what's going on that guy"
+}

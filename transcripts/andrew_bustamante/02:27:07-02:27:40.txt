@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:07",
+  "End": "02:27:40",
+  "Text": "dynamics and the incentives of economics that you referred to that the private intelligence operates under. that more or less ethical than the forces uh maybe government agencies operate under? Like what's your intuition is capitalism lead? So you mentioned it leads to maximization of efficiency and performance. But is that correlated with ethical behavior when we're talking about such hairy activities like collection of intelligence?"
+}

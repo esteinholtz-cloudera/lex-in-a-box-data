@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:55",
+  "End": "03:31:44",
+  "Text": "of the people I've recently talked to Mel Destiny's Steven's wife is a huge fan of yours. She was actually really excited to get to talk to you. But I think she said her body count is more than 42. I think she said 60 something like this. And so interesting because she was, like, saying, like, she loves, like, looking at your, at your work talking to you because you have similar perspectives on the world. And it's really refreshing. It's liberating., that's really sweet. It's kind of interesting. So, is there like an optimal body count if you were to map? I wonder? Yeah. What have you found out about body count and doing? Have you actually done surveys on body count on how many people?"
+}

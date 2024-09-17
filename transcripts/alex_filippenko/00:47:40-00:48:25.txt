@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:47:40",
+  "End": "00:48:25",
+  "Text": ". But no, but I like being poetic about it because it's an amazing question, you know, there something beyond just the bits the ones and zeros to us. You know, it's an interesting question. Um I like to think that there, there isn't anything and that how beautiful it is that our thoughts, our emotions, our feelings, our compassion come from these ones and zeros, right? That to me actually is a, a beautiful thought and the idea that machines silicon based life effectively could be our natural evolutionary descendants, not from a DNA perspective, but they are our. And they then carry on that to me is a beautiful thought in some ways. But others find it to be a horrific thought. That's"
+}

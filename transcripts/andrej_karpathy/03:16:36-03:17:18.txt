@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:16:36",
+  "End": "03:17:18",
+  "Text": "Selfish Gene and Nick Lane, I would say sometimes books are like not sufficient. I like to reach for textbooks sometimes. Um I kind of feel like books are for too much of a general consumption sometimes and they just kind of like um they're too high up in the level of abstraction and it's not good enough. So I like textbooks. I like the cell. I think the cell was pretty cool. That's why also I like the writing of uh Nick Lane is because he's pretty willing to step one level down and he doesn't uh yeah, he's sort of, he's willing to go there. But he's also willing to sort of be throughout the stack. So he'll go down to a lot of detail, but then he will come back up and I think he is a, yeah, basically I really appreciate that."
+}

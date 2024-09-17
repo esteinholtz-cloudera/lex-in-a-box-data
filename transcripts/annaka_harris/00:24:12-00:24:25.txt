@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:12",
+  "End": "00:24:25",
+  "Text": "saying you try to meditate what it's like to be a P tendril, a plant that's what's required here. It's like you have to empathize with a plant or with another organism that's not human. Yeah. And"
+}

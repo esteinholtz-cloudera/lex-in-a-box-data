@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:56",
+  "End": "01:40:00",
+  "Text": "fill in, like, survey, sorry, paragraph. Like, no,"
+}

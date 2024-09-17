@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:43",
+  "End": "00:06:59",
+  "Text": "truly novel, that means you don't really understand it's outside your distribution. So therefore it's going to have a bunch of uncertainty, but you don't think of it as uncertainty, you think about it as something new, it actually also attracts you because there's a lot of uncertainty surround it. Probably like, what is this new"
+}

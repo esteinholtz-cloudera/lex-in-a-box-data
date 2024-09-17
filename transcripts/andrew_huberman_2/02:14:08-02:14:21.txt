@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:14:08",
+  "End": "02:14:21",
+  "Text": "got those baseball cap wearing baseball like that. There are certain people that go on podcasts and wear baseball caps and don't reveal their, I don't know if they realize it or not until it comes out, but their face is completely obscured from vision and"
+}

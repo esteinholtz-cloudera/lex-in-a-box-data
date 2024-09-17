@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:33:02",
+  "End": "00:33:38",
+  "Text": "is probably, I mean, this is in my thesis, this looks like it was one of my earlier papers. This was an approach to say, great. We've come up with this tessellation approach for a buckyball and we picked the buckyball because it is the most efficient surface area to volume shape and what's expensive space, the surface area, shipping up all that material. So we wanted something that would maximize the volume. But if we think about ring worlds and other shapes, we wanted to look at how do you tile a torus? And this is one example with Hexagons to be able to say, could we take this same Tessera approach of self assembling tiles and create other geometries?"
+}

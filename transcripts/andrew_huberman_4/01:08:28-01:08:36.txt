@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:28",
+  "End": "01:08:36",
+  "Text": "seems to be that there's a very clear like numerical ranking. There is like, it's, it's clear who's the number two? Number three, I mean,"
+}

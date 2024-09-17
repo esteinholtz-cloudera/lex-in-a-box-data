@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:40:35",
+  "End": "01:41:40",
+  "Text": ". Yeah, I think low earth orbit might come to look like that. And it's a really interesting regulatory challenge to make sure that there's some cross purposes. So the more cool space cities we have in orbit, the more shiny objects in the night sky, the worse it is for astronomers in a really kind of overly simplified case. there's some pushback to this like Amoeba in where we just grow kind of um incongruously or indiscriminately as an Amoeba in low earth orbit. Beyond that though, I think we'll grow in pockets where there are resources. So we won't just expand around the gravity well of earth. We'll do some development around the moon, some development around asteroids, some development around Mars because there will always be purposes for which we want to go down to a physical object and study it or extract something or learn from it. I think we'll grow in fits and starts in pockets. Um Some of the coolest pockets are the gravity balanced pockets like the Lagrange points, which is where we just sent. We not me personally but NASA just sent James Webb, the big telescope. I think it's at L two. So"
+}

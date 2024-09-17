@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:43:09",
+  "End": "02:43:37",
+  "Text": "it and I think there is this weird effect of whether or not it's a podcast, Instagram or Twitter or anything else. There is kind of like people shouting into a tunnel and then a bunch of people with ears at the other end of those tunnels and shouting some things back. You know, that, that's kind of the format we're in. I think I'll check out clubhouse again. I've gone in there a few times during the day and I was surprised to see how many people were in there in the middle of the day. I was like, aren't these people supposed to be working? But maybe that is"
+}

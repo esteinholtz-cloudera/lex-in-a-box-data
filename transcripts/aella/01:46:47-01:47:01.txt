@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:47",
+  "End": "01:47:01",
+  "Text": "see it as a survey like an application you, I think he tweeted saying like I'm thinking of just like showing up to San Francisco and saying, anybody open for casual sex? Something like this? I I misremember"
+}

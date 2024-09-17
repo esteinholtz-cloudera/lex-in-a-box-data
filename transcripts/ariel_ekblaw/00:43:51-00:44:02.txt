@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:51",
+  "End": "00:44:02",
+  "Text": "you like the, you like astrobiology? This is part of the. So it's not just about human biology, it's also other extraterrestrial alien biology."
+}

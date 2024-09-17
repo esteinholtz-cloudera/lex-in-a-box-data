@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:09:57",
+  "End": "01:10:05",
+  "Text": ". Exactly we're testing out. It's a tech demonstration mission. Not a true, not a true swarm. Yeah. There they are, those are the astro ants."
+}

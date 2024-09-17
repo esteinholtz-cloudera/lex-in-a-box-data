@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:17:35",
+  "End": "01:18:18",
+  "Text": ", one of the big challenges is you can't just open a window or walk out a door and blow off steam, right? You can't just go somewhere to clear your head. in that sense, you need to build habitats that are homes that really care for the humans inside them and have whether it's biophilia and a place where you can go and feel like you're in nature or a VR headset, which for some people is a, poor simul crm but is maybe better than nothing. Um You need to be thinking about these technological interventions that are going to have to be part of your home and be part of your maybe day to day ritual to keep you steady and balanced and happy or feeling fulfilled."
+}

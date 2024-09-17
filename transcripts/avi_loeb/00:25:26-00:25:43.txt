@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:25:26",
+  "End": "00:25:43",
+  "Text": ", since then, there was one called the Borisov, it was discovered by an amateur Russian astronomer Gennady Borisov. And that one looked like a comet.. And just like a comet from within the solar system. But this"
+}

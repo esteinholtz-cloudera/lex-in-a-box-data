@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:11",
+  "End": "01:12:16",
+  "Text": "is armed forces controlled by the state."
+}

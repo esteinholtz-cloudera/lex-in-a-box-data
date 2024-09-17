@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:33",
+  "End": "01:44:39",
+  "Text": "sense to you that psychedelics work so well for such difficult cases, what is it about"
+}

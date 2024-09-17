@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:16:30",
+  "End": "01:17:06",
+  "Text": "? One of the projects in the book that I gave you, which is a catalog of the projects that we've worked on over the last five years is the social robot was developed at the media lab. And we one of the first years in 2017 that we flew a Zerg flight, we took the social robot along and tried to do a little bit of a very scaled down human study look at these questions because you do imagine that we would form a bond, a real bond with the social robots that might be not just serving us on a mission, but really be our teammates on a future mission. And I do think that that could have a powerful role in the mental health and just the stability of our crews to have some other robot friends come along."
+}

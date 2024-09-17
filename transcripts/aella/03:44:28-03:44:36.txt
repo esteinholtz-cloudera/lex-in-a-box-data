@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:44:28",
+  "End": "03:44:36",
+  "Text": ", no. Being tortured. Just today, you're tortured tomorrow, you're tortured the third, the day after tomorrow."
+}

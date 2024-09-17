@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:34:37",
+  "End": "01:35:27",
+  "Text": "is a distraction. And these sensors, you know, they can change over time. For example, you can have one type of say radar, you can have other type of radar, they change over time. And now suddenly you need to worry about it. Now suddenly you have a column in your SQL light telling you, oh, what sensor type was it? And they all have different distributions and then uh they can they just, they contribute noise and entropy into everything and they bloat stuff. And also organizationally, it has been really fascinating to me that it can be very distracting. Um you, if, if you only want to get to work is vision, all the resources are on it and you're building out a data engine and you're actually making forward progress because that is the, the um sensor with the most bandwidth, the most constraints on the world. And you're investing fully into that. And you can make that extremely good if you're uh you have only a finite amount of sort of spend of uh focus across different facets of the system."
+}

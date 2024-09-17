@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:45:55",
+  "End": "01:46:06",
+  "Text": "? But it is, people have tried to do things like that but have not succeeded. It's not, it's not something that we, we, you know, we're getting a pluses in,"
+}

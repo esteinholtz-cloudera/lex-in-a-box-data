@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:59",
+  "End": "01:56:07",
+  "Text": "that's what the thoughts will be coming in my head. You should be getting married, you have kids,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:21:12",
+  "End": "00:21:18",
+  "Text": "be that it's very, you have to go very slowly potentially as an example through space. Um, right. As"
+}

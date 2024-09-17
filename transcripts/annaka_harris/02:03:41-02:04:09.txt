@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:03:41",
+  "End": "02:04:09",
+  "Text": ". I mean, it's a little bit like, you know, I, I have two Children and a lot of people with two Children will say, like, when, when you're preparing to have the second one and so soon after you've had the second one that having two is kind of like having three because you are, nourishing and protecting and overseeing each individual life. But then there's the sibling relationship, which is almost another thing."
+}

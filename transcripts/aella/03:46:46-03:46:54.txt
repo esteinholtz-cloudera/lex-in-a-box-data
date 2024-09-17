@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:46:46",
+  "End": "03:46:54",
+  "Text": ", well, I mean, I'm like part of like the doomer cult, which I say tongue in cheek is not actually a doomer cult, but I'm part of,"
+}

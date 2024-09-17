@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:20:40",
+  "End": "02:21:51",
+  "Text": ", what I read is that um you're talking about the mathematicians, mathematicians, what I read is that um he was disappointed by the response of the community, the mainstream community, the mathematicians to his earlier work where they dismissed it. They didn't attend to the details and, and didn't treat him with proper respect because he was not considered of them. And think that speaks volumes about the current scientific culture w which is uh based on um groupthink and on um social interaction rather than on the merit of the argument. And on the evidence in the context of physics. So in mathematics, there is no empirical base it, you're exploring ideas that are logically consistent. Uh But nevertheless, there is this uh uh groupthink. And uh think he was so frustrated with his past experience that he didn't even bother to publish his papers. He just posted them on the archive. And um in a way it saying, you know that I know what, what the answer is, go look at it."
+}

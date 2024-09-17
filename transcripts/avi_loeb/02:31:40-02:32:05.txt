@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:31:40",
+  "End": "02:32:05",
+  "Text": ". So what we need is some anomalies that would hint what the nature of the dark matter is or to detect it in the laboratory. There are lots of laboratory experiments searching, but it's like searching for a needle in a haystack because there are so many possibilities for the type of particle that it may be. Um But maybe at some point, you know, we'll find either a particle or black holes as the dark matter or something else."
+}

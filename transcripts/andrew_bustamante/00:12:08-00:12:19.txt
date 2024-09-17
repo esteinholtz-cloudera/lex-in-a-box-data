@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:08",
+  "End": "00:12:19",
+  "Text": "what's the role the director of the CIA versus the president? What's that dance like? So the, the president really leads the focus of the CIA."
+}

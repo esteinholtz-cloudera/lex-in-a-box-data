@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:57",
+  "End": "01:49:00",
+  "Text": ", I guess there's more than science and there's"
+}

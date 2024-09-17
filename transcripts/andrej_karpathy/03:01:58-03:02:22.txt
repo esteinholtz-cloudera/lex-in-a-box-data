@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:01:58",
+  "End": "03:02:22",
+  "Text": "then old marshmallow test with the kids and so on, I feel like too many people handle the truth. Probably including myself, like the deep truth of the human condition. I don't know if I can handle it. What if there's some dark, what if we are an alien science experiment? And it realizes that what if it, I mean,"
+}

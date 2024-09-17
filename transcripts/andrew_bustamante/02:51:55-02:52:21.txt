@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:55",
+  "End": "02:52:21",
+  "Text": "mean, that's the American individualism. And so he represents that and I think there's a huge skepticism large federal institutions. And I think if you look at the long arc of history that actually is a forcing function for the institutions to behave their best. So hold them accountable"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:10:31",
+  "End": "00:10:51",
+  "Text": "think it's possible for authoritarian regimes to manipulate, to kind of lie about the negative rights as well by saying that the people have free speech, the people have with the freedom for assembly and all those kinds of things. Can't you still manipulate idea that the citizenry still has those rights."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:29:09",
+  "End": "01:29:35",
+  "Text": "know, screaming at employees, I mean, these are, these are anecdotes, right? I call them anecdata because people treat them as data, but they're, they're really just anecdotes. We don't know, I wasn't there. Um But, you know, I, I like the idea of without over sharing, right? You're very authentic, but there are aspects to your life that I'm aware of that your audiences will never be aware of and there are aspects of your life that I'll never be aware of. And so you're still authentic"
+}

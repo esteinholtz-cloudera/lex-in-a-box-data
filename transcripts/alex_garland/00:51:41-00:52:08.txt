@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:41",
+  "End": "00:52:08",
+  "Text": "of the directions do you find most succeeding? Space travel, travel. So you haven't really explored space travel in your work, you said you've said something like if you had unlimited amount of money, I think, and I read at a ma that you would make a multiyear series of space wars or something like that. So, what is it that excites you about space exploration?"
+}

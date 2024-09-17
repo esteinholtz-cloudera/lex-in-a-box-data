@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:11:40",
+  "End": "02:12:38",
+  "Text": "just so, you know, the US government, the military woke up to that exact same thing about two years ago. It's still very new. I mean, they were sourcing, take night vision goggles, for example, they were sourcing components and engineering and blueprints. For night vision goggles from 34 or five different subcontractors all over the country. they never asked themselves what the security status was of those self of those subcontractors., you know, fast forward, you know, a few years and uh and all of a sudden they start getting faulty components, they start having night vision goggles that don't work. They start having supply chain issues where they have to change their, their provider. Uh And, and the army doesn't know that the provider is changing. I mean, this is a strategy. The, the idea of, of going through third party systems is identifying the vulnerability in the supply chain. That's a, that's a, a savvy offensive practice for, for more than just, you know, cyber hackers."
+}

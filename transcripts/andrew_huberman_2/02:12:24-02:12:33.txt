@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:24",
+  "End": "02:12:33",
+  "Text": "the youtube Bank for a reason that this was before he went with Spotify."
+}

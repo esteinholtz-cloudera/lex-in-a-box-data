@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:08",
+  "End": "00:13:22",
+  "Text": "you say that a lot of these cycles evolved in the predator, prey relationships of the different throughout the food chain? So it's basically all somehow has to do with survival in the, in this complicated web of predators and prey."
+}

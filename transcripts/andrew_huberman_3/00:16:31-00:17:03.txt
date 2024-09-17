@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:16:31",
+  "End": "00:17:03",
+  "Text": "what's interesting? There's some, some cool physiology around this. The reason he needed to eat so much is not that he was burning that many calories pure movement. It's that when you do exercise in water, even if it's warm water, the heat transfer in water is greater. So you burn far more calories. And again, here I'm, I'm admittedly lifting that from uh knowledge that was passed on to me by Tim Ferris. I didn't. So, but I checked it out and it's absolutely true. So if you exercise in water, even if it's not really cold water, your caloric needs go way up, which is why you get out of the pool and you're often really hungry and"
+}

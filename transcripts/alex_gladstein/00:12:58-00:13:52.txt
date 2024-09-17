@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:12:58",
+  "End": "00:13:52",
+  "Text": "free speech clear to you as a concept. There's been quite a few debates, especially in the digital age, what it means to violate freedom of speech. There's been a lot of new novel mechanisms for people to communicate with each other, especially on social networks. And it seems that unclear because a lot of times those are managed by private companies. It's unclear how much protection do the citizens have to have they're communicating. A lot of people are being censored on these social platforms. Some people even presidents get removed from those social platforms. Have you thought about the freedom of speech in the United States? But in the world, as it uh it's implemented in the 21st century, given the internet and all those kinds of things."
+}

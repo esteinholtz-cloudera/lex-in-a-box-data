@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:49",
+  "End": "01:28:53",
+  "Text": "there mathematically speaking in the Drake equation."
+}

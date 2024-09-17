@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:39:49",
+  "End": "02:40:04",
+  "Text": "each of us can make a difference. Alex, it's a huge honor to talk to you. I've been a fan of your work. A lot of people spoke really highly of you as one of the beacons of hope for human civilization. So I'm really glad we got a chance to talk. Thank you for wasting all this time with"
+}

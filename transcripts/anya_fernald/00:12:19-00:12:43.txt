@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:12:19",
+  "End": "00:12:43",
+  "Text": "the art of it. mean, the art is like creating temptation and indulgence and giving people pause, you know, like giving, creating experience that's like so sensual and like, I love that about when I make something really simple and beautiful and delicious. The way that like, there's that moment of silence at the table and that to me is the moment of art, like of appreciation."
+}

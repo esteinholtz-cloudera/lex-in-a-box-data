@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:03:30",
+  "End": "01:04:02",
+  "Text": "that potentially there is felt experience even though it sounds crazy even to me that there is felt experience in all matter. And at this point in my thinking and after a few conversations with some physicists, I think consciousness is fundamental, the only thing that actually makes sense is that it is part of the most fundamental that space time and everything else emerges out of felt experience is just part of the fabric of reality."
+}

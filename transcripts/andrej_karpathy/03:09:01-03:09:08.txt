@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:01",
+  "End": "03:09:08",
+  "Text": "a tiny perturbation of the system results in the destruction of the human species. It's a weird line to walk."
+}

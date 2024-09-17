@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:54",
+  "End": "01:04:10",
+  "Text": "a really interesting point which is, it's possible that there huge amount of intelligent civilizations have been born even through our galaxy but they live very briefly and they die."
+}

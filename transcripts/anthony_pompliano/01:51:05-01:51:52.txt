@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:05",
+  "End": "01:51:52",
+  "Text": "wonder if you can sort of comment on that because you have both sort of cash app and blog and Coinbase. You can, you can purchase and trade it there and store it there and so on. But ultimately, they're saying you want to keep some of it there, but you want to move it to the hardware wallet the cold storage of the hardware wallet is like you can disconnect it from the computer because ultimately stuff that's connected to the internet can be compromised can be controlled by governments and other parties and so on. What are your thoughts about? Sort of practically speaking for maybe like a regular citizen., what should be the role of the hardware wallet in their lives?"
+}

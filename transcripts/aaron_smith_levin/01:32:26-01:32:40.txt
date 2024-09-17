@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:26",
+  "End": "01:32:40",
+  "Text": "is secrecy enforced? Why is, why is everybody holding on to their stories? So, so intensely people that are within the organization, like it's hard to leak. Oh, they"
+}

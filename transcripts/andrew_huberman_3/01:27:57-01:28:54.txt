@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:57",
+  "End": "01:28:54",
+  "Text": "a CEO of major companies. You better believe there's pressure to behave more like a CEO as opposed to a giggling schoolboy who's posting memes throughout the night. that is him and that freedom. That's what freedom looks like. I talked to a lot of CEO S and a lot of them like a caged birds who have long ago forgotten how to sing Quite honestly, like there's like shareholders and they come up with excuses for themselves. Here's why I have to be this way. You have to understand. So on, there's pr there's marketing people, there's lawyers, there's all that kind of stuff, but the final result is the authenticity suffocated., the beautiful weirdness of a CEO of a leader of a creator of a scientist, all that, that's all uh that's all gone."
+}

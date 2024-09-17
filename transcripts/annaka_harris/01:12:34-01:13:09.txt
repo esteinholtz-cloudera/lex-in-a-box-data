@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:34",
+  "End": "01:13:09",
+  "Text": ", I mean, I guess that's what empathy is about. That's what I try to exercise, try to imagine what it's like to be other people. And then you're doing that even farther with P tantrums. But perhaps we can do that thing rigorously but connecting different sensory mechanisms to the brain to do that for all kinds of organisms on earth. But they're similar to Austin scale and the time at which they functioned, the time scale and the spatial scale, perhaps it's much more difficult to do for electrons and so on."
+}

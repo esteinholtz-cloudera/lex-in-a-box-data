@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:19",
+  "End": "03:27:33",
+  "Text": "man, the synthetic content. I mean, it's humbling because we, we treat ourselves as special for being able to generate art and ideas and all that kind of stuff if that can be done in an automated way by A I,"
+}

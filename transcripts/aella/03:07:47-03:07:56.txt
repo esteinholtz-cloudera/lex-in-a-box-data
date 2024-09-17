@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:47",
+  "End": "03:07:56",
+  "Text": ", got, it, got, it, got it, got it. And some of that, I guess is genetic and there's these categories of people, there's two categories that experience LSD in different ways and you're one of those that are able to just let go."
+}

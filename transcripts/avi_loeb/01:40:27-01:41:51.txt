@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:40:27",
+  "End": "01:41:51",
+  "Text": "should tell you how it was conceived. So, um I was at the time, so after six months passed, after the visit of Mia, I was usually, I go in December during the winter break, I go to Israel., I used to go to see my family and, uh, I get a phone call, um, just before the weekend started, I get a phone call. Uh Yuri would like you to present your concept um in two weeks at his home. And uh I said, well, uh thank you for letting me know because I'm uh actually out of the door of the hotel to go to a gold farm in, in, in the nev in the southern part of Israel with because my wife wanted to have sort of uh uh to go to a place that is removed from civilization, so to speak. we went to that goat farm, you know, I need to make the presentation and then there was no internet connectivity except in the office of the goat farm. So the following morning at uh six AMI sit with my back to the office of that goat farm, looking at goats that were newly born the typing into my laptop, the presentation, you know, the powerpoint presentation about, you know, our ambitions for visiting the nearest star. And that was very surreal to me that uh you know,"
+}

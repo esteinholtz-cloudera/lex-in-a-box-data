@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:50",
+  "End": "00:06:06",
+  "Text": "about if we walk back? You mentioned optimization. Like what beautiful ideas inspired you in math, computer science early on, like, why get into this field? Seems like a cold and boring field of math. Like, what was exciting to you about"
+}

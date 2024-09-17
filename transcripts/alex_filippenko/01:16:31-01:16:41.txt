@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:16:31",
+  "End": "01:16:41",
+  "Text": "that's the, that's the optimistic part that if we don't find other intelligent life there, it might mean that we're the ones that made it. Uh and,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:53:23",
+  "End": "03:53:59",
+  "Text": "you said when you were 27 I think you didn't know what the hell you're doing. Um So now that you're a few years older and wiser, let me ask you to put on your wise sage hat and give advice to other 27 year olds or even younger, 1718 year olds that are just out of high school, maybe going to college, trying to figure out this life, this career thing that they're on. what advice would you give them about how to have a career or how to have a life they can be proud of"
+}

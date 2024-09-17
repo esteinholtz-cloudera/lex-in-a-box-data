@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:14",
+  "End": "02:55:00",
+  "Text": "you bring up chimps, somebody will say Joe Rogan entered the chat. Can I ask you about sort of learning about Bitcoin books and resources? Do you have an amazing podcast? not just about Bitcoin or Cryptocurrency, it's about everything including life. But you do have a lot of really amazing conversations about this whole digital world. But obviously, you also have a newsletter that's incredible on Substack, and um do you have recommendations? Maybe it would be great if you could talk about first of all, your podcast and the newsletter, but also other resources that you recommend people should check out in order to learn about Bitcoin."
+}

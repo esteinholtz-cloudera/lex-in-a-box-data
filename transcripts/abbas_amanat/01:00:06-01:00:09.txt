@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:06",
+  "End": "01:00:09",
+  "Text": ", all over now, all over the world in different"
+}

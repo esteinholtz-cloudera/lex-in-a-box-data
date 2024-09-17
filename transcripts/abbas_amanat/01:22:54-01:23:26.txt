@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:22:54",
+  "End": "01:23:26",
+  "Text": "different cultures. But all of them, in a sense were coming out of uh the regimes that became uh uh uh progressively powerful having any kind of a legal system that would protect the individual vis a vis the state. So the idea of law the constitution, according to which there should be a certain protection or certain civil society became very common."
+}

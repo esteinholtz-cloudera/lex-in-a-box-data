@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:21",
+  "End": "00:51:24",
+  "Text": "effectiveness of the auditing process."
+}

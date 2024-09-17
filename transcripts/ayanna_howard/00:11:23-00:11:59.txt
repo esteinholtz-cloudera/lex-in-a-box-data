@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:23",
+  "End": "00:11:59",
+  "Text": "this nice dance of you're still hyper vigilant. So you're still not trusting it at all and yet you're using it. What on the highway? If I were to like what as a roboticist, we'll talk about trust a little bit. do you explain that you still use it? Is it the gadget freak part where you just enjoy exploring technology? Or is that the right? Actually balance between robotics and humans is where you use it? But don't trust it. And somehow there's this dance that ultimately is a positive."
+}

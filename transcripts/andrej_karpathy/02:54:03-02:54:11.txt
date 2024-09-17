@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:54:03",
+  "End": "02:54:11",
+  "Text": "A G I to use primarily focused on intelligence. So consciousness doesn't enter uh into it."
+}

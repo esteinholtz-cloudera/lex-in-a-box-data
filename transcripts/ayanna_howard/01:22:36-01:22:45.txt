@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:36",
+  "End": "01:22:45",
+  "Text": ". You think so, you think that's a bad future? Is, is that a negative thing where they ask we're being discriminated against?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:28:10",
+  "End": "00:28:12",
+  "Text": ", I gotta let me back in. I'm"
+}

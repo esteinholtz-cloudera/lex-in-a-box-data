@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:35",
+  "End": "02:24:00",
+  "Text": ". What do you think of figures like um like Peter Thiel, do they wield? And I'm sure there's figures of similar scale and reach and power in private intelligence. What do you think about their role and power this whole? Like without public accountability that you would think directors of CIA perhaps"
+}

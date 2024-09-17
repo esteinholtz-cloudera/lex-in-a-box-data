@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:56",
+  "End": "00:22:25",
+  "Text": "we'll talk about the, the negative aspect, the abuses of power, but let's just explore the ideas a little bit more. Um So the the public facing three fundamental truths of maybe correct me if I'm wrong. Uh Man is an immortal spiritual being. Like we said, with Satan's, his experience extends well beyond a single lifetime. So infinite memory backwards, his capabilities are unlimited, even if not presently realized capabilities are unlimited."
+}

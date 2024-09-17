@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:48",
+  "End": "02:17:52",
+  "Text": "is the device of the people. All you elitist people with your iphone."
+}

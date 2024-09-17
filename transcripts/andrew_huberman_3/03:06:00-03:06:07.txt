@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:06:00",
+  "End": "03:06:07",
+  "Text": "have a sauna and a cold plunge. So we could do, we could do, we could do a sauna and a cold plunge version. I"
+}

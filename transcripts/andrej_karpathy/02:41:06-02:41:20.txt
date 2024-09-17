@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:41:06",
+  "End": "02:41:20",
+  "Text": "I said, you're one of the greatest teachers of machine learning A I ever uh from CS 231 N to today. What advice would you give to beginners interested in getting into machine learning,"
+}

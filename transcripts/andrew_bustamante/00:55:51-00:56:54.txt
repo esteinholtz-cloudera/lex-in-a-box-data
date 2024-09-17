@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:51",
+  "End": "00:56:54",
+  "Text": "just, it breaks my heart. How much generational hatred is born. happen to be from,, my family is from Ukraine and from Russia. And so for me just personally, it's a part of the world I care about in terms of its history because I speak the language. I can appreciate the beauty of the literature, the music, the art, the cultural history of the 20th century, through all the dark times, through all the hell the dark sides of authoritarian regimes, the destruction of war. There is still just the beauty that I'm able to appreciate that I can't appreciate about China Brazil other countries because I don't speak their language. This one I can appreciate. And so in that way, this is personally really painful to me to see so much of that history, the beauty and that history suffocated by the hatred that is born through this kind of geopolitical game fought mostly by the politicians. The leaders,"
+}

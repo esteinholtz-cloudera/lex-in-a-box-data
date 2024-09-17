@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:52",
+  "End": "01:15:32",
+  "Text": "really fascinating thing. And actually a lot of people tell me about you, Andrew Huber and like the reach of a podcast is really fascinating. It's not the, it's not the numbers of people who listen. I don't know if that's important at all what's important is like the depth of connection you have with certain people. It really moves them like a great and like they really get you. So there's a lot of big Andrew Huberman fans that really get you. It's not just the science, it's the stuff between the lines. It's Costello, it's the whole picture of a scientist that finds beauty in biology and reveals it and they love you for it,"
+}

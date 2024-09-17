@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:38",
+  "End": "02:29:41",
+  "Text": "he officially changed his title, Techno King, Techno"
+}

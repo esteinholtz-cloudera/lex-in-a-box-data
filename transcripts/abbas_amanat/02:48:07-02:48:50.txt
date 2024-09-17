@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:07",
+  "End": "02:48:50",
+  "Text": "I think there is as you probably know, quite a lot of people that would have a different perspective than you just stated in terms of, know, taking the perspective of Israel and characterizing the situation. Can you steel man that their side? Can you steel man Israel's side that they're trying to be a sovereign nation trying to protect themselves against threats, ultimately to create a place of safety, a place where people can pursue all, all the things that you want to pursue in life, including foremost happiness."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:25",
+  "End": "00:21:28",
+  "Text": "think now robotic algorithms would be killing,"
+}

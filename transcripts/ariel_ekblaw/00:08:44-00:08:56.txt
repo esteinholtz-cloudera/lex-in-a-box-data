@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:44",
+  "End": "00:08:56",
+  "Text": "settlements, civilizations and other planets. That's the, that's the cool thing to dream about in the future. was the, what was the favorite sci fi authors when you're growing up?"
+}

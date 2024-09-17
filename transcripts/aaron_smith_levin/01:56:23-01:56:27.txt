@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:23",
+  "End": "01:56:27",
+  "Text": "the sins according to Scientology?"
+}

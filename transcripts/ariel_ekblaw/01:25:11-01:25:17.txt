@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:11",
+  "End": "01:25:17",
+  "Text": "that's commercial. What about NASA and MIT academia?"
+}

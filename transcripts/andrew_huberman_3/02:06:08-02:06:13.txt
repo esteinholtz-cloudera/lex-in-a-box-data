@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:06:08",
+  "End": "02:06:13",
+  "Text": "from eating meat and athletic greens. So rattlesnakes, rattlesnakes. You're"
+}

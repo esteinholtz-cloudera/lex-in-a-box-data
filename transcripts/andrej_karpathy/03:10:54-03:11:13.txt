@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:10:54",
+  "End": "03:11:13",
+  "Text": "a little bit captivated by virtual reality by the possible worlds, whether it's the metaverse or some other manifestation of that., it's really interesting. It's, uh, I'm, I'm interested just, just talking a lot to Karmak. Where's the, the thing that's currently preventing that?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:36:59",
+  "End": "00:37:27",
+  "Text": "mean, you've spoken about very specific voice that cosmos had in that it reveals the magical sciences. I think you said shamanic journey of it and the details of the latest breakthroughs and so on. Just revealing the magic. Can you try to describe what this voice of cosmos is? With the, with the follow up and the new cosmos that you're working on now."
+}

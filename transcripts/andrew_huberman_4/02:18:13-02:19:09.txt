@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:18:13",
+  "End": "02:19:09",
+  "Text": "I think you should. Um Absolutely have kids. I mean, look at the people in our life because because we're kind of the, if you, in case you haven't realized it already, like we, we're the, the younger of the podcasters. But you know, like Joe and Peter and and, you know, I, I, you know, and the rest, right, they, they're the, like the, they're like the tribal elders. Right. And, um, and we're, you know, we're not the, the youngest in the crew but we're, we're, if you look at all those guys, all have kids, all adore their kids and their kids bring tremendous meaning to their life. Like we be, we'd be morons if, know, if you didn't go off and start a family, I didn't start off, start a family. Um And yeah, I think that's, that's the goal. I mean, I think the kids of the goals, that's one of them, the kids"
+}

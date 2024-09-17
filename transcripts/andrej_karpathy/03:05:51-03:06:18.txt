@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:05:51",
+  "End": "03:06:18",
+  "Text": "war, 100% worry about it. And so the, I mean, the, uh you know, some of these uh fears of a GIS and how this will plan out, I mean, these will be like very powerful entities probably at some point. And so, um for a long time, there are going to be tools in the hands of humans. Uh you know, people talk about like alignment of a GIS and how to make the problem is like even humans are not aligned. Uh So how this will be used and what this is gonna look like is um Yeah, it's troubling. So"
+}

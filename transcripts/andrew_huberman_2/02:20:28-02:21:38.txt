@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:28",
+  "End": "02:21:38",
+  "Text": "started an amazing podcast that we mentioned a few times. People should definitely check it out. It's called the Huberman Lab podcast. It, does your, it's basically, it embodies the personality of Andrew Huberman, which is like makes science accessible but also uh fascinating and giving it like, what do you call it? You give tools for everyday life, meaning kind of grounds it in like what the hell does this mean for my life? But then also does the beauty of science at the same time. So I love, I love both the rigor and the openness of the whole thing. Plus the whole corrections thing I mentioned. Anyway, what's been the hardest part of this whole process? You're one of one of the only and one of the best science podcasters out there. So, in that process, what's been the hardest, what's been the most exciting part? Well,"
+}

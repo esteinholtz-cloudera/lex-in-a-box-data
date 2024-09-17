@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:48:28",
+  "End": "00:48:45",
+  "Text": "it and it goes both flows there, not just things that have happened to you, but things that you've done so you could be being asked for, you know, you'd be going back to, I wiped out a civilization. I committed genocide. I don't know this race on this planet. Oh, yeah."
+}

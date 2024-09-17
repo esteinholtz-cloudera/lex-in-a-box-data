@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:07:47",
+  "End": "01:07:55",
+  "Text": ", OK. Well, I'll take, I'll take the question in the spirit, it was asked but uh very generous um"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:26:04",
+  "End": "01:26:09",
+  "Text": "mean, I look like from the outside, you know, I've looked at their sheets, I've looked at like the data."
+}

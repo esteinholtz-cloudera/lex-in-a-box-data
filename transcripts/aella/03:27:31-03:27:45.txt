@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:27:31",
+  "End": "03:27:45",
+  "Text": "you have people just like, submit a form with and then you just randomize it and then select one and then you just, if it's terrible, you just go randomize it again. Like the first, not terrible option. Yeah. Sure. Like drown yourself."
+}

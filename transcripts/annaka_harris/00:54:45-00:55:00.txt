@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:54:45",
+  "End": "00:55:00",
+  "Text": "that? Well, then, I mean, so I have to get clear on what you're asking. So, are you, are you coming from a place of wondering if we are the only conscious mammals? you really think that's a question?"
+}

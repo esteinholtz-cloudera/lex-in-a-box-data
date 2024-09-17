@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:33:08",
+  "End": "01:33:20",
+  "Text": "actually sort of a multifaceted conspiracy. And that on the one hand, L Ron Hubbard points his fingers at the international bankers., which has shades of anti-semitism too."
+}

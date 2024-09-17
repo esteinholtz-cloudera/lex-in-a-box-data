@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:49:56",
+  "End": "00:50:01",
+  "Text": "you know what you're getting from, well, there's like crazy construction zones and all,"
+}

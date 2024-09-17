@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:17",
+  "End": "01:04:21",
+  "Text": "got a chance to witness neuralink. I don't know if you're familiar with that company, the brain, uh brain Computer Interfaces and then they have, I got a chance to see it in person. Just a bunch of pigs who had neuralink chips implanted and taken out. Those pigs are so happy with life. I don't know, I've never seen a happier animal. mean, because they get to eat because you were mentioning diets and stuff. Pigs seem to love a lot of stuff. They're easily made to be happy. I don't know if you can comment on your thoughts of,, you know, exploring the capacity of the pig mind through some of this testing with neuralink, whether that's exciting to you, whether maybe on the humane side, it's a little bit concerning um there's something to be said and sort of like, yeah, I don't know if it's even the ethical side, but just because of your connection to meat and to nature and understanding these living beings,"
+}

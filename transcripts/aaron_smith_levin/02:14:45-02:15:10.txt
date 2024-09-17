@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:45",
+  "End": "02:15:10",
+  "Text": "kind of therapy. Yeah. Listen, part of the reason I do this podcast is talking to people that you care about that you're close with is a really powerful, powerful thing. But yeah, I don't know what recovery looks like. And success to you is defined be, find happiness, find happiness outside the closed bubble that defines what happiness looks like. A"
+}

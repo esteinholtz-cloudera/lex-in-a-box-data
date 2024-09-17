@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:41",
+  "End": "01:29:00",
+  "Text": "the experience is how you judge a good meal for you personally. If you were a judge of the entirety of the human experience, in terms of the culinary journey, that would be like the people you're eating with the environment, how you feel the journey building up to that meal, like the whole thing, you can't"
+}

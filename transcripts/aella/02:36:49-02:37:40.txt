@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:36:49",
+  "End": "02:37:40",
+  "Text": ". For people who just listening on the X axis is ta taboos asked to rate how taboo society viewed the sexual interest and on the Y axis is percent of people reporting interest log scale. boy. All right. So just some examples on the low taboos and high popularity. There's a, there's a correlation here. I think you said it's 0.69. Not just hilarious. Is it still 0.69? Are you tracking that I have the most? So like the last taboo stuff is more likely to be popular and the more taboo stuff is less likely to be popular and on the missionary position, vagina blow jobs, spanking cuddling, cuddling is more taboo than missionary."
+}

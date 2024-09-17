@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:00",
+  "End": "00:48:08",
+  "Text": ", that's happiness, but in terms of your ability to see the truth that you can be happy. And"
+}

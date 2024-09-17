@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:25:53",
+  "End": "01:26:02",
+  "Text": ", each one has a story. Only one of them I don't understand. Um And that was on, that's actually the only one I don't understand."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:07:21",
+  "End": "00:07:26",
+  "Text": "you said that love is not an illusion."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:30",
+  "End": "01:09:49",
+  "Text": "100%? I mean, I take what you said is a challenge in terms of having a family with kids and they do JJ and obviously defeat you and make you miserable for your failures as a father because you couldn't uh"
+}

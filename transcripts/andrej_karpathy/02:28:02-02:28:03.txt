@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:28:02",
+  "End": "02:28:03",
+  "Text": "say once a month or"
+}

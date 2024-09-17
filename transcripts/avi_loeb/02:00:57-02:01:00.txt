@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:57",
+  "End": "02:01:00",
+  "Text": "know, it's not an option when you go to the black hole is exactly the point."
+}

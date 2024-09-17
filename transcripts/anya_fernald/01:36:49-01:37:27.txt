@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:49",
+  "End": "01:37:27",
+  "Text": "afraid of variety. I like the focus when you can just, this is all you have. The scarcity of just, this is the one ingredient. And really appreciating it or maybe one thing like one full complex flavor, whatever the heck that is, like the distraction this, the serial dating nature of having a bunch of things in a plate is um,, so for some reason that prevents me from fully enjoying any one of them, I don't know why, why that is the more healthy way to do it is the variety your, your way is the healthy way to do. It is alcohol involved."
+}

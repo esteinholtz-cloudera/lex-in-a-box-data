@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:06",
+  "End": "00:10:54",
+  "Text": "hard is that problem? Do you think of the expressivity of robots? Like the Boston dynamics? I never talked to those folks about this particular element. I've talked to them a lot, but it seems to be almost an accidental side effect for them that they weren't, I don't know if they're faking it. They weren't trying to OK. They do say that the gripper it was not intended to be a face. don't know if that's an honest statement, but I think they're legitimate. So do we automatically just anthropomorphize anything we can see about a robot? So the question is how hard is it to create a wally type robot that connects so deeply with us humans? What do you think"
+}

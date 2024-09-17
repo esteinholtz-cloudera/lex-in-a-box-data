@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:35:42",
+  "End": "00:35:47",
+  "Text": "eating meals as a family? Yeah. Yeah. I mean, no, television,"
+}

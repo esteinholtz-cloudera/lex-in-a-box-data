@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:55",
+  "End": "00:41:59",
+  "Text": ". Can you linger on the massacre? What happened there?"
+}

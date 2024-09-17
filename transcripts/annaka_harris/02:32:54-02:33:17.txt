@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:32:54",
+  "End": "02:33:17",
+  "Text": ", I mean, in so many ways, it's the most important role. I don't think any of these realizations. mean, if, if anything, I think it enhances it, I don't think they, I mean, it kind of goes back to the levels of usefulness."
+}

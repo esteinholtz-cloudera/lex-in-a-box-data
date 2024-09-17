@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:01:17",
+  "End": "03:01:45",
+  "Text": "you speak to some of the myths? So MK Ultra, so not a myth, not a myth. So this is a fascinating human experimentation program undertaken by the CIA to develop procedures for using drugs like LSD to interrogate people through, let's say psychological manipulation and maybe even torture. The scale of the program is perhaps not known. How do you make sense that this program existed"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:57:50",
+  "End": "00:58:05",
+  "Text": "do amazing science, they think they love their lifestyle and that's wonderful, but the culture is very different. Um Carl and I think Silicon Valley in general kind of prides itself on this kind of monk like it says, right? But at"
+}

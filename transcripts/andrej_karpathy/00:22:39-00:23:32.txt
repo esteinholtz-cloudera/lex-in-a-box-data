@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:22:39",
+  "End": "00:23:32",
+  "Text": "think the, the question, it's really hard. Um will say like for example, for us, um we have lots of primitive life forms on earth. Um Next to us, we have all kinds of ants and everything else and we share space with them and we are hesitant to impact on them and to we are, we're trying to protect them by default because they are amazing, interesting dynamical systems that took a long time to evolve and they are interesting and special and I, I don't know that you want to um destroy that by default. so um I like complex dynamical systems that took a lot of time to evolve. I think um I'd like to, I like to preserve it if I can afford to. And I'd like to think that the same would be true about uh the galactic resources and that they would think that we're kind of incredible interesting story that took time, it took a few billion years to unravel and you don't want to just destroy"
+}

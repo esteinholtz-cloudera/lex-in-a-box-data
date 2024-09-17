@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:04:56",
+  "End": "01:05:23",
+  "Text": "do you make of this short life of ours? I mean, me ask a sort of another way. Uh, you've lost Carl speaking of mortality. If you could be, if you could choose immortality, you know, it's possible that science allows us to live much, much longer. Is that something you would choose for yourself? For Carl, for"
+}

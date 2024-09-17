@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:46:54",
+  "End": "02:47:32",
+  "Text": "was going to say what it is, but now I'm not going to because that's even more interesting. I brought up the clubhouse thing actually. And um, because I just want to your thoughts about something he's said a few times to me in general is that he's under a huge amount of stress. And I'm thinking of doing a start up now and kind of thinking about all of this because I enjoy podcasts. I enjoy science. But he says that his life is basically hell. very difficult."
+}

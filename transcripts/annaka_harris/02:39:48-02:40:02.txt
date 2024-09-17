@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:39:48",
+  "End": "02:40:02",
+  "Text": "part of nature. I mean, it's part of nature if feeling good is surviving and thriving, nothing survives and thrives forever. So you just encounter suffering. It's just built in,"
+}

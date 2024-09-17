@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:19:57",
+  "End": "02:20:28",
+  "Text": "that? I don't know what the brilliant had to do with it because of course, know, Oppenheimer and all that. Ok, they did it really fast. But if you didn't have Oppenheimer, you know, I mean, would it all have happened anyway?, it, it's the, it's, it had a reality of its own, the possibility of making a nuclear, didn't, it didn't depend on the fact that the physicists who built it were brilliant, maybe that sped it up by a year or two years or, but by now we'd have nuclear weapons. It's, it's something that,"
+}

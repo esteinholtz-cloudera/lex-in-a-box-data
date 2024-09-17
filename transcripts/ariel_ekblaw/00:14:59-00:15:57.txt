@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:14:59",
+  "End": "00:15:57",
+  "Text": "true. I mean, some of the technologies that we're directly looking at right now, for space habitats, it's hard to keep humans alive in this really fragile little pocket against the vacuum. And all of the dangers that the space environment presents. Some of the technologies we were going to have to figure out is energy efficient, you know, cooling and air conditioning, uh air filtration, scrubbing, co2 from the air being able to have habitats that are themselves resilient to extremes of space weather and radiation. some of these are direct translational opportunities for areas from financial disasters. You know, people in California a decade ago would never have had to think about having an airtight house. But now with wildfires, maybe you do want something close to an airtight house. How do you manage that? There's a lot of technologies from the space habitation world that we are hoping we can actually bring back down to benefit life on earth as well in these extreme environment contexts."
+}

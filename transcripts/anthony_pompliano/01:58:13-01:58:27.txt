@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:13",
+  "End": "01:58:27",
+  "Text": "fascinating to think that if, if uh you move about this world, you think in Bitcoin, you behave differently if you think in dollars. That's really fascinating"
+}

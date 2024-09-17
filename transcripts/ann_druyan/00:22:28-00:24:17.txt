@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:22:28",
+  "End": "00:24:17",
+  "Text": "I was blindfolded uh couldn't hear anything. And I had made an i a mental itinerary of exactly where I wanted to go. I was truly humbled by the idea that thoughts could conceivably touch the distant future. So it's 1977 there are some 60,000 nuclear weapons on the planet. The Soviet Union and the United States are engaged in a, you know, to the death uh competition. so I began by trying to tell the history of the planet, you know, to my limited ability, what I understood about the story of the early existence of the world of the planet about the origin of life about the evolution of life, about our, the history of humans, about our current at the time predicament, the fact that one in five of us was starving, uh, or unable to get potable water. so I, I sort of gave a kind of, uh, you know, as, as, as general a picture as I possibly could of our predicament., uh, also was very newly within days of the moment when Carl and I fell in love with each other, maybe we fell in love with each other long before because we'd known each other for years. But it was the first time that we had expressed our feelings for each other,"
+}

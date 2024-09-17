@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:38:19",
+  "End": "01:39:49",
+  "Text": "beyond that, if you think about the global economy right now, there is a commercial interest. That's why Jeff Bezos and Elon Musk are interested about Mars and so forth. There is a commercial interest which is international, it's driven by money, not by pride. And know, nations can sign treaties. First of all, there are lots of treaties that were signed even before the first World War and the second World War and the World war took place. So who cares? You know, like humans, treaties do not safeguard anything, you know. But beyond that, even if nations sign treaties about space exploration, you might still find commercial entities that will find a way to get their launches and, know, so I think we should rethink space. It has nothing to do with national pride. Once again, nothing to do with our egos. It's about exploration and the biggest problem I think to human in human history is that is, is is that humans tend to think about egos and about their, their own personal uh image rather than at the big picture. You know, we will not be around for long. We are just occupying a small space right now. Let's move out of this. You know, the way that Oscar Wilde said, I think is the best. He said all of us are in the gutters, but some of us are looking at the stars."
+}

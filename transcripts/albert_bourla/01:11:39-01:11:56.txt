@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:39",
+  "End": "01:11:56",
+  "Text": "have helped save the lives of millions of people, help improve the quality of their lives. But you yourself are just one biological organism an expiration date. Do you ponder your mortality? Do you, uh, think about your death? Are you afraid of death?"
+}

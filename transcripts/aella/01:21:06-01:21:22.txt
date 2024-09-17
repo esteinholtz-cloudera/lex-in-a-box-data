@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:06",
+  "End": "01:21:22",
+  "Text": "you also did only fans as you mentioned I read it on a website. So this is very investigative reporting that on some months you've made over $100,000 on only fans. How did that feel?"
+}

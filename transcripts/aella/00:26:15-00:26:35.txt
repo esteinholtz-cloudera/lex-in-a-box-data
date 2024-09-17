@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:15",
+  "End": "00:26:35",
+  "Text": "Yet another question, what is truth? uh to jump back, you don't you believe that free will is an illusion? uh does it feel like? free to make any decision I want?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:06:35",
+  "End": "03:07:13",
+  "Text": "draw a lot of inspiration from nuclear weapons because I sure thought it would be, it would be fucked once they develop nuclear weapons. But like it's almost like when the, when the systems are not so dangerous, they destroy human civilization, we deploy them and learn the lessons and then we quickly, if it's too dangerous, we quickly quickly, we might still deploy it uh, but you very quickly learn not to use them. And so there'll be like this balance that you humans are very clever as a species. It's interesting, we exploit the resources as much as we can, but we don't, we avoid destroying ourselves. It seems like,"
+}

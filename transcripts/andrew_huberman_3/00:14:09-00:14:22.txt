@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:14:09",
+  "End": "00:14:22",
+  "Text": "just that people look at you funny if you, if you just eat the butter straight, which occasionally I do, I got it. But so I put a little piece of bread underneath it. Not because I'm a low carb, strictly low carb thing, but just because otherwise you get some funny looks."
+}

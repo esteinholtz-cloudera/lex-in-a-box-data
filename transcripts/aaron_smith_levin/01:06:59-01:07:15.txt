@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:06:59",
+  "End": "01:07:15",
+  "Text": "it. That's the other reason to be prolific on the internet, right? The reason Joe Rogan can't get canceled because anyone can watch thousands of hours of the authentic Joe Rogan. You can't misrepresent him because he spent thousands of hours representing himself genuinely."
+}

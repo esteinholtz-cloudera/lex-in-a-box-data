@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:11:59",
+  "End": "00:12:14",
+  "Text": ". So I think I'm, just don't necessarily trust technology, but I'm an early adopter. Right. So when it first comes out, I will use everything but I will be very, very cautious of how I use it."
+}

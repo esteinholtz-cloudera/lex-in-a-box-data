@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:05:07",
+  "End": "03:05:15",
+  "Text": "it really like it messes with, you know, there's some movies that just really mess with you on a deep level. Do you relate"
+}

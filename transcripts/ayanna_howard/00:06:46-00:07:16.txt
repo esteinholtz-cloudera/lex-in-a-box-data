@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:46",
+  "End": "00:07:16",
+  "Text": "to linger on autonomous vehicles for a second, just your thoughts, maybe off the top of the head is. How hard is that problem do you think based on what we just talked about? You know, there's a lot of folks in the automotive industry, they are very confident from Elon Musk to Waymo to all these companies. hard is it to solve that last piece? That's the gap between the perfection and the human definition of how you actually function in this world."
+}

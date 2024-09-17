@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:28",
+  "End": "01:42:32",
+  "Text": "it just looks great, shirtless on horseback."
+}

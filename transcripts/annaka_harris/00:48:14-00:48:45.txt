@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:14",
+  "End": "00:48:45",
+  "Text": "were talking about minimizing mental illness, but also truth is a different dimension. So you have to, you can go crazy in both directions. You can, you know, you could be extremely happy and they are flat earthers, you can believe the earth is flat because I'm sure there's good books on this. But it's somehow really comforting. It's fun and comforting to believe you figured out the thing that else hasn't"
+}

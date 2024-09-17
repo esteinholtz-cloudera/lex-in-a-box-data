@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:17",
+  "End": "00:44:42",
+  "Text": "that could still be defined mechanisms as Russia winning as Russia winning for Russia and then for Ukraine as Ukraine winning and for the West as democracy winning and you kind of negotiate. I mean, that seems to be how geopolitics works. Everybody can walk away with a win win story and then the world progresses with lessons"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:15:57",
+  "End": "02:15:59",
+  "Text": "limbic friction"
+}

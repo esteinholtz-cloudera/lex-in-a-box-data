@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:55",
+  "End": "00:41:05",
+  "Text": "you mentioned a project that you're working on a couple of times. What's that about? I think you said Ted is involved, you're interviewing a bunch of people, what's going on, what's the topic?"
+}

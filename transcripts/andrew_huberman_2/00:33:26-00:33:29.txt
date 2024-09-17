@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:33:26",
+  "End": "00:33:29",
+  "Text": "be a longer, one, longer than 90 minutes."
+}

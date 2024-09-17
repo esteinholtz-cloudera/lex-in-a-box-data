@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:48:35",
+  "End": "00:49:08",
+  "Text": ", it's a, it's a fair thing to bring up for me that you, you hit on the lone genius thing for me. It was actually people always said machina makes this big leap in terms of where A I has got to and also what A I would look like if it got to that point. There's another one which is just robotics. I mean, at the way Ava walks around the room. It's like, forget it building that. It's, that's, that's also got to be a very, very long way off. And if you did get there, would it look anything like that? It's a thought"
+}

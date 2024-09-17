@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:54:18",
+  "End": "00:54:31",
+  "Text": "? OK. So for thousands of years, you know, until the last half of the 20th, well, sorry until the 20th century. Um we thought space time was flat."
+}

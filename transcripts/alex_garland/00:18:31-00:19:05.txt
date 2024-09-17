@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:18:31",
+  "End": "00:19:05",
+  "Text": ", it's interesting. The, the, the, the spread of discussions and the spread of anxieties that exist about A, I fascinate me., the way in which some people are, some people seem terrified about it whilst also pursuing it. And I've never shared that fear about A, I personally. Um, uh, but it, but the, the way in which it agitates people. Um, and also the people who it agitates, I find, I find kind of fascinating."
+}

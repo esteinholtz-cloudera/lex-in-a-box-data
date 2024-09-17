@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:35",
+  "End": "00:28:01",
+  "Text": "was on the front in the Haran region to this very area that you're referring to and I spoke to a lot of people and those, the morale is incredibly high and I don't think the people in that region, soldiers volunteer, soldiers, civilians are going to give up that land without dying."
+}

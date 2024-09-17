@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:04:47",
+  "End": "01:04:56",
+  "Text": "the time I just turned 70. So, yeah, I think about it a lot. I mean, it's, you know, how can you not think about it? But"
+}

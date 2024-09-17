@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:53",
+  "End": "01:35:22",
+  "Text": ", exactly. He tries to prove that it's impossible. What do you make of that? What do you, what do you make about the tension of being a physicist and potentially not being able to, it's like Freud or somebody that may be Sigmund Freud that maybe you'll never be able to actually describe the human psyche. is, is that a possibility for you that you will never be able to get to the core fundamental description of uh the laws of nature?"
+}

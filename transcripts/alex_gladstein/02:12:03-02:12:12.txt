@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:12:03",
+  "End": "02:12:12",
+  "Text": "hear a shout out for Andres because he seems to be one of the seminal figures to sort of Bitcoin ideas accessible and"
+}

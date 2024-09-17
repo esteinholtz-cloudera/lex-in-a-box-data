@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:52:29",
+  "End": "03:52:47",
+  "Text": ". Yeah. Legged robots. Are they, they, we anthropomorphize them even more because there's something about the mo movement of like,, so like a thing that steps up, steps and looks up at you that there's a power to that versus like a Roomba. It's just like"
+}

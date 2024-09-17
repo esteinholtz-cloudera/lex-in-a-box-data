@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:30",
+  "End": "01:05:50",
+  "Text": ". And your very own exceptionalist assertion earlier on, in our conversation that consciousness is something belongs to us, or not humans, but living organisms, maybe you will one day find out that consciousness is in everything and that will, that will humble you"
+}

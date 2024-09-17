@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:17",
+  "End": "00:33:08",
+  "Text": ", that's brilliant. You mentioned recommender systems. What kind of we're talking about human robot interaction? What kind of problem spaces are you thinking about? So, it um robots like wheeled robots with autonomous vehicles? Is it object manipulation? Like when you think about human robot interaction in your mind and maybe I'm sure you can speak for the entire community of human robot interaction. But what are the problems of interest here? And does it, know, I kind of think of um domain dialogue as human robot interaction and that happens not in the physical space, but it could just happen in the virtual space. So where's the boundaries of this field for you when you're thinking about the things we've been talking"
+}

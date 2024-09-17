@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:52",
+  "End": "01:48:05",
+  "Text": "they cut people off deliberately one by one it doesn't have to be that way. Right. And why is it that way?"
+}

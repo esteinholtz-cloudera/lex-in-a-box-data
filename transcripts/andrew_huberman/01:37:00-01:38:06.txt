@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:37:00",
+  "End": "01:38:06",
+  "Text": "the way, go deeper into the brain and, and to be fair. So um Matt mcdougall, um who's a neurosurgeon Neuralink and also a clinical nurse and a great guy. Brilliant. They have amazing people. I have to give it to them. They have been very cryptic in recent years. Their website was just like a like neuro, like nothing., you know, they know they really know how to do things with style and um and they've upset a lot of people, but that's good too. Um But Matt is there, I know Matt, he actually came up through my lab at Stanford, although he, you know, he was a neurosurgery resume. He spent time in our lab. He actually came out on the shark dive and did great white shark diving with my lab to collect the VR that we use in our fear stuff. I've talked to Matt and I think, you know, he and other that are hungry for the deeper brain structures. The problem is that damn vasculature, all that blood supply. It's, it's not trivial to get through and down into the brain without damaging the vasculature in the neocortex, which is on the outer crust. But once you start getting into the thalamus and closer to some of the main arterial sources, you really risk getting massive bleeds. And so it's, it's a, an issue that can be worked out. It just is hard,"
+}

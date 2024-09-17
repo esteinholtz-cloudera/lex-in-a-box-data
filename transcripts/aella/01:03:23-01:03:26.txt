@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:03:23",
+  "End": "01:03:26",
+  "Text": "have your own filter on your brain and"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:40",
+  "End": "02:40:51",
+  "Text": ", it's quite addicting. It's a time sink. It's the intimacy of it is you find yourself wasting quite a bit of time on there. It pulls you in. Well,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:39",
+  "End": "01:20:43",
+  "Text": "how difficult is the reconstruct the 3D reconstruction? It's"
+}

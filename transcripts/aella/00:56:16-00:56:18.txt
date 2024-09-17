@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:16",
+  "End": "00:56:18",
+  "Text": "in that constrained environment,"
+}

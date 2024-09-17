@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:49:00",
+  "End": "02:49:48",
+  "Text": ", that said, I mean, people are really worried about giving any one institution a large amount of power, especially when it's a federal government institution. Um given some history, first of all, just history of the corruption of power, corrupting individuals and institutions. And second of all myth or reality certain institutions like the CIA misbehaving., let me actually ask you about the Edward Snowden. So you outside of the utility that you're arguing for of the NSA surveillance program, you think Edward Snowden is a criminal or a hero"
+}

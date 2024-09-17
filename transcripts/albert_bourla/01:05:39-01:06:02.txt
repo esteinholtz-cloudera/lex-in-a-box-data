@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:39",
+  "End": "01:06:02",
+  "Text": "we've talked quite a bit about the vaccine, but there's an incredible new technology that pfizer is developing with the PAX COVID uh antiviral for COVID. does that stand? does that work? Um And how are you able to develop it in four months? Uh Like you said, and all of that in just a few minutes."
+}

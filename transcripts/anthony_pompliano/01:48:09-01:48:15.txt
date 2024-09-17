@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:09",
+  "End": "01:48:15",
+  "Text": ", I think there's still sponsoring this pod. I'm not biased at all."
+}

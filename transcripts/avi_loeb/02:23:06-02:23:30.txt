@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:23:06",
+  "End": "02:23:30",
+  "Text": ", it's really interesting to look at people that are innovators where in some phases of their career, their ideas fit into the uh social structure that is around them. But in other phases it doesn't. And when you look at them, they just operated the same way throughout and says more about their environment than about them. Well,"
+}

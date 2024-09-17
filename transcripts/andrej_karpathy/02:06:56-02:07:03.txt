@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:06:56",
+  "End": "02:07:03",
+  "Text": "sorry simulation, I mean like video games or uh you know, um other forms of simulation for various professionals."
+}

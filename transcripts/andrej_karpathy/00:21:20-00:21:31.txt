@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:21:20",
+  "End": "00:21:31",
+  "Text": "suspicious basically of our ability to measure life and I'm suspicious of the ability to just permeate all of space in the galaxy or across Galaxies. And that's the only way that I can, I can currently see a way around"
+}

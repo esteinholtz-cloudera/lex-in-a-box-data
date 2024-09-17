@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:07:36",
+  "End": "03:07:49",
+  "Text": "so. Um And it's not even about the full destruction to me, it's bad enough if we reset society, that would be like, terrible, it would be really bad. And I can't believe we're like so close to it. like so crazy to me. It feels"
+}

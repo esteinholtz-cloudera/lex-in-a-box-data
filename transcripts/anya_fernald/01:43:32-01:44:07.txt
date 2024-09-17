@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:43:32",
+  "End": "01:44:07",
+  "Text": ", if you look at like, you know, we're talking about people use the sort of marketing language of like happy cows or that kind of thing. You know, if you're talking about the happiest animals, it's wild animals, right? So if you wonder why these practices are good, talk to hunters, you know, you're talking about animals that have lived in their evolutionary capacity, right? Who have played their role in the ecosystem, who've lived their meaning of life, right? And that's a very powerfully different kind of role than, than livestock production. I think if we can make our livestock production as similar to wild as possible, then we're a lot of steps closer. So"
+}

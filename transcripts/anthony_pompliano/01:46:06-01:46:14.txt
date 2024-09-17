@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:46:06",
+  "End": "01:46:14",
+  "Text": "different ones. Yeah, they basically are agnostic to what it is. Um But they provide kind of financial products to crypto investors."
+}

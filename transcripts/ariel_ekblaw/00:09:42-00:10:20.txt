@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:42",
+  "End": "00:10:20",
+  "Text": "were saying offline about Neil Stevenson because I just recently had a conversation with him and I said that, you know, not until I was doing the research for him that I realized he also had a, role to play in blue origin. So it's like sci fi actually having a role to play in the design engineering, just the implementation of ideas that kind of percolate up from the sci fi world and actually become reality. It's kind of, it's a fascinating figure in that way. So do you also think about him beyond just his work in science fiction? But his role in coming up with wild crazy ideas that actually become reality?"
+}

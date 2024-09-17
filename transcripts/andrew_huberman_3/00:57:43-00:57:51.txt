@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:43",
+  "End": "00:57:51",
+  "Text": "they are. People don't know. Uh Andrew Huberman is from the West Coast and now he's just starting wars with the Neuroscience Mafia."
+}

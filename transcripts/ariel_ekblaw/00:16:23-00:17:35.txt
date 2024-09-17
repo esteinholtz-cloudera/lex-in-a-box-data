@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:16:23",
+  "End": "00:17:35",
+  "Text": "think the future that we're seeing is that they're going to be intermixed, which is really exciting. So the future of space habitats are one of intelligent structures, maybe not all the way to how and the 2001 space Odyssey reference that scares people about the habitat having a mind of its own. But certainly we're building systems now where the habitat sensing technology that allows it to communicate its basic functions, you know, maintaining life support for the astronauts, but could also communicate in symbiosis with these swarm robots that would be on the outside of the spacecraft, uh whether it's in a microgravity orbiting environment or on the surface. And these little robots, they crawl just a La Neil Stephenson and seven eves, they crawl along the outside of looking for micrometeorite punctures or gas leaks or other faults and defects. And right now we're just working on the diagnosis. So can the swarm with its collective Intelligence Act in symbiosis with a spacecraft and detect things. But in the future, we'd also love for these little micro robots to repair in situ and really be like ants living in a tree altogether connected to the spacecraft. Do you"
+}

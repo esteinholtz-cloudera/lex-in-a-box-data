@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:31",
+  "End": "00:50:50",
+  "Text": ", no, no. But wait a minute, there's a mainstream narrative of science that says the earth is round and I think a flat earth, I admire the very first step of a flat earth. I don't admire the full journey. But the first step"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:25:06",
+  "End": "03:25:17",
+  "Text": "these UFO S be aliens? Now, I'm going into a territory of you as a human being wondering about all the alien civilizations that are out there. hum, the humbling question."
+}

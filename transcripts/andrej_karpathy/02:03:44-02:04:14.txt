@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:44",
+  "End": "02:04:14",
+  "Text": "that apply in the real world. You've criticized, you uh flourished and loved for time, the image that the famed image that data set I recently had some words of criticism that the academic research ML community gives a little too much love still to the image net or those kinds of benchmarks. Can you speak to the strengths and weaknesses of data sets used in machine learning research?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:02",
+  "End": "02:13:21",
+  "Text": ". That's brilliant because I just watching Ozarks is so stressful. It is, right? So stressful watching it as uh he usually finds a way usually it is a set of really bad options and it's one of the bad options. What's the best of the bad options?"
+}

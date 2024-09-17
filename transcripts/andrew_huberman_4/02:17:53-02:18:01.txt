@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:53",
+  "End": "02:18:01",
+  "Text": ", you're, uh, you got a heart that's so full of love. I can't wait for you to have kids, uh, for you to be a father."
+}

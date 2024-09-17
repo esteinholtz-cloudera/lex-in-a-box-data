@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:59",
+  "End": "00:49:16",
+  "Text": "just said the U word understanding. are you in terms of chemistry and physics and so on? What do you feel like it's doing? Is it searching for the right context in, in like what is it, what is the actual process happening here?"
+}

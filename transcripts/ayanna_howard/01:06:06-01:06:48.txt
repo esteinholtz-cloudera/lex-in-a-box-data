@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:06",
+  "End": "01:06:48",
+  "Text": "certainly with robots with the Thomas vehicles and all the kinds of robots you work with. That's, a,, it's uh the way you answer it, especially if you've never interacted with that robot before. Uh if you haven't had the experience, you being able to respond correctly on a survey is uh is impossible. But what do you, what do you uh what role does trust play in the interaction? Do you think like, is it good to, is it good to trust robot? What does overt trusts mean? Is it good to kind of how you feel about autopilot currently? Which is like from a robotics perspective is like cautious."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:51",
+  "End": "01:42:04",
+  "Text": "feel like they like the fact that we have the laws we do. They're relatively simple already. kind of incredible. It's just, there seems to be, there seems to be simple laws that govern things right?"
+}

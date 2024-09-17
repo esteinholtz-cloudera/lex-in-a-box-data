@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:20:37",
+  "End": "00:21:09",
+  "Text": "I was four years old when my mom got introduced to Scientology and she got in really fast, really quick. Um So, but I was 12 years old when I was taken out of school and started officially full time working for Scientology. OK. So um in various capacities, I worked for them from the ages of 12 to the age of 26. OK. So, then I was 34 when I officially parted ways with Scientology, which was really more them officially parting ways with me, but we can get into all that later. That's just kind of how scientology does"
+}

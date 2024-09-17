@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:18:26",
+  "End": "03:18:45",
+  "Text": "cutting edge. Yeah, what is the actual process of working with these cells and growing them and incubating them and, know, it's kind of like a massive cooking recipes of making sure your self slows and proliferate and then you're sequencing them, running experiments and, uh, just how that works. I think it's kind of like the source of truth of at the end of the day, what's really useful in terms of creating therapies and"
+}

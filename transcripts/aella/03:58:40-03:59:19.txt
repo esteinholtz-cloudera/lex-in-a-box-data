@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:58:40",
+  "End": "03:59:19",
+  "Text": "think it's like the common misconception about rationalist is that they're kind of like Spock like we suppress emotion and we're thinking logically hurt eater. But I found this to be really not the case. Like I remember there's a less strong thread where I was like, really emotional and I commented and it just the beginning, I was like, just warning, I'm just very emotional and then I just vented my emotions and people respond really well to that. They're like cool, like you're just genuinely truthfully expressing your state. This is actual information about the world is important to hear it's just they're very interested in having things framed correctly. Like you shouldn't be claiming that your emotions are necessarily a true version of the world. And so as long as you're just clear about what the frame it is, you're fine."
+}

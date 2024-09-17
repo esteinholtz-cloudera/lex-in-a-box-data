@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:32",
+  "End": "00:58:49",
+  "Text": "say that's if we're looking at the future of human robot interaction, would you say the psychology piece is the hardest? if it's, I mean, it's a funny notion for you as I don't know if you consider, yeah, I mean, one way to ask it, do you consider yourself a roboticist or a psychologist?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:28",
+  "End": "01:43:03",
+  "Text": ", of course, it definitely is. But the question yes. one of the questions before we arrive there, we can ask, does such a destination even exist? So because the the asking the question and the possible answers and the process of trying to answer that question is in itself super interesting is it is it is it even possible to get there where there's an equals empty square type of there's a function OK. You can have many parameters but finite number of parameter function that can predict a lot of things about our universe."
+}

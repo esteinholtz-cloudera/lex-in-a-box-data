@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:19",
+  "End": "01:34:05",
+  "Text": "I feel like how did, how did you two meet while she passed the three filters? I set up uh mean, but that's also, but also can you put into a survey, the things that you're interested in? mean, I definitely think about this a lot with hiring like, like teams, engineers and so on. with engineers, OK losing truly special engineers because you have to filter because there's thousands of applications. Like it feels like feels like I worry that you would miss the thing that actually because so much of it is chemistry, so much of it is like the magic, you know, but the thing is"
+}

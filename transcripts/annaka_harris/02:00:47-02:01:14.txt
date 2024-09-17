@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:47",
+  "End": "02:01:14",
+  "Text": ". But it's still interesting to think about where those ideas, if those ideas are solely a construction of the brain, or is there some kind of mechanism of joint collective intelligence of humans as social organisms where those, much of it is me training my neural network and the ideas of tens of thousands of other people? And how much is it myself"
+}

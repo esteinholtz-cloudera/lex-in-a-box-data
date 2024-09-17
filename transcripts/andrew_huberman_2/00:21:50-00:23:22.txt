@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:50",
+  "End": "00:23:22",
+  "Text": ". That's the interesting point about messiness of sleep. So most people seem to perform the best when they have like a regular sleep schedule. perhaps am the same. But I don't know that. And I tend to believe that can also perform relatively optimally with chaos of sleep of a um like a weird soup of like power naps and all nighters and all of that as long as you're, happy doing what you love and maybe you can, um, me what you think about this. So I tend to, for myself, try to minimize stress in life. So what I found for myself with diet, with sleep is that if I obsess about it being perfect, then I'll actually stress quite a bit when it's not like I'll feel shitty when I don't get enough sleep because I know I should be getting more sleep as opposed to the actual physiological effects of not getting enough sleep. find if I just accept whatever the hell happens, happens and smile and just, you know, take it all in like David Goggins style, like if it sucks, it's even better or what is it, Jocko is like good or whatever he"
+}

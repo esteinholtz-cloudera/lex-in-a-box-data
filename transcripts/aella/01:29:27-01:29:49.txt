@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:27",
+  "End": "01:29:49",
+  "Text": "feel like there's just the two of us. I don't know. And I feel sometimes I imagine there's a third person. Usually. No, no, not God. Just, I usually imagine a guy or a girl or a couple just sitting there for some reason. Usually on the beach and usually high or on some kind of mushrooms just listening passively, just kind of looking at the sunset. That's what I imagine. That's"
+}

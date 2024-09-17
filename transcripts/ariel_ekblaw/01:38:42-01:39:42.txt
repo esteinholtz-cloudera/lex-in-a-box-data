@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:42",
+  "End": "01:39:42",
+  "Text": "might just shake up understanding of the world what scares me is it might help us create more dangerous weapons. So, and then we'll figure out that great filter situation and I still believe that human compassion and love is actually the way to defend against all these greater and greater and more impressive weapons. Let me ask a weird question in terms of you disagreeing with others. What important idea do you believe is true? many others don't agree with you on? Maybe it's a tough question. You might have to think about that one. But with this very specific, like which material to use or something about a particular project or could be grand priorities on missions. I think one you actually mentioned is interesting is like the thing we should be looking for is like colonization of space versus colonization of planets. Meaning like"
+}

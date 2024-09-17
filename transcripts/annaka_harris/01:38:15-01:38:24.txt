@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:38:15",
+  "End": "01:38:24",
+  "Text": "mean, you know, it depends on what level we're talking. I think, you know, at a fundamental level, I don't believe anything could be different. Are you able to"
+}

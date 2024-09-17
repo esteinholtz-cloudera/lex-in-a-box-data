@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:02",
+  "End": "01:34:10",
+  "Text": "is not as often talked about, but it's really where probably these robots will have a significant impact as well. Correct,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:02:24",
+  "End": "01:03:11",
+  "Text": "consciousness is to me also not so amazing if you think of it as you know, going back to these one celled organisms of a billion years ago, you know, had had to know. Well, if I go higher up, I'll get too much sun and if I go lower down I'll be protected from, you know, UV, rays, things like that. They had to know that or you, I eat me. I don't, I mean, even that I can see if you know that then knowing what we know now it's just, it's not so hard to fathom, it seems like, know, there's, I, I've never believed there was a duality between our minds and our bodies. And I think that"
+}

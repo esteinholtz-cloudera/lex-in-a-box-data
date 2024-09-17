@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:52",
+  "End": "02:10:17",
+  "Text": "think the main idea is that there won't be a job that's machine learning or computer vision. It's a tool that neuroscientists will use more and more and more and biologists would use. I mean, this whole idea that it will just be a tool that allows you to start expanding the kind of things you can study."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:45:50",
+  "End": "01:46:07",
+  "Text": ", I've always been very lyrics driven and I don't understand music. I've, I've talked to Rick about this, I think I've talked to you about this a little bit. I don't really understand, uh, I mean, I can hear music and like it, but I don't really understand the, the structure of it, but lyrics make a lot of sense. Does it"
+}

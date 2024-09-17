@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:47",
+  "End": "01:47:49",
+  "Text": "the basics of escorting?"
+}

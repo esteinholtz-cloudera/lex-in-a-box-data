@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:08",
+  "End": "00:08:15",
+  "Text": "so rescued from out of the abyss of nonexistence. Here's my"
+}

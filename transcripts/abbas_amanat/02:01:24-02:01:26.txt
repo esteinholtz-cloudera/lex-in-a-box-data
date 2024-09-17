@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:24",
+  "End": "02:01:26",
+  "Text": "religious movement became a political"
+}

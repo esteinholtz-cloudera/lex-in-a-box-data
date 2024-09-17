@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:44:26",
+  "End": "02:45:09",
+  "Text": "mean, out of whatever come to me. And it's, I've had such an unconventional path. It's very hard for me to advice based on that path. But I do believe that it's extraordinarily important to keep your passions alive, to keep your curiosity alive, to keep your wonder at life alive, however you do that and it doesn't necessarily have to be in your career. And I think for a lot of people, their career enables them time and the space to other things that, know, maybe wouldn't be as enjoyable if they were their career."
+}

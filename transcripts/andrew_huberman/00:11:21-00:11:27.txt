@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:21",
+  "End": "00:11:27",
+  "Text": "actually allow them the possibility in the virtual world to actually take the leap of faith."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:02:33",
+  "End": "00:02:52",
+  "Text": ". I haven't met her but I grew up with her, but of course Rosie. and I think it's because also Rosie Rosie from the Jetsons, she is all things to all people, right? Think about it like anything you wanted, it was like magic, it happened."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:26:09",
+  "End": "02:26:54",
+  "Text": "just weirdos like you. Yeah, I was gonna mention one of the people I got who taught me about Bitcoin. Her name is Roya Maub. She's an Afghan technology CEO. And in 2013 she started paying her employees in Bitcoin because they were not allowed to open bank accounts. The women that worked for her, she started the country's first female, like all female software company. And if they brought cash home, they like husbands or uncles or brothers would steal it from them. There's a power, patriarchal dominance thing going on, but they had phones and she was able to pay them in Bitcoin and no, no one knew and it gave them that power and that, that's always stuck in my mind is a very interesting uh effect of this kind of thing of permissionless money like that. It can be an empowerment tool. So, absolutely."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:26:46",
+  "End": "01:27:19",
+  "Text": "is no geological activity on the moon. So on earth, every 100 million years, you know, we could have had computer terminals on earth that could have been a civilization like ours with electronic equipment more than 100 million years ago it's completely lost. You cannot excavate and find the evidence for it because in archaeological digs, because the earth is being mixed on these time scales and everything that was on the surface more than 100 million years ago is very deep inside the earth right now because of geological activity,"
+}

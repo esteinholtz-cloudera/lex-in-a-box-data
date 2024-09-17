@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:51",
+  "End": "01:56:53",
+  "Text": "no medications almost at all."
+}

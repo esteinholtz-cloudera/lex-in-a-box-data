@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:21:56",
+  "End": "03:22:23",
+  "Text": "from the teaching you're doing now putting out videos aside from a potential uh Godfather part two with the A Gi A Tesla and beyond? What does the future of Fran Kathi hold? Have you figured that out yet or? No? I mean, as you see through the fog of war that is all of our future. Do you, do you start seeing silhouettes of what that possible future could look"
+}

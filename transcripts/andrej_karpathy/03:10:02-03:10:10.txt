@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:10:02",
+  "End": "03:10:10",
+  "Text": ". So by the way, I love the backup on Mars, I think that's amazing. We should absolutely do that. And I'm so thank you."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:04",
+  "End": "01:43:48",
+  "Text": ", yeah, yeah, I mean, but those questions again, as you said, will help us answer questions about here on earth. It is a little strange. I mean, it's obvious. But it's also strange if you look at the big picture of it all that we draw these borders around geographical areas and we say this is mine then we fight wars over what's mine and not, it seems like they're, possible alternatives, but also it seems like there needs to be a public ownership of some parts. Like what is it? Central Park in New York. Is there something like preserving commons,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:31",
+  "End": "01:10:41",
+  "Text": "the, the good and the bad of the c so you said good, the what was it? I forgot, you mean you say the freedom, the freedom to be also be to be creative."
+}

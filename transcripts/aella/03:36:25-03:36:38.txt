@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:36:25",
+  "End": "03:36:38",
+  "Text": ". It's difficult like you could if you were like, if you're really drilling or whatever, if you're really investigating and analyzing it. But then it's like, it's a different kind of relationship."
+}

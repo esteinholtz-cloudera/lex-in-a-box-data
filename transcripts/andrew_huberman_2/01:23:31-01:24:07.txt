@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:31",
+  "End": "01:24:07",
+  "Text": ". It's like a master class on sleep. And then you're, you're going on to the next uh of the next few episodes, which is incredible neuroplasticity, we'll talk about it. But on sleep, one of the cool things about the human mind when it sleeps is dreaming, what do you think we understand about contents of dreams? Like what do dreams mean? All the stuff we see when we dream, is there something we understand about uh the contents of dreams?"
+}

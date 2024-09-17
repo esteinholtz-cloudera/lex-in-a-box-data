@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:57",
+  "End": "00:44:12",
+  "Text": ", but you think of it in a data driven way. So of, we, if we look at a company like Twitter, it gets, it's under a lot of fire for discriminating against certain political beliefs and sort of there's a lot of people, this is the sad thing because I know how hard the problem is. And I know that Twitter folks are working really hard at it. Even Facebook that everyone seems to hate are working really hard at this. know, the kind of evidence that people bring is basically anecdotal evidence. Well, me or my friend, all we said is X and for that, we got banned, that's kind of a discussion of saying, well, look, that's usually, first of all, the whole thing is taken out of context. So they, they present sort of anecdotal evidence and how are you supposed to as a company in a healthy way? Have a discourse about what is and isn't ethical? What, how do we make algorithms ethical when people are just blowing everything like outraged about a particular anecdotal evidence piece of evidence that's very difficult to sort of contextualize in the big data driven way. Do you have a hope for companies like Twitter and"
+}

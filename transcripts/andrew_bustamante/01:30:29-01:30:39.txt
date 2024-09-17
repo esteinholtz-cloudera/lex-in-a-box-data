@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:29",
+  "End": "01:30:39",
+  "Text": "you. So there there's like a set of like interrogation trajectories, you can go down can help you figure"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:51",
+  "End": "02:08:01",
+  "Text": "there a lot of different data sets like in your work that you've just come across? Is there a huge number of disparate data sets around neuroscience and so on or?"
+}

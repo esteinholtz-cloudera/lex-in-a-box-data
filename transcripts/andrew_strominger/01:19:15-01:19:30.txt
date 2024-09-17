@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:19:15",
+  "End": "01:19:30",
+  "Text": "with it and he was sure that this was the, he was sure that this was, this was a critical error that this was the critical error and that understanding this would, would, would uh, would get us the whole story and, and, and, and that could well be,"
+}

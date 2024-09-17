@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:12:20",
+  "End": "00:13:23",
+  "Text": "know, we do a lot of that anyway, this is what we do in our daily work. We are putting money, we are investing in research, which is highly risky. The difference in that case was that we didn't risk at all. We put it all in, we put everything in one go so that we don't lose time. Usually we'll spend 50 million and then if that goes well, then we will spend another 50. And then if it goes well, then 100, we put all together a little bit more than $2 billion 2.3 billion dollars. And uh it was a significant decision but it was a very easy decision to make in the context of what we were living at that time. It was a pandemic. People were scared, we were scared, we didn't know how tomorrow will look like. Uh We were living unprecedented situations uh we knew that we have capabilities that may help. So there was not a second uh question or choice. We go all in"
+}

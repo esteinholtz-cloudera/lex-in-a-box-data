@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:54:10",
+  "End": "01:54:32",
+  "Text": "think it's called s sensor. Yeah, because a sensor is someone who's able to interact with the world around them through their five senses very effectively. Like if you talk to dancers, dancers can actually feel the grace in all of their muscles. They know what position their finger is in. I don't have any idea. I don't know what position my feet are in right now. I'd have to look to make sure I actually feel the floor. Right."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:41:05",
+  "End": "01:41:13",
+  "Text": "don't know. So this is where it gets into a lot of speculation and let's go, I mean, let's go there. OK. Sure. So, you know,"
+}

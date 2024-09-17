@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:15",
+  "End": "02:19:31",
+  "Text": "problem is the physical. So everything we've been talking about in the mind, there's a physical aspect that's just practically difficult, which is like, can't, like, you know, when you injure yourself at a certain point you just can't function or you're"
+}

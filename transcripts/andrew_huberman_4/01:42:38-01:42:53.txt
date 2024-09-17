@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:38",
+  "End": "01:42:53",
+  "Text": "said, somebody asked if Andrew Huberman has a girlfriend and somebody says, I think so. And then the third comment was this really like, breaks my heart like that, Alex and Andrew are not an item."
+}

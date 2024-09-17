@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:33",
+  "End": "00:08:00",
+  "Text": "in, in, in that movie annihilation,, shimmer, this alternate dreamlike state is created by, I believe, perhaps an alien entity, of course, everything is up to interpretation. But do you think there's in our world in our universe? Do you think there's intelligent life out there? And if so, how different is it from us humans?"
+}

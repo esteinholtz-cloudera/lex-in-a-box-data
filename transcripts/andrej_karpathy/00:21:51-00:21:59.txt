@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:51",
+  "End": "00:21:59",
+  "Text": "don't know. Well, statistically if there's like, there's trillions of them, surely some of them, some of the pockets are close"
+}

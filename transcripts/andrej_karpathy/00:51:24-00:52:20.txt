@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:24",
+  "End": "00:52:20",
+  "Text": ". But I wonder what that shared understanding of like what we might call common sense has to be learned in order to complete the sentence correctly. So maybe the fact that it's implied on the internet, the model is gonna have to learn that not by reading about it by inferring it in the representation. So like common sense, just like we, I don't think we learned common sense, like nobody says, us explicitly, we just figure it all out by interacting with the world. And so here's a model of reading about the way people interact with the world and might have to infer that I wonder you briefly worked on a project called the World of Bits training in RL system to take actions on the internet versus just consuming the internet. Like we talked about. Do you think there's a future for that kind of system interacting with the internet to help the"
+}

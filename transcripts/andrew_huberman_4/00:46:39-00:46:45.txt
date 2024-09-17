@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:39",
+  "End": "00:46:45",
+  "Text": "and on the flip side of that. So we trained and then after that, we played the album before. I don't"
+}

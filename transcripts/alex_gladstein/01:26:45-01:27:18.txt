@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:26:45",
+  "End": "01:27:18",
+  "Text": ", but not only do they do stupid stuff but they've been messaging people I linked in and people write to me and they're saying, like, I think it gets people, I think they click on stuff. I think they were not sure. And it makes me think like are gullible or not gullible but like they just like I am, which is, they're hopeful about the world. They're optimistic about the world. They're almost naive about this evil that"
+}

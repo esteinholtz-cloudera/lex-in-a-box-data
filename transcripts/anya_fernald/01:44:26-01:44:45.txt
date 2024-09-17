@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:44:26",
+  "End": "01:44:45",
+  "Text": ", I mean, thriving, reducing suffering, um, creating goodness. I mean, those are the things I see in, in animals behavior. They're mostly interested in, in reducing suffering and, nurturing, right? Those are the things that I think evolutionarily"
+}

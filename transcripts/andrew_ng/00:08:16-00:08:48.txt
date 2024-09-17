@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:08:16",
+  "End": "00:08:48",
+  "Text": ". really want to help anyone that had an interest in machine learning uh to break into the field. And, and I think sometimes people ask me, hey, why are you spending so much time explaining gradient descent? And, and my answer was um if I look at what I think the learner needs and would benefit from, I felt that having that um a good understanding of the foundations coming back to the basics would put them in a better stead to then build on a long term career. we've tried to consistently make decisions on that principle. So"
+}

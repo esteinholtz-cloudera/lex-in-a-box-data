@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:47:47",
+  "End": "00:48:32",
+  "Text": ", I think like it's better just to become aware of the assumptions you're making, like, as opposed to not making those assumptions at all that you have to assume something. I did, it's very suspicious, right, that I went out of this very conservative culture. And now, well, I guess I don't believe things that are super in line with the current culture. I think this is why I feel a little bit safer right now because like when I was Christian, I believe generally Christian things, but now I believe a bunch of things that, like, people really hate, like I get canceled online all the time. I'm like, ok, this is a sign that maybe you're thinking independently if you're able to think things that are completely at odds with the people around you and to be fair, this is a little bit easier to do when it's like general culture, it's much harder to do with your peer group. Like the people that you trust your friends, the people whose opinions you respect, like disagreeing with those people is very difficult and I'm not very good at it. Yeah,"
+}

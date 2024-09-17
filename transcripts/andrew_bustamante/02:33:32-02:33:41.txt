@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:33:32",
+  "End": "02:33:41",
+  "Text": "is a topic that I never get tired of talking about, but it's very rare that anyone ever really agrees with me. Just so, you know,"
+}

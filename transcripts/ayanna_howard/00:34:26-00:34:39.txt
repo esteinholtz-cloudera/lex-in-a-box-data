@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:26",
+  "End": "00:34:39",
+  "Text": "topic of the sensationalism? I mean, what's underneath it? if you could sort of educate me on what kind of bias creeps into the healthcare space? So this"
+}

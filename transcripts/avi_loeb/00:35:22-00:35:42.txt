@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:22",
+  "End": "00:35:42",
+  "Text": "that's what I mean by a non gravitation, non gravitational acceleration. So that's interesting. So like the, the primary force acting on something like just a rock like an asteroid be like, you can predict the trajectory based on the based on gravity. And also here there's detected movement that's not, cannot be accounted purely by the gravity."
+}

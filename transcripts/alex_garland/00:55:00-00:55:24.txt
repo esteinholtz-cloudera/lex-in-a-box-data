@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:55:00",
+  "End": "00:55:24",
+  "Text": "with the qualification of what do I know because I'm a layman, right? Layperson? But with big imagination. Thanks with that qualification. Uh Yeah, I think the universe is deterministic and I see. Absolutely. II I cannot see how free will fits into that. So, so yes, deterministic. No free will. That would be my position."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:06:23",
+  "End": "01:06:49",
+  "Text": "good aspects were that it was just your own terms. You get to decide everything about it is under your control, which I loved at the time. I was like, I can work when I want, how I want any sort of expression. I experimented and I was a very successful, I was making around $200 an hour which for that website at the time was like, pretty good. Um, I had elaborate routines. I was a mime. I would do, like, dress up as a mime and then dress up a chair and I would seduce the chair., cool. Yeah."
+}

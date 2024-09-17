@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:03",
+  "End": "01:30:27",
+  "Text": "have to say it is pretty romantic I've gotten a chance to meet couples that listen to podcasts together. I don't know why that seems like intensely romantic to me because, like, you're not watching TV, together, you're listening to a thing. I mean, I guess sometimes they watch it but like, you're listening to ideas together. don't know."
+}

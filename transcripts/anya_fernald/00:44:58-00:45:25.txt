@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:58",
+  "End": "00:45:25",
+  "Text": "the origin of the meat itself a difference? So we're here at Bell Campo Farms and we'll maybe you could talk about what your vision, your dream is in terms of like food, in terms of where food comes from or meat comes from. But food broadly and how that affects the entirety of the culinary journey"
+}

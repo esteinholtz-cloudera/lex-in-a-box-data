@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:19",
+  "End": "00:09:25",
+  "Text": "basic laws of physics that operates under might be fundamentally different. It could be a different time scale and so on."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:40:06",
+  "End": "00:40:50",
+  "Text": "what it's used for, except it's an enforced conversation. So I'll give you a really good example of this. So holding the cans, say, is there anything you're withholding from me? And I get an instant read I go, is there anything you're withholding for me, you're gonna go, I don't think so and I don't see the needle, you don't see the needle. And I go, well, what did you think of when I asked you the question? Now, if you've already had a lot of auditing, you know how this goes, it means I got an instant read and we're not going to move on until this question gets resolved. Ok? So you're gonna go, I don't know what I was thinking of and then I'm gonna be like, you know, take a look and I'll help you out here. I'll try to steer you. Ok? So I'm looking to get roughly the same read while you're about whatever. I mean, what was that? What was that"
+}

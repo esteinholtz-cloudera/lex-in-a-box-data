@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:50",
+  "End": "01:20:02",
+  "Text": ", you do it with a kind of bit of a chuckle, but when done seriously. So it's just told in a serious way or written down,"
+}

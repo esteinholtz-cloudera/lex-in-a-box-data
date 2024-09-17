@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:24:32",
+  "End": "03:24:40",
+  "Text": ". So you y did, so it was aggressive? So across the globe you didn't even stop in,"
+}

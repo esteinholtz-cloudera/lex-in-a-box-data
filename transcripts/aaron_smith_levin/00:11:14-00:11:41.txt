@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:11:14",
+  "End": "00:11:41",
+  "Text": ". And the idea is we've now as human beings evolved to a state where it no longer serves us beneficially and only serves us negatively. was Hubbard's theory and he said you can get rid of these N grams by, you know, basically recalling them and going over them again and again using dianetics, auditing therapy. And if you get back to the moment of birth and erase the earliest N gram, all the other subsequent N grams on the chain would vanish. Oh"
+}

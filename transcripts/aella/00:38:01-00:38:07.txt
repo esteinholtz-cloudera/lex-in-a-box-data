@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:01",
+  "End": "00:38:07",
+  "Text": "did you get, what's the short and the long story of how you got into sex"
+}

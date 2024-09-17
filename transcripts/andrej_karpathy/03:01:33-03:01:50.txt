@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:01:33",
+  "End": "03:01:50",
+  "Text": ", I can imagine just having a conversation with this kind of oracle entity as you'd imagine them. And, uh, Yeah, maybe it can tell you about, know, based on my analysis of human condition, uh you might not want this and here are some of the things that might, might but every,"
+}

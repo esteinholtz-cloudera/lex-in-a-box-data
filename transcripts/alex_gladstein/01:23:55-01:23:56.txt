@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:55",
+  "End": "01:23:56",
+  "Text": "pan out,"
+}

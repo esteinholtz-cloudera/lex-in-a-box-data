@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:03",
+  "End": "02:48:54",
+  "Text": ". Well, I just wonder the stress. I mean, I'm sure you can, can imagine the kind of stress he's under because it's running three plus companies and there's constant. He says that every single meeting is not about like, should we install a coffee maker in the kitchen? It's like, know, this rocket is going to blow up and we're all fucked. I don't know what to do. And you have to, you have to fix the real big problems that are. And how do you,, yeah. How do you deal with that? What do you think about that kind of life? 11 is there a way to go, you know, walk through that fire to you, should you walk through that"
+}

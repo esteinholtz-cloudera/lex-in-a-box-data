@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:12:51",
+  "End": "00:13:22",
+  "Text": "there's a place in uh Portland. I don't know if it's still open called Little T Bakery. they have croissants that easily rival the croissants in Paris. People make a lot of the, the pastry in Paris, but it's really the bread in Paris. That's amazing. We lived there when I was a kid and we did a sabbatical there and you know, there they do the baguette, morning bake and afternoon bake and that there's nothing like the bread in Paris. Um or the people, you know, and, if you're in the, if you're in the Pacific Northwest, you know, you can find amazing croissants there. What"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:17:19",
+  "End": "00:18:07",
+  "Text": "one, these two spacecraft not only gave us our first close up like of moons and planets, these four giant, these planets, but also it told us the shape of the solar system as it moves through the galaxy because there were two of them going in different directions. And they finally, and they arrived in a place called the Helio, which is where the wind from the sun, the solar wind dies down the interstellar medium begins. And both voyagers were the first spacecraft that we had, that could tell us when that happened. it's a consummate, I think it's the greatest scientific achievement the 20th"
+}

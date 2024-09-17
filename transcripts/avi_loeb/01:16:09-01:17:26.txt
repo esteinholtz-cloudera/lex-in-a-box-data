@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:09",
+  "End": "01:17:26",
+  "Text": "it's quite obvious this is why I like folks in the Artificial Intelligence space, Elon Musk and a few others speak about this and they look at the long arc, they say what, you know, this kind of, you can call it first principles thinking or you can call anything really is if we just zoom out from our current bickering and our current discussions and the what science is doing and look at the long arc of the trajectory we're headed at which questions obviously fundamental to science and it should be asked and which is the space of hypothesis we should be exploring. And exoplanets is a really good example of one that was like an obvious one. I recently talked to Sarah Seeger and it was very taboo when she was starting out to work on an exoplanet. And that was even in the nineties and it's obvious should not be a taboo subject. And to me, I mean, I'm probably ignorant, but to me, exoplanets seems like it's ridiculous that that would ever be a taboo subject to not fund to not explore that's very, but even for her, it's now taboo to say what you know, to look for industrial pollution. I"
+}

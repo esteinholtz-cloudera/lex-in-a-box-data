@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:52",
+  "End": "01:55:16",
+  "Text": "one of the the very first step at the very primitive level. This is just a big leap for human civilization to be able to see black hole. And the way you can see it is because there's stuff around it. But you don't get to learn much about the black hole. You get to learn more about the stuff just from the image,"
+}

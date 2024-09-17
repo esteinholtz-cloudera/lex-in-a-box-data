@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:36",
+  "End": "02:22:46",
+  "Text": "org.. So, how many people are at an orgy? What's like a standard? We're having a Sunday picnic and it's an orgy. What's like a number of people at an orgy? Oh,"
+}

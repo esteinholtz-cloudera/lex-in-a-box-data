@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:45",
+  "End": "00:51:48",
+  "Text": "one of the ingredients that could help with the regenerative"
+}

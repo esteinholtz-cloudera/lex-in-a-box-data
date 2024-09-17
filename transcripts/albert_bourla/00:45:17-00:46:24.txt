@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:17",
+  "End": "00:46:24",
+  "Text": ", politics. So I spent the day with Elon Musk yesterday. He works with rockets, a similar situation as advisor in the sense that there's NSA and then there's this private company and that's a source of incredible inspiration to people. No politics, very little politics. So this is part of the thing I'm trying to, I'm hoping to do our little part in this conversation to help untangle a little bit. Just reveal the beauty the power of the thing that was done here, especially with the vaccine. But other things that are being done with the, with the antiviral drug, me just kind of linger on the safety. can you say? There's a lot of people that are concerned that the Pfizer vaccine, by the way of which I took two shots, booster yet unsafe. do you say to people that say that?"
+}

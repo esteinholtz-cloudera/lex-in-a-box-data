@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:46:17",
+  "End": "01:46:23",
+  "Text": "things that are like deeply joyful for me,"
+}

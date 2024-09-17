@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:55:26",
+  "End": "00:56:00",
+  "Text": "? It partly makes me feel that it's exactly in keeping with the way these things tend to work out, which is that we have an incredibly strong sense that we do have free will. Um uh And just as we have an incredibly strong sense that time is a constant and uh turns out probably not to be the case so well, definitely in the case of time. But, but, but it's the, the problem I always have with free will is that it gets,, I can never seem to find the place where it is supposed to reside."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:09:00",
+  "End": "00:09:07",
+  "Text": ". I would say is good shorthand for a process in nature, which is a decision making process of the brain but"
+}

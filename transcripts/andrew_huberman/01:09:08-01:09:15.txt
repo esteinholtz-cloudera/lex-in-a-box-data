@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:08",
+  "End": "01:09:15",
+  "Text": "brilliant controlled experiments to study to really literally answer questions about."
+}

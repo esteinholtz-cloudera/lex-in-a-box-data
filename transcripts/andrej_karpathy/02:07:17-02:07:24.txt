@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:07:17",
+  "End": "02:07:24",
+  "Text": "yeah, but that's independent from like the use of uh simulation in the sense of like computer games or using simulation for training set creation or you know, is"
+}

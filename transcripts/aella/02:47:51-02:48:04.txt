@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:51",
+  "End": "02:48:04",
+  "Text": ". So like all it took was that kind of incentive or did you like uh at first have to pay people for the survey? what about the demographic of the different people that took"
+}

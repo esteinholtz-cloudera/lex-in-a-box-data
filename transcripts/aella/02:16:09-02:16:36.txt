@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:16:09",
+  "End": "02:16:36",
+  "Text": "talk about love. It's just the term is very confusing because it's like some people say the word love and the thing that they're thinking of is like, oh the butterfly is like the sparkle thing that I get in my stomach when I think about my loved one. But I study relationships over time. I just really like I did a survey about it and that sparkle goes away within like 2 to 4 years. But people still report loving their partner after that. So I'm like, OK, when you say the word love, what the fuck are we talking about?, I just want to get on the same page."
+}

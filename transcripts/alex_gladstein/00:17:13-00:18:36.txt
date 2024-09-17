@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:17:13",
+  "End": "00:18:36",
+  "Text": ". And that's true because in the marketplace of ideas, there could be a company that springs up that gives Alex Jones a platform and the United States is not going to prevent those companies from functioning. course, there is from a, from a technology perspective, there is Aws removing parlor from the platform. It gets a little weird, you know, as you get closer and closer to the computer infrastructure because then you get closer and closer to the state, actually, the more you get to the infrastructure that's usually managed by the state, the closer it gets to the control of the state, would argue Aws is pretty damn close to infrastructure that's kind of controlled by the state. If you especially look at other nations,, Russia, there's, I don't know who runs the computer infrastructure for Russia and China, but I bet the state has complete oversight over that. And so that level of computer infrastructure having control about which social networks can and cannot operate is very uncomfortable to me. But you're right. I think it's good to focus on the obvious violations of these principles as opposed to the gray areas. course, the gray areas are fascinating. mentioned hr F Human Rights Foundation. What is it? Uh, what is its mission?"
+}

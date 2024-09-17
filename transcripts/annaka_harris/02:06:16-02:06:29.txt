@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:06:16",
+  "End": "02:06:29",
+  "Text": "possible we have a very similar view of the universe. If consciousness is fundamental, it may be an identical view. It's hard for me to know because I disagree with a lot of his terminology."
+}

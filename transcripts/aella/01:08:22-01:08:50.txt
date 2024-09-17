@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:22",
+  "End": "01:08:50",
+  "Text": "that still a little bit of the case there's not as much because from my sort of outside of perspective that seems to be still the case as you describe it. That's kind of cool. It's almost like having fun with sexuality. Almost, yeah. But that does require kind of thinking through. almost like a creative project, like a photography project or something like that. Almost like a little skit movie."
+}

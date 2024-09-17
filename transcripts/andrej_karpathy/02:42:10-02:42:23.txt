@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:10",
+  "End": "02:42:23",
+  "Text": "on? So, and then thinking about what kind of mechanisms maximize your likelihood of getting to 10,000 hours, which for us, silly humans means probably forming a daily habit like every single day actually doing the"
+}

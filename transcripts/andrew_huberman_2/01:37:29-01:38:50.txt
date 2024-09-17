@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:29",
+  "End": "01:38:50",
+  "Text": "brilliant. So I love her. She's amazing. She kind of, she's not a scholar of Hallucinogens, hallucinogens or dreams. But she had this intuition that may be a connection between the kind of dissociation that happens in dreaming. And that that happens in like psychedelics. because of my previous conversation with you this podcast, Matthew Johnson from Johns Hopkins reached out and he said, but he commented, I think on something that we commented on, I don't even remember exactly what but that there's not many studies, it's not being psychedelics and not being rigorously studied in an academic setting, like with the full rigor of science. And he said, well, actually, that's exactly what we're doing. And they were extremely well funded now it's been a long battle to get it accepted as a serious scientific pursuit. So, um but, and I'd like to ask you a little bit about that. But do you have a sense connection between dreams and psychedelics or these different explorations of mindset that are outside of the standard normal one? That's the wake mindset."
+}

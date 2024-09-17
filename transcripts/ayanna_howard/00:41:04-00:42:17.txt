@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:41:04",
+  "End": "00:42:17",
+  "Text": "think there's two paths, one is to figure out how to systematically do the feedback and correction. So, right now it's ad hoc, right. It's a researcher identify some that are not, don't seem to be fair, right? They publish it, they write about it. Um And the either the developer or the companies that have adopted the algorithms may try to fix it. Right. And so it's really ad hoc and it's not systematic. It's just, it's kind of like I'm a researcher that seems like an interesting problem, which means that there's a whole lot out there that's not being looked at. Right? Because it's kind of researcher driven., and I don't necessarily have a solution but that process I think could be done a little bit better. One way is I'm going to poke a little bit at some of the corporations. Right? Like maybe the corporations when they think about a product, they should instead of in addition to hiring these, you know, bug, they give these."
+}

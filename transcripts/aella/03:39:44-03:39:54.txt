@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:39:44",
+  "End": "03:39:54",
+  "Text": ". I like the ideas in people's minds versus their recollections of memories and so on. Yeah. Yeah. do you think about porn?"
+}

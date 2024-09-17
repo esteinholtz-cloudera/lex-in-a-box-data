@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:44:24",
+  "End": "01:44:54",
+  "Text": "., I think the tough thing with timelines of self driving obviously is that no one has created self driving. Yeah. So it's not like, what do you think is a timeline to build this bridge? Well, we've built million bridges before. Here's how long that takes. It's, you know, it's uh no one has built autonomy. It's not obvious. Uh Some parts turned out to be much easier than others. So it's really hard to forecast. You do your best based on trend lines and so on and based on intuition. But why fundamentally it's just really hard to forecast this. No one"
+}

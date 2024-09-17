@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:57:03",
+  "End": "01:57:36",
+  "Text": "someone can simplify the problem, that will be wonderful. I mean, the reason we can talk about something as abstract is face representations, infusive form, face area is because Nancy Kanwisher had the brilliance tie it to the um kind of lower level um statistics of visual scenes. It wasn't because she was like, oh, I bet it's there. That wouldn't have been interesting. So people like her understand how to bridge that gap and they put a tractable definition. So, so I just, that's what I'm begging for in science is tractable definition."
+}

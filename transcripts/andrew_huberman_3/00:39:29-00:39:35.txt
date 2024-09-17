@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:39:29",
+  "End": "00:39:35",
+  "Text": "door, bursting in the door. I must start doing that here just to make you feel at home. I just start showing you that I know where you live. I"
+}

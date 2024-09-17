@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:28",
+  "End": "00:59:56",
+  "Text": "does a large civilization of humans get built on Mars? And what what do you think? Um do you think it starts being difficult? So can you have a small base of 10 people essentially kind of like the International Space Station kind of situation? then can you get it to 100 to 1000 to a million? Are there some interesting challenges there that worry you saying that Mars is just not a good backup at this time for earth?"
+}

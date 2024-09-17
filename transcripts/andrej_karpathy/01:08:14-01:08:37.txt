@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:08:14",
+  "End": "01:08:37",
+  "Text": "think there's definite scope in building a better search engine today. And I think Google, they have all the tools, all the people they have everything they need, they have all the puzzle pieces, they have people training transformers at scale, they have all the data. It's just not obvious if they are capable as an organization to innovate on their search engine right now. And if they don't, someone else will, there's absolute scope for building a significantly better search engine built on these tools."
+}

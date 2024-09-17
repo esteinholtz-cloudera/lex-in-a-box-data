@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:51:43",
+  "End": "00:52:08",
+  "Text": "it was the precision it was the kind of first time that I had physically seen this robot machine human interface, right? Versus because manufacturing have been, you saw those kind of big robots, right? But this was like, oh this is a person, there's a person and a robot like in the same space"
+}

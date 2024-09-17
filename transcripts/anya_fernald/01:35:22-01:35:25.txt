@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:35:22",
+  "End": "01:35:25",
+  "Text": "in the world on the farm. Yeah,"
+}

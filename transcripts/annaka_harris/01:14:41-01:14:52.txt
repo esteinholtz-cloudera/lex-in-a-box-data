@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:41",
+  "End": "01:14:52",
+  "Text": ". Let's go there. Where the heck does consciousness happen in what we understand about the brain? Timing wise? mean, this connects to conscious will, to our experience of free will."
+}

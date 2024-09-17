@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:10",
+  "End": "02:21:27",
+  "Text": "love it. I love it in a very dark kind of way. It caricatures itself. It's almost funny in its absurdity, if not for the evil that it has led to in human history."
+}

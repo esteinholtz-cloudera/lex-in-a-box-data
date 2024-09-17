@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:55",
+  "End": "02:44:25",
+  "Text": ". No, but like when you and I are on stage having a conversation, OK, you and I is harder but like you really, if it's just you and I, then it's the usual human communication of like, all right, I got to go when it's like four people you don't want to interrupt everyone and now you're leaving, you just have to, I mean, there's a weird dynamic that I haven't quite figured out of the etiquette isn't clear. The etiquette is not clear."
+}

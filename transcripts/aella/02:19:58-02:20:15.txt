@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:58",
+  "End": "02:20:15",
+  "Text": "to circle now, I feel like you're avoiding the love question, the love sandwich question. your own personal feeling towards loving another human being versus having sex with another human being?"
+}

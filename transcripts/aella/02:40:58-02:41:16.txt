@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:58",
+  "End": "02:41:16",
+  "Text": ". And then they probably it should be explored like, how did that come to be? You mentioned that we like to construct narratives that somehow is grounded in childhood, but maybe it's genetic, maybe it has to do with, maybe you can actually form and unformed that fetish very quickly. I don't know. This"
+}

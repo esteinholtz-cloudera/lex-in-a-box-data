@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:37:17",
+  "End": "00:38:15",
+  "Text": "like this. Yeah, but and in Scientology, they have what's called an E meter, right? Almost all auditing employs the use of an E meter. What's an E meter? So an E meter is a device that just measures the resistance to a small electrical flow except Scientologists believe that this E meter can be used to simply direct the progress of an auditing session to determine whether uh the auditing has reached a good satisfactory. All auditing sessions have to end on a satisfactory conclusion. Like that's the job of the auditor. There's you don't just, it's not like sorry, the session sucked. See you next week. It's not like that. Every auditing session has to end on a positive note and if it doesn't uh there's corrections to be made. So um the E meter, what does it look like visually like? Oh, you can pull it up, up mark eight E meter, mark eight."
+}

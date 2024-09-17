@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:29:02",
+  "End": "01:30:04",
+  "Text": "took this personality test and I'm a 99 skepticism. So I was sadly because I was first introduced to Bitcoin in 2013 I was like, yeah, whatever. And it took me four years to actually get into it to go down the rat hole. I didn't really start to grasp it and start getting excited about it until 2017. So I was regrettably, very, very skeptical for a long time and I just thought it was like, whatever. I, I appreciate that and, and you should be skeptical. Um, but ultimately you got to believe in things like, I believe in democracy. I believe it's good for people. I believe it's better than tyranny. I believe in the internet. I, I know that we've had issues with centralization of the internet, but I still believe it's better to be connected than to have bridges between us and I believe in Bitcoin and, and to me, it's like a very similar progressive force that, that we're encountering. Um But, but I, I, yeah, be skeptical. Nothing, nothing. Um will befall you. That's bad. If you're like cautious and skeptical, that's like a good, good, good mentality to have"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:30",
+  "End": "01:39:34",
+  "Text": "engineering in the fight against entropy,"
+}

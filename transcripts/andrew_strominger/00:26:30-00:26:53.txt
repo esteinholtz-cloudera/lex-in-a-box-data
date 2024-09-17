@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:30",
+  "End": "00:26:53",
+  "Text": "that 11 of the things you said, I think in your TED talk that uh the the fact that quantum mechanics and uh and relativity describe everything and then they clash is wonderful. I forget the adjective you use, but it was something like this. So why is that, why is that interesting? Do you in that same way that there's contradictions that create"
+}

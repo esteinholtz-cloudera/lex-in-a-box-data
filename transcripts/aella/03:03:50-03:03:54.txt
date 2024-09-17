@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:50",
+  "End": "03:03:54",
+  "Text": "it like, if you can compare it to, like, psilocybin? Is it very different?"
+}

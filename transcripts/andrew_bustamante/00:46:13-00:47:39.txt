@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:13",
+  "End": "00:47:39",
+  "Text": "is something about Ukraine, the deep support by the Ukrainian people of America. is in contrast with, for example, Afghanistan, it seems like ideologically, Ukraine could be a beacon of freedom used in narratives by the United States to fight geopolitical wars in that part of the world, that they would be a good partner for this idea of democracy, of freedom of all the values that America stands for. They're a good partner. And so it's valuable you sort of have a cynical pragmatic view of like Henry Kissinger type of view, it's valuable to have them as a partner. So valuable that it makes sense to support them in achieving a negotiated ceasefire. That's on the side of Ukraine. But because of this particular leader, particular culture, this particular dynamics of how the war unrolled and things like Twitter and the way digital communication currently works. It just seems like this is a powerful symbol of freedom that's useful for the United States if we're sort of to take the pragmatic view, don't you think it's possible United States supports Ukraine financially militarily enough for it to get an advantage in this war? I"
+}

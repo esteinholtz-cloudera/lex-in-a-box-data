@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:20",
+  "End": "01:26:33",
+  "Text": "of projects, maybe are there other projects that pop to mind from the Space Exploration initiative or maybe stuff from the book convention, something super cool. I mean, everything we've been talking about is cool but just something that pops to mind"
+}

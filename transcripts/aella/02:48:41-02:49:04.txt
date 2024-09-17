@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:41",
+  "End": "02:49:04",
+  "Text": "that you also don't want to know the truth. This is true. But on average, hopefully that doesn't, I mean, there's, these are really difficult. Like what, what is there some interesting little quirks that people should know about, about your methodology that you had to kind of solve to try to get to a really good service. So one as you said, is the categorization to make it more efficient. Is there some form of the analysis part? Yeah."
+}

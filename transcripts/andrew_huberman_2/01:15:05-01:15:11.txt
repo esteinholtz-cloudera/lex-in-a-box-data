@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:05",
+  "End": "01:15:11",
+  "Text": "and like the other stuff, potassium, magnesium, whatever the other electrolytes are. But"
+}

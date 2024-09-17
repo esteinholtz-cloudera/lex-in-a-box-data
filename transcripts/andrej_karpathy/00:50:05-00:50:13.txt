@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:05",
+  "End": "00:50:13",
+  "Text": "think is doing something like understanding and when we use the word understanding for us humans,"
+}

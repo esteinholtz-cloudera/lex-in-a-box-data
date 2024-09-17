@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:33:24",
+  "End": "01:34:05",
+  "Text": "now what you end up doing is you start to open up the possibility for machine to machine transactions. So today, if you and I write software code for two machines to transact with each other, they can't transact physical currency. in many cases, they can't actually transact the electronic cip currencies or assets either because there's too long of a settlement time. So you can't get through automation, right? So the whole idea of like the car is going to drive over a strip in the road is going to pay the toll. Right. Well, that can't happen right now because literally the transaction won't go through. Right? And so I always that like in an automated world, it's like a CD ROM, but we're trying to take cassette tape player assets and put in the CD ROM. It's just incompatible technology"
+}

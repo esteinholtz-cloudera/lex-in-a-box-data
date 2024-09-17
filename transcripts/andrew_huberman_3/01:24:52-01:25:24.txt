@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:52",
+  "End": "01:25:24",
+  "Text": ", you're definitely getting invited. But yeah, I'm, I'm with you. The, the cultures pick, pick the right ones for you. That's why I like mit the, the spirit of it. me it's not about the past or the future, it's about just tinkering and having fun building cool stuff like the big ambitious projects. there. I mean, maybe more in the, in the biology and the health side. But like the engineering side, it doesn't matter if this has any impact. Let us build the coolest thing the world has ever built well"
+}

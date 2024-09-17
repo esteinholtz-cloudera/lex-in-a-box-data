@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:13",
+  "End": "01:52:35",
+  "Text": "for listening to this conversation with Ariel Ela. To support this podcast. Please check out our sponsors in the description now let me leave you with some words from Seneca, the Roman stoic philosopher. is no easy way from Earth to the stars. you for listening and hope to see you next time."
+}

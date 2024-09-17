@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:17",
+  "End": "01:42:26",
+  "Text": "United States interest here? Why are they using CIA? Are they trying to make sure not too much centralization of power in this region?"
+}

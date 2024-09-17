@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:12:30",
+  "End": "01:12:47",
+  "Text": "not? I wish I could answer. But I don't know. I haven't looked into it at all. I've heard people talking about it. I just haven't bothered to go into it. It is well known that like when I was doing it back in the day, the Eastern European models had something different going on though. It was like a trope about, you know, there's the Eastern European models and then there's everybody else that"
+}

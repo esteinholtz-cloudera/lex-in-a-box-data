@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:50",
+  "End": "00:51:12",
+  "Text": "you were to recommend a daily schedule for people in learning, whether it's through the deep learning dot A I specialization or just learning in the world of deep learning. Uh What would you recommend? How do they go about day to day, sort of specific advice about learning about their journey in the world of deep learning, machine learning?"
+}

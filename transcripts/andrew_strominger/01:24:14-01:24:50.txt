@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:14",
+  "End": "01:24:50",
+  "Text": "world where they don't have to be contradictory. But you can have an can't you not have mathematical objects that are not at all connected to the physical world. So, I mean, this is to the question of this math discovered or invented. to you math is discovered and, and, and there's a deep linkage between the two. Yeah. Yeah. Do you find it all compelling these ideas? Uh like something like max tag mark where our universe is actually a fundamentally mathematical object that math is our universe is mathematical, fundamentally mathematical in nature. Uh"
+}

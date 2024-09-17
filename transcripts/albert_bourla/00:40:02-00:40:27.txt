@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:40:02",
+  "End": "00:40:27",
+  "Text": "? Let's say that there are so many phases when you try, first of all to find what is the right vaccine we tried from 20 different vaccines. We nailed down to four. And for those four, we selected eventually two and then eventually one, you have those selections, what is the dose we are going to use? And then we, we tried multiple different doses to see which one we we think is the best."
+}

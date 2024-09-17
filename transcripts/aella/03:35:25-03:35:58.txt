@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:35:25",
+  "End": "03:35:58",
+  "Text": "think this is kind of like lining up with this, this caricature that I'm building of you based on this conversation so far that a lot of people want to know about your past because they want to know how useful and compatible you are with them. Like, oh, do you have a similar job? You know, do you have a similar culture? Like what can I expect from you in the future? Like it's very practically oriented. Whereas like if the thing that you're focused on is not like being able to predict someone, like if the thing that you focus on is the present moment, then it doesn't really matter anymore. They're things that like the training"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:01:22",
+  "End": "03:01:52",
+  "Text": "fascinating to ask you because this reformulation of money essentially buying time. uh know, there's the old question of does money buy happiness? you think money can buy happiness in the context? Of money being able to buy time or is happiness something else that is beyond all of this."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:26:10",
+  "End": "01:26:36",
+  "Text": "is really hard because it has to do with the predictions of all these other agents and the theory of mind and you know what they're going to do? And are they looking at you, are they, where are they looking? What are they thinking? There's a lot that goes there at the, at the full tail of, you know, the the expansion of the nos that we have to be comfortable with it. Eventually, final problems are of that form. I don't think those are the problems that are very common. Uh I think eventually they're important but it's like really in the tail end, in"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:36:38",
+  "End": "03:36:52",
+  "Text": "it that hard though? If I'm with a guy and I'm considering dating him? And I ask, how did your past relationships end? And then if all of them are like, he's like, oh, she was crazy. And my other one that she went crazy to, I'm like, ok, if you're talking about all of your exes is insane. But"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:42",
+  "End": "00:46:49",
+  "Text": "in that given your friends, given your situation, you have, you now have the freedom to think essentially"
+}

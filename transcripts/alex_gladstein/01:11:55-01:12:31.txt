@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:11:55",
+  "End": "01:12:31",
+  "Text": ", professional investors, corporations and soon governments, I mean, you just had today this morning on C NBC, the leader of the Republican leader of the House of Representatives, a congressman saying like we need to be pro Bitcoin as a country. the other day, Peter Thiel had a very interesting comment where he was basically like, let's not fall behind China in this race. So you have influential people in our government, like sort of posturing for this like, you know, Bitcoin race that's going to happen in the next 10 years. You're going to see this countries are going to compete to stack Bitcoin."
+}

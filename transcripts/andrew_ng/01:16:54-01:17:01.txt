@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:54",
+  "End": "01:17:01",
+  "Text": "there concrete challenges that companies face that uh that you see is important for them to solve?"
+}

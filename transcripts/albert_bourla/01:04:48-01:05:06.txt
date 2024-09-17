@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:48",
+  "End": "01:05:06",
+  "Text": "unique thing about the COVID vaccine is a new type of technology too. So there's an extra concern to vaccinate a child, you're making a choice that can potentially hurt them. the way parents that are hesitant about the vaccine think, I"
+}

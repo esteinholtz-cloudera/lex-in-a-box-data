@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:52",
+  "End": "01:31:56",
+  "Text": ". I still think that we like existing so much because it ends. And that's so sad. Like so sad to me every time I find almost everything about this life beautiful. Like the silliest, most mundane things are just beautiful and I think I'm cognizant of the fact that I find it beautiful because it ends and it's so, I don't know, I don't know how to feel about that. I also feel like there's a lesson in there for robotics. A I that is not like the finite of things seems to be a fundamental nature of human existence. I think some people sort of accuse me of just being Russian and melancholic and romantic or something, but seems to be a fundamental na nature of our existence that should be incorporated in our reward functions. But anyway, uh if you were speaking of reward functions, if you only had five years, would you try to accomplish? This is"
+}

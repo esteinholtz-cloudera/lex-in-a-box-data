@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:16",
+  "End": "01:44:40",
+  "Text": "that. And if it's which it will be probably in the early days, a lot of companies sort of working on the moon working on Mars working out in space, feels like there still needs to be a civilian representation of the greater effort or something like that where there should be a president, there should be a democracy of some kind where people can vote,"
+}

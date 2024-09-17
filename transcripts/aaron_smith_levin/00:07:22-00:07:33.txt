@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:22",
+  "End": "00:07:33",
+  "Text": ", but I'm presumably limited in some fundamental way. So this Satan that is me is, is limited. So there's like 8 billion Satans on the planet."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:46:27",
+  "End": "02:46:46",
+  "Text": ", you're somebody, one of the most respected famous scientists in the world sitting on a farm gazing up at the stars. So you seem like an appropriate person to ask the completely inappropriate question of, what do you think is the meaning of it all? What's the meaning of life?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:36",
+  "End": "02:16:44",
+  "Text": "what are the different? So the butterflies,, I'd like to push back on 2 to 4 years on the butterflies. But ok, I mean"
+}

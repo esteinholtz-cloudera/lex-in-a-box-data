@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:17",
+  "End": "00:19:27",
+  "Text": "one of the most incredible robotics videos ever watch it. Inspiring. That's from like 2008 or seven or six like"
+}

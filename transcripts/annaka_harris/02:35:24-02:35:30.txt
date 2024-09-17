@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:35:24",
+  "End": "02:35:30",
+  "Text": "didn't see me when I was listening to that is yours. And that thought, you didn't hear that thought."
+}

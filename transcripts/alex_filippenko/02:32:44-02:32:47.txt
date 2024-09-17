@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:44",
+  "End": "02:32:47",
+  "Text": "cosmologist perspective or from a human perspective, from my"
+}

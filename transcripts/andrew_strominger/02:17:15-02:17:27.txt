@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:17:15",
+  "End": "02:17:27",
+  "Text": ", it's something we know for sure. I mean, the brain we don't understand. And that's gotta be some beautiful story that"
+}

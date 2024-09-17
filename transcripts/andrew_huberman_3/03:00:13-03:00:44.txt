@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:00:13",
+  "End": "03:00:44",
+  "Text": ", um, I suppose it's not required right for childbirth. But, um, but in all seriousness, you know, in New York, I'll go to a place called spa 88 and actually Khabib's pictures on the wall. He goes there and it's there that one, it's clothing, they require clothing. I always just say that because it can be a little bit of a shock to people. Sometimes they kind of walk in there. A bunch of naked. The one in San Francisco. I, if I go on clothes mostly because, you know, I run into coworkers or things like that. You know, I, I sort of more old fashioned in that way, I suppose. But, um, that you like to"
+}

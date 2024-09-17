@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:22",
+  "End": "03:09:28",
+  "Text": ", that explosion could be destructive and constructive and the probabilities are non zero in both. I"
+}

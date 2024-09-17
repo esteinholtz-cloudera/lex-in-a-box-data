@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:16",
+  "End": "00:41:24",
+  "Text": "trajectory through which she arrived at her moral views have some dark"
+}

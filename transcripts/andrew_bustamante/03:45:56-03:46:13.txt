@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:45:56",
+  "End": "03:46:13",
+  "Text": ". So when it comes to how to make a disguise, not so useful to the ultra wealthy, usually, but when it comes to how to read a face, or more importantly, how people are going to read your face, that's extremely important because now, you know, where to find the first signs of deception in a baseline or anything else,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:32",
+  "End": "02:10:43",
+  "Text": "could barely handle one. love it. Losing him. Would that be the darkest moment in this whole journey of Scientology for you?"
+}

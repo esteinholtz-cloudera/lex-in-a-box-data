@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:33",
+  "End": "01:42:44",
+  "Text": "he still believed Scientology to some degree after you left is what you're saying. Yeah. Has he spoken about what it took to let go of believing in Scientology?"
+}

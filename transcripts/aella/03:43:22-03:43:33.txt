@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:43:22",
+  "End": "03:43:33",
+  "Text": "think this is a this is a poll you've asked, or this might be of the questions and your cards. But, uh, how many years would you like to live? Like, if you had"
+}

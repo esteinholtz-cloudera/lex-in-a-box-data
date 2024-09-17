@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:31:48",
+  "End": "02:32:01",
+  "Text": "mainly my complaint with monogamy. Like I'm down with the conscious monogamy, but I think so many relationships are like monogamous by default, the people, it's not actually right for them, but they just get into it because culture just doesn't give them another"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:45",
+  "End": "01:28:58",
+  "Text": "they found the right. They're still, still people willing to pay a large amount of money. So over $1000 for a vacuum cleaner, unfortunately, for them, now that they've proved everything out, figured it all out there."
+}

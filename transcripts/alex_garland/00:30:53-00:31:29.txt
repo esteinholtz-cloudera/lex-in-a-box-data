@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:53",
+  "End": "00:31:29",
+  "Text": "fact, I, I'm having a fascinating conversation with a historian of Stalin and he took power. He actually got more power than almost any person in history. And he wanted, he didn't want power. He just wanted, he truly, and this is what people don't realize. He truly believed that communism make for a better world. Absolutely. And he wanted power. He wanted to destroy the competition to make sure that we actually make communism work in the Soviet Union and then spread across the world. He was trying to do good."
+}

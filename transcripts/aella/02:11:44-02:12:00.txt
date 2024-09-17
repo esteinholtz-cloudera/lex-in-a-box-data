@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:11:44",
+  "End": "02:12:00",
+  "Text": ". I don't know if you remember this, but the first time I met you, I didn't know who you were. I just heard, I knew I'd heard your name. Like you, your name. And I, like, I think I've heard people discuss that I was in the middle of a very sexual conversation with another woman and you just like turned around and left very shortly afterwards. And I thought it"
+}

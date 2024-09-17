@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:31:45",
+  "End": "03:32:21",
+  "Text": "around the sun. But to me, it's interesting because it asks us looking out there with Seti, just looking for alien life forcing us to really ask questions about ourselves about what is life? How special? First of all, what is intelligence, how special is intelligence in the cosmos? And I think it's inspiring and challenging to us as human beings, both on a scientific and engineering level, but also on a philosophical level. I mean, all of those questions that are laid before us when you start to think about alien life. So"
+}

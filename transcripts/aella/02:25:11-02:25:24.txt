@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:11",
+  "End": "02:25:24",
+  "Text": ". So back to polyamory. So what's a good, what does it take to manage? Do you have a main partner if you're being polyamory and you have, you're dating multiple people. Is there usually a main one for you personally? For"
+}

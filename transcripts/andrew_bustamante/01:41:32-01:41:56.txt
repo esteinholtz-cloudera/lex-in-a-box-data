@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:32",
+  "End": "01:41:56",
+  "Text": "you never really got a chance to think about it because there's a small steps along the way and it kind of just leads you. Uh And your, maybe your personality is such that an adventure. It's an adventure and you don't because it's one step at a time, you don't necessarily see the negative consequences of the adventure you don't think about you know that you're just stepping, stepping into the advent and it's easy."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:55",
+  "End": "01:00:20",
+  "Text": "far at training time. But it kind of also implies that there's a nice statistical model that represents that data. So out of distribution feels like I don't know. It, raises to me philosophical questions of how we humans reason out of distribution, things that are completely we haven't seen"
+}

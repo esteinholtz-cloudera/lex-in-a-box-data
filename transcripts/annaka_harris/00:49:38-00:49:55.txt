@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:38",
+  "End": "00:49:55",
+  "Text": "I feel like the kind of thinking that allows you to be open to conspiracy theories is also the kind of thinking that leads to brilliant breakthroughs in science, sort of willingness to go to Crazy Land. interesting."
+}

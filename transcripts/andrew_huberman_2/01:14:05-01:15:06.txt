@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:14:05",
+  "End": "01:15:06",
+  "Text": ". Well, it could be the salt. So I mean, neurons, the action potential neurons as you know is sodium's rushing into the cell, you need enough extra cellar sodium in order for your brain and nervous system to function. so salt, I mean, unless people have hypertension salt is great. There was an article in science magazine about a decade ago about how salt had been demonized. Unless people have hypertension provide you drink enough water salt is great. You need sodium magnesium and potassium to function and for your nerve cells to work. I mean, people overdrink water and don't consume enough electrolyte die. Um Now, hydration is really important. I know David's really into hydration. He's mentioned that a few times. I mean, hydrating is key. And so you definitely want to make sure that you're drinking enough water and getting enough electrolytes. That, I mean, we should have actually talked about that at the beginning because that's gonna keep your nervous system functioning well. a lot of people, they'll get shaky or jittery and when they're fasting and they'll think they need sugar. And if they just put some salt in some water, they"
+}

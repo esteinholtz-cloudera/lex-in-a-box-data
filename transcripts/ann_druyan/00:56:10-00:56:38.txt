@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:56:10",
+  "End": "00:56:38",
+  "Text": "that if you say, think what you just said, which is uh global warming is a serious concern. It's human cause there might be some detrimental effects. Currently there's a large percent of the population of the United States that would as opposed to listening to that statement would immediately think, oh, that's just a liberal talking point. That's what I mean by."
+}

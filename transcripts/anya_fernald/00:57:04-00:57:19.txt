@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:04",
+  "End": "00:57:19",
+  "Text": "you comment on the certified humane piece? So how do you run the farm? Like, what does it mean to raise an animal from the beginning of its life to the end of its life in a way that's ethical, that's humane. I"
+}

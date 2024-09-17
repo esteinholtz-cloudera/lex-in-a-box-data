@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:21:25",
+  "End": "03:21:34",
+  "Text": "not necessarily the field but the kind of stuff you're doing in a particular field. So for you, seems like you are energized by implementing stuff, building actual things. Yeah,"
+}

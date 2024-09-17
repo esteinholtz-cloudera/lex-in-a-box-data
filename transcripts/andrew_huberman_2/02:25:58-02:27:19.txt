@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:58",
+  "End": "02:27:19",
+  "Text": ", that's the magic of podcasting. It's like, I feel like I'm part of your life now in a way that as a fan that I wouldn't be otherwise. And, you know, like I never was able to have that with Carl Sagan, for example, you know, that's a whole another level of connection with a human being that gets you excited. And then I share your excitement about different topics in neuroscience or just biology in general. And then I don't have to actually understand everything you're saying to really enjoy it. So that's the magic of podcasting is like, you can go through 10 minutes of not understanding what the hell a person is saying. then you enjoy the excitement and then you reconnect to a thing that you do understand what they're saying. And you know, that's that personal coupled with the scientific rigor is magic and finding the right. It's exploration. Joe found something that works for comedians which is like, know, having a good laugh, but also, every once in a while talking seriously about difficult topics, scientific space, it was unclear. You haven't had guests on yet, but"
+}

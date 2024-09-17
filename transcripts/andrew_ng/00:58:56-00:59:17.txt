@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:56",
+  "End": "00:59:17",
+  "Text": "taking the first step and then taking small steps is the key. students pursue a phd? Do you think you can do so much? That's the one of the fascinating things in machine learning. You can have so much impact without ever getting a phd. So what are your thoughts? Should people go to grad school. Should people get a phd?"
+}

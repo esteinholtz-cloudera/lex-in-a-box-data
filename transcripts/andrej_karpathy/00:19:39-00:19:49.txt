@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:19:39",
+  "End": "00:19:49",
+  "Text": "we don't have really good mechanisms for seeing this life. I mean, by what, how um so I'm not an expert just to preface this, but just from what"
+}

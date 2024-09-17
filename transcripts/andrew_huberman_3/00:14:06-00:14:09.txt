@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:06",
+  "End": "00:14:09",
+  "Text": "that's just the, the cracker and the bread is just texture."
+}

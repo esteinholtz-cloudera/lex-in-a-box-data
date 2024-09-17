@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:19:18",
+  "End": "00:19:31",
+  "Text": "the wake up signal. It's interesting to think about it. It's not just correlated with an increase in body temperature. The increase in body temperature is triggering the release of cortisol from your adrenals. And that's the wake up signal. Do you think"
+}

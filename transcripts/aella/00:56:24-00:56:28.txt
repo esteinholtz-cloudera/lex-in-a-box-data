@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:24",
+  "End": "00:56:28",
+  "Text": "kind of fantasy books, like sci fi type stuff?"
+}

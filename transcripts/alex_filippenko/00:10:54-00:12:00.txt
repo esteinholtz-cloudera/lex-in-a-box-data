@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:10:54",
+  "End": "00:12:00",
+  "Text": "I'm very much a person who believes that there's always a cause, you know, there, there are no um miracles of a supernatural nature. OK. Uh, I mean, there are two broad categories, either it's the vacuum, zero point energy or it's some sort of a, a new energy field that pervades the universe. The latter could change with time, the former, the vacuum energy cannot. So if it turns out that it's one of these new fields and there are many, many possibilities, they go by the name of, you know, quintessence and things like that. But there are many categories of those sorts of fields try with data to rule them out by comparing the actual measurements with the predictions and some have been ruled out, but many, many others remain to be tested and the data just have to become a lot better before we can rule out most of them become reasonably convinced that this is a vacuum energy. So"
+}

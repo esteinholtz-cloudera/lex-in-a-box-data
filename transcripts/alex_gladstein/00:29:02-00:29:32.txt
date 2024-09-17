@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:29:02",
+  "End": "00:29:32",
+  "Text": "you think authoritarian systems emerge naturally? Like that's the natural state of things? If you take, if you incorporate what human nature is, is there always going to be corrupt people, the rise to the top and we almost have to construct systems that protect us against ourselves kind of thing. Another way to ask that is what kind of systems protect us from our own human nature."
+}

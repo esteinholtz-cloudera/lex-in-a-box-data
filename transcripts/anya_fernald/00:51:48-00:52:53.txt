@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:51:48",
+  "End": "00:52:53",
+  "Text": "number of discrete decision points that could completely be automated as well in order to supplement and work with somebody like a farmer in managing it the, the the performance on land and a bit of that's being done right now with some aerial mapping and but that type of A I would be huge in this. I mean, there's estimates that if the um damage and underutilized range land in the world was converted to regenerative agriculture at somewhere between 20 40% of the world's carbon could be sequestered. So there's a huge potential. The problem is cultural. like lost the generational thread of knowledge about how to do this. It's kind of been two generations that haven't formed this way., the science around it is limited by the scale and longevity. the data collection around regenerative farming is also limited by the fact it's kind of piecemeal. There's small operations that are doing it. They're learning and developing as they go and they haven't been documenting it and doing it for too long"
+}

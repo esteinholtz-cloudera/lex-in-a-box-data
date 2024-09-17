@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:52",
+  "End": "00:32:39",
+  "Text": "me also, the flavors are inextricably tied to the memories I've had with those flavors. So for better or worse, when I used to eat a lot of ice cream. I, for some reason had a lot of pleasant experience with coconut ice cream. So that particular flavor just permeates throughout my life. Not like I'm stuck with it, uh, for better or worse as a, as a flavor that brings up pleasant memories. And I have a few such flavors. I have, I have such relationship with all kinds of meat too. Like it's just so many pleasant memories and that's it. Like you're almost tasting the memories and, uh, there's no way to separate the flavor from the memories, I suppose. And that's a powerful thing. What's your favorite meal to cook?"
+}

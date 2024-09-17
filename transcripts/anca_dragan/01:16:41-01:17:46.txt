@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:16:41",
+  "End": "01:17:46",
+  "Text": "on the reward design. And so what, what does it mean? What is it when we think about the problem? Not as someone specifies all of your job is to optimize and we start thinking about you're in this interaction and this collaboration. And the first thing that comes up is the person specifies a reward, it's not, you know, gospel. It's not like the letter of the law. It's not the definition of the reward function. You should be optimizing because they're doing their best, but they're not some magic perfect oracle. And the sooner we start understanding that, I think the sooner we'll get to more robust robots that function better in different situations. And then, then you have kind of say, OK, well, it's almost like robots are learning. They're putting too much weight on the reward specified by definition and maybe leaving a lot of other information on the table. What are other things we could do to actually communicate to the robot about what we want them to do besides attempting to specify"
+}

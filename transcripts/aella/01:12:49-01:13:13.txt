@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:12:49",
+  "End": "01:13:13",
+  "Text": "they do studios and they lower quality, means what studios are you go into like a warehouse and then they have set up a little like things that replicate bedrooms, but they're just like stalls then you give you rent out or you pay the studio percentage of your income and you can tell when something looks like a studio. It's like a type of background that if you like watching enough, it starts to notice the patterns."
+}

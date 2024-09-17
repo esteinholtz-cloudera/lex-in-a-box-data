@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:50:31",
+  "End": "03:50:44",
+  "Text": "right. Now you're already getting offended at that possibility. Which therefore, I know it's going to be a reality. I'm just joking that it's an issue. I don't actually think it's an issue. I think it's a maybe at the cutting edge will be an"
+}

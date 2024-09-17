@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:33",
+  "End": "01:42:41",
+  "Text": "you like you're an introvert and a deeply intellectual person therapy works for you"
+}

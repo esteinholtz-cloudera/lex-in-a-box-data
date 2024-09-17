@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:06:24",
+  "End": "03:06:31",
+  "Text": "he has a certain problem he needs help with. No, generally you haven't done an episode on sex."
+}

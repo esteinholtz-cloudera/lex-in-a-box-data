@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:33:01",
+  "End": "01:33:07",
+  "Text": "would almost reframe the question in some way. So the thing is basically you would think that additional sensors, by the way,"
+}

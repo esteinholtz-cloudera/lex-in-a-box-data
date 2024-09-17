@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:20:44",
+  "End": "01:20:56",
+  "Text": ", so that's the thing. Um, I think it emulates love because we don't have a classical definition of love,"
+}

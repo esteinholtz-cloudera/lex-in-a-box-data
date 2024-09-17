@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:15:32",
+  "End": "03:15:41",
+  "Text": "if we clone an Andre software is the thing like is this thing that makes that thing special?"
+}

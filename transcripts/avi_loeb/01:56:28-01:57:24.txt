@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:56:28",
+  "End": "01:57:24",
+  "Text": "? The Mayan civilization basically believed in astrology, that you can forecast the outcome of the war based on the position of the planets. And, they had, you know, astronomers in their culture had the highest social status, they were priests, they were elevated. And the reason was that they help politicians decide when to go to war because they would tell the politicians, you know, the planets would be in this configuration. It's a better chance for you to win the war, go to war. And in retrospect, they, you know, they collected wonderful data misinterpreted it because we now know that the position of Venus or Jupiter or whatever has nothing to do with the outcome of World War One. World War Two, you know, it has nothing to do. And uh so we can have a prejudice and collect data without actually doing the right thing with it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:32",
+  "End": "02:06:36",
+  "Text": "there's not a suspicion about Islamic law being the primary law of the"
+}

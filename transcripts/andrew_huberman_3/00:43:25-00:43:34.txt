@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:25",
+  "End": "00:43:34",
+  "Text": "know, it is tricky. One of my goals for this year is to talk to people a lot of people really don't like. Are you going"
+}

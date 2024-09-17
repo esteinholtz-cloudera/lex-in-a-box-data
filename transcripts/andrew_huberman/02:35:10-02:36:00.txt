@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:35:10",
+  "End": "02:36:00",
+  "Text": "for listening to this conversation with Andrew Huberman and thank you to our sponsors asleep, a mattress that cools itself and gives me yet another reason to enjoy sleep. Sem Rush, the most advanced Seo optimization tool I've ever come across and cash app, the app I use to send money to friends. Please check out these sponsors in the description to get a discount and to support this podcast. you enjoy this thing, subscribe on youtube, review it with five stars on Apple podcast. Follow on Spotify, support on Patreon or connect with me on Twitter at Lex Friedman. And now let me leave you with some words from Carl Jung. am not what happened to me. I am what I choose to become. you for listening and hope to see you next time."
+}

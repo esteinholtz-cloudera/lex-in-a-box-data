@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:42",
+  "End": "01:21:55",
+  "Text": "bar for like,? Do you think that bar will keep getting lower and lower in terms of how healthy, how athletic, like how the psychological profile, all those kinds of things? Yeah,"
+}

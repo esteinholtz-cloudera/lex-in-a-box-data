@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:26:25",
+  "End": "00:26:30",
+  "Text": "the edges are wonderful because that keeps, that keeps us in business."
+}

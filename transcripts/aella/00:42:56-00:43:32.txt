@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:56",
+  "End": "00:43:32",
+  "Text": "wouldn't trust those aliens though because they probably want to do different medical procedures. I saw, I saw, I saw a thumbnail for a video that I'm proud of myself for not clicking on about a man who's claimed that he had sex with aliens I not clicking on that because I was, because I would probably watch it for, like, 20 minutes and then I should be doing work. So, and, and I'm actually happy because I get to imagine what all the different possibilities that could have been for that man who has like a"
+}

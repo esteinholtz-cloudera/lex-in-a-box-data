@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:45",
+  "End": "01:53:09",
+  "Text": "think it's interesting to talk about a little bit of the human story of the Nobel Prize, which is, mean, it's, it's a really, first of all the prize itself, it's kind of fascinating on the psychological level that prizes I know we kind of think that prizes don't matter, but somehow they kind of focus the mind about some of the most special things. We have accomplished the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:52",
+  "End": "01:08:04",
+  "Text": "do you get that first moment? Right. Do you think there's also an education about the capabilities and limitations of the system? Do you have a sense of how do you educate people correctly in that first interaction?"
+}

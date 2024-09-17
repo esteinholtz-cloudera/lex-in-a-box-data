@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:30:26",
+  "End": "00:30:37",
+  "Text": "more women dream vividly than men, which I actually found my Chaos Survey. So I did a survey maybe, you know, that I had everything, you know. Yes, I'm sorry. So as you clearly know,"
+}

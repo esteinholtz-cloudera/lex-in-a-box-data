@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:24",
+  "End": "02:07:42",
+  "Text": "independent or is it just loosely correlated? Because like uh that useful to do like um or like educate simulation to like, know, what happens if there's a nuclear war? What happens if there's, you know, like those kinds of things?"
+}

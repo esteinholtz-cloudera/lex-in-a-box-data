@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:12",
+  "End": "01:50:01",
+  "Text": ", you know, there's ways to measure cost that would probably be the most costly aspect of Scientology is the suffering associated with the separating of families. I mean, that's actually just puts, make, it's a very concrete what we value in human life the connection to our loved ones. Like everything else doesn't matter, like getting 50 bucks a week,, that, like, uh, getting money stolen from you, getting the truth stolen from you none of that compares., you can even frame that as the good. There could be a lot of positives, whatever in the tribe. But separating families, separating loved ones. That's the destructive thing., no hate"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:33:17",
+  "End": "01:33:34",
+  "Text": "individual level, at a business level, how does somebody like me who's just one little Ant, how does somebody like Elon Musk who is in charge of 10,000 ants uh fighted? Like, how do we, how do we push back? A"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:01:25",
+  "End": "03:01:35",
+  "Text": "mean, this is nuanced and difficult, right? Because I think in a lot of public discourse, the word rape is pretty binary."
+}

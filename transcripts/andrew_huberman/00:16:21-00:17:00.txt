@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:21",
+  "End": "00:17:00",
+  "Text": "around with one of the critical things for the autonomous vehicle research is you couldn't do 360 video because there's a game theoretic, there's an interactive element that's really necessary. So people realize this, maybe they don't but 360 video, you obviously, well, it's actually not that obvious to people, but you can't change the reality that you're watching. That's right. So, uh but you find that that's, is there something fundamental about fear and stress that the interactive element is essential for or do you find you can, can arouse people with just the video?"
+}

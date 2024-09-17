@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:12",
+  "End": "00:53:23",
+  "Text": ". Just ling on Bionic woman. Which, by the way, because I read that about you. Uh, I watched a bit bits of it and it's just so, no offense. Terrible."
+}

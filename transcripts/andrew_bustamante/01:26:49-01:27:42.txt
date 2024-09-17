@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:49",
+  "End": "01:27:42",
+  "Text": "guess the question I'm asking and the thing I was is that creating an artificial relationship was an extremely difficult skill to accomplish the level. Like how good I am at being me creating a feeling in another person that I create for you to do that artificially has got to be, you got to be my sense is you got to be really damn good at that., I would venture to say, I mean, I don't know how to measure how difficult the thing is, but especially when you're communicating with people whose job depends on forming trusting relationships, they're going to smell bullshit. And to, to get, get past that bullshit detector is tough. It's a tough"
+}

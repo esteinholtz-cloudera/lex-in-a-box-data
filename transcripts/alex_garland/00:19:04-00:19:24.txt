@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:04",
+  "End": "00:19:24",
+  "Text": "you afraid? Are you excited? Are you sad by the possibility? Let's take the existential risk of artificial intelligence by the possibility an artificial intelligence system our offspring and makes us obsolete."
+}

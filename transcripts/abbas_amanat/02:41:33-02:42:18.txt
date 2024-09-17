@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:41:33",
+  "End": "02:42:18",
+  "Text": "where every alternative is terrible. me ask you about one of the most complex geopolitical situations in history. One aspect of it is the Cold War between Iran and Israel. The bigger picture of it is sometimes referred to as uh Israel, Palestine conflict. are all the parties, nations involved? What are the interests that are involved? What's the rhetoric? Can you understand, make the case for each side of this conflict?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:58",
+  "End": "01:32:04",
+  "Text": "mean, this whole conversation is hilarious because we're both suffer to some level of anxiety."
+}

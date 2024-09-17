@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:32",
+  "End": "02:03:47",
+  "Text": "you think there could be experimental further experimental data that helps explore some of these ideas that you have for photon rings and holographic plates through imaging and through like higher and higher resolution images and also just more and more data."
+}

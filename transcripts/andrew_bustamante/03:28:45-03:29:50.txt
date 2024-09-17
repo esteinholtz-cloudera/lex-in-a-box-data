@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:28:45",
+  "End": "03:29:50",
+  "Text": "this is where one of the things I always try to highlight is how conspiracies are born many people don't understand how easy it is to fall into the conspiratorial cycle. So the first step to a conspiracy being born is to have an a piece of evidence that is true. then immediately following the true evidence is a gap in information. And then to fill in the gap of information, people create an idea. And then the next logical outcome is based on the idea that they just created, which is an idea that's based on something that was I imagined in the first place. So the idea, the factual thing is now two steps away and then three steps away, four steps away as the things go on. And then all of a sudden you have this kernel of truth that turned into this wild conspiracy. in, in our example, you talked about humans trying to communicate with ants. Ants are not intelligence, there's no ants are not intelligent species. They are drone species that's somehow commanded through whatever technology, whatever, whatever,"
+}

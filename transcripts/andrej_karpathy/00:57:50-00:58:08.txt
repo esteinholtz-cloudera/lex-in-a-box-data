@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:50",
+  "End": "00:58:08",
+  "Text": ". How do you defend? How do you detect, how do you know that your karate account on Twitter is, is human. would you approach that? Like if people were claim, you know, uh how would you defend yourself in the court of law that I'm a human? Um"
+}

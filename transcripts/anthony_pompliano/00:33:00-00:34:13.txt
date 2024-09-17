@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:00",
+  "End": "00:34:13",
+  "Text": ". So the distinction there and maybe people don't know the terminology. Maximalism is basically saying, really think this is a good idea, uh you know, if you prefer a certain kind of diet, you could be a keto maximalist saying like this is probably maybe it's not 100% but probably the diet that's healthiest for humans kind of thing. In the same sense. Bitcoin maximalism is saying, know, of course, we don't know there's a lot of uncertainty, but this particular technology seems to be the best representations of some set of ideals that defines progress in the future. But you're drawing a distinction between sort of like obsession about an object of any kind, whether it's Keto or Bitcoin. And just sort of believing that a technology is the best representation of a particular set of ideals. And you believe that sort of this moving into the cloud both the distributed nature of it, but also just the digital nature of it is something that's going to be a positive step for humanity."
+}

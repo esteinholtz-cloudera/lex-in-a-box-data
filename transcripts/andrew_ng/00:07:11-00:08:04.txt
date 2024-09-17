@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:07:11",
+  "End": "00:08:04",
+  "Text": "it's humbling and I wasn't thinking about what I was feeling. I think one thing that I'm proud to say we got right from the early days was I told my whole team back then that the number one priority is to do what's best for learners, do what's best for students. And so I went to the recording studio, the only thing on my mind was what can I say? How can I design my size, whether I need to draw right, to make these concepts as clear as possible for learners. Um I think, you know, I've seen sometimes instructors is tempting to, hey, let's talk about my work. Maybe if I teach you about my research, someone will cite my papers a couple more times. And I think one things we got right launched the first few moocs and later building Coursera was in place that bedrock principle of let's just do what's best for learners and forget about everything else. And, and I think that that is a guiding principle turns out to be really important to the, to the rise of the movement."
+}

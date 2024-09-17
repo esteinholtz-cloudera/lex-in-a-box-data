@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:24:03",
+  "End": "03:24:44",
+  "Text": ", I definitely was like, surprised that a transcription with opening eyes Whisper was working so well compared to what I'm familiar with from Siri and like a few other systems, I guess it works so well. And that's what gave me some energy to like, try it out and I thought it could be fun to random podcast. It's kind of not obvious to me why Whisper is so much better compared to anything else because I feel like there should be a lot of incentive for a lot of companies to produce transcription systems and that they've done so over a long time whisper is not a super exotic model. It's a transformer, takes me spectrograms and you know, just outputs tokens of text. It's not crazy. Uh The model and everything has been around for a long time. not actually 100% sure why. It's"
+}

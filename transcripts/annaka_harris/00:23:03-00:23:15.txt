@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:03",
+  "End": "00:23:15",
+  "Text": "on the kind of distributed intelligence because you can separate it from the main, the main part. Like if you chop off a human arm, it's not going to keep"
+}

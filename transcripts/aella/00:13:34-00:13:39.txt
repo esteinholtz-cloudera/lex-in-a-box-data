@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:13:34",
+  "End": "00:13:39",
+  "Text": "to talk. I feel like a very small amount of fun of it, which is a new tropic. I don't know if that"
+}

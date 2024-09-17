@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:25",
+  "End": "00:55:41",
+  "Text": "again to you. You've connected us. I had the pleasure of having a conversation with him. You had a conversation with him. I really enjoyed it on the podcast. You guys from the same size, from the same place, uh maybe different journeys. Fascinating."
+}

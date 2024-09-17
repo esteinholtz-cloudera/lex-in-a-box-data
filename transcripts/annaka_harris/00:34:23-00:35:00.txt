@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:23",
+  "End": "00:35:00",
+  "Text": ". Yeah, language does affect things. I just knowing Russian and the history of the Soviet Union in the 20th century. Obviously, it lived under communism for a long time. So your conception of individualism is different and that reflects itself in the language. You could probably have this similar kind of thing the language in terms of how we talk about. I, and we, and so on. And I, yeah, I'm sure there's like certain countries or maybe even villages with certain dialects that, uh, let go of the individualism"
+}

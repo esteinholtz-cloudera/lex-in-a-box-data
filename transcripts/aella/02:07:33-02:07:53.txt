@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:33",
+  "End": "02:07:53",
+  "Text": ". So uh first of all, what is that was that, do you find that to be useful and interesting? Because it, it's very interesting, it feels raw and honest. The danger of it seems like you escape actual experience of it though. So that's the trade off. You make it intellectual, right? Is it"
+}

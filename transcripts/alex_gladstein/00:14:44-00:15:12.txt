@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:14:44",
+  "End": "00:15:12",
+  "Text": "the content of the criticism matter? Can it be complete lies meaning theories that involve claiming that the leader is, let's say a lizard slash pedophile slash, you know, I'm not saying that those are lies, look into it, but they're very unlikely phenomena. So does that matter? I"
+}

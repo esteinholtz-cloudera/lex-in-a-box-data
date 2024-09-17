@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:37",
+  "End": "01:08:53",
+  "Text": "so interesting, a large company where the search, there's already an infrastructure, it works as it brings out a lot of money. So where structurally inside a company is their motivation to pivot to say we're going to build a new search engine."
+}

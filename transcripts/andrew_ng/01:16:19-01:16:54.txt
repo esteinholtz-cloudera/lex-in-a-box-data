@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:16:19",
+  "End": "01:16:54",
+  "Text": ". I think the early small scale projects, it helps the teams gain faith, but also helps the teams learn what these technologies do. I still remember when our first GP U server, it was a server under some guy's desk and you know, and and then that taught us early in lessons about how do you um have multiple users share a set of GP us, which is really non obvious at the time. But those early lessons were important, we learned a lot from that first GP U server that later helped the teams think through how to scale it up to much larger deployments."
+}

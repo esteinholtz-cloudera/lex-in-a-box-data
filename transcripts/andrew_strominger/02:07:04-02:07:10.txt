@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:07:04",
+  "End": "02:07:10",
+  "Text": ", I wouldn't describe it as a gray area. I would describe it as a knife edge. So"
+}

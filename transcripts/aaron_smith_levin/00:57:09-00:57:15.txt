@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:57:09",
+  "End": "00:57:15",
+  "Text": ", information control access to the internet, access to any information critical of scientology"
+}

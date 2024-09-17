@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:48:49",
+  "End": "03:48:56",
+  "Text": ", but it's hard to know how to go from digital to printing life."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:00:14",
+  "End": "01:01:11",
+  "Text": ". You know, I'm, kind of funny but people in the United States are not very savvy with money. It's exactly the way you're describing is like when you have very little money, you're going to be savvy with money, you're going to understand exactly the mechanisms that work that are resistant to the corruption that's around you. I mean, I remember of growing up in the Soviet Union, general bureaucracy and the corruption of everything around you, you figure out ways around that, you figure out ways how to function within that kind of system to survive under inflation, under hyperinflation, under, like basically being unable to trust any kind of even the police force and all those kinds of things, you figure it out. And in that same way, perhaps Bitcoin could be all the different ways to store and gain Bitcoin. These mechanisms could be something that's figured out in the third world opposed to in"
+}

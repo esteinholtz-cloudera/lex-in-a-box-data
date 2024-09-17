@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:26:19",
+  "End": "00:26:27",
+  "Text": ", they will currently MP CS are really dumb, but once they're running GP TS, maybe they will be like, hey, this is really suspicious. What the hell?"
+}

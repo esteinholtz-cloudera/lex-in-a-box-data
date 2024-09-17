@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:37",
+  "End": "01:22:46",
+  "Text": ". There's some sense in which yes, memes is love. Even keep hearing Bitcoin is love. They're trying to convert me."
+}

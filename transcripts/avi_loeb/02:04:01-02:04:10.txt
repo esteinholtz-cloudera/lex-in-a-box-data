@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:01",
+  "End": "02:04:10",
+  "Text": ", that's true. That's true. Can you say we know that black holes exist?"
+}

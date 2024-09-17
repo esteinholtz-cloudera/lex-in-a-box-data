@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:51:10",
+  "End": "01:52:04",
+  "Text": ". So the only way for us to, to stay modest and learn about what really happens is by looking for evidence. Again, I'm saying it's not about ourselves, know, it's about figuring out what's around us. And if you close yourself by surrounding yourself with people that are like minded that refuse to look at the evidence, can do bad things. Uh and throughout human history, that's the origin all the bad things that happened. And I think it's the key, it's a key to be modest and to look at evidence and it's not a nuance., you might say, oh, ok, the uneducated person might operate. No, it's, the scientific community operates this way. My problem is not with that don't have an academic pedigree. It's include everywhere in society."
+}

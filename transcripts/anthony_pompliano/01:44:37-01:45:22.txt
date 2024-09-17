@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:37",
+  "End": "01:45:22",
+  "Text": "the fundamental principle behind Bitcoin is the proof of work. So I got 100 bucks uh like I use Cash App, uh you know, they uh there's Coinbase, there's all these exchanges like how do I convert my $100, uh, to Bitcoin? Is there something disclaimer? This is not financial advice and this is just us talking and just your opinions. Do not use this to invest or take us financial expertise said, like, is there something you recommend? That's an easy entry point for somebody that's like, hm, I wonder if I can convert this $100 into whatever amount of Bitcoin. What do you recommend? What are the options?"
+}

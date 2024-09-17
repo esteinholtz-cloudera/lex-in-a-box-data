@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:40:22",
+  "End": "00:40:37",
+  "Text": ". Yeah, there is an element of me that honestly agrees with you and prefers it this way. Yes, it was two grand, it would over promise and then under deliver potentially. So you want to just uh me your way to greatness"
+}

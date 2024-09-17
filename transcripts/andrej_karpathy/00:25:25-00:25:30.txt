@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:25:25",
+  "End": "00:25:30",
+  "Text": "understand life or you know what life looks like and what branches it can take. It"
+}

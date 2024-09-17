@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:13",
+  "End": "01:04:16",
+  "Text": "an emotional connection to, to to an A I"
+}

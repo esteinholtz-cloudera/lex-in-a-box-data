@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:11:11",
+  "End": "00:11:15",
+  "Text": ", yeah. Also, yes, it might contribute to the controversy not"
+}

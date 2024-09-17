@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:03:32",
+  "End": "01:04:14",
+  "Text": "think it might be simpler and I'm the person who likes to complicate this. I think it might be simpler than that because it turns out for instance, if you, you say model people in the very, I don't call it traditional way. I don't know if it's fair to look at it as a traditional way. But, but, you know, calling people as OK, they're rational somehow the utilitarian perspective. Well, that, once you say that you automatically capture that they have an incentive to keep on being Stewart likes to say you can't fetch the coffee if you're dead."
+}

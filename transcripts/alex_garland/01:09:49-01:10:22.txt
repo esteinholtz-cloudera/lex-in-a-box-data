@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:09:49",
+  "End": "01:10:22",
+  "Text": ". But also it's very important for me that if that conversation is going to be a good conversation, what that must involve is that someone like you who understands A I and I imagine understands a lot about quantum mechanics. If they then watch the narrative feels yes, this is a fair account. it, it is a worthy addition to the conversation that for me is hugely important. I'm not interested in getting that stuff wrong. I'm only interested in trying to get it right."
+}

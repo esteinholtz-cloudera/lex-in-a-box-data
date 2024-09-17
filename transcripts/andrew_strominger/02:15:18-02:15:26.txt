@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:15:18",
+  "End": "02:15:26",
+  "Text": "of life. So they might be more different than we think they might be different in a way that we haven't even thought of"
+}

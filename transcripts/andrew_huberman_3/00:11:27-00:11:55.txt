@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:11:27",
+  "End": "00:11:55",
+  "Text": "done a long fast, except when I was doing the, the chicken. And then, um, actually there are a couple of different ways to do cheat days. That were fun. Like, if you were in a new city you could try all the restaurants that you wanted. Yeah. And I think Tim and our mutual friend, John Romanello did a, I think it was like a cheat day marathon where they did, you know, marathons 26.3 miles. They went to 26.3 different locations in New York. They put it on a map and never took it to that extreme. But"
+}

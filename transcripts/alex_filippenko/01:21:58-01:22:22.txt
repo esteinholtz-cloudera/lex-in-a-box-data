@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:21:58",
+  "End": "01:22:22",
+  "Text": ", we should investigate it. It's just one of these things where, you know, they've not brought us a hunk of kryptonite or something like that, right. They haven't brought us actual tangible physical evidence with which experiments can be done in laboratories. Uh It's, it's anecdotal evidence. The photographs are, um, in some cases, in most cases, I would say quite ambiguous."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:07:42",
+  "End": "00:08:03",
+  "Text": ". Correct? CIA is the foreign Intelligence collection. King spoke if you will, uh FBI does domestic and then Department of Homeland Security does domestic law enforcement essentially handles all things. Domestic uh intelligence is not law enforcement. So we technically cannot work inside the United States."
+}

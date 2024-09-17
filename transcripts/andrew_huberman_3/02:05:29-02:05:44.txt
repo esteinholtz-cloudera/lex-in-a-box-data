@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:29",
+  "End": "02:05:44",
+  "Text": "probably also friends and all those kinds of things that they respect each other. So he probably didn't. But there's a comedian instinct. I, I saw this, was in an open mic here in Texas. I won't say where there's many open mics."
+}

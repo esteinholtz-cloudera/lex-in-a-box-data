@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:21:50",
+  "End": "00:23:38",
+  "Text": "could discuss that, but that's a different, that's a different thing. We wouldn't say Newton's theory was wrong. had very, very small corrections, incredibly small corrections. It's actually a puzzle why they're so small. if you watch the procession of mercury's perihelia, this was the first indication of something going wrong. According to Newton's theory, mercury has an elliptical orbit, the long part of it moves around as other planets come by and perturb it and so on. And so this was measured by la verier in 1859. And he compared and experiment and he found out that the perihelion process moves around the sun every 233 centuries instead of every 231 centuries. OK. Now, this is the wonderful thing about science. was this guy? mean, you don't have any idea how much work this is, you know, but of course, he made one of the greatest discoveries in the history of science without, you know, even knowing what it, what good it was gonna be. that's how small that that was the first sign that there was something wrong with Newton. Yeah., so the corrections to Newton's law are very, very small, but they're definitely there, corrections to electromagnetism, mostly the ones that we see are mostly coming from quantum effects."
+}

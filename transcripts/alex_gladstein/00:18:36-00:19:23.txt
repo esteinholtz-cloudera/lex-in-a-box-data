@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:18:36",
+  "End": "00:19:23",
+  "Text": ", I've been working for HR F 2007. Um, we are a charity, a nonprofit, a 501 C three based in New York. And our mission is to promote and protect individual rights and freedoms in authoritarian societies around the world. again, we define about 95 countries as authoritarian, meaning it's either a one party state or opposition politicians are outlawed or persecuted. There's no real free speech, there's no press freedom, there's no independent judiciary, there really aren't checks and balances and even trying to create like a human rights organization or like an environmental group uh would, would be illegal. Um And the majority of the world's population lives in that environment, that's very important. You said 53% 4.3 billion people. And I say you"
+}

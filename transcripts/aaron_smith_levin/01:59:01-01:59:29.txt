@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:59:01",
+  "End": "01:59:29",
+  "Text": "a cult 100%. not because I'm, like, fully conversant with the academic uh differentiations between what's a religion and what's a cult. I mean, scientology would say, well, all small new religions are cults and I don't know, that's probably true. Some people would say all religions are cults and I'd be like, depends on how you define religion and it depends on how you define cults. But I just fall back on my thing of like, if you're destroying families and bankrupting your members, you're a cult that that's"
+}

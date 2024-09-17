@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:44:37",
+  "End": "02:45:34",
+  "Text": ". just if, if I said to you 20 years ago, I'm gonna give you a global education. means I'm gonna take you and I'm gonna physically move you to geography. After geography, after geography, it's gonna take time. It's gonna take resources and ultimately, it's gonna take lots of effort. I now said to you, hey, I'm gonna transport you in this virtual world to multiple geographies, but you're going to experience it in this virtual uh world and you're gonna have digital goods that you can take from economy to economy or from location to location. of a sudden you may get, maybe you get 90% of the value, you don't get 100% of the same value. We get 90% of the value, you can do it at a much faster pace. And so in a six month period, you've actually made three times the progress than you would have if you had to do in the physical world. So that's where I think we're heading."
+}

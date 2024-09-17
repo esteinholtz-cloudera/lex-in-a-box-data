@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:07:33",
+  "End": "01:08:04",
+  "Text": ". Yeah, I mean, you could prompt a powerful model like this with its opinion about how to do any possible thing you're interested in. So they will just, they're kind of on track to become these oracles. I could, I sort of think of it that way. are oracles currently is just text, but they will have calculators, they will have access to Google search, they will have all kinds of gadgets and gizmos, they will be able to operate the internet and find different information. And um,, in some sense kind of like currently what it looks like in terms of the development. Do you think"
+}

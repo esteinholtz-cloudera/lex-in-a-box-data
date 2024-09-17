@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:11",
+  "End": "01:31:17",
+  "Text": "is rem sleep and why is it so special? Maybe we can comment on that rapid eye movement sleep"
+}

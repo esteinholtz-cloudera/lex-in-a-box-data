@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:40:56",
+  "End": "01:41:09",
+  "Text": "can use if I learn machine learning, I can process dating survey applications better. Yes, no, textual. Yeah. Like I can have them write things in. This is like a new way of would be that would be really good."
+}

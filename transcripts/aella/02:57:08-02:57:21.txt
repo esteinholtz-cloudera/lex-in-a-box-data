@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:08",
+  "End": "02:57:21",
+  "Text": "it's, you know, it's, it's probably growing, but it's also enabling you to establish a name to where like a prestige, like a reputation to where people can go to you to like, trust you more and more to do longer surveys. Perhaps"
+}

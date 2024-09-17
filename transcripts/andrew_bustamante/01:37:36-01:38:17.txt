@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:36",
+  "End": "01:38:17",
+  "Text": "in part of what I refer to when I say love because I feel like if uh like political leaders and in conflict that the small scale and the large scale were to tune into that longing to seek in each other, that basic longing for human connection. A lot of problems could be solved. But of course, um is difficult because uh it's a, it's a game of chicken because uh if you open yourself up to reveal that longing for connection with others, people can hurt"
+}

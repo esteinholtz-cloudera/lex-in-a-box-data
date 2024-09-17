@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:44:56",
+  "End": "00:45:33",
+  "Text": ". Well, when you're training on how to use the E meter, there are drills where you practice generating with your mind, various needle reactions. So you know, there is a drill where you sit there and you consciously try to create a floating needle by recalling happy thoughts. Go to your happy place. at the end of every auditing session, you actually have to go to a third party, sit down in front of a new meter and verify that your needle is floating every single auditing session, not only has to end on a floated needle, but then you have to go to someone else and have the floating needle verified. Any scientologist who's a seasoned recipient of auditing, knows how to make their needle float at the examiner."
+}

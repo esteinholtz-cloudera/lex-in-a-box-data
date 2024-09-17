@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:38:14",
+  "End": "00:38:32",
+  "Text": "of the sponsorship that we have, it is more on patient related organizations rather than uh we are very careful not to sponsor other things that can be perceived, not even uh influenced but perceived that we may influence. So we are very, very careful on that. This is not the case with us."
+}

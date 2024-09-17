@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:23",
+  "End": "02:31:40",
+  "Text": "you've thought quite a bit about dark matter as well. Do you have any kind of hypothesis? Interesting hypothesis. We already mentioned a few about what is dark matter and what are the possible paths that we could take to unlock the mystery of dark? What is dark matter?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:19:19",
+  "End": "03:19:58",
+  "Text": "um who and whether I think the,, the, the the really important distinction here is, was this person was Jeffy Epstein created once he's achieved and built his network, was he then in infiltrated. And that's a really sort of important difference. Like at which stage do you connect a person like that? You start to notice maybe they're effective of building a network and then you start making a building of a relationship to where at some point there, it's a job they're working for you or do you literally create a person like that? Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:33",
+  "End": "01:16:02",
+  "Text": ", I mean, yeah, I did a lot of algorithms and automatic synchronization of audio and video and all these kinds of things. I know this. Well, there's a lot of science and there's a lot of differences but it's about people claim it's about 100 milliseconds, you can't tell the difference, but it's much more like 30 to 50 milliseconds and you can go nuts trying to see if something is in sync or not? Is it in sync or not?"
+}

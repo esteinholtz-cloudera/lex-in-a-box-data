@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:50:05",
+  "End": "01:50:35",
+  "Text": "? There's no one I look at in Scientology that I go. How dare you if I was in their shoes to, you know, operate under David Miscavige orders, I would have done the same thing and I would have loved it. don't blame any of them. I mean, I take the, the opposite approach. If they knew what I knew they'd be doing what I'm doing. they knew what I knew and believed it, they'd be doing what I'm doing. They're not dumb. It's not, it's not dumb. People in Scientology,"
+}

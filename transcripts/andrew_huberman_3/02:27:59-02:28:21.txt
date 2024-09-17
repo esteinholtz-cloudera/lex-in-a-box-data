@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:27:59",
+  "End": "02:28:21",
+  "Text": ". So you're gonna look for, you'd want to find a uh an app that offers 40 Hertz. I think brainwave allows you to um bar up to the particular frequency that you want. And I should say that um there are other frequencies that are interesting but 40 Hertz spin or beat seems to be the one that there's the most quality research on there. It's"
+}

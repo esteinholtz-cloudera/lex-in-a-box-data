@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:37",
+  "End": "01:37:44",
+  "Text": "there will be some kind of equilibrium that will have to find symbiotic relationship."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:26:30",
+  "End": "01:27:21",
+  "Text": "know, I've made so many mistakes. It feels like every time I discover something I go, why didn't I think of this, you know, five years earlier or even 10 years earlier. And then sometimes I read a book and I go, wish I read this book 10 years ago. My life would be so different although that happened recently. And then I was thinking if only I read this book when we're starting at Coursera, it could have been so much better. Um But I discovered the book had not yet been written. We're starting Coursera. So that made me feel better. Uh But I find that the process of discovery, we keep on finding out things that seem so obvious in hindsight. Um But it always takes us so much longer than, than I wish to, to figure it out."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:30",
+  "End": "01:27:34",
+  "Text": "the way, I don't like, I don't appreciate the beauty of vanilla ice cream."
+}

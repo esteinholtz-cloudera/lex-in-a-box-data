@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:12",
+  "End": "03:02:35",
+  "Text": ", obviously the whole experience is stressful as somebody with microphones, like what is happening. But I just love that Tim was vulnerable enough to kind of give themselves over to whatever the hell this experience is. And I am just so happy that Rick pushed that kind of idea just let's, let's do it."
+}

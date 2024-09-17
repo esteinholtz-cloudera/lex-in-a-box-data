@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:56:06",
+  "End": "01:56:19",
+  "Text": ". Let the thoughts be really good at letting things just be and on the present moment and you might come out with some epiphany about what you should do next."
+}

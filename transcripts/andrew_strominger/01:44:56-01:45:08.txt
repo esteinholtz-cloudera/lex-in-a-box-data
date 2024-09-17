@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:56",
+  "End": "01:45:08",
+  "Text": "you think we'll be able to sneak up to the origin of the universe? Like reverse engineer it from experimental, from theoretical perspective? Like, OK, if, if we can, what would"
+}

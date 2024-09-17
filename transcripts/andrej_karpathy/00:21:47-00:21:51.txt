@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:21:47",
+  "End": "00:21:51",
+  "Text": ", or they're all just independent. They are all just like little pockets."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:57",
+  "End": "03:08:18",
+  "Text": "seems unstable that world leaders having a bad mood can like um take one step towards a bad direction and it escalates and because of a collection of bad moods, it can escalate without being able to stop."
+}

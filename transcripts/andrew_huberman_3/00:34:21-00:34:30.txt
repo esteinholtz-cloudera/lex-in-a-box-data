@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:21",
+  "End": "00:34:30",
+  "Text": "places in life that you use of a protocol, like a mental protocol to get ready?"
+}

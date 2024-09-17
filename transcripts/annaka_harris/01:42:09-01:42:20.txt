@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:09",
+  "End": "01:42:20",
+  "Text": "people, depression destroy them. So, how did, how, how, how can you think about?"
+}

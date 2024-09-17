@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:51",
+  "End": "00:43:53",
+  "Text": "hard, brother.. You know, that was one of the other things that I think makes this challenging is that I'll be doing a podcast throughout. So first of all, I'll do a long one before and after. But also have to come up with things to talk to him about. So like it's, it's a different thing to do something and then publicly. I know it doesn't seem that way. But like, of the hardest, the hardest thing I had to do last time to turn on the camera and talk to the camera because last time I did it, I recorded every single time I did a leg, I recorded something I'm grateful for. It's just kind of unrelated. I'm not a fan of talking about how I'm feeling or how the run is going. I want to do something totally unrelated to the run with the run as the background, you know, sort of something I'm grateful for just any kind of uh interesting discussion. Gratitude."
+}

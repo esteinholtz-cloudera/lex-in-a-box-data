@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:54",
+  "End": "03:24:02",
+  "Text": ". What was that? Like? I mean, what, what, um, traveled quite a bit, like, do you take these giant risks? What's, what's with that?"
+}

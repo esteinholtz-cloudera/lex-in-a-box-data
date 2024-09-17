@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:51",
+  "End": "01:30:54",
+  "Text": "difference, the nature of how relaxed the thing is or"
+}

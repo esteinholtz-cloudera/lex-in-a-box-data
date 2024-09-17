@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:22",
+  "End": "01:27:32",
+  "Text": "the data engine but also the the sort of deployment of the system such that has low latency performance. So it has to do all these"
+}

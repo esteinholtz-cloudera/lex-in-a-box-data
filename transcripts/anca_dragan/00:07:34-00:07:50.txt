@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:07:34",
+  "End": "00:07:50",
+  "Text": "bit of the computer science Olympian, but not as seriously as I did the math Olympian. So it was programming. Yeah, it's basically, here's a hard math problem solved with a computer. It was kind of the, it's more like algorithm. Exactly. It's always algorithmic."
+}

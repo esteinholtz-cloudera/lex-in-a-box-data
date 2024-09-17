@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:00:53",
+  "End": "01:01:26",
+  "Text": ", the, the beautiful complexity of human nature. Speaking of which, let me ask a tough question I guess because there's so many possible answers. But what aspect of life here on earth do you find most fascinating from the origin of life, the evolutionary process itself, the origin of the human mind? So intelligence, the of the technological developments going on now or us venturing out into space or space exploration would just inspires you"
+}

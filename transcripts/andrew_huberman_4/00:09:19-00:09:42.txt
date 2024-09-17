@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:19",
+  "End": "00:09:42",
+  "Text": "is the Lex Friedman podcast and now dear friends, here's Andrew Huber"
+}

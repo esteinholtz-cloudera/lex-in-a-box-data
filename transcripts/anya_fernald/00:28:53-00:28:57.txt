@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:53",
+  "End": "00:28:57",
+  "Text": "olive oil. So not why olive oil is it your roots in"
+}

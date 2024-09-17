@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:26",
+  "End": "01:19:35",
+  "Text": ". True, true. I'll probably go with the Pixies. Whereas my mind, like from Fight Club and just the calmness just sit back like, uh, the musicians playing at the Titanic."
+}

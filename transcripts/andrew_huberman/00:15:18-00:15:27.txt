@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:18",
+  "End": "00:15:27",
+  "Text": "a simulation. It was, it was kind of boxy actually, mean, it wasn't like ultra realistic simulation. It was fascinating"
+}

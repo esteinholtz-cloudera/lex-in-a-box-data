@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:38:08",
+  "End": "00:38:14",
+  "Text": "a friend as we all do three years for a round trip? Ok. And that's not that it"
+}

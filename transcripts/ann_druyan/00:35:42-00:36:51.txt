@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:35:42",
+  "End": "00:36:51",
+  "Text": "think fundamentally we are the same, but we have a kind of great, we are, we have advanced an astonishing degree in our capacity for data retrieval for transmission. And so, you know, I would send youtube, I would send, you know, really, like, think of all that, you know, I, I still feel so lucky that there's any great musical artist of the last 100 years who I revere I can just find them and watch them and listen to them. you know, that's fantastic. I also love how democratic it is that we each become curators and that we each decide those things. Now I may not agree with, you know, those the choices that everyone makes, but of course not because that's not the point. The point is is that we are, you know, we have discovered largely through the internet that we are an intercommunicating organism that can only be good."
+}

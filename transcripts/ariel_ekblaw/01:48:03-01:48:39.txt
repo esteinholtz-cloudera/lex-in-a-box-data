@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:03",
+  "End": "01:48:39",
+  "Text": ", that's awesome. So when you look out there, it's the flame of human consciousness, there does seem to be something quite special about us humans., first of all, what do you, what do you think it is? What's consciousness? What, are we trying to preserve here? What is it about humans that should be preserved or life here on earth? They, what gives you hope to try to expand it out farther and farther? makes you sad if it was all gone?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:40:15",
+  "End": "02:40:20",
+  "Text": "plants and it's just all over the place."
+}

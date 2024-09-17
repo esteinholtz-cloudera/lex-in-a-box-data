@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:07:56",
+  "End": "01:09:14",
+  "Text": "what, I, I try to do. So therefore what I hope,, if I'm remembered, what I might be remembered for is, is as someone who, who participates in a conversation. And I think that often what happens is people don't participate in conversations, they make proclamations, they make statements and people can either react against the statement or can fall in line behind it. And I don't like that. I want to be part of a conversation. I, I take as a sort of basic principle. I think I take lots of my cues from science. But one of the best ones, it seems to me is that when a scientist has something proved wrong that they previously believed in, they then have to abandon that position. So I'd like to be someone who is allied to that sort of thinking. part of an exchange of an part of an exchange of ideas and the exchange of ideas for me is something like people in your world, show me things about how the world works. And then I say this is how I feel about what you've told me. And then other people can react to that. And it's, it's not, it's not to say this is how the world is. Uh It's just to say it is interesting to think about the world in this way."
+}

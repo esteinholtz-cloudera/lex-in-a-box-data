@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:09",
+  "End": "01:41:56",
+  "Text": "think. So it's a really nice aspect text input, like long form text input, multiple long form text input based on an interestingly phrased question is you get to learn how to make a better survey. I think you would appreciate that you start to see how they're actually interacting with these questions. I asked certain questions just to see how people think is it better to work smart or better to work hard? or um is it ever OK to betray a close friend? Like I'll ask questions like this that don't really have a right answer. But I just want to see how they think or is truth more important than loyalty., and I get their long form"
+}

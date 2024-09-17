@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:03:08",
+  "End": "01:03:14",
+  "Text": "of the things I study in this domain is not just trust, but it really is overt"
+}

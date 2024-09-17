@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:15",
+  "End": "00:30:32",
+  "Text": ". Like I said, I'm from the Soviet Union. The current president is convinced, I believe actually he is, he wants to do really good by the country and by the world. his moral clark or our compass may be off because,"
+}

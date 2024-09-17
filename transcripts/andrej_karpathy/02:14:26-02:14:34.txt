@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:26",
+  "End": "02:14:34",
+  "Text": "the neural net is the architecture for the background model, the the base thing and then everything else is just on top of it that it"
+}

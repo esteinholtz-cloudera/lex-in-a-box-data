@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:05:20",
+  "End": "02:05:27",
+  "Text": "of the two. I think it's being engaged in a physical practice while enhancing pharmacology and it has to be done safely."
+}

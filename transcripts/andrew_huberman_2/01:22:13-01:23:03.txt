@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:22:13",
+  "End": "01:23:03",
+  "Text": ", you're gonna get a bunch of vitamins and minerals, you know? Does that sounds like a plug. But I have genuinely been buying it like, you know, no discount, no affiliation or anything since 2012. I think I heard about it on the Tim Ferris podcast. I was like, oh, I'm gonna try that stuff and I liked it. I mean, when I was starting my lab, I was working insane hours. I still work very long hours and getting sick productivity. And I also wanted to train and I wasn't doing much training back then. Um Now I try and get, you know, 34 sessions in a week. I'm not doing nothing like what you and David are doing or what, you know, Joe does or like you guys are way more regimented and consistent than I am. Um But I think that being healthy and feeling good one of the great benefits to a career, is having energy and just being not sick."
+}

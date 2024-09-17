@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:15",
+  "End": "00:44:29",
+  "Text": "it didn't correlate to thoughts that this process would be way, way too inefficient because it would, it would be too there. There, there's going to be a bunch of people who are just not, you're not going to get the what is it called? The floating needle? no matter what,"
+}

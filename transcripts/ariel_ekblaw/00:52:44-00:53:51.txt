@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:52:44",
+  "End": "00:53:51",
+  "Text": "Kelly wrote this amazing book after he spent a year in space and he's a twin. It's absolutely fantastic that NASA got to do a twin studies. Perfect. So he wrote a lot about his experience on the health side of what changed things like um bone density muscle, atrophy eyesight changing because the shape of your eyeball changes, which changes your lens, which changes how you see. If we're then thinking about the challenges between a year and three years, especially if we're doing that three year trip to Mars for your friend who asked earlier, then you have to think about um nutrition. so how are you keeping all of these different needs for your body alive? How are you protecting astronauts against radiation? Either having some type of a shell on the spacecraft, which is expensive because it's heavy, you know if it's something like lead a really effective radiation shell, it's going to be a lot of mass is there a pill that could be taken to try to make you um less uh in danger of some of the radiation, radiation effects. A lot of this has not yet been answered. But radiation is a really significant challenge for that three year journey."
+}

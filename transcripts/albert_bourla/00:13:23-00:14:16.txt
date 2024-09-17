@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:23",
+  "End": "00:14:16",
+  "Text": "you make decisions like that, the ceo of a company needs to make money that to do a lot of good in the world. How much of both of those things are part of the calculation. when you said it was an obvious choice, I think you've said a bunch of things uh the kind of saying we need to go all in sort of very boldly diving in. Um how much was that, that the world is facing uncertainty and fear and potentially destructive pandemic in the early days, just when you're seeing the full uncertainty before us don't know how it's going to unroll and how much of it is. may also be a good financial decision to take this risk. You know,"
+}

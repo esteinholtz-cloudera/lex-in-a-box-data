@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:39",
+  "End": "02:15:48",
+  "Text": "for some, the surveys and statistical analysis interested in, like, what's the likely thing here? Like, what's"
+}

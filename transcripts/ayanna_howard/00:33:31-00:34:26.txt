@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:33:31",
+  "End": "00:34:26",
+  "Text": "actually said something you had said how we have biases but hopefully we learn from them and we become better, right? And so that's where we are now, right? So that we're collecting is historic. So it's based on these things when we knew it was bad to discriminate. But that's the data we have and we're trying to fix it now, but we're fixing it based on the data that was used in the first place to, right? And so, and so the decisions and you can look at everything from the whole aspect of policing, criminal recidivism. There was a recent paper that had the healthcare algorithms which had a kind of a sensational titles. I'm not pro sensationalism in titles but um but you read it, right? So it makes you read it. But I'm like, really like you could, what's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:20",
+  "End": "01:52:36",
+  "Text": "the content, the message, but also just showing that you can be happy outside of Scientology. Exactly. You can have a fulfilling life. You could be a good man. Yeah, all of that. benefit do you think? Tom Cruise gets from Scientology. So why is he still in Scientology? He"
+}

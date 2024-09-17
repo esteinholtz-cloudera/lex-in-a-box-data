@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:38:11",
+  "End": "00:38:15",
+  "Text": ", you're interpreting the choice and you're creating a narrative or having made it."
+}

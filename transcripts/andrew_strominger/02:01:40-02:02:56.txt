@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:01:40",
+  "End": "02:02:56",
+  "Text": ", this paper is exploring a new idea. It's not make, it's not,, it's not making a new, so to speak. It's exploring an idea and, and, and um the ins and outs of it and, and, and what might work and, what might not, and this photon ring somehow everybody always thought that the holographic plate sat at the horizon of the black hole that the quantum system that describes the black hole is inside the horizon. I, in fact, um we think plausible we give some evidence in some soluble examples in this case. And an example in one lower dimension where we can handle the equations better that the quantum system that describes the black hole correspond to a region of space time, which is includes the photon ring. it's bigger."
+}

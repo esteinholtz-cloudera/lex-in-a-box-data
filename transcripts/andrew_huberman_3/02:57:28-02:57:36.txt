@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:28",
+  "End": "02:57:36",
+  "Text": "experience um pleasant or stressful in the way? So is it as stressful as an ice bathroom?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:11",
+  "End": "00:35:24",
+  "Text": "affectionately called vomit comet. I'm sure there's a reason why it's called affection. So what's it like? What's your first time both philosophically, spiritually and biologically? What's it like?"
+}

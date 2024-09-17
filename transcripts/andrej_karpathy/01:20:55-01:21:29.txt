@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:20:55",
+  "End": "01:21:29",
+  "Text": "Yes. The nice thing about the annotation is that it is fully offline. You have infinite time. You have a chunk of one minute and you're trying to just offline in a supercomputer somewhere. Figure out where were the positions of all the cars of all the people? And you have your full one minute of video from all the angles and you can run all the neural nets you want and they can be very efficient massive neural nets. There can be neural nets that can't even run in the car later at this time. they can be even more powerful neural nets than what you can eventually deploy. So you can do anything you want three dimensional reconstruction neural nets, uh anything you want just to recover that truth and then you supervise that truth."
+}

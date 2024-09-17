@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:10",
+  "End": "01:36:16",
+  "Text": "you don't care what's true anymore. You just have to leave this, the, the unpleasant feeling, the suffering"
+}

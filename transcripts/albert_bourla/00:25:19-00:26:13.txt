@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:25:19",
+  "End": "00:26:13",
+  "Text": "would say that uh I recognize what you said about what happened in uh or what, I'm, I'm sure that uh what you describe in the, in the country that you're coming from, it was how you experienced it. And I know that there are other countries that you need to do these things to do your job. Uh I don't think it's the case uh in, in this uh country, particularly when it comes to those agencies that you mentioned. think they have a very high track record. And also I don't think that there are a lot of people that they are worried about it or doubt. I'm sure like everywhere there will be a minority but the vast majority of the Americans, the vast majority of the Europeans, the vast majority of the Brits, the vast majority of the Israelis, they trust what FDA or E MA or CDC or M hr A would say"
+}

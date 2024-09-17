@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:04:27",
+  "End": "02:05:32",
+  "Text": ", it's, I mean, I think we can tack it to what we were just saying in a, in a, in a meaningful way which is whatever goes on in that abstraction part of the brain. He's figured, you know, he's figured out how to dig down in whatever the limbic friction he's figured out how to grab a hold of that, it and send it in the direction that he's decided it needs to go. And what's wild is that he's, what we're talking about is him doing that to himself, right? He's, it's like he's scuffing himself and directing himself in a particular direction himself down that trajectory. And he, what's beautiful is that he acknowledges that that process not pretty. It doesn't feel good. kind of horrible at every level. But he's created this re rewarding element to it. And I think that's what's so, it, it, it's so admirable and it's what so many people crave, which is regulation of the self at that level."
+}

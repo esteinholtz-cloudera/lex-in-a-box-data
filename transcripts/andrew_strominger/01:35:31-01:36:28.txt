@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:35:31",
+  "End": "01:36:28",
+  "Text": "we Weinberg has this book called Dreams Of a Final Theory. Yeah. I had this conversation with him. I said, why do you think um there's ever gonna be a final theory. Why should there ever be a final theory? I mean, what, what does that mean? The physics department shut down? We've solved everything. Um, and you know, what is, it? Doesn't it seem that every time we answer some old questions we, just find new ones and then it will just keep going on forever and ever. And he said, well, that's what they used to say about the Nile. They were never gonna find the end. one day they found it. So, I don't know, um string theory doesn't theory doesn't look like a candidate to me for a final theory. It,"
+}

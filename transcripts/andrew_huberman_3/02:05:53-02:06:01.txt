@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:05:53",
+  "End": "02:06:01",
+  "Text": ", you've been hanging out in West Texas. Austin's too tame for Lex. So he's like head to West Texas. Exactly."
+}

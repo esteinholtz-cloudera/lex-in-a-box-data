@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:28",
+  "End": "01:25:00",
+  "Text": ". So you're saying there might be a chasm in the two views uh power of the brain arising from the, from the circuitry that forms abstractions or the power of the brain arising from the majority of the circuitry that's just doing very brute force, dumb things that are like that don't have any fancy kind of stuff going on. That's really interesting to think"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:16:16",
+  "End": "02:16:33",
+  "Text": ". Well, first of all, Bitcoin has been attacked again many times and talk about the, you spoke about this with Nick Carter on your show. Um, sort of protocol wars or conflict or whatever. Right. And Bitcoin almost died a whole bunch of times during that and ended up surviving. Oh,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:52:09",
+  "End": "01:52:13",
+  "Text": "so much for having me. It's been an absolute pleasure. It's a great conversation."
+}

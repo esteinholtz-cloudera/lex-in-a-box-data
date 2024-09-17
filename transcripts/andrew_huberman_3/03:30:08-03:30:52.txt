@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:30:08",
+  "End": "03:30:52",
+  "Text": ", well, I want to say several things. First of all, thank you for having me on again. It's an honor and a pleasure. I don't say that formally. I'd really truly mean it. I only the Human and Lab podcast, as I always say, only exists because you gave me the suggestion and I'm so grateful that you did. thank you and for doing what you do. Like you, you are brave and you were first man in and you're just continue to do it. Just what as my postdoc advisor used to say, whatever you're doing, just keep going. And then in terms of our friendship, I mean, I think, uh you know, and if you uh If you don't, I'm gonna just keep telling you anyway, by texting in person. You're an amazing friend. Uh There's deep trust, there's immense respect and uh love you brother."
+}

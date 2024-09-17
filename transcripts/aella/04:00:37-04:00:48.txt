@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "04:00:37",
+  "End": "04:00:48",
+  "Text": ". That I wonder if you could do that. If you lived a million years, just keep yearning. Always. That's the thing. I'm probably afraid of. If I lived a million years, it's not the torture. It's like the yearning will fade. They"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:28",
+  "End": "00:53:56",
+  "Text": "it's, uh, but of course, at the time it was probably captured the imagination, when you're younger. It just catch you. But which aspect did you think of it? You mentioned cybernetics? Did you think of it as robotics or did you think of it as almost constructing artificial beings? Like is it the intelligent part that, captured your fascination? Or was it the whole thing? Like even just the limbs and"
+}

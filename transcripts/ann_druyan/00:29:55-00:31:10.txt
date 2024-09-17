@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:29:55",
+  "End": "00:31:10",
+  "Text": "certainly not essential for happiness or beauty, that's for sure. I mean, it's part of who we are if we're going to be real about it, which is, you know, I, I think we tell on ourselves, even if we don't want to be real, we, you know, I think that if you're a space faring civilization and you've gotten it together sufficiently, you can move from world to world, then think they probably took one look at this derelict spacecraft and they knew that these were people in their technological adolescence and they were just setting forth and they must have had these issues, you know. And so, you know, that's the great thing about lying is that a lie only has a shelf life. It's like a great, a work of art that's a forgery. can be fooled immediately. But 10 or 15 years, 20 years later they start to look at it. You know, they begin to realize the lens, our lens of our present is coloring everything that we see. So, know, I think it didn't matter that we didn't show our atrocities."
+}

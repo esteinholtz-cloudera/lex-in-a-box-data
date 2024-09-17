@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:14:53",
+  "End": "00:15:52",
+  "Text": "attractive to think of a mechanism where this master circadian clock secretes a peptide or something that goes and locks the receptors in all the cells and gets it just right. But that leaves far too much room for variability, binding affinities. Cells in a lot of parts of our body are at different stages of maturation, they're turning over liver cells and so forth. And for instance, our, we have a clock in our gut and in our liver that if we were just take out your liver and put it on a table and just look at the expression of these genes, it would be in a 24 hour oscillation on its own, it's independent, but something has to entrain them and keep them all synchronized. And so it's not obvious that it would be temperature. Takahashi's great gift to biology was to show that the stuff coming out of this master circadian clock at the end of the day. That's a weird statement. No pun intended at the end of the day and the night at, at the, um, at the end of the story, it all boils down to making sure that the temperature of tissues oscillates in the same fashion."
+}

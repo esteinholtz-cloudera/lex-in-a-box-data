@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:51",
+  "End": "02:10:45",
+  "Text": "not just an abstraction, it's false because he's saying there's no reason it needs to be true. no, it's not required to be true. And in fact, there's through natural selection, it's very possible to imagine, or it's likely to imagine that organism will evolve in such a way that you're going to just be lying to yourself completely. But the question there is, if that's the case, it's a really interesting thing to think about. I think the rigor with which he approaches it is really admirable in me. I, I do think it's scientific but the question for me is why is it so consistent across all of these organisms, we all seem to see the table and, and"
+}

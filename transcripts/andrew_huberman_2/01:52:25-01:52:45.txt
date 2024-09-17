@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:52:25",
+  "End": "01:52:45",
+  "Text": "we're told we need to get more of it. Whereas with psychedelics, there's this big question mark. Is it going to make everyone crazy? Is it, is it gonna be legal? I mean, it's kind of interesting how if one looks on Instagram, one could almost think that these drugs are already legal based on the way that people commute. But they're not yet. There's still a lot of them are, there's a lot of"
+}

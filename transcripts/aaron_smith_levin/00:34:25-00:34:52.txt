@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:34:25",
+  "End": "00:34:52",
+  "Text": "once married? But that's why people get married after like three days, you know, like, hey, you, you look, you look all right. Let's get married. Are you allowed to have divorce?. You get divorced a lot in the Sea org. I, I've known people who get married and divorced three times by, like by the age of 25 because in the sea or getting married is practically like dating, right? Also, unless you're married, you're living in dorms with a bunch of other people. So in order to get your own room, you also have to get married. So there's many benefits."
+}

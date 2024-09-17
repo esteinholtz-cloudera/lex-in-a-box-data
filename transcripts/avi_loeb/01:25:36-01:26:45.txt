@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:25:36",
+  "End": "01:26:45",
+  "Text": "if you put blinders on your eyes, you don't see it right? I should say that we do have Meteors that we see. These are rocks that by chance happen to collide with the earth. they, if they are small, they burn up in the atmosphere. But if they're big enough uh tens of meters or more, hundreds of meters, the outer layer burns up. But then the core of the object makes it through. this is our chance of putting our hands around an object if this meteor came from interstellar space. So one path of discovery is to search for interstellar Meteors. And with a student of mine, we actually looked through the record and we thought that we found one example of a meteor that was reported that they might have come from interstellar space. And then another approach is for example, to at the moon, the moon is different from the earth in the sense that it doesn't have an atmosphere. So objects do not burn up on their way to it. It's sort of like a museum. It collects everything that rocks"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:36:11",
+  "End": "00:36:38",
+  "Text": "the algebra even very, very basically in the algebra in some programming. I think that people that have done the machine learning course will find the deep learning specialization a bit easier, but it's also possible to jump into the deep learning specialization directly, but it will be a little bit harder since we tend to, you know, go over faster uh concepts like how this great intersect work. And what is the objective function which, which covered more slowly in the machine learning course? Could you"
+}

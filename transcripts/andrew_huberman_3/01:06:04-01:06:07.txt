@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:04",
+  "End": "01:06:07",
+  "Text": "was scared shitless with Rick Rubin. He's"
+}

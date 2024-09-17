@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:03",
+  "End": "02:13:20",
+  "Text": "would like to actually have like footage of that conversation so we can actually interpret what actually happened because it's probably, I mean, you know, the human interactions are funny like that they can, can happen for all kinds of reasons. Um Have you ever fallen in love with a client?"
+}

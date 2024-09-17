@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:46:46",
+  "End": "02:47:17",
+  "Text": "mean, I would say like, they definitely have to be a little bit more strategic than I had to be as a phd student because of the way A I is evolving, it's going the way of physics where, you know, in physics, you used to be able to do experiments on your benchtop and everything was great and you can make progress and now you have to work in like LHC or L CERN and, so A I is going in that direction as well. Um So there's certain kinds of things that's just not possible to do on the benchtop anymore. And uh I think um that didn't used to be the case at the time. Do you still"
+}

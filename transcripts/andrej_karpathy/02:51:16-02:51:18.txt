@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:16",
+  "End": "02:51:18",
+  "Text": "you think you need to touch the world to understand it"
+}

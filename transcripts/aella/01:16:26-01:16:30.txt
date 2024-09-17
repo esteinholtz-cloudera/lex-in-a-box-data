@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:26",
+  "End": "01:16:30",
+  "Text": "maybe through the survey? I mean, that's very matter, but through the survey helped them,"
+}

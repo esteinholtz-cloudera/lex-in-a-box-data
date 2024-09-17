@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:23:22",
+  "End": "02:23:28",
+  "Text": ", consciousness or obviously it is, it's the only way you can suffer"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:05:37",
+  "End": "03:05:51",
+  "Text": "this? I propose this since I got you to do the next podcast. So the folks from the plunge, uh maybe you could bring Lexa a plunge. He certainly deserves one. And, uh, we can go side by side coffin style or we can face one another."
+}

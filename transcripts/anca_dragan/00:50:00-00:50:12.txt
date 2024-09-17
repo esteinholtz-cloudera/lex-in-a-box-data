@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:00",
+  "End": "00:50:12",
+  "Text": "the thing is you're traveling at slow speeds. So it doesn't feel dangerous to me. What feels dangerous is highway speeds when everything is to us. Humans super clear."
+}

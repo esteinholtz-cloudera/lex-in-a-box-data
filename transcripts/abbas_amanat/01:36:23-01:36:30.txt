@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:36:23",
+  "End": "01:36:30",
+  "Text": "yes, 1945 to 1946 there was a big Soviet"
+}

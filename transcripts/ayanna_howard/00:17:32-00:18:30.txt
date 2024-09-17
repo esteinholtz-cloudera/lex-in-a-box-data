@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:32",
+  "End": "00:18:30",
+  "Text": "or somewhere peaceful. And, but we all what I've also seen. So just even in Boston, that intersection to intersection is different so that every intersection has a personality of its own so that certain neighborhoods of Boston are different. So we're kind of based on different timing of day at night, it's all, it's all there. There's a dynamic to human behavior that we kind of figure out ourselves. We're not be able to, we're not able to introspect and figure it out, but somehow we, our brain learns it. And so you're saying, is there a shortcut? Is there a shortcut though? For, is there something that could be done? You think that, know, that's what we humans do. It's just like bird flight, right? This the example they give for flight. Do you necessarily need to build a bird that flies or can you do an airplane? there a shortcut?"
+}

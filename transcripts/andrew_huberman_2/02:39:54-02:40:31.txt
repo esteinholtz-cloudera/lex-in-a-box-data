@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:54",
+  "End": "02:40:31",
+  "Text": "uh limit rooms to 5000. So I'm sure maxed out of 5000, there's a lot of overflow rooms. is the cool thing about Clubhouse. Really big people were on there all tuned in and having a conversation from all these different worlds, being able to connect. Even though without the niceties of arranging the meeting, you could just show up and leave, which is really nice. But the reason for my lessons from Discord, going to mostly stay away from coal. House and I think,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:06",
+  "End": "01:54:54",
+  "Text": ". I don't know. But this is the maybe you can speak to that psychedelics or not or dreams or tools in general how to be better creative. That's an interesting, I don't often see studies of this nature of like to take high performers in the mental creative space and get them to perform even better. So it's not average people, it's like masters of their craft like taking, I mean, his examples was taking an Elon Musk, which is in the engineering space and maybe musicians and all that kind of stuff and studying that. That's a, mean, that's weird. I usually the science, the scientific exploration there has been done in by the musicians themselves as has been documented"
+}

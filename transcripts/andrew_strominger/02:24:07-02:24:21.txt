@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:24:07",
+  "End": "02:24:21",
+  "Text": "was, it was a really great conversation. I really enjoyed it. You really, uh really covered a lot. I can't believe you're able to at this level on so many different topics. So, it's a pleasure."
+}

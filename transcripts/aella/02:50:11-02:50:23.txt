@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:50:11",
+  "End": "02:50:23",
+  "Text": ". Yeah, I'm doing it slowly because there's so I ask about so many questions. It's like not very anonymized. So I'm really seeing the small sections of the data at a time."
+}

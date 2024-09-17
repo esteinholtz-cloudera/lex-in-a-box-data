@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:04",
+  "End": "01:54:50",
+  "Text": "like Anchorman, the Anchorman is so good. I don't understand. Speaking of a G I, because I don't understand why Will Ferrell is so funny. It doesn't make sense, it doesn't compute. There's just something about him and he's a singular human because you don't get that many comedies days. And I wonder if it has to do about the culture, uh, or the like the Machine of Hollywood or does it have to do with just we got lucky with certain people in comedy that came together because he is a singular human. was a ridiculous tangent. I apologize. But you mentioned human or robots. So what do you think about optimists, about Tesla bot? Do you think we'll have robots in the factory? In, in, in the home, in 1020 30 40 50 years?"
+}

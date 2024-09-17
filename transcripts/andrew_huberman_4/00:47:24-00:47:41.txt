@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:47:24",
+  "End": "00:47:41",
+  "Text": ". He sells edibles that are in the shape of ears with a little bite out of it. Um Yeah, that his, his life has been incredible. He's um uh and I me, yeah, he, he, his family, you get the sense that they're really a great family. They're really um"
+}

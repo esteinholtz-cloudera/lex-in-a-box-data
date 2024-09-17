@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:12",
+  "End": "03:23:47",
+  "Text": ". I think you mentioned, I think you mentioned something also must have been a tweet or something like that where if you if people want you to show up to a thing, like the time, the location, the dress code not no pressure for you to be there, but like show up if you want that was your specifications, it's a great memory. Yeah. And then I think you said that you did that for, like, some castle in south, south of France. It"
+}

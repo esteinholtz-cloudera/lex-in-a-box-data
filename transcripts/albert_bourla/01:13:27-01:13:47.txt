@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:27",
+  "End": "01:13:47",
+  "Text": "always creating something new. Always adding something beautiful into the world. Maybe a little bit of love., Albert, thank you so much. It's a huge honor that uh you go through some of these difficult questions with me today and then you give you extremely valuable time for this conversation. Thank you so much for talking today. Thank"
+}

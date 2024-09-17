@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:09:14",
+  "End": "01:09:26",
+  "Text": ". Yeah. I mean, I'm happy to have a talk about consciousness, but it's a, it's a scary talk and I, I think most people don't want to hear what I have to say, which is, you know, which is uh we can save that for later. Perhaps"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:40",
+  "End": "01:05:45",
+  "Text": "then they'll, they'll not just kill, they'll like do large scale infiltration."
+}

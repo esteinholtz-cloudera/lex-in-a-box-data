@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:06",
+  "End": "00:25:26",
+  "Text": ". To me. I apologize. It probably revealed my stupidity, but it was surprising to me that so few interstellar objects from outside this whole system have ever been detected or no, none, has been. You do well, maybe talk about it that there has been one or two rocks since then."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:02",
+  "End": "00:33:04",
+  "Text": ". Disagreement keeps us sane to jump back an entire generation of A I researchers. 2001 A space Odyssey put an image, the idea of human level, super human level intelligence into their mind. you ever sort of jumping back to ex mach and talk a little bit about that? Do you ever consider the audience of people who you, build the systems, the roboticist, the scientists that build the systems based on the stories you create, I would argue, I mean, there's literally most of the top researchers about 4050 years old. And plus, you know, that's their favorite movie, 2001 Space Odyssey. And it really is in their work, their idea of what ethics is, of what is the target, the hope, the dangers of A I. Is that movie? Do you ever consider the impact on those researchers when you create the work? You do?"
+}

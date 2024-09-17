@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:58:15",
+  "End": "00:59:59",
+  "Text": ", I would have to say every single thing I've learned is beautiful. And one of the motivators for me is that I think that people not to see thinking as being essentially poetic and lyrical. But, but I think that is literally exactly what it is. And I think the idea of entanglement or the idea of superposition or the fact that you could even demonstrate a superposition or have a machine that relies on the existence of superposition in order to function to me is, is almost indescribably beautiful. I it, it, it it fills me with awe, it fills me with awe. And also it's not, it's not just a sort of grand massive awe of, but it's also delicate, it's very, very delicate and subtle and uh has these beautiful sort of nuances in it and also these completely paradigm changing thoughts and truths. So so it's it's as good as it gets as far as I can tell. So, so, so broadly, everything that doesn't mean I believe everything I read in quantum physics because because obviously a lot of the interpretations are completely in conflict with each other and um who knows whether string theory will turn out to be a good description or not. But but the beauty in it, it seems undeniable and, I do wish people readily understood how beautiful and poetic science is. would say"
+}

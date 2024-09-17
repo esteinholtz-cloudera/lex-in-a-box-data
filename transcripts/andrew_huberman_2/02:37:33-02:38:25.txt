@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:37:33",
+  "End": "02:38:25",
+  "Text": ", there, there's definitely something there, one thing that comes to mind is when like in Clubhouse you have your little icon. So they don't actually you don't see your face moving. I think when people see their own image, it puts them in a state of self consciousness that is eliminated by just having an icon or an avatar. So like Zoom is dreadful because if I'm not used to talking to people and seeing a little image of myself staring back at me in the mirror and just, I know there are ways that you can adjust that, but it's really awful. And I think that when I get on Zooms now I say hello and then I shut down the video component and then I just talk in the end, I come back on just to show that still there. It's still me. But I think that voice only is really interesting. Eddie Chang will be an interesting person to talk to about this because he understands so much about how inflection communicates emotionality and deeper state. But"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:02",
+  "End": "02:45:41",
+  "Text": "mean, he's just had a very systematic way of describing things that was really nice, know, um skill speed, power, strength, hypotrophy, so muscle mass, right? Endurance, all kinds of and then the philosophical of adaptation of how to overload stuff. All that is there stuff I'll ask you about ice bath and sauna, which was surprising to me there is there stuff you took away from that conversation principles uh about how to get strong, how to build muscle mass like broaden and deepen your understanding of that"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:07:32",
+  "End": "00:07:43",
+  "Text": ", definitely some kind of a generative model that's a GP T like and prompted by you. Um So you're giving me a prompt and I'm kind of like responding to it in a generative way and by"
+}

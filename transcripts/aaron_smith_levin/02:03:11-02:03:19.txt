@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:11",
+  "End": "02:03:19",
+  "Text": "you describe the dynamics of that how that actually happens? Like, like why, why would, why would the police department work on behalf of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:47",
+  "End": "00:18:53",
+  "Text": ", let me ask the romantic question. When did you first fall in love with the cooking?"
+}

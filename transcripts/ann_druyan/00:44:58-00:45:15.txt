@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:44:58",
+  "End": "00:45:15",
+  "Text": "I think both of those things, sorry to interrupt. Both of those things are given what cosmos represents, the legacy of it. And the legacy of Crossing is essential control, in the modern world. It's, it's wonderful that you sought control, that you did not relinquish"
+}

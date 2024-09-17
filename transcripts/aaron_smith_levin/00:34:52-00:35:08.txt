@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:52",
+  "End": "00:35:08",
+  "Text": ", wow. OK. So uh you mentioned communism in which way? Because there is there a hierarchy inside Sea org? Is there a redistribution of uh position? Money power? Is that Sea org? Everyone"
+}

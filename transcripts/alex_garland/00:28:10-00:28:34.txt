@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:10",
+  "End": "00:28:34",
+  "Text": ". But so the thought is, but I don't have money. So my thought is if you give me a billion dollars, I would, it would change nothing and I would spend it right away on, on investing it right back and creating a good world. But your intuition is that billion. There's something about that money that's maybe slow the people around you. There's somebody gets in that corrupts your soul the way you view"
+}

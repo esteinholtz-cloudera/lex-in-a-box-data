@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:16",
+  "End": "01:56:28",
+  "Text": ", I think you have article, the data is not enough from quite a few years ago where we talk, you know, we can go back to the seventies and eighties, but we can go also to the Mayan civilization,"
+}

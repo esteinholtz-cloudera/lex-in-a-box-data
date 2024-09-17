@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:32:34",
+  "End": "02:32:40",
+  "Text": "little copilot will make off by one subtle bugs. It has done that to me. But do you think"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:09:03",
+  "End": "02:09:36",
+  "Text": ", maybe, maybe not. I don't see it as like a fundamental really important part of like training neural nets currently. Uh But I think uh as neural nets become more and more powerful, I think you will need fewer examples to train additional behaviors. And uh simulation is, of course, there's a domain gap in a simulation that's not the real world, it's slightly something different. uh with a powerful enough neural net, uh you need um the domain gap can be bigger, I think because neural net will sort of understand that even though it's not the real world, it like has all this high level structure that I'm supposed to be able to learn from. So"
+}

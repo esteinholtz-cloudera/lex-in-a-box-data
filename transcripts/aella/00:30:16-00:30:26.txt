@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:16",
+  "End": "00:30:26",
+  "Text": "it sounds like you're driving towards the narrative. You did a poll about men and women and dreams. There was some kind of difference. I couldn't tell what the difference was except that more men than women. Quite a"
+}

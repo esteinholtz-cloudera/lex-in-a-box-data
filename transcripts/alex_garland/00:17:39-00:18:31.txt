@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:39",
+  "End": "00:18:31",
+  "Text": "best, it plans something it's hard to describe, but it inspires next generation and it could be field dependent. So your new series has more a connection to physics, quantum physics, quantum mechanics, quantum computing and yet ex Machin has more artificial intelligence. I know more about A I my sense that A I is much, earlier in its the depth of its understanding. I would argue nobody understands anything the depth that physicists do about physics in A I, nobody understands A I that there is a lot of importance and role for imagination which I think, you know, we're in that where Freud imagine the subconscious we're in that stage of uh of A I where there's a lot of imagination needed thinking outside the box."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:45:45",
+  "End": "02:46:13",
+  "Text": ", going back to back propagation loss functions where they come from? And one thing I like about teaching a lot honestly, is it definitely strengthens your understanding. So it's not a purely altruistic activity. It's a way to learn if you have to explain something to someone, uh you realize you have gaps in knowledge. Uh And so I even surprised myself in those lectures, like, also the result will obviously look at this and then the result doesn't look like it. And I'm like, OK, I thought I understood this,"
+}

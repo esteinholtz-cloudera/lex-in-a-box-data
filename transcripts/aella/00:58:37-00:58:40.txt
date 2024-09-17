@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:37",
+  "End": "00:58:40",
+  "Text": "is, what is camming? What is being a"
+}

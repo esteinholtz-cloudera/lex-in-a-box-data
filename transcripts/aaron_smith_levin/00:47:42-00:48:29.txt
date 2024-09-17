@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:42",
+  "End": "00:48:29",
+  "Text": "before the origin of life on earth or so billions of years ago on a distant planet where you were eating for breakfast or other universes. I wonder if this is a nice shortcut sneak up to actual trauma that happened to you as a therapy device. I just f so putting psychology aside is just, I'm thinking about as a technique for therapy, discussing basically, you know, some people have trauma and one of the things you do with therapy is like bringing the trauma to the surface, that's the stuff that happened to your childhood. Maybe it's a more convenient thing to do kind of map that indirectly onto a fictitious telling of what happened to you. Something like that trauma on a distant planet elsewhere could be a nice way to sneak up"
+}

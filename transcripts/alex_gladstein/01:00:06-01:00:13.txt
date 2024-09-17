@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:00:06",
+  "End": "01:00:13",
+  "Text": "you trust in the basic intelligence of people to figure this out and to innovate and so on and, and figure out"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:22:24",
+  "End": "01:23:02",
+  "Text": ", I don't know, to me Blockchain or time chain, whatever as philosophically, it's a pretty beautiful idea. I mean, it's pretty simple but it's nevertheless as beautiful from a I'm a big database person. It's an interesting way to store information especially, that's totally publicly accessible. It's um I know that to Bitcoin, proof of work is the fundamental idea. But to Cryptocurrency and digital money in general and to money, the Blockchain is a really interesting idea. To me the way I think about it is it's kind of, you know, physics and I like that there's a place that you can rely on that's very difficult to mess"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:26:52",
+  "End": "02:27:07",
+  "Text": "like, excessively communicate, even if it feels stupid. Like this is, I feel like a cliche. I feel like a stupid therapist training video. Like I just feel ridiculous sometimes when I'm saying the things, but it's just, it's, I've learned over time. It's just important to just say the things because like, you"
+}

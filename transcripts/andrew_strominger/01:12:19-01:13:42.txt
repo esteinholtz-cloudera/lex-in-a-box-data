@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:12:19",
+  "End": "01:13:42",
+  "Text": ". So what, what Hawking and I showed and also Malcolm Perry, um that, um one has to be very careful about what happens at the boundary of the black hole. this gets back to something I mentioned earlier about when two things which are related by a coordinate transformation are and are not equivalent. um what we showed is that there are very subtle imprints. When you throw something into a black hole, are very subtle imprints left on the horizon of the black hole which you can read off at least partially what went in. um so this uh Steven's original uh argument that the information is destroyed and that's the soft hair, that's the soft hair, right? So and soft is the word that is used in physics for things which have very low energy and these things actually carry no energy. There are things in the universe which carry no energy. You"
+}

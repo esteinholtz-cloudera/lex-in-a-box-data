@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:54:16",
+  "End": "00:54:45",
+  "Text": "would say human, like not human noid, right? And when I say human, like I think it's this aspect of that interaction, whether it's social and it's like a dog, right? That's human. Like because it understands us, it interacts with us at that very social level. Um to human noises are part of that, but only if they interact with us as if we are human"
+}

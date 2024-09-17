@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:04:14",
+  "End": "02:04:18",
+  "Text": "know if it's low level, he's high performance, high"
+}

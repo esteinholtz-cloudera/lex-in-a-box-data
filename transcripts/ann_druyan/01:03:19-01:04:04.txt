@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:03:19",
+  "End": "01:04:04",
+  "Text": "chemistry. Yes. Geochemistry, geophysics. Absolutely. Um, you know, it makes perfect sense to me and it doesn't make it any less wondrous, it doesn't rob it all of wonder of it. And so, yeah, I think that's amazing. I think, you know, we tell the story of someone you have never heard of. I guarantee. And I think you're very knowledgeable on the subject who was more responsible for our ability to venture out to other worlds than anyone else and who was completely forgotten. so those are the kinds of stories I like best for cosmos because"
+}

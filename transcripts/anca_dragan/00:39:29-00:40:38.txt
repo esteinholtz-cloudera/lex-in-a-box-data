@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:39:29",
+  "End": "00:40:38",
+  "Text": "you two thoughts. One is, it's we respond to someone being assertive, but we also respond um someone being vulnerable. So I think robots with my first thought is that robots get shoved around and bullied a lot, um, because they're sort of tempting and they're sort of showing off or they appear to be showing off. And so I think going back to these things we were talking about in the beginning of making robots a little more, a little more expressive, a little bit more like, uh, that wasn't cool to do and now I'm bummed.. Um, I think that that can actually help because people can't help but anthropomorphize and respond to that even that though the emotion being communicated is not in any way, a real thing. And people know that it's not a real thing because they know it's just a machine. We're still we watch, there's this famous psychology experiment with little triangles kind of dots on a screen and a triangle is chasing the square and you get really angry at the darn triangle because why is it not leaving the square alone? So that's, yeah, we can't help. That was the first thought,"
+}

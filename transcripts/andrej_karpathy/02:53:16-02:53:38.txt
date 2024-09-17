@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:53:16",
+  "End": "02:53:38",
+  "Text": "think all we have available to us because no one has built a G I again. So all we have available to us is uh is there enough fertile ground on the periphery? I would say yes. And we have the progress so far which has been very rapid and uh there are next steps that are available. And so would say uh yeah, it's quite likely that we'll be interacting with digital entities."
+}

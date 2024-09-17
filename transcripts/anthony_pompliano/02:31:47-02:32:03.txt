@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:47",
+  "End": "02:32:03",
+  "Text": "a big fu to the sec. I could see the people just freaking out. I mean, I love it but I don't know if I would have the guts to do it myself. But I think he's an inspiration to a lot of us to be like, well, maybe you should grow the"
+}

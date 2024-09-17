@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:48:32",
+  "End": "01:48:37",
+  "Text": ". Well, I mean, escorting is kind of also selling products on Etsy,"
+}

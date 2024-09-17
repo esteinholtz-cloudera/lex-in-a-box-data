@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:10:52",
+  "End": "00:11:47",
+  "Text": "would say I'm definitely on, I'm much more hesitant with the analogies to the brain than I think you would see potentially in the field. Um And I kind of feel like the way neural network started is everything stemmed from inspiration of the brain by the brain. But at the end of the day, the artifacts that you get after training uh they are arrived at by a very different optimization process than the optimization process that gave fire to the brain. And so I think uh kind of think of it as a very complicated alien artifact. Um It's something different. I'm sorry, the the neural that we're training, they are complicated uh alien artifact. I do not make analogies to the brain because I think the optimization process that gave rise to it is very different from the brain. So there was no multi agent self play kind of setup. And evolution, it was an optimization that is basically a what amounts to a compression objective on a massive amount of data."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:25",
+  "End": "01:56:34",
+  "Text": ". Yes, I mean, but I love the haters too, but I don't know. It, it makes me nervous because Jordan Peterson is currently on tour. I got a chance to hang out with him. He"
+}

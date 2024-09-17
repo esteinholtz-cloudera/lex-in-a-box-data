@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:25:16",
+  "End": "01:26:20",
+  "Text": ", I think, you know, people have been worried about NASA the last few years because in some people's minds, they are seeing ground these commercial efforts, but that's really, that's really not what's happening. NAS A empowered these commercial efforts because they want to free themselves up to go to Mars and go to Europa and continue being that really aspirational force for humanity of pushing boundary, always pushing the boundary. And if they were anchored in low earth orbit, maintaining a space station indefinitely, that's so much a part of their budget that it was keeping them from being able to do more. So it actually is really fantastic for NASA to have grown this commercial ecosystem and then that frees NASA up to go further. And in academia, we like to think that we will be able to do the provocative next generation research is going to unlock things at that frontier. And we can partner with NASA, we can go through a program if we want to send a probe out really far. But we can also partner with SpaceX and see what human life in a SpaceX Mars settlement might look like and how we could design for that."
+}

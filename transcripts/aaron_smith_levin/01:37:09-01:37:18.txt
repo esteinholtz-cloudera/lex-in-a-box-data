@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:09",
+  "End": "01:37:18",
+  "Text": "there a good, I mean, it's very difficult to get to this number. But is there a good estimate of what the current number of scientologists are practicing scientologist"
+}

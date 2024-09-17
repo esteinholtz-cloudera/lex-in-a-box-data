@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:02:20",
+  "End": "01:02:56",
+  "Text": ", I mean, I'm not saying it was a totally clean thing. I'm sure that I was experiencing society telling me this is bad. But you have to know I wasn't watching normal movies when I was a teen. we watched Christian movies are, are the stuff that we watched was filtered. Like I watched the Titanic and I had no idea that Jack and Rose had sex because it was put through a filtered. Yeah, they went and, you know, he painted her naked and there's a scene in a car the ship, they had like cars and storage and there's a hand, I watched it again later and I was like, well, maybe. Were you also put through a, maybe,"
+}

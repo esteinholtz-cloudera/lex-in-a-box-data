@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:11:57",
+  "End": "01:12:10",
+  "Text": "have admittedly I have not been taking the classes, but I'm going to, I truly am. Um especially there's a small chance I might find myself in Austin a bit more often in the, in the near future. But the, well,"
+}

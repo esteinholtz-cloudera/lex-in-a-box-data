@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:44",
+  "End": "03:10:02",
+  "Text": "started with hope. We ended with hope. This was a real honor. This is an incredible conversation. Thank you for Thank you for giving such a deep and wide story of this great nation, one of the great nations in history."
+}

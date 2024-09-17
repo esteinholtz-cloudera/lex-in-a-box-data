@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:22:46",
+  "End": "01:23:16",
+  "Text": ". The one that you, you, uh, you have to laugh at. Right. Probably my favorite one out of all of it is I've seen on multiple occasions, uh, you know, Mark Cuban a couple of years ago, Kevin o'leary, whoever, you know, wealthy people, billionaires, et cetera. And you have people on anonymous accounts who, who knows who they are telling them, have fun staying poor, right? just, you know, it's just again part of a community and I think it's a, it's a feature, not a bug, there's bad aspects to it at times, but I do think it's a net positive"
+}

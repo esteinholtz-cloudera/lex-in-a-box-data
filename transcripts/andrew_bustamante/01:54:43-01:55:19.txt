@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:43",
+  "End": "01:55:19",
+  "Text": ", that's true. That, that there is a physical component but I think deeper because there's a technical aspect to that. That's just like, um, it's less about feel but I do know JJ, you know, and grappling I've done all my life. I don't, know, there's some people who are clumsy and they drop stuff all the time, they run into stuff. I don't, I don't, first of all, I don't know how that happens. But to me I just have an awareness of stuff, like, if there's a little orientation. Yeah, I know that there's a small object. I have to step over and I have a good sense of that. It's so interesting. Yeah. You're just born"
+}

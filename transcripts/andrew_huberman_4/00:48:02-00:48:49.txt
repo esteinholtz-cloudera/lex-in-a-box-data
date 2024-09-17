@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:02",
+  "End": "00:48:49",
+  "Text": "of Shakespeare, I've recently gotten to know Mary Oxman, who's this incredible uh scientist that works at the intersection of Nature and Engineering. And reminded me of this Anna Amato line. This is this great Soviet poet that I really love from over a century ago, that each of our lives is a Shakespearean drama. Raced to the 1000 degree. So I have to ask, why do you think humans are attracted to kind of Shakespearean drama? there some aspect we've been talking about the subconscious mind that pulls us towards the drama even though the place of mental health is peace."
+}

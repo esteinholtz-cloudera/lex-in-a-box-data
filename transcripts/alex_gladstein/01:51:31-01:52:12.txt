@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:51:31",
+  "End": "01:52:12",
+  "Text": "all sort of built on lightning. But the idea you can think about it is like, you're slowly starting to build up the idea of a wechat but with freedom principles because right now wechat is like the king of convenience and comfort, but of course, it's feeding all that data to the Big Brother and the surveillance state. And then we have like our own versions over here in America that are not quite as convenient or amazing. But like we, we give up slightly less, you know, privacy and freedom. But this thing has a lot of promising features to it. It's worth checking out. It's very, like, early days, like it feels like, mean, I was pretty young but it feels like the nineties in the internet. It has that feeling. Yeah. You know, it's rough around the edges but you can feel the magic. It's pretty cool. I'm"
+}

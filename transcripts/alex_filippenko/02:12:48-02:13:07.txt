@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:48",
+  "End": "02:13:07",
+  "Text": ". I like that. But you know, with cars, the headlights are all, some variation there's but, but uh they're somewhat similar. So you can make those kinds of conclusions. What uh how much variation is there between supernova that you can that can you detect them,"
+}

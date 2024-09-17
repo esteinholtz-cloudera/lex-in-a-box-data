@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:58:50",
+  "End": "01:59:51",
+  "Text": ", they, they recognize teams. And so in fact, both teams in the accelerating universe were recognized with the Breakthrough Prize in 2015. Nevertheless, the same three people Reese Perlmutter and Schmidt the red carpet rolled out for them and were at the big ceremony and shared half of the prize money and the rest of us, roughly 50 shared the other half and didn't get to go to the ceremony. So, but II, I feel for them, I mean, for the gravitational waves, it was 1000 people. What are they going to do? Invite everyone for the Higgs particle. It was 6 to 8000 physics engineers. In fact, because of the whole issue of who gets it experimentally, that discovery still has not been recognized, right? The theoretical work by Peter Higgs and uh Angla got recognized, but there was a troika of other people who perhaps wrote the most complete paper and they were, they were left out um another guy died, you know, and that's,"
+}

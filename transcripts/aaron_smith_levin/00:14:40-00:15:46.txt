@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:40",
+  "End": "00:15:46",
+  "Text": "can't use that as an excuse for everything would like to, you know, non jokingly steel man the case because a lot of philosophies, a lot of religions, a lot of even scientific endeavors are a little bit full of uncertainty. You can call it bullshit, but you're on sturdy ground because we're surrounded by mystery and you have to take these ideas seriously and see where those ideas go wrong. This happens with communism, this happens with capitalism. These ideas sound beautiful in their ideal forms and then they somehow go wrong and some go more wrong than others. And so I don't think it's easy to of caricature and make fun of the ideas. I think if we take them seriously, you'll start to understand like when you're in it, it was serious, it can be very convincing. The devil is going to be a charismatic person. He's not going to be a caricature, a ridiculous person. So that helps us understand which ideas will sound appealing but will become dangerous. I"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:43",
+  "End": "02:02:48",
+  "Text": ", that's, that's actually makes me sad about humans or the current, ways that humans interact. I think that's actually fixable. I think humans want to be good to each other. I think Twitter and social media is part of the mechanism that actually somehow makes the negativity more viral that it doesn't deserve disproportionately add a viral boost of negativity. But I wish people would just get excited about so suppress some of the jealousy, some of the ego and just get excited for others. And then a karma aspect to that you get excited for others, they'll get excited for you. Same thing in academia. If you're not careful, there is like a dynamical system there. If you, if you think of in silos and get jealous of somebody else being successful that actually perhaps counterintuitively leads to less productivity of you as a community. And you individually, I feel like if you keep celebrating others actually makes you more successful, I think people haven't in depending on the industry, haven't quite learned that yet."
+}

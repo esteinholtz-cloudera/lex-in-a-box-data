@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:16",
+  "End": "00:36:23",
+  "Text": "of suggest that you explicitly try to form this into a memory and then you could do the replay training for"
+}

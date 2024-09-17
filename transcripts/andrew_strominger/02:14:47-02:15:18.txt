@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:47",
+  "End": "02:15:18",
+  "Text": "mean, to me, it's super interesting to think about aliens from a perspective of physics because so any intelligence civilization is going to be contending with the ideas, but just trying to understand the world around it. I think that the, I think that the universe is filled with alien civilizations. So they all have their physicists, right? They all have their, they're all trying to understand the world around them. And it's just interesting to me to imagine all these different perspectives, all these different Einsteins, like trying to make"
+}

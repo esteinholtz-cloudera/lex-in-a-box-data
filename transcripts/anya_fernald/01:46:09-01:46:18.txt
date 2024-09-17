@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:09",
+  "End": "01:46:18",
+  "Text": "trying to understand the thing you're curious about and allowing yourself to be curious about it and just going with it and also"
+}

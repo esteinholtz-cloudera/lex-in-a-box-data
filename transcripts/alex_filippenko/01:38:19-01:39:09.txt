@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:38:19",
+  "End": "01:39:09",
+  "Text": ", it, it expands exponentially. That's what the inflation theory is all about. Indeed, at your home institution, Alan Guth is one of the originators of the whole inflationary universe idea along with Andre Linde at, at Stanford University here in the Bay Area and others, Alexei Starobin Sy and others had similar sorts of ideas. But an exponentially expanding universe, if you actually try to make this measurement, you, you send light out to try to see it curve back around and, and hit you in the back of the head. If it's an exponentially expanding universe, the amount of space remaining to be traversed is always a bigger and bigger quantity. So you'll never get there from here. You'll never, you'll, you'll never reach the back of your head. So observationally or operationally, it can be thought of as being inflamed."
+}

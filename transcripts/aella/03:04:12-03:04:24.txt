@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:04:12",
+  "End": "03:04:24",
+  "Text": "is it not popularly like there seems to be a negative connotation to LSD because like it seems to potentially have like a destructive effect, like maybe dosage is more difficult to get right or something like"
+}

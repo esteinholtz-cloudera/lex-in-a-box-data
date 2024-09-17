@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:41:10",
+  "End": "02:41:12",
+  "Text": "meaning of life."
+}

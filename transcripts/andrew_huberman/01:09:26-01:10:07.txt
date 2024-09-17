@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:26",
+  "End": "01:10:07",
+  "Text": "an interesting question of uh we talk about psychedelics, we can talk about consciousness, we can talk about cognition. Can in neuroscience be constructed to shed any kind of light on these questions. So I mean, it's cool that vision, I mean to me, vision is probably one of the most beautiful things about human beings. Also from the A I side computer vision has some of the most exciting applications of neural networks is in computer vision. But it feels like that's a, that's a neighbor of cognition and consciousness. It's just that we maybe haven't come up with experiments to study those yet. Yeah, the"
+}

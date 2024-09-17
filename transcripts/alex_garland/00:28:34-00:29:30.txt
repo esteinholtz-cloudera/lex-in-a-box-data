@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:28:34",
+  "End": "00:29:30",
+  "Text": "world. Money does corrupt. We know that, but there's a different sort of problem aside from just the money corrupts, you know, that we're familiar with in, throughout history. Um And it's, it's more about the sense of reinforcement an individual gets, which is so it, it, it effectively works like, um the reason I earned all this money and so much more money than anyone else is because I'm very gifted, I'm actually a bit smarter than they are or I'm a lot smarter than they are. And I can see the future in the way they can't. And maybe some of those people are not smart, they're very lucky or they're very talented entrepreneurs and there's a difference between, so in other words, the, the acquisition of the money and power can suddenly start to feel like evidence of virtue and it's not evidence of virtue. It might be evidence of completely different things. It's"
+}

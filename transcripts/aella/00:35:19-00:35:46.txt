@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:19",
+  "End": "00:35:46",
+  "Text": ", I mean, there's, it's like with Uber, like, it would be probably more convenient to do certain things. even then,, the struggle, like, I got a flat tire so I have to fix that. I kind of the, the flat tire makes, everything more beautiful. It was like, cool. I could do like a normal manual thing but also it makes you, like, appreciate your car, appreciate transportation, appreciate the convenience, the transportation, all of it."
+}

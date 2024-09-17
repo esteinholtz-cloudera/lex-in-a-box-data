@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:45",
+  "End": "00:34:21",
+  "Text": "cracks or escapes the intended consequences of the physics that the universe came up with. We'll figure out some kind of shortcut to some weirdness. And then, but see the problem with that weirdness is the first person to discover the weirdness like sliding on the back legs. all we're going to do. It's very quickly because everybody does that thing. So the paper clip Maximizer is a ridiculous idea. But that very well could be what? Then we'll just, we'll just all switch that because it's so fun."
+}

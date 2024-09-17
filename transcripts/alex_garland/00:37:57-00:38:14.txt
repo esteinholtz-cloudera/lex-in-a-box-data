@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:57",
+  "End": "00:38:14",
+  "Text": "if we, if we just to linger a little, a little bit longer on Hal and Eva, do you think in terms of motivation? was Hal's motivation? Is Hal, good or evil is Eva good or evil,"
+}

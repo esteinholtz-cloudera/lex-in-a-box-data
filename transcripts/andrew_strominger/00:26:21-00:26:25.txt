@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:21",
+  "End": "00:26:25",
+  "Text": "to you, the edges of the theory are wonderful, the failures"
+}

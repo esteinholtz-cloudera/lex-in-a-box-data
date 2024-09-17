@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:56",
+  "End": "01:07:43",
+  "Text": "if uh Sam Harris is right, that free will is an illusion. This is really interesting to think about. Maybe uh time is a kind of Blockchain because you can't change anything. then the physical space time of the universe is a ledger. So maybe uh it won't be Bitcoin that replaces gold, maybe it'll be time once we crack open that, in fact, the universe is fully deterministic. So maybe that's what like Eric Weinstein is afraid of. Once you figure out the theories of everything of physics, we'll be able to then start trading, a market out of like the very fabric of reality. that way break it. Well, if"
+}

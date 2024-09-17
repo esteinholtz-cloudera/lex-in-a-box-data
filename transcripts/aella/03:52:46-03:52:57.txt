@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:52:46",
+  "End": "03:52:57",
+  "Text": "into the wall. Yeah, I think once as soon as we get like some sort of empathetic expression on robot face, it's over. Be like, oh, it's so cute. It's going to be so easy to make it cute too"
+}

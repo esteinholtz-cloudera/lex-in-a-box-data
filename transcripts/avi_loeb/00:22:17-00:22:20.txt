@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:22:17",
+  "End": "00:22:20",
+  "Text": "who cares? I mean, we don't know, I care"
+}

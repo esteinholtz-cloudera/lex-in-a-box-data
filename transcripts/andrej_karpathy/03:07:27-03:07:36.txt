@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:07:27",
+  "End": "03:07:36",
+  "Text": "humanity uh destroys itself or destroys, you know, 90% of people that would be because of nukes. I"
+}

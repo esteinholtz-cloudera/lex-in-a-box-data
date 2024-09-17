@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:42:22",
+  "End": "00:43:23",
+  "Text": "look in the last four years, the last three years. Do you remember what happened in Hong Kong? Right before COVID swooped into Hong Kong violently protesters, killing them in the street and prisoning people without just without just cause. And Hong Kong was a democracy the whole world stood by and let it happen. And then what happened in Afghanistan just a year ago? And the whole world stood by and let the Taliban take power again after 20 years of loss. This, we are showing a repeatable of view. We will talk American politicians, American administrations. We will say a lot of things. We will promise a lot of ideological pro democracy ra ra statements, we will say it. But when it comes down to putting our own people, our own economy, our own GDP at risk, step away from that fight,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:44:56",
+  "End": "02:45:18",
+  "Text": "people should definitely go watch your new stuff you put out there are lectures where you're actually building the thing from, like you said, the code is truth. So discussing uh back propagation by building it by looking through and just the whole thing. So how difficult is that to prepare for? I think that's a really powerful way to teach. How did you have to prepare for that? Or are you just live thinking through it?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:05",
+  "End": "01:03:25",
+  "Text": "was a Google engineer that claimed that the lambda was sent. Do you think there's any inkling of truth what he felt? And more importantly, to me, at least, do you think language models will achieve sentience or the illusion of sentience soonish?"
+}

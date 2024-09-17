@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:30:31",
+  "End": "00:30:53",
+  "Text": ", I mean, it's the interesting thing about evil, which is that I think most people who do spectacularly evil things think themselves, they're doing really good things that they're not there thinking I am a sort of incarnation of Satan, they're thinking um, I've seen a way to fix the world and everyone else is wrong. Here I go."
+}

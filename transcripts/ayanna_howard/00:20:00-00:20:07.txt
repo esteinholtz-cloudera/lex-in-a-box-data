@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:20:00",
+  "End": "00:20:07",
+  "Text": "is legal law liability, which I don't really want to touch, but it's still, it's still of"
+}

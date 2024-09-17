@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:28",
+  "End": "01:56:34",
+  "Text": "not used to an object that bends light like that. So you're gonna get some trippy effects"
+}

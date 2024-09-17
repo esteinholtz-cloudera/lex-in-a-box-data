@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:21",
+  "End": "00:54:41",
+  "Text": "giving anything away. But um series begins with the use of quantum computers. The new series does, begins with the use of quantum computers to simulate basic living organisms. Or actually, I don't know if it's quantum computers they used, but uh basic living organisms are simulated on a screen. It's a really cool kind of"
+}

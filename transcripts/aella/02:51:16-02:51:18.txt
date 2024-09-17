@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:51:16",
+  "End": "02:51:18",
+  "Text": "think it's the first time I've heard that."
+}

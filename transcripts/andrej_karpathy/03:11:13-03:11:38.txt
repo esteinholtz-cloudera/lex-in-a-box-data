@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:11:13",
+  "End": "03:11:38",
+  "Text": ". I mean, to be clear, I think what's interesting about the future is um it's not that I kind of feel like variance in the human condition grows. That's the primary thing that's changing. It's not as much the mean of the distribution is like the variance of it. So there will probably be people on Mars and there will be people in VR and there are people here on earth. It's just like there will be so many more ways of being. so I kind of feel like I see it as like a spreading out of a human experience."
+}

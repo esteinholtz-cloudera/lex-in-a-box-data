@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:09:54",
+  "End": "00:09:58",
+  "Text": "was in 2006, about five years"
+}

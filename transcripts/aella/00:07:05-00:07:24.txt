@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:07:05",
+  "End": "00:07:24",
+  "Text": "like part I was just thinking of on the drive over because I was like, I'm like a little nervous about doing this podcast and then I was like feeling into the unpleasantness of it. Like the, like the fear of what if something goes terribly wrong and then I was also feeling into like, how much that feels like part of why it's exciting. Like, I knew that it was going to go great, I don't know."
+}

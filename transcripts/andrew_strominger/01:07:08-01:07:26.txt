@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:07:08",
+  "End": "01:07:26",
+  "Text": "Hawking radiation comes in. And that problem of how the information gets in and out you can't, you couldn't have explained how information gets in and out of an iphone without first explaining it's stored in the first place."
+}

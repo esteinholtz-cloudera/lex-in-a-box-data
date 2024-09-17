@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:40:51",
+  "End": "02:41:44",
+  "Text": "interesting. They sort of going back to the podcast or earlier. We were talking about books or creating a technology. thing that's absolutely clear is that anything that's easy to reproduce is probably not worth much effort and time, right? I mean, most posts be easily reproduced, you just repost them. So, and now there are some original posts that for which the attribution goes to the original person. It's clear it came from you, anything that can be easily reproduced is doesn't really expand us very much as individuals or as groups. And most of what I see on social media is stuff that is, is purely reproduced. But think Clubhouse, I mean, it could be that some real magic emerges on there."
+}

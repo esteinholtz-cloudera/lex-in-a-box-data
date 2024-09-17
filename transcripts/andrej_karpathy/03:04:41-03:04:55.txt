@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:04:41",
+  "End": "03:04:55",
+  "Text": ", I just, I really like this, uh, tortured genius sort of character who's like grappling with whether or not he has like, any responsibility or like what to do with this gift that he was given or like how to think about the whole thing. And"
+}

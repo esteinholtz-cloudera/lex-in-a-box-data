@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:40",
+  "End": "00:52:15",
+  "Text": ". And then there's an interesting dynamic because there's, I don't know, maybe you can correct me but there's a, that's very meta, there's usually a lead in the follow, I guess most dancers have that. Yeah. And so that, both have a different, like you both have to be quite sensitive to the other human being. But in a different way. Yeah, it's interesting. Yes. So I like both that. There is that definitive role but also,, it's not somehow that one is better than the other. There's an interesting tension between the two."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:22",
+  "End": "00:50:37",
+  "Text": "it's trained on the data from the internet. What do you think about this approach in terms of data sets of using data from the internet? Do you think the internet has enough structured data to teach A I about human civilization?"
+}

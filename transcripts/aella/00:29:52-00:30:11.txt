@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:29:52",
+  "End": "00:30:11",
+  "Text": "a dream, presumably, like if you had a very good dream or a very good simulation, but we could then have somebody in a simulation or a dream where they go through and they fully understand, you know, they do all the tests and the tests come back. Exactly. They would expect them to. Uh, but from the outside we're like, well, this is misleading. They're not actually conscious. your dream characters aren't conscious, right?"
+}

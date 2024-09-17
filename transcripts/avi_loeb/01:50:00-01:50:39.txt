@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:50:00",
+  "End": "01:50:39",
+  "Text": ". Because when you look at society, it operates by the same principles. Uh there is uh uh people look for affirmation by groups and they um you know, people segregate into herds that think like them, especially these days when social media is so strong, you can find your support group and you, if you don't look for evidence for what you're saying, you can say crazy things. As long as there are enough people supporting what you say, can even have your newspapers, you can have everything to support your view. And then bad things will happen to society"
+}

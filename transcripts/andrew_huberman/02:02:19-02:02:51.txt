@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:02:19",
+  "End": "02:02:51",
+  "Text": ", yeah, I, I think also from the A I perspective, uh so view the brain as less sacred. I think from a neuroscience perspective, a little bit more sensitive to B SBS narratives about the brain or whatever. I'm a little bit more comfortable with just poetic BS about the brain as long as it helps engineer intelligence systems, you know what I mean?"
+}

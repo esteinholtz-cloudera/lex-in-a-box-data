@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:43:12",
+  "End": "00:43:51",
+  "Text": "is a special spot, heart because I got to work on Sherlock, which is the Astrobiology experiment that's on Mars right now, searching for what they would say in a very cautious way is signs of past habitability. They want to be careful not to get people overly excited and say we're searching for signs of life. They're searching to see if there would have been organics on the surface of Mars or water in certain areas that would have allowed for life to flourish. I really love this prospect. I do think within our lifetimes, we'll get a better answer about finding life in our solar system, if it's there, if not on Mars, maybe Europa, of the icy worlds."
+}

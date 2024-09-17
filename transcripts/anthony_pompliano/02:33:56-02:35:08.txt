@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:56",
+  "End": "02:35:08",
+  "Text": ". He's kind of trying to break apart internet communication from first principles. Like he does so many other problems. It's kind of fascinating to watch. I know he's been, he's taught me quite a bit about communication and at least for me been liberating not give a fuck about the old school way of things. I've been always bothered by a place I deeply admire, which is mit but there's problems, the bureaucracies and hierarchies that hold back, innovation, brilliant minds. And in that sense, Doge is a kind of fu to the system that's kind of positive but also kind of, but it was also an fu. in that sense, I think has a perspective on the world that's similar to Bitcoin folks, which I really like, which is like thinking long term, that's how visionaries think is like if I take these ideas, and the ideas hold true, will the world look like in 2030 50 years and think about everything in that way."
+}

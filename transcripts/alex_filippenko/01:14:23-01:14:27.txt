@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:23",
+  "End": "01:14:27",
+  "Text": "mean like what's that defunct civilization of like"
+}

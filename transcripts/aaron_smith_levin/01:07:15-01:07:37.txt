@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:15",
+  "End": "01:07:37",
+  "Text": ". The nice thing when you're representing yourself generally, you should be a good person. if you, if you're a good person, then the internet will know you can smell out the bullshit. Who is David Muscari? Let's, it's even like because you said Lron Harbor founded Scientology. Yeah, go to the story of how we transition from that to dim Cabbage,"
+}

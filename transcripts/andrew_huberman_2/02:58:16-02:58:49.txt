@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:16",
+  "End": "02:58:49",
+  "Text": "for listening to this conversation with Andrew Huberman and thank you to our sponsors master Class online courses for stigmatic mushroom, coffee, magic spoon, low carb cereal and better help online therapy. Click the sponsor links to get a discount. And remember now is the time to sign up to master class if that's something you've been on the fence about. And now let me leave you with some words from Woodrow Wilson. should not only use the brains we have but all that we can borrow. you for listening and hope to see you next time."
+}

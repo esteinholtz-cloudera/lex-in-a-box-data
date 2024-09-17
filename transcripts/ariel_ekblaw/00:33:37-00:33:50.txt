@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:37",
+  "End": "00:33:50",
+  "Text": "is so freaking cool. That's awesome. So you mentioned microgravity and I saw, I believe that there's a picture of you floating in microgravity when, when did you get to experience that? What was that like? So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:45:42",
+  "End": "01:45:45",
+  "Text": "background radiation. There may be ways of doing that"
+}

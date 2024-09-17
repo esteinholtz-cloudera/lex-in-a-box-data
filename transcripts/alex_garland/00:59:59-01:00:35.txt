@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:59",
+  "End": "01:00:35",
+  "Text": "is poetry terms of quantum computing used to simulate things just in general, the idea of simulating simulating small parts of our world, which actually current physicists are really excited about simulating small quantum mechanical systems on quantum computers. But scaling that up to something bigger like simulating life forms. do you think, what are the possible trajectories of that going wrong or going right? If you, if you enroll that into the future,"
+}

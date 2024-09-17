@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:30:58",
+  "End": "03:31:15",
+  "Text": "is now we're getting right back to project Northwood. need some plan. I don't care how crazy the idea is, guys, give me some plan. So that's where we come up with. Maybe it's an alien species trying to communicate or maybe it's an alien, a hostile threat that's trying to take over the, uh the world or who knows what, maybe"
+}

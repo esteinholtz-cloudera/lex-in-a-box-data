@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:29:33",
+  "End": "00:29:57",
+  "Text": "Bextra case uh in 2009 was related to things that happened in 2003. the things that happened in 2003 were things that uh basically several of our reps did off label promotion. they spoke about with the physicians about off label use of the product and they shouldn't. uh can you"
+}

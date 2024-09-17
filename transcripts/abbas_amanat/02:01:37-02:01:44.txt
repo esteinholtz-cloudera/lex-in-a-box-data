@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:01:37",
+  "End": "02:01:44",
+  "Text": ", of course, and he was sent to exile. went to Najaf which is this great center in Southern"
+}

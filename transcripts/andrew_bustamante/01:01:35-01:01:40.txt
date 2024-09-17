@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:01:35",
+  "End": "01:01:40",
+  "Text": "raw is powerful and so is Iss or is Si"
+}

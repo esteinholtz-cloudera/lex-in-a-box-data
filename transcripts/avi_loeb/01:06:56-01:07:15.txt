@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:56",
+  "End": "01:07:15",
+  "Text": ". Beautifully put, we talk a little bit about the Drake equation? Another framework from which to have this kind of discussion about possible civilizations out there? let me ask within the context of the Drake equation or maybe bigger, how many alien civilizations do you think are out"
+}

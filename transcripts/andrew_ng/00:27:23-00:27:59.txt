@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:27:23",
+  "End": "00:27:59",
+  "Text": "was, it was controversial at the time. Some of my well meaning friends, senior people in the machine learning community, I won't name but people, some of whom we know my well meaning friends came and were trying to give me friendly. I was like, hey Andrew, why are you doing? This is crazy. It's in the natural architecture. Look at these architectures of building, you just want to go for scale like this is a bad career move. So my well meaning friends, you know, we trying to, some of them were trying to talk me out of it. Um But I find that if you want to make a breakthrough, sometimes have to have conviction and do something before is popular. Since that lets you have a bigger"
+}

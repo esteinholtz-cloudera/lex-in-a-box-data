@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:09",
+  "End": "01:16:19",
+  "Text": "so there's a ripple effect that you show that it works in these, in these cases. And then it just propagates through the entire company that this thing has a lot of value in use for"
+}

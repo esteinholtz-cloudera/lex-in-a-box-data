@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:27:11",
+  "End": "00:27:43",
+  "Text": ", definitely there seems to be,, you're sort of, pretty incredible that the self replicating systems will basically arise from the dynamics and then they perpetuate themselves and become more complex and eventually become conscious and build a society. And I kind of feel like in some sense, it's kind of like a deterministic wave uh that, you know, that kind of just like happens on any, you know, any sufficiently well arranged system like Earth. And so I kind of feel like there's a certain sense of inevitability in it. Um and it's really beautiful and"
+}

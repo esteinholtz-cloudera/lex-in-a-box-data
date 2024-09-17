@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:57:21",
+  "End": "02:57:31",
+  "Text": ", yeah, maybe I think it's the data, the data analysis afterwards is very different from like the survey design itself. I'm still very amateur at the data analysis. Yeah,"
+}

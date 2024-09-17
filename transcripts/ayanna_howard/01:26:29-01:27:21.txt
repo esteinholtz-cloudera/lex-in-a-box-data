@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:26:29",
+  "End": "01:27:21",
+  "Text": ", although we think robotics was getting there, right? But I think it's just the timing, it just, clock just timed out. I think if they had been given a couple of more years, they would have been ok. But the other ones were still fairly early by the time they got into the market. And so product market fit is um, I have a product that I want to sell at a certain price. Are there enough people out there, the market that are willing to buy the product at that market price for me to be a functional viable profit bearing company, right? product market fit if it costs you $1000 and everyone wants it and only is willing to pay a dollar. You have no product market fit even if you could sell it for, you know, it's enough for a dollar because you can't."
+}

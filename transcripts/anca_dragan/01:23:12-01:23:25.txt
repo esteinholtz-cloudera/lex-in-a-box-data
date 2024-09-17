@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:23:12",
+  "End": "01:23:25",
+  "Text": "think it should constantly be adjusting kind of thing. The issue with the laws is, I don't know, there are words and I have to write math and have to translate them into math. What does it mean? What does harm"
+}

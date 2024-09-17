@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:22",
+  "End": "01:46:31",
+  "Text": "we should understand that right at a, at a scale, at a large scale, you should be able to study that kind of thing. Oh Yeah. What was your casual sex"
+}

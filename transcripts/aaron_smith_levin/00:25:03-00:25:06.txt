@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:03",
+  "End": "00:25:06",
+  "Text": "this inconsistent with the supreme being? Because like Satan's,"
+}

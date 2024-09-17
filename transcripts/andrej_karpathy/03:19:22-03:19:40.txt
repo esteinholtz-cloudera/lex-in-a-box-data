@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:19:22",
+  "End": "03:19:40",
+  "Text": ", many times papers can be actually quite readable. Not always, but sometimes the introduction in the abstract is readable even for someone outside of the field. Uh not, this is not always true. And sometimes I think unfortunately, scientists use complex terms, even when it's not necessary. I think that's harmful. I think there there's no reason for that and"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:08",
+  "End": "02:18:29",
+  "Text": "that would take it to uh 20 trillion. don't have to compare it to the dollar, essentially in some sense that the dollar could also lose value. I mean, there's a lot of kind of dynamics at play here. But fundamentally, there's going to be a huge move in your prediction of value into Bitcoin. I mean, that's a fascinating world to think about. mean, but I do have to ask you about the whole space of technology there because we're talking about the value of security. We're talking about the future, which Bitcoin will be at the center of, but from my perspective of how I and others can build technologies on top of this kind of decentralized world. I'm thinking about different technologies out there, different cryptocurrencies out there. Ethereum being one, but there's a lot of others. So I'd love to get your sort of ideas about some of these. But so first let me ask you about what the hell is shit coin is, is this connected to, our previous discussion of the meme? Does Bitcoin cover basically all coins that are not Bitcoin? Is it mean, is it beautiful? Is it a mixture of both"
+}

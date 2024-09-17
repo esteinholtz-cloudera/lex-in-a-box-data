@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:45",
+  "End": "00:17:36",
+  "Text": "fascinating. Of course, you would say that you're not even aware of your own. That's probably what Kubrick would say too. Right? Is uh in describing why, how 9000 is created. The way how 9000 is created is you're just studying what's but the reality when it, when the specifics of the knowledge passes through your imagination, I would argue that you're incorrect in thinking that you're just disseminating knowledge that the very act of your imagination that science, it creates something that creates the next step, potentially creates the next step. I certainly think that's true. With 2001 a space Odyssey, I think at its best, if it fails, it's true."
+}

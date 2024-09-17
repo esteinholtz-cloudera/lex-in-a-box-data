@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:36",
+  "End": "02:29:18",
+  "Text": "you mentioned going into the ground. uh Victor Franco Man search for meaning. I read that. I reread that book uh quite often. um me ask the big ridiculous question about life. What do you think is the meaning of it all? And maybe why do you, do you mention that book from a psychologist perspective which Victor Franco was or do you, do you ever think about bigger philosophical questions that raises about meaning, what's and the meaning of it all?"
+}

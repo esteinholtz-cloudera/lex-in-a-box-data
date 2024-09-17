@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:37",
+  "End": "01:32:57",
+  "Text": ", exactly. Why do you think people are so afraid? least in popular culture of legged robots like those who work in Boston dynamics or just robotics in general. If you were to psychoanalyze that fear, what do you make of it? And should they be afraid? Sorry."
+}

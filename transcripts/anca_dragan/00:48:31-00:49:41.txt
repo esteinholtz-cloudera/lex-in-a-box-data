@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:48:31",
+  "End": "00:49:41",
+  "Text": ". I think the perception problem, I mean, and by the way, a bunch of years ago, this would not have been true and a lot of issues in the space were coming from the fact that we don't really, we don't know what's where. um I think it's fairly safe to say that at this point, although you could always improve on things and all of that, you can drive through downtown San Francisco. If there are no people around, there's no really perception issue standing in your way there, is hard. But yeah, we've made a lot of progress on the perception. So I had to undermine the difficulty of the problem. I think everything about robotics is really difficult. Of course, I think that, you know, the the planning problem, the control problem all very difficult. But I think what, what makes it really, yeah, it might be, I mean, you know, and I picked downtown San Francisco to, well, now it's snowing now it's no longer snowing now. It's slippery in this way. Now it's the dynamics part. I could imagine being um being still somewhat challenging, but"
+}

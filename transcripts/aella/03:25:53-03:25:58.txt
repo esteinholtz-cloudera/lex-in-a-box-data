@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:25:53",
+  "End": "03:25:58",
+  "Text": ", that's pretty bold. I would say it's pretty romantic. South of France."
+}

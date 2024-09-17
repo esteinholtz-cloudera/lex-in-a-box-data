@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:29",
+  "End": "01:00:54",
+  "Text": "you're a, world class expert researcher in robotics yet others, you know, there's a few, it's a small but fierce community of people, but most of them don't take the journey into the age of hr I into the human. So why did you brave into the interaction with humans? It seems like a really hard problem."
+}

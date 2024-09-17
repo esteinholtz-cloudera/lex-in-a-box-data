@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:57",
+  "End": "00:57:11",
+  "Text": "ahead. I mean, that notion is, is a bit to think about that. It, it's could you can roll it back I, forward and"
+}

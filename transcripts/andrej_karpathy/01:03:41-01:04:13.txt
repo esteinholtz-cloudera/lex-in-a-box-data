@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:03:41",
+  "End": "01:04:13",
+  "Text": "and gave like reasonable answers and looked real and uh and so on. So to me it's a uh was, he was uh he wasn't sufficiently trying to stress the system, I think. And uh exposing the truth of it as it is today. Um uh I think this will be increasingly harder over time. Uh So uh yeah, I think more and more people will basically become., I think more and more there will be more people like that over time as, as this gets better like"
+}

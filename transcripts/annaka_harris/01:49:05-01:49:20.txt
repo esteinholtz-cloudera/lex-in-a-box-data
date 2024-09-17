@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:05",
+  "End": "01:49:20",
+  "Text": "me because mushrooms to me seem like a journey. There's a perception that you don't take mushrooms all the time. It's not an addictive substance. It's not a lifestyle. It's like going to burning man. It's like an experience that stays with you for a long"
+}

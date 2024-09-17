@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:21",
+  "End": "02:30:45",
+  "Text": "don't have a good dance partner in terms of evidence. There's not, I mean, it would be interesting. Jessica said, I mean, the lab is one place to create or black holes, but it would be fascinating if there is indeed a black hole in our solar system that you can interact with. So the problem with the origin of the universe is all you can do is collect data about it, right? You can't interact with"
+}

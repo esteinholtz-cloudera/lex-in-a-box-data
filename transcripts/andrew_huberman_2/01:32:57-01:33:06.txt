@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:57",
+  "End": "01:33:06",
+  "Text": "why? To comment, why won't I? So is it not possible to get into it real quick?"
+}

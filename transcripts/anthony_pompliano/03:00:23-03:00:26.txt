@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "03:00:23",
+  "End": "03:00:26",
+  "Text": "think I meditate on it as much as um"
+}

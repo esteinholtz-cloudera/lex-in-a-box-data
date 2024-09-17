@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:58",
+  "End": "01:28:04",
+  "Text": "they still do a lot of incredible work there. But yeah, that was the initial thing that gave them a lot enough funding to"
+}

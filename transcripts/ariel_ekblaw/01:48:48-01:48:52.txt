@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:48",
+  "End": "01:48:52",
+  "Text": "to speak on a podcast about meta awareness about our own thoughts"
+}

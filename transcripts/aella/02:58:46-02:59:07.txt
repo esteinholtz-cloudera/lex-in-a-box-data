@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:58:46",
+  "End": "02:59:07",
+  "Text": ", yeah, I'm not saying that it's definitely testosterone. There's other things. It's, also possible that it's culture, people are definitely going to bring that up based on my survey though. It doesn't seem to be any evidence of that. Like I asked about like how much pressure was put on you to be, you know, agency in your childhood. Like a lot of questions around this kind of thing and no correlation at all to dominance"
+}

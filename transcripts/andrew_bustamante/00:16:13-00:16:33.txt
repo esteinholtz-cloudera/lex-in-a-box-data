@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:13",
+  "End": "00:16:33",
+  "Text": "do you make of the hostile relationship that to me at least stands out of the presidents between Donald Trump and the CIA. Was that a very kind of a personal bickering? I mean, is there something interesting to you about the dynamics between that particular president and that particular instantiation of the intelligence agency? Man?"
+}

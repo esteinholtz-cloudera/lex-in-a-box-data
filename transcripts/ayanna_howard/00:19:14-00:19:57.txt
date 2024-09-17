@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:19:14",
+  "End": "00:19:57",
+  "Text": ", right. Like they they move into. So right now you have, you will have a self selection bias, right? Like individuals will move into this neighborhood knowing like this is part of the real state pitch, right? Um And so I think that's a way to do a shortcut when it allows you to deploy, allows you to collect then data with these variances and anomalies because people are still people, but it's a safer space and it's more of an accepting space ie when something in that space might happen because things do you already have the self selection, like people would be, I think a little more forgiving than other"
+}

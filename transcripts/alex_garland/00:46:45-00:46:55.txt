@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:46:45",
+  "End": "00:46:55",
+  "Text": "clearly isn't a lone genius because, because there's too many other people in the sort of superstructure around him who are absolutely fundamental to, that journey."
+}

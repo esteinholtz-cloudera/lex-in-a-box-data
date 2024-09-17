@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:41:58",
+  "End": "00:42:14",
+  "Text": ", the Sistan province is a Baluch uh ethnicity of Baluch ethnicity. Baloch is a particular ethnic group in southern Iran which is Sunni rather than shi."
+}

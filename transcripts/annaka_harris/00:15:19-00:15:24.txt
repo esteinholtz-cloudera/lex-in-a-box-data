@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:15:19",
+  "End": "00:15:24",
+  "Text": "because you can see, I mean, the intuition is so strong. I just said it. The thing I"
+}

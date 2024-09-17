@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:56",
+  "End": "02:21:06",
+  "Text": "human beings so much. It's so beautiful. These titles that we give each other. It's marvelous"
+}

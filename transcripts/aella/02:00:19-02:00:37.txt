@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:00:19",
+  "End": "02:00:37",
+  "Text": "No, but I think that's unique to me because I like being alone a lot even with my friends who are like, dearly, I'm like happy not seeing them because I don't like making facial expressions very much. But I do miss some of my clients."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:50:15",
+  "End": "01:50:19",
+  "Text": "treatment for addiction. So interesting."
+}

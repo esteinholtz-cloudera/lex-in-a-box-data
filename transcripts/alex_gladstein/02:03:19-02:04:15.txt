@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:03:19",
+  "End": "02:04:15",
+  "Text": ". I have a conflicted relationship with journalism because to me, press freedom is so core and independent journalists around the world are so brave. Um and especially in countries like Russia or China, et cetera. And um good journalism is still something I absolutely, I love and I enjoy like this, especially like to say again, this New Yorker piece on what's happening to the uighurs is incredibly well reported. However, on the, by the, you know, on the other hand, you have, um you know, this sort of Clickbait journalism that's all about sensationalism and, and that gets used as a tool. I mean, you know, whether it be against things like privacy or Bitcoin or whatever you have, like people who sensationalize it gets used in the service of the surveillance state, the war on terror or whatever. You know, it's a, it's a difficult but, you know, I think journalism is essential to a free society. Um but can, it can sometimes be, it can wear my patients thin. Sometimes"
+}

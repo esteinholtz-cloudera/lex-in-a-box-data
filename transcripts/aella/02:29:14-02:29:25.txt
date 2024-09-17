@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:14",
+  "End": "02:29:25",
+  "Text": ", which can be destroyed by the truth. What is that, that your ego or something like that? My ego. So your ego just generally grows and you like the destruction of it? Yeah. It's"
+}

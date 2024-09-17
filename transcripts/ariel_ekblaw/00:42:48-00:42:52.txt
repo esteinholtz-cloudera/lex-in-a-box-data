@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:48",
+  "End": "00:42:52",
+  "Text": "how much water is there on Mars? It's"
+}

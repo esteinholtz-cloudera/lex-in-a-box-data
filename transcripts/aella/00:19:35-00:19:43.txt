@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:35",
+  "End": "00:19:43",
+  "Text": "? Well, they created religion, the idea there to create myths, religions, you can create religions of all kinds. Like,"
+}

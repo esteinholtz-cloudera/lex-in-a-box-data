@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:35",
+  "End": "00:24:38",
+  "Text": "does this relate to the singularity? Why the singularity?"
+}

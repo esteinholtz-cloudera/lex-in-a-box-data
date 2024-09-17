@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:57",
+  "End": "00:50:10",
+  "Text": "if we could return to maybe talk quickly about the specifics of deep learning dot A I, the deep learning specialization, perhaps how long does it take to complete the course, would you say"
+}

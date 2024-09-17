@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:21:24",
+  "End": "02:21:29",
+  "Text": ". Just like whenever I get obsessed about a problem, something just needs to work. Something just needs to exist. It needs to"
+}

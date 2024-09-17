@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:25",
+  "End": "00:36:36",
+  "Text": "when we have neuralink, we can replay that, replay that memory. So in terms of how much stress it has on your body, is it biologically stressful?"
+}

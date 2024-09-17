@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:14",
+  "End": "00:29:34",
+  "Text": "coconut oil? There's, I recently discovered that and there's a, don't know, there's a sweetness or there's something to it that, that I really enjoy. Um Maybe because it's new, it's, it's good with heat I really love it for some reason. As a, as a chef. Do you do? Do you ever try it? What do you think about it? I like it"
+}

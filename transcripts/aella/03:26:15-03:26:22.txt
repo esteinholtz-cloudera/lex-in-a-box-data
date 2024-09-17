@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:26:15",
+  "End": "03:26:22",
+  "Text": "don't know, because it's relevant to, to traveling and I like that one. That's romantic too. Right. I'm"
+}

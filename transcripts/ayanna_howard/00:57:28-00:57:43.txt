@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:28",
+  "End": "00:57:43",
+  "Text": "how much psychology do you think topic that's rarely mentioned in robotics? But how much does psychology come to play when you're talking about? Hr I human robot interaction when you have to have robots that actually interact"
+}

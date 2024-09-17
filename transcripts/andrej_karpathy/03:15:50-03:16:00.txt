@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:15:50",
+  "End": "03:16:00",
+  "Text": "the point of view, like what makes me special is more like the gang of genes that are writing in my chromosomes, I suppose. Right. Like they're replicating unit, I suppose. And no, but"
+}

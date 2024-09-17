@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:05",
+  "End": "01:05:41",
+  "Text": ". So one is actually holding in your mind and two is the, the raw skill of conversation. You're, you're very just having listened to your interviews. You're very good conversation. the skill of conversation is really tricky. I'm not being self deprecating, I'm being just objective. I'm not good at conversation. I'm working very hard, getting better at it. I'm, I'm speaking not just podcasting. I'm speaking just normal life. I um I have anxiety from social interaction. I do. You really"
+}

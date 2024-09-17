@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:21",
+  "End": "01:24:34",
+  "Text": "that pixels, it is a is a constraint on the world is highly complex high bandwidth constraint in the world on the stage of the world that"
+}

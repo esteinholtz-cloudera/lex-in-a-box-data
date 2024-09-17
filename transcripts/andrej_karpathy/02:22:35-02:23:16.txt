@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:22:35",
+  "End": "02:23:16",
+  "Text": "fast. But I do intermittent fasting. But really what it means at the end of the day is I skip breakfast. Yeah. So I do uh 18 6 roughly by default when I'm in my steady state, if I'm traveling or doing something else, I will break the rules. But in my steady state, I do 18 6. So I eat only from 12 to 6. Uh not a hard rule and I break it often, but that's my default. then um yeah, I've done a bunch of random experiments for the most part right now where I've been for the last year and a half, I want to say is um um plant based or plant forward. I heard plant forward. It sounds better. I didn't actually know the differences but it sounds better in my mind. But it just means I prefer uh plan based food and raw or cooked or I prefer cooked and plant based."
+}

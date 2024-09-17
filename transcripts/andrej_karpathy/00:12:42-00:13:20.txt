@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:42",
+  "End": "00:13:20",
+  "Text": "there's some learning going on. There's some, there's some, there's some kind of competition going through that building process. I mean, I don't know where if you were just to look at the entirety of history of life on earth, where do you think is the most interesting invention? Is it the origin of life itself? Is it just jumping to eu carats? Is it? Is it humans themselves? Homo sapiens, the origin of intelligence or highly complex intelligence? Or is it all just a continuation of the same kind of process?"
+}

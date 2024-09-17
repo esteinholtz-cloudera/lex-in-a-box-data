@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:56:42",
+  "End": "01:56:47",
+  "Text": "doesn't have any small kids at home anymore. So, so, yeah, you should do it"
+}

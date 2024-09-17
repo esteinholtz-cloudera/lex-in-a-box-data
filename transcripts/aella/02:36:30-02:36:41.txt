@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:36:30",
+  "End": "02:36:41",
+  "Text": "the one I'm referring to is unpopularity and taboo ness of various fetishes. So what are some interesting takeaways? I got to pull up this graph because it's freaking epic."
+}

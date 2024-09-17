@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:37:18",
+  "End": "01:37:30",
+  "Text": "? Oh, yeah, I did a video about this. It's actually quite easy to get to the number. It's not more than 35,000 in the entire world. And that's being very generous and charitable. That's I was intentionally generous. I broke it all down in a spreadsheet and everything."
+}

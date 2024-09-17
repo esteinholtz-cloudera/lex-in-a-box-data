@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:42:54",
+  "End": "03:43:14",
+  "Text": "much of what you've learned in your role at the CIA transfer over to relationships to business relationship to other aspects of life. This is something you work closely with powerful people to help them out. What, what have you learned about the commonalities about the problems that people face,"
+}

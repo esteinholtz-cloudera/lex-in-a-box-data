@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:59",
+  "End": "00:53:12",
+  "Text": "did you learn from that experience? Like what was some fun stuff? This is a super cool idea. I mean, it's like yeah, I mean the the step between observer to actor is a super fascinating"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:48",
+  "End": "00:38:39",
+  "Text": "that's kind of a mathematical formalization of that. But worry and I don't know if you want to go there with me, but I, I talk about this quite a bit. Um The the kids talking to Alexa disrespectfully me. I I worry in general about human nature like I said I grew up in the Soviet Union, World War Two. I'm a Jew too. So with the holocaust and everything, just worry about how we humans sometimes treat the other, group that we call the other, whatever it is, the human history, the group that's the other has been changed faces, but it seems like the robot will be the other, the next other. And one thing is, it feels to me that robots don't get no respect,"
+}

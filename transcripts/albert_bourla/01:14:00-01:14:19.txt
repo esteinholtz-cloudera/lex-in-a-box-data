@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:00",
+  "End": "01:14:19",
+  "Text": "you. for listening to this conversation with Albert Bela. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Oscar Wilde. The truth is rarely pure and never simple. you for listening and hope to see you next time."
+}

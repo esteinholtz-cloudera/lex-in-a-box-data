@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:56",
+  "End": "01:03:18",
+  "Text": "it's the filter I see. Did the couple in the notebook also have sex? Because maybe for romantic movies I focus on the romance.. Right. And the sex scenes are always weirdly filmed in these because it's never, I mean, doesn't, it feels more like romance and sex, guess that's the main focus of this. Right?"
+}

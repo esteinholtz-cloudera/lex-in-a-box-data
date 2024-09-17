@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:56:35",
+  "End": "01:56:41",
+  "Text": ". Yeah. It was very rare that I actually felt like I was going against my nature."
+}

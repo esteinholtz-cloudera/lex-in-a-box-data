@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:49",
+  "End": "01:19:42",
+  "Text": "this is a good place to bring up a difficult topic. You mentioned, they might, they would be paying attention to us to see if we come up with any crazy technology. folks who have reported UFO sightings, there's actually, I recently found out there's websites that track this, the data of these reportings and there's millions of them in the past several decades. So seven decades and so on that they've been recorded the EHO community as they refer to themselves, know, one of the ideas that I find compelling from an alien perspective that they kind of started showing up ever since we figured out how to build nuclear weapons. That"
+}

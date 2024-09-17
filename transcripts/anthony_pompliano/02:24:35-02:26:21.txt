@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:35",
+  "End": "02:26:21",
+  "Text": ". It's a fascinating benefit, but I do want to say it. I've been watching this. It's kind of interesting, think that the pursuit of truth, tearing down bad ideas be done with grace and to do it with grace requires a lot of skill. Like what people don't realize about disagreement. think that disagreement is easy. Like they, they see the, the lies or the inaccuracies in the statement and they, and they just think they can say wrong. Yes, you can say that. But if you want to be effective, requires great skill. Like you look at, I don't know um a beautiful verbal shit poster which is Christopher Hitchens, right? requires a lot of skill through your words to tear down an argument, to criticize and to take a step towards truth. What I'm disheartened by internet culture, like the negative side is people don't put a lot of effort in their tear downs, like into your shit posting into your memes. You should put effort and see it as a skill that you want to. you want to be a part of this culture, you want to get good at it like any skill, it's a 10,000 hours get improve, deliberate practice, self criticism, all of those things just because you're anonymous doesn't mean you won't get deep joy and actually have an impact on the world if you get good at shit posting."
+}

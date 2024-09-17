@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:03",
+  "End": "00:57:16",
+  "Text": "also if consciousness is a fundamental property of reality, it could also choose to not reveal itself until a certain complexity of organism."
+}

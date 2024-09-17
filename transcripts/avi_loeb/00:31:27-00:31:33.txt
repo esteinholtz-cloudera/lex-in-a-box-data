@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:27",
+  "End": "00:31:33",
+  "Text": "maybe briefly mention what uh properties a comet that you're referring to usually"
+}

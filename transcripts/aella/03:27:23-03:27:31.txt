@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:23",
+  "End": "03:27:31",
+  "Text": ", no, no, no, no from the audience. But in an interesting way, random sufficient. So random amongst good choices,"
+}

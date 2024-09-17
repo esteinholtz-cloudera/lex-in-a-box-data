@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:52",
+  "End": "01:08:12",
+  "Text": ", I would say from the mystery perspective, it seems like the mystery of our own cognition and consciousness is much grander than like the degrees of freedom of possible explanations of what the heck is going on is much greater there than in the in the physics of the"
+}

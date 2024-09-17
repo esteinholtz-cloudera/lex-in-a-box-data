@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:55",
+  "End": "00:58:45",
+  "Text": ". Yeah. So we should pause on that because I actually just two days ago read a paper that argued that, you know, the killing of an animal period cannot be humane. So it's impossible. And so, and that's an argument just like you're saying, we, we could make. But if we now on the table kind of as a starting point, the idea that possible to kill an animal for food in an ethical way if we do take that as a starting point. So we won't argue about that. It is worth arguing about it elsewhere and it probably will, I will probably talk to a few vegan folks and we'll talk about the, the vegan diet. I'm fascinated by it as well. So I'm torn in the whole thing. But if we just take that as a starting point, then is an ethical humane way to treat an animal?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:03:25",
+  "End": "01:03:39",
+  "Text": ", to me, it's a little bit of a canary Nicole mine kind of moment honestly a little bit. Uh Because uh so this engineer spoke to like a chat bot at Google and uh became convinced that this bo sentient,"
+}

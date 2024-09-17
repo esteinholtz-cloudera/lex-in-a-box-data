@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:57",
+  "End": "02:22:03",
+  "Text": "you do see yourself sharing it with the world like it's on github or a blog post or through videos. Yeah, I"
+}

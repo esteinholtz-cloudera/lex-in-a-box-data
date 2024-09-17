@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:39",
+  "End": "01:04:41",
+  "Text": "was deadlier for kids"
+}

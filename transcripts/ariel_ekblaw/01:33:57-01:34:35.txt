@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:57",
+  "End": "01:34:35",
+  "Text": "back on one thing. We don't need space lawyers. I'm just, it's a joke. We do, we do, we do the floor are great. I love them. OK. Let me ask a big ridiculous question. What is the most beautiful idea you about space exploration? Whether it's the engineering, the astrobiology, the science, the inspiration that the human happiness or aliens? I don't know, what do you like inspires you every day in terms of its beauty, it's awe"
+}

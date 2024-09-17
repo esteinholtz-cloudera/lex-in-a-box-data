@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:25:05",
+  "End": "02:26:09",
+  "Text": "freedom to fully realize myself because I felt like I was a little bit trapped by, I don't know, it's not explicit, right? It's a little bit, it's like a subtle push that you're somehow dependent on them. I mean, part of that is like, I think it actually very much has to do not talking about money. What does it take to operate as an individual entity in this world? Knowing that when you're 10 years old, knowing that when you're very young, that then you see how amazing it is to have the support of your parents until you're 18, have that freedom, have the freedom to appreciate the value your parents bring. And at the same time, the freedom to leave in some capacity uh carve your own path. I mean, it just, just all of that I think for, for weirdos like me, especially because I was a very nontraditional path that, uh I think it would be very empowering. It certainly would be empowering in the third world too."
+}

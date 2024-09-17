@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:10:51",
+  "End": "02:10:53",
+  "Text": "caps right? Around a trillion, just over a trillion"
+}

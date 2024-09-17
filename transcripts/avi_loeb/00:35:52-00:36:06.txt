@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:35:52",
+  "End": "00:36:06",
+  "Text": "sign, 10% of the mass evaporating. It's huge. Think about it 100 m size object losing 10% of its mass. You can't miss that. And uh that was super weird. It's super"
+}

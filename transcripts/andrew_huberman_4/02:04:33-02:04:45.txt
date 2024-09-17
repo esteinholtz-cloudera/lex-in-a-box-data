@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:04:33",
+  "End": "02:04:45",
+  "Text": "want to do solo? And seriously, because we've done this before, right. Our, our clandestine study missions. I'll, I'm happy to sit in the corner and work on my book or do something if you want, it feels good for the feeling"
+}

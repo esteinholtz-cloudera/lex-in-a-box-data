@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:12",
+  "End": "00:24:22",
+  "Text": ". So, I wonder there could be certain physical phenomena that we think is a physical phenomena, but it's actually interacting with us to like poke the finger and see what"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:34:55",
+  "End": "00:35:17",
+  "Text": "they, they all, they all fall under that rubric gravity will not, will not, will not put that suit on. So the force of gravity cannot be tamed by the same normal quantum field theory to which the all the other forces eagerly submitted."
+}

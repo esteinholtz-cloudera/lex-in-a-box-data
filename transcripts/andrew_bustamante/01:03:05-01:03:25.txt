@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:05",
+  "End": "01:03:25",
+  "Text": "world. And by the way, if I may mention, I believe way Mossad operates is similar kind of thing because people from Israel living abroad still think of themselves as Jewish and Israeli 1st 1st. So that allows you to integrate"
+}

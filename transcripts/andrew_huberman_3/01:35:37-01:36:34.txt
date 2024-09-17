@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:37",
+  "End": "01:36:34",
+  "Text": ". And I also should say that people that do get blocked. I never, this is something I do very deliberately blocked or ignored. I never think poorly of them actually explicitly if there's somebody that's like saying hateful things about me or whatever, I always think positive thoughts, it's not some kind of weird guru thing, but just actually found that as a hack, I think well of them and that allows me to never think of them again. Like I send them my love. And think this is a fascinating human being with a fascinating story. I would love to have time to actually learn about their story, but there's not enough time in the world and I just think well of them and then and move on and enjoy a delicious meal with people that are close to me and I love and so on. It just, and move on and never adding to the negativity of like, even in the privacy of my own mind, thinking a hateful thought towards them, it serves no purpose whatsoever."
+}

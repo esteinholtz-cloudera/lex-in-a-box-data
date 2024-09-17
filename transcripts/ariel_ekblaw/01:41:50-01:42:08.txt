@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:50",
+  "End": "01:42:08",
+  "Text": ", fascinating. What's also fascinating is the interaction between nations was like who owns that? Would you would you say in those floating cities, do you envision independent governments?"
+}

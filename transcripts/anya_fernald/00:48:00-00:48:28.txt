@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:48:00",
+  "End": "00:48:28",
+  "Text": "if you're looking at scaling regenerative farming, a traditional system of agriculture. Regenerative farming is how we used to farm. used to farm with an eye towards the long term. might be on the Friedman farm thinking about your heirs, five generations from now, farming that same land. Are you going to leave that land nutritionally empty?"
+}

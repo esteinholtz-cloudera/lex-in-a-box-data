@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:29",
+  "End": "01:44:16",
+  "Text": "Twitter you download Twitter. No, there's a lot of Twitter. Twitter is a social network with a bunch of people that are interacting a lot. Like there's like, I don't know, the number is insane. The number of interactions, but there's different ways to interact to get data from Twitter. There's streams you can look at, it depends on what you're interested in. can do uh results for searches, you can look at individual tweets and get entire, which to me is super interesting. The entire tree of different conversations that replies, which might be very interesting for you because like not, much harder to ask rigorous questions which you do with your polls. But you could see like how divisive certain things"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:07:11",
+  "End": "02:07:20",
+  "Text": ". There isn't like a huge area with a sign here, like problems that are doable and people want to know the"
+}

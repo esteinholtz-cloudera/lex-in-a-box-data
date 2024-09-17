@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:21",
+  "End": "00:11:49",
+  "Text": "and it sounds like a brilliant feature. So I guess the lesson to take from that is something that looks amazing on paper and then nobody uses it. It doesn't actually have the impact that you think it might have. So yeah, I saw that you really went through a lot of different features and a lot of ideas to arrive at the Coursera. It's the final kind of powerful thing that showed the world that Moocs educate millions. And"
+}

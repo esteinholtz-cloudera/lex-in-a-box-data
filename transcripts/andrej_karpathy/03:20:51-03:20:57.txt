@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:20:51",
+  "End": "03:20:57",
+  "Text": "you do an arg max repeatedly every week, yeah,"
+}

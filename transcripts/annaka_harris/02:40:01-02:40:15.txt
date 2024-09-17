@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:01",
+  "End": "02:40:15",
+  "Text": ", death meets us all in the end and only uh kind of hilarious to think about most of nature and the cruelty and the poverty of nature, like how horrible the conditions are for animals"
+}

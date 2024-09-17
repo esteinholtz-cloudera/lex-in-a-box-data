@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:27:19",
+  "End": "01:27:49",
+  "Text": ", but on the moon, this doesn't happen. The only thing that happens on the moon is you have objects impacting the moon and they go 10 m deep. So they produce some dust, but the moon keeps everything. It's like a museum, it keeps everything on the surface. So if we go to the moon, I would highly recommend regarding it as an archaeological site and looking for objects that are strange, maybe it collected some trash, you know, from interstellar space."
+}

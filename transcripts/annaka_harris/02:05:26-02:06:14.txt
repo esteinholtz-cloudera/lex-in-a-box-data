@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:05:26",
+  "End": "02:06:14",
+  "Text": ". And it's interesting because, you know, especially so I actually now have recorded three conversations with him for this project. I'm working on. Yeah. And every conversation we have, we seem to land on the same place. But this last conversation we had, it seemed to be even more clear that semantics really get in the way when you get into the weeds in these conversations. We, it's almost like we need some new terminology because it's hard to know sometimes whether we're talking about the same thing. Um, I have issues with his terminology that when we talk about what his terminology represents, it seems like we completely agree."
+}

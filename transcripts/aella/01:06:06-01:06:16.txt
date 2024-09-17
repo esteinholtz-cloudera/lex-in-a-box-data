@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:06",
+  "End": "01:06:16",
+  "Text": ". So, so that's camming. I mean, what are the pros and cons of camming? And how does Onlyfans map into this? Did you switch to Onlyfans at some"
+}

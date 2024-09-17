@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:00:16",
+  "End": "02:00:22",
+  "Text": ". My wife asked me when we got married and I honor that"
+}

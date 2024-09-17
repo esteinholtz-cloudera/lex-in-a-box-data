@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:34:47",
+  "End": "00:35:17",
+  "Text": ", I think it's very likely that these things, for example, like, so you have these A GIS it's very likely that for example, they will be completely inert. like these kinds of sci fi books sometimes where these things are just completely inert, they don't interact with anything. And I find that kind of beautiful because they probably uh they've probably figured out the meta meta game of the universe in some way, potentially they're, they're doing something completely beyond our imagination. Um And uh they don't interact with simple chemical life forms. Like why, why would you do that? So I find those kinds of ideas compelling."
+}

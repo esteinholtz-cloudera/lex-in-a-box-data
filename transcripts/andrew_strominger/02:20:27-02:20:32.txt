@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:27",
+  "End": "02:20:32",
+  "Text": "the ideas have momentum and that they're, um, yeah, unstoppable."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:30:59",
+  "End": "02:31:12",
+  "Text": "it's an opportunity to see, I would never take go plot code. As given, I almost always copy a copy face into a Google search and you see what this function is doing and then you're like, oh, it's actually exactly what I need. Thank you, Copilot. So you learn something. So it's"
+}

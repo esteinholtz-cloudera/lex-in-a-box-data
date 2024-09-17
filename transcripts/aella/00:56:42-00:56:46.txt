@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:42",
+  "End": "00:56:46",
+  "Text": ", got it. Got it, got it, got it. You didn't mention Tolkien for the fantasy"
+}

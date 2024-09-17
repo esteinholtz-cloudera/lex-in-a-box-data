@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:48:35",
+  "End": "03:48:51",
+  "Text": "the intelligence, the natural web of intelligence gathering systems we have in the United States and in the world, they going to believe for long that your bill? they"
+}

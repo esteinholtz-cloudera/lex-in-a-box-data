@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:50",
+  "End": "00:45:04",
+  "Text": "I have to ask this is, this is kind of an interesting question ex machina for many people, including myself is one of the greatest A I films ever made. It's number two, for me,"
+}

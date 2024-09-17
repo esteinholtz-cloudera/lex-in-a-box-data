@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:08:36",
+  "End": "03:08:38",
+  "Text": "there's a negative connotation to"
+}

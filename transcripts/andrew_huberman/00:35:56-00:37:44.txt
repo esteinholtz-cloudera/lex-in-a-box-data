@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:56",
+  "End": "00:37:44",
+  "Text": ". Yeah, let me try to think of this a little bit. So the process of thinking to working memory access is tricky, it's probably ultimately correct. I were to say some of the most challenging things an engineer has to do a sci scientific thinker, I would say it's kind of depressing to think that we do that best in our twenties. But is this kind of first principles thinking step, of saying accessing the things that you know, then saying, well, let me, how do I do this differently than I've done it before? This weird, like stepping back, like, this right? try it this other way that that's the most mentally taxing step is like, you've gotten quite good at this particular pattern of how you solve this particular problem. So there's a pattern recognition first. You're like, OK, I know how to build a thing that solves this particular problem in programming. Say, and then question is, can I do it much better? I don't know if that's, don't know what the hell that is. I don't know if that's accessing working memory. almost maybe it is accessing memory in a sense, it's trying to find similar patterns in a totally different place that could be projected onto this. But you're not querying facts, you're querying functional things like"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:00",
+  "End": "01:26:28",
+  "Text": "then you need to celebrate this. So let me just briefly mention my lovely friends at MIT, to celebrate different weirdness, to celebrate the weird characters. I've um I sometimes get loving pressure from my lovely friends at MIT to tone down the weirdness a bit"
+}

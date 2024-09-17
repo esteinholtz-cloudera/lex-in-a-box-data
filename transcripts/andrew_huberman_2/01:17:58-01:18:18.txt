@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:17:58",
+  "End": "01:18:18",
+  "Text": "done it yet because I'm afraid I'm going to function better. Argentine by my dad's side and I don't eat, I don't eat meat super often. But, well, for most people it would seem often. But, um, but I do love steak. I do. So I'm afraid I'm going to feel better. There's a social"
+}

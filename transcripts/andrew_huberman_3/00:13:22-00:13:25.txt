@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:22",
+  "End": "00:13:25",
+  "Text": "you do with the croissant? What do you do with the bread butter or"
+}

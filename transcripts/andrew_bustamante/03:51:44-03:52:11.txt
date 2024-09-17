@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:51:44",
+  "End": "03:52:11",
+  "Text": "? I feel the silent judgment. It's, that's very real. I feel it for myself. And I feel it for my wife who doesn't appear on camera very often, but who's also a former CIA. We, we both feel the judgment. We know that right now, days after this is released, somebody's gonna send an email on a closed network system inside CIA headquarters. And there's a bunch of people who are gonna laugh at it. A bunch of people who are gonna say that, who knows what? It's not a bunch of people, you"
+}

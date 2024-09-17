@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:58",
+  "End": "02:48:06",
+  "Text": ". What do you find most fascinating about diffusion models? So, from the societal impact of the technical"
+}

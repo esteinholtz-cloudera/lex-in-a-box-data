@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:46",
+  "End": "01:01:55",
+  "Text": "don't know, we understand that. I think there's a bunch of people who see the world that way, but not everybody."
+}

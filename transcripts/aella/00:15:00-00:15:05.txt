@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:00",
+  "End": "00:15:05",
+  "Text": ". Well, then it gets to the question of what is life? What is a living organism"
+}

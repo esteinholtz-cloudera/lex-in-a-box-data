@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:52",
+  "End": "00:17:18",
+  "Text": "there's millions of cases like that where we take little hints to establish context. I mean, you said kind of beautifully poetic human things, but there's probably subtle things about the environment it being maybe time for commuters to start going home from work. And therefore you can make some kind of judgment about the group behavior of pedestrians, blah, blah, blah, and so on and so on"
+}

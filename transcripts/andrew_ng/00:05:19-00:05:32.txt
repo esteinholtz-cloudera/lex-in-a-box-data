@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:19",
+  "End": "00:05:32",
+  "Text": "then you have more time to write new jokes. Are there favorite memories from your early days of Stanford? Teaching thousands of people in person and then millions of people online,"
+}

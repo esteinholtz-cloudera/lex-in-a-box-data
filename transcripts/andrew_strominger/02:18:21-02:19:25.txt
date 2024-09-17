@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:18:21",
+  "End": "02:19:25",
+  "Text": "? Well, so you can, you can know something is true. First of all, you never know something is true with 100% uncertainty. I mean, might have had a blackout. It's just to be, it's never 100% right? You, you might have had a momentary lapse of consciousness. It's a key step in the proof and nobody read it and whatever. Ok. So you never know for sure. you can, you have a preponderance. Of evidence, which makes it preponderance of evidence not accepted very much mathematics. And, that was sort of how, you know, the famous Ramanujan work. He worked, he had formulas which he guessed at and then he gathered a preponderance of evidence that, that you were sure they were true. And so there might be, or something completely different, you know, they might function in a different, in a very different way."
+}

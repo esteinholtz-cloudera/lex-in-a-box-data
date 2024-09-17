@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:59:07",
+  "End": "01:00:06",
+  "Text": ", it was actually quite remarkable to see that from the first or the second day of the protest you see out in the streets, this riot police, OK, comes out in large numbers fully geared up. appearance are rather terrifying like any other riot police, probably more than any other riot police. are violent, stand in the streets when the students are demonstrating even in smaller number. Because before I go to that, I should point this point this out to you as well that uh that these demonstrations are not large ones in one place. You see, you don't see 100,000 people in, in one place. But you see in every neighborhood, couple of 1000 of kids are demonstrating all over"
+}

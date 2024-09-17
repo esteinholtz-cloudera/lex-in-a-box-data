@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:37",
+  "End": "02:20:08",
+  "Text": "rest of your life, potentially or for years. So, I'd love to avoid that. Right. There's just like stupid physical stuff that you just want to avoid. You want to keep it purely in the mental. And if it's purely in the mental, that's when the race is interesting. But, the, the, the problem with these physical challenges as, as David has experienced, I mean, it has a toll on your body. I tend to think of the mind as limitless and the body is kind of unfortunately, quite limited."
+}

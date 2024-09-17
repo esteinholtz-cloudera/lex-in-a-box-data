@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:40:51",
+  "End": "00:41:42",
+  "Text": "crazy that for instance, my son had a cerebral hemorrhage a year ago and the doctor who saved his life in a very situation when he realized that, you know, that Sam and I were who we were. He said that's why I'm here. You know, he said if you come of age in a poor country like Colombia and Carl Sagan calls you to science. When you're a child, then, then know, you go to medicine because that's the only avenue open to you. But that's why I'm here. And I have heard that story and I hear that story, think every week,"
+}

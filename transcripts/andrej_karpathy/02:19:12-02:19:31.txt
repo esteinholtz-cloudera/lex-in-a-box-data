@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:19:12",
+  "End": "02:19:31",
+  "Text": "and I mean, I can take some time off for distractions and in between, but I think it can't be too much. Uh You know, most of your day is sort of like spent on that problem. And then, you know, I coffee. I have my morning routine. I look at some news, uh Twitter hacker news, Wall Street Journal, et cetera. So,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:35",
+  "End": "00:17:46",
+  "Text": "for people who don't know, uh, Donald Trump did not display significant deep interest in the output. did not trust it. He was a disinterested customer."
+}

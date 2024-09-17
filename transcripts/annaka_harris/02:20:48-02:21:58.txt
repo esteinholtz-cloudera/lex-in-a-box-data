@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:48",
+  "End": "02:21:58",
+  "Text": ", it's not. No, no. But just, you know, the term A I is really not used amongst machine learning people. So I'm using Google A I engineer and just sentience and chatbot. And none of those words are really used by the people that actually build them. know, you're much more likely to use language model versus chat bot or natural language dialogue versus chat bot or whatever and certainly not sentient. But that's the point. I mean, sometimes the difference between the public discourse and the engineering is actually really important because engineering tends to want to ignore the magic. They don't the magic. Anyway, the Google A I engineer uh believes that uh the lambda one language, language system achieved sentience. I don't know if you paid attention to that. You didn't. But the general question is, do you think a chat bot, do you think a robot could be conscious?"
+}

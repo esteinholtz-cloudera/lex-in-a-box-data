@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:59",
+  "End": "01:33:19",
+  "Text": "fascinating. Yeah, baseline. Like uh even, even like, yeah, the tells, right, the, the eye contact, like you, you've probably already formed a baseline that I um I have trouble making eye contact. so like, so if you ask me difficult questions and I'm not making eye contact, maybe that's not a good signal of me lying or whatever because I always have trouble making eye contact, stuff like that. That's really fascinating."
+}

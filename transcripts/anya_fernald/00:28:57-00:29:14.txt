@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:28:57",
+  "End": "00:29:14",
+  "Text": "? I like the flavor for finish because of the bitterness that it adds. So I like the bitter and acid contrast on meat and vegetables, which is mostly what I eat. And so I love that, that, that way that the bitterness and astringency complements and allows the flavors to come out. What do you think"
+}

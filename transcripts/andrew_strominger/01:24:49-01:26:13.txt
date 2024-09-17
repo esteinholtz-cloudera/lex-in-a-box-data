@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:24:49",
+  "End": "01:26:13",
+  "Text": "expertise is AAA physicist doesn't anything to that. Um, it's not really, you know, physics is, know, I was once very interested in and know, physics, physics, I like questions that can be answered that it, it's not obvious what the answer is and that you can find a, answer to the question everybody will agree the answer is and that there's a an algorithm for, for getting there. Um Not that these other questions aren't interesting. And they don't somehow have a way of preventing presenting themselves. But me, the interesting thing is to,, is motion in what we know is learning more and understanding things that we didn't understand before. Things that seemed totally confusing, having them seem obvious. That's wonderful. So think that those questions are there. I mean, I would go further, you know, the whole multiverse. I don't, don't think there's too much we concrete, we're gonna be able to say about it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:52",
+  "End": "02:28:59",
+  "Text": ". Would you like them to say that that the other woman is better than you, or if they feel that?"
+}

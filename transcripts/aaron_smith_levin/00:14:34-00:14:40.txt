@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:14:34",
+  "End": "00:14:40",
+  "Text": ". Well, I grew up in a cult so I'm not familiar with the works of play. Doh."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:05:21",
+  "End": "00:05:38",
+  "Text": "was, I remember that experience very viscerally riding in that car and being just, wow, I I, they gave us a sticker that said I wrote in a self driving car and it had this cute little firefly on and, or a logo or"
+}

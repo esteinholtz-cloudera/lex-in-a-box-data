@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:45",
+  "End": "02:32:06",
+  "Text": "is an important one, right? Writing programs how do you see the future of that developing the program synthesis? Like being able to write programs that are more and more complicated because right now it's human supervised in interesting ways, it feels like the transition will be very painful."
+}

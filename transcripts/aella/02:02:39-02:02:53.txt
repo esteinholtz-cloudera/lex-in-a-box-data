@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:02:39",
+  "End": "02:02:53",
+  "Text": ", what would fucking up in this conversation look like? doesn't have to be rational. But I'm curious if there's like a, a specific thing."
+}

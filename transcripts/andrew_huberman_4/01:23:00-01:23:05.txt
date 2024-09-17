@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:00",
+  "End": "01:23:05",
+  "Text": "night is still young. You are human. No, but you are also animal. Don't"
+}

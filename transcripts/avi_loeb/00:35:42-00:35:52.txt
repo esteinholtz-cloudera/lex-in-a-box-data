@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:35:42",
+  "End": "00:35:52",
+  "Text": "it was a comet, you would need about 1/10 of the mass of this comet, the weight of this comet to be evaporated in order to give it. And there was no sign"
+}

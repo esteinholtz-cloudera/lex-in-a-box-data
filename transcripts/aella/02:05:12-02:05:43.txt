@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:05:12",
+  "End": "02:05:43",
+  "Text": "think there's like, this fear where it's like if you become, like scientific about something, you'll figure out that your feelings are unjustified and then you'll experience this horrible thing where like, oh shit, like I'm afraid of this, but I'm sort of being forced to, by my logical mind to believe this thing which I don't think, I don't think this is true at all. I think your feelings are there for a reason. They're for a good reason like, logic or like rigorous analysis or something should be dedicated to figuring out why it's there. Not that not, not to like, suppress it or tell it it shouldn't be there. You know,"
+}

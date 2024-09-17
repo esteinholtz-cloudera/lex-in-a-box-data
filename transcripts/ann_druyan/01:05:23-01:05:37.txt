@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:05:23",
+  "End": "01:05:37",
+  "Text": "? Definitely. I would have, you know, in a nanosecond, I would take that deal, not for me. I mean, if Carl were alive, yes, I would want to live forever because, you know, it would be fun. But, uh, would"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:09",
+  "End": "02:42:18",
+  "Text": "bullish. You're saying it could grow into something for 1% it could grow into something significant like all the kinds of different applications, strip"
+}

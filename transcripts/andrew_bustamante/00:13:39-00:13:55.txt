@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:39",
+  "End": "00:13:55",
+  "Text": "an intelligence agency to be effective, it has to discover the truth and communicate that truth. And maybe if you're appointing the director of that agency, you're not, are less likely to communicate the truth to you unless the truth aligns perfectly with your desired worldview."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:49",
+  "End": "01:24:58",
+  "Text": "and you are still advertising creatively. So there's like sexuality, but there's also creative sexuality and ideas too."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:36:42",
+  "End": "00:37:50",
+  "Text": "like to me you're describing encryption or, or at least the ability to encrypt the ability to use digital keys to secure your property. And I, that, to me is a very powerful uh individual force for individual rights, very powerful. And it's what's what animates Bitcoin ultimately, which, which we'll get into. But for me, at least the way I look at it today in 2021 the threat from big data analysis uh used by governments and authoritarian regimes is terrifying. I mean, to actually see what the Chinese Communist Party is doing they have hundreds of millions of cameras overseeing society, cameras that can tell who's a uighur and who's a ham that to me is terrifying and, and everything is sorted instantly. There are, there are supercomputers that are built in Urumqi in Xinjiang for this explicit purpose. And you know, it allows the government to quickly sort and basically commit genocide a lot faster. And it's really, I do agree and I've seen personally how powerful technology can be as a force for freedom. Um but I'm very, very worried about big data analysis in the hands of governments. See that's"
+}

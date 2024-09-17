@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:59",
+  "End": "01:46:51",
+  "Text": "have to ask you a question that uh somebody in our amazing team wanted to ask. Uh happily married another, like you mentioned, incredible relationship. Are they good friends? Are they amazing friends? But I'm not saying who it is. So I can say some stuff which is, it started out as a great sexual connection. Well, there you go. But then became very close friends after that. Listen, there you go. So speaking of, he has a wonderful son and he is wanting to have a second kid and he wanted to ask the Great Huberman, is there uh sexual positions or any kind of thing that can help maximize the chance that they have a girl versus a boy because they're that wonderful boy, they want a girl. Is there, is there a way to control the gender?"
+}

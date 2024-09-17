@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:38",
+  "End": "00:13:57",
+  "Text": "to actually be honest about this because people talk about steak and they, they talk about bread with butter. I feel like butter is cheating. I feel like you're disrespecting the fundamental food by adding butter because butter. It's like, it's like, it's like a elite version of ketchup. You"
+}

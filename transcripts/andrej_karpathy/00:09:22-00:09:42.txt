@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:22",
+  "End": "00:09:42",
+  "Text": "wisdom and knowledge the knobs. And so this representation that's in the knobs doesn't make sense to you intuitively that a large number of knobs can hold a representation that captures some deep wisdom about the data. It has looked at, it's a lot of knobs,"
+}

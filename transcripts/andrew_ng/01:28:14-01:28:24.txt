@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:14",
+  "End": "01:28:24",
+  "Text": "think there's no better way to end it than talking about happiness and the meaning of life. So it's a huge honor, me and millions of people. Thank you for all the work you've done. Thank you for talking today."
+}

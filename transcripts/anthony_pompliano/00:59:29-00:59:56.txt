@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:59:29",
+  "End": "00:59:56",
+  "Text": ", I think scarcity just has this very high correlation to value across all assets, not just money, right? Money happens to be the the unit of account that we use in terms of uh daily commerce. Um But whether it is um you know, as we're seeing now uh sneakers or you know, whatever it is, uh scarcity ultimately is that signal of value I think. And that's just the way that humans derive value for literally thousands and thousands of years."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:09:56",
+  "End": "00:10:07",
+  "Text": "connection to Wally. Long story short. I like Wally because I like animation and I like robots and I like, you know, the fact that this was, we still have this robot to this day."
+}

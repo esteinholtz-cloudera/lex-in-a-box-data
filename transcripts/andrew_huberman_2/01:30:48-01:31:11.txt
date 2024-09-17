@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:30:48",
+  "End": "01:31:11",
+  "Text": ". The thematically rem sleep is about experiencing or replaying intense emotions without experience the somatic, the physical component of the emotion, either the acting out or the accelerated heart rate and agitation with things like ketamine therapies. That's the idea is you're uncoupling the physical sensation from the mental events."
+}

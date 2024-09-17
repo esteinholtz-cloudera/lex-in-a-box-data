@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:23:09",
+  "End": "02:23:15",
+  "Text": "you ultimately see money as, as kind of power and freedom and um a mechanism"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:27",
+  "End": "00:31:45",
+  "Text": "you're one of the prominent, I would say even the faces of the world of Cryptocurrency, Bitcoin that whole entire world. Let's dive straight in and ask, do you think, do you consider yourself a Bitcoin maximalist?"
+}

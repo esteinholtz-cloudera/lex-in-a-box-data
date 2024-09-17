@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:47",
+  "End": "00:38:52",
+  "Text": "way travel, 6 to 9 months, they hang out there on vacation and come"
+}

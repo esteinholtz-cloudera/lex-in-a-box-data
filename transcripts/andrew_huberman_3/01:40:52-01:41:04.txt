@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:52",
+  "End": "01:41:04",
+  "Text": "I had like a family or something where people, there's nothing about this place that softens your kind of sense that this might might not murder me."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:40",
+  "End": "00:42:59",
+  "Text": "look, let's look briefly then, you know, we're looking for a new apartment to move into. So let's look outside the solar system. Do you think you've spoken about exoplanets as well? Do you think there's um homes out there for us? Uh outside of our solar system,"
+}

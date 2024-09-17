@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:43",
+  "End": "00:30:03",
+  "Text": ", that that's not often talked about is the scale of the data set it was trained on and the quality of the data set because there's some. So it was like Reddit threads that had, they were operated highly. So there's already some weak supervision on a very large data set that people don't often talk about."
+}

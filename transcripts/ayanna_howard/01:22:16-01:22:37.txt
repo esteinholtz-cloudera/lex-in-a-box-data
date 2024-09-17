@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:22:16",
+  "End": "01:22:37",
+  "Text": "I can see a future if we don't address it in the near term where these agents as they adapt and learn could say, hey, this should be something that's fundamental. Um I hopefully think that we would address it before it gets to that"
+}

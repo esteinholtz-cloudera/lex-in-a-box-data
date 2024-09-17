@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:50:35",
+  "End": "02:51:16",
+  "Text": "basically, I am fairly bullish on our ability to build a GIS uh basically automated systems that we can interact with and are very human like and we can interact with them in a digital realm or physical realm. Currently, it seems most of the models that sort of do these sort of magical tasks are in a text realm. Um I think uh I mentioned, I'm suspicious that text realm is not enough to actually build full understanding of the world. I do actually think you need to go into pixels and understand the physical world and how it works. So I do think that we need to extend these models to consume images and videos and train on a lot more data that is multimodal in that way."
+}

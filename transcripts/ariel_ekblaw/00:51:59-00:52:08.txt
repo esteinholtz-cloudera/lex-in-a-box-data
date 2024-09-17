@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:59",
+  "End": "00:52:08",
+  "Text": "arc from your experience, from understanding how astronauts get adjusted to the stuff. How long does it take to adjust to the physics of this world, this other world?"
+}

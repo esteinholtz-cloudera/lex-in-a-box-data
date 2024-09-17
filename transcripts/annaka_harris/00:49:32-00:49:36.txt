@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:49:32",
+  "End": "00:49:36",
+  "Text": "some people are just not susceptible to them and some people are, and I"
+}

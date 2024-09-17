@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:26:13",
+  "End": "00:26:34",
+  "Text": ". The simplest thing to think about a cube, right? So you can stack cubes together and if you had an infinite number of cubes, you'd fill all that space. There's no gaps in between the cubes, they stack and fill space. Another place, Hadron is a truncated octahedron. And that's actually one of the candidate structures that we think would be great for space stations."
+}

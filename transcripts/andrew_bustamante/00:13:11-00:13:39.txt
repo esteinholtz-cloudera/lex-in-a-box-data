@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:13:11",
+  "End": "00:13:39",
+  "Text": "flaw in the system, it is a massive flaw in the system because if you're essentially appointing a director to do what you want them to do, then you're assigning a crony and that's what we define corruption. As within the United States and inside the United States, we say if you pick somebody outside of merits for any other reason other than merit, then it's cronyism or it's nepotism. That's exactly what our structure is built on. All presidential appointees are appointed on something other than merit. So"
+}

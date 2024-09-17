@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:23",
+  "End": "00:28:46",
+  "Text": "the conflict, do you think people are fundamentally good? we all sort of like blank slates that could be evil given the environment or good, given the environment or can we kind of, is there some base that we can rely on that people if left to their own devices will be good and trustworthy and"
+}

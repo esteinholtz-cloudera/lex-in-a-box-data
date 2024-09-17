@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:55",
+  "End": "00:30:50",
+  "Text": "sure. And I'm with you and, you know, you and I are very much have the same values on this, but, you know, that's one little thing and then there's many other things like I'm extremely self critical and you look at, you know, I look at myself as I'm regularly very self critical. There's a self critical engine in my brain I talked to actually Paul about this, I think on the podcast quite a bit. And he's saying this is a really bad thing. Like you need to fix this, you need to be able to be regularly, very positive about yourself and I kept disagreeing with him. No, is like who I am like you and it seems to work, don't mess with the thing that seems to be working. It's fine. Like I oscillate between being really grateful and really self critical. But then you have to like, figure out what is it? Maybe if there's a deeper root thing, there's an in, maybe there's an insecurity in there somewhere that has to do with childhood and then you're trying to prove something to somebody from your childhood, this kind of thing."
+}

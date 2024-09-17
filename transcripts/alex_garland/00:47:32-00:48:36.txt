@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:32",
+  "End": "00:48:36",
+  "Text": "don't think it's actually that interesting of a question, it's brought up so often that I had to ask it because that's exactly how I felt after a while. You know, something about, there was almost a, I've watched your movie the first time, at least for the first little while in a defensive way. How dare this person try to step into the A I space and try to beat Kubrick. That's the way I was thinking because it comes off as a movie that really is going after the deep fundamental questions about a, I, so there's a kind of a nerds. Do I get automatically searching for the flaws? I, I exactly the same, I think in annihilation in the other movie I would be able to free myself from that much quicker. That it's a, it is a thought experiment. There's, you know, who cares if there's batteries that don't run out, right? Those kinds of questions. That's the whole point. But uh it's nevertheless, something I wanted to bring up."
+}

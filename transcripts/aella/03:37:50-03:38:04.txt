@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:37:50",
+  "End": "03:38:04",
+  "Text": "little but that crutch is useful and it's kind of sexy. Like, it's kind of cool because it's nice to quote because, because a good quote allows you to be cheesier than you otherwise would be. Ok."
+}

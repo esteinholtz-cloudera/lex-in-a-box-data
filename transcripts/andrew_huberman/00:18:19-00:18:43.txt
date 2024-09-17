@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:19",
+  "End": "00:18:43",
+  "Text": ". Is there something you've learned about yourself? About your deepest fears? Like you said, snakes, is there something that like if I were to torture you? I'm so I'm Russian. So, know, I always kind of think how could I murder this people that this person that entered the room? But also how could I torture you to get some information out of you? What would I go with?"
+}

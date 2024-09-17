@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:08",
+  "End": "01:38:15",
+  "Text": "life have been any different? I mean, do you regret certain aspects of the decisions made?"
+}

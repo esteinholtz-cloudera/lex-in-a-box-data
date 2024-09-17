@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:14:50",
+  "End": "03:15:18",
+  "Text": ", if they're taking steps to cover anything up, it's just their own. It's a, it's a painful reminder of their lack of competency at the time. Now, I understand that conspiracy theorists want to take inklings of information put them together in a way that that is the most damning. But that goes back to our point about overvaluing losses and undervaluing gains. It's just predictable human behavior."
+}

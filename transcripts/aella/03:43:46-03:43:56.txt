@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:43:46",
+  "End": "03:43:56",
+  "Text": ". Like, you have to pick that number of years and you have to live that many years and you can't live anymore. You can't die sooner, I guess. A million years."
+}

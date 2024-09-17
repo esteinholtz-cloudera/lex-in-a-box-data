@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:49:43",
+  "End": "02:50:10",
+  "Text": "because the linear, it was just so clustered at the bottom you couldn't really separate it out. So there's obviously a selection effects. It's possible that like the identity results at the end impacted people's results a little bit. But the thing is like, I'm comparing it to what, like what is the alternative. And right now the research on this stuff is terrible. So it's like I'm not saying my research is perfect, but it's like at least it's something like it's something that's pointing us maybe in a direction that we might be able to do more research on and you're making"
+}

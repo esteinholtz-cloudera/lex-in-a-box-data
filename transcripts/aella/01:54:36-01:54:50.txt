@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:36",
+  "End": "01:54:50",
+  "Text": "like that or something like that. If the person pays for dinner or like, so, like, it's all just, if any money is involved, if it's a kink, then you could just, like, use it and, you know, buys a coffee at Starbucks. It's like, all right."
+}

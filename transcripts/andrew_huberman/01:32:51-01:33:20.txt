@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:51",
+  "End": "01:33:20",
+  "Text": "of the brain can happen at their early level. You know, another perspective of it is uh saying this means that humans aren't that special. If you look at the evolutionary timescale, the leap to intelligence is not that special. So the extra layers of abstraction where most of the magic happens of intelligence, which gives me hope that maybe if that's true, that means the evolution of intelligence is not that rare of an event."
+}

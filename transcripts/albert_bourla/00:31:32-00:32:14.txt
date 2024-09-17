@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:32",
+  "End": "00:32:14",
+  "Text": "you're developing drugs, you're developing solutions to help millions of people, but there's risk involved. so there would be lawsuits heading back your way. Because there's a lot of lawyers in the world,. do you put that into the calculation of, of how you tried to do good in the world? some of the cost is the lawsuits. How, how do you uh fall victim to thinking that it's just the cost of doing business and then some of the lawsuits might actually represent real pain that people are going through."
+}

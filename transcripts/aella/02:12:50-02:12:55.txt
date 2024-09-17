@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:12:50",
+  "End": "02:12:55",
+  "Text": ". Someone must have called you or something because I didn't remember exactly how it worked. I just remember thinking later"
+}

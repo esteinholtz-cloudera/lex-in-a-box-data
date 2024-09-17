@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:36:54",
+  "End": "01:37:06",
+  "Text": "could take. So that's part of it is good. Like you want to most efficiently filter out because one, like you get more people taking the survey, the fewer questions you have, which is good for finding a mate. Like if you have 5000 men take the surveys better than 1000 men take. Don't you"
+}

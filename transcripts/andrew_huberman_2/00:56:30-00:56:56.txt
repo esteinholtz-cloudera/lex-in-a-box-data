@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:30",
+  "End": "00:56:56",
+  "Text": "thing that you mentioned, he's probably going to push my buttons. It's a good place to ask a question about anger. So I'll probably get pissed off at him at some point, I'm guessing. And do you have thoughts a scientific perspective or also just the personal philosophical perspective about the role of anger and all of this in managing alertness performance? I"
+}

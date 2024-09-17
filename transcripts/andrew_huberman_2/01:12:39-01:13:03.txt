@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:39",
+  "End": "01:13:03",
+  "Text": "is the thing is I've never been there on the 2nd, 3rd, 4th, 5th day, that kind of thing. But when I just don't eat for 20 hours times through my training, clarity, it's like you feel like everyone is moving super slowly and you're able to dominate people. You weren't able to before. It's like, well,"
+}

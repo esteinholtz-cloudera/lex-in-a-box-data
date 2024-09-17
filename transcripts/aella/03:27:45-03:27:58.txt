@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:27:45",
+  "End": "03:27:58",
+  "Text": "I feel like then is no longer random. You kind of want to do random, you just do it and just do it like across the world somewhere in some random place just for like a single event for like a dinner. Yeah,"
+}

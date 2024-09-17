@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:40",
+  "End": "00:39:29",
+  "Text": ". And is there one at the shallow level for a better experience? It seems that robots need to talk back a little bit like my intuition as I mean, most companies from uh sort of Roomba autonomous vehicle companies might not be so happy with the idea that a robot has a little bit of an attitude. I feel it feels to me that that's necessary to create a compelling experience. Like we humans don't seem to respect anything that doesn't give us some attitude or like a mix of mystery and attitude and anger and that threatens us subtly, maybe passive aggressively. I don't know, it seems like we humans need that. are your, is there something you have thoughts on this? I'll"
+}

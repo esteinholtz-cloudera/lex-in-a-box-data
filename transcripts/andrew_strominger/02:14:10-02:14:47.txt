@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:14:10",
+  "End": "02:14:47",
+  "Text": "is hard to understand why there would, given that there's so many planets and of course, there's Drake's formula and we don't exactly know what the, but I mean, I think Fermi's paradox that, you know, is a real paradox and, think they're, probably are. And, uh I think it's very exciting that, uh know, we might, you know, find some, it's, it's a logical possibility that we could learn about it."
+}

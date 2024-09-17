@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:18:25",
+  "End": "01:19:18",
+  "Text": "not an expert in this area, but an anecdote that I'll share my understanding is that NASA has still not decided whether it's better to send married couples or single crew members in terms of uh you want some level of stability. You don't want to have the drama of romantic relationships like you're, you know, alluding to before, but they can't decide because married couples fight and have a really tough dynamic. And so there's a lot of open questions still to answer about what is the ideal psychological makeup of a crew. And we're starting to test some of these things with the civilian crews that are going up with inspiration four like last Fall with SpaceX and a one that's going to fly in a few days here in March we begin to lengthen the time of those civilian crews, I think we'll start to learn a little bit more about just average everyday human to human dynamics and not the astronauts that are themselves selected to be perfect human specimens. Very good to work with, easy to get along."
+}

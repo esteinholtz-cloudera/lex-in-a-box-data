@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:11",
+  "End": "00:27:18",
+  "Text": ", like you really struggle with it. You're proud of it. I do too. It's not we have different journeys. But"
+}

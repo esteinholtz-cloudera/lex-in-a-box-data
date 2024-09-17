@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:42:15",
+  "End": "01:42:57",
+  "Text": "wouldn't say that setting impossible goals exactly is, is a good idea. But I think setting very ambitious goals is a good idea. I think there's a what I call sublinear scaling of difficulty. Uh which means that 10 X problems are not 10 X hard, usually 10 X, 10 X harder problem is like two or three X harder to execute on. Because if you want to actually, like if you want to improve the system by 10% it costs some amount of work. And if you want to 10 X improve the system, it doesn't cost, know, 100 X amount of work. And it's because you fundamentally change the approach. And if you start with that constraint, then some approaches are obviously dumb enough going to work and it, it forces you to re evaluate. Um And I think it's a very interesting way of approaching problem solving,"
+}

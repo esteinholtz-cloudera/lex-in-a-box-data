@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:00:10",
+  "End": "00:00:39",
+  "Text": "flew down to Austin just to wish me a happy birthday. And we decided to do a podcast. Last second, we literally talked for hours beforehand and a long time after late into the night, he's one of my favorite human beings, brilliant scientist, incredible teacher and a loyal friend. grateful for Andrew. I'm grateful for good friends for all the support and love. I've gotten over the past few years. truly grateful for this"
+}

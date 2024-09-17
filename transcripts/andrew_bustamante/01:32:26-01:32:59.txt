@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:32:26",
+  "End": "01:32:59",
+  "Text": "I'm saying is that through a conversation, you develop a baseline, right? Like even just in the last, the last, the first part of our conversation we've had, I've been able to create some baseline elements about you. You've been able to create baseline elements about me. Maybe they're just not front of mind those baselines. Now, we can push through more intentional questions to test, got it to test whether or not the person is being truthful because they're operating within their baseline or if you are triggering uh sensitivities outside of their baseline and then you can start to see their tells."
+}

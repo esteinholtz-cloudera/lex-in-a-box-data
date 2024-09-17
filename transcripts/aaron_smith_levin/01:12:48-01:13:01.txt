@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:48",
+  "End": "01:13:01",
+  "Text": "on. David Miscavige. question. But can you make both the case that he is a good man who's misunderstood and the case that he's not a good man."
+}

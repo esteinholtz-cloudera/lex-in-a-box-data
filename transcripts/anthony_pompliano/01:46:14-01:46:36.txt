@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:14",
+  "End": "01:46:36",
+  "Text": ". So you mentioned a few interesting ideas. That'd be nice for people who would not be familiar with it. Cold storage, hot storage. What does that mean? So, I go to a website and I convert dollars to Bitcoin. That's a kind of storage that's like online banking. right, what else is there?"
+}

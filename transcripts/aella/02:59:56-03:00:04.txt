@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:59:56",
+  "End": "03:00:04",
+  "Text": ", you know, this person is on a date with this person, they get drunk and the other person is not drunk. I try to keep gender neutral names for all of"
+}

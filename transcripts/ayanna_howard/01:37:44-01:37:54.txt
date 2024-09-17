@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:37:44",
+  "End": "01:37:54",
+  "Text": "then you have the ethicist, the robotics folks that are like, no, this has got to stop. I will take the other pill in order to make a difference."
+}

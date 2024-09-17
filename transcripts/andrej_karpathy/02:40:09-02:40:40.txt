@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:40:09",
+  "End": "02:40:40",
+  "Text": "I was leaving Tesla. After five years, I spent a ton of time in meeting rooms. Uh and you know, I would read papers in the beginning when I joined Tesla, I was writing code and then I was writing less and less code and I was reading code and then I was reading less and less code. And so this is just a natural progression that happens, I think. And uh definitely, I would say near the tail end that's when it sort of like starts to hit you a bit more that you're supposed to be an expert. But actually source of truth is the code that people are writing the github and the actual, the actual code itself. Uh and you're not as familiar with that as you used to be. And so I would say maybe there's some like insecurity"
+}

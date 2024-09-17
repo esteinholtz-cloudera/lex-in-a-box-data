@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:57",
+  "End": "00:28:07",
+  "Text": ". I'm a little bit naive and, like, I don't care at all about money. And so a,"
+}

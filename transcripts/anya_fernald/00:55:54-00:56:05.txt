@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:55:54",
+  "End": "00:56:05",
+  "Text": "don't see why it isn't. I mean, it's, it's complex to scale, I mean, we're putting people on the moon and you have a robotic dog. I mean,"
+}

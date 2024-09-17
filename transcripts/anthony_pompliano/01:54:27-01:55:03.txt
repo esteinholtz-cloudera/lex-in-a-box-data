@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:27",
+  "End": "01:55:03",
+  "Text": "again, this is not financial advice, disclaimer. But let me ask you in terms of investment advice on Bitcoin. So you see Bitcoins potentially, not just the thing that you speculate over, like you buy and sell, buy and sell, buy and sell, it's something that you can just buy only. I believe I've heard that you own quite a large percentage of your wealth in Bitcoin and you're basically buying only and storing long term. So that's something that's a legitimate way to approach Bitcoin in your recommendation,"
+}

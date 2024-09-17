@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:55:11",
+  "End": "00:55:45",
+  "Text": "tried to go to college but failed. Couldn't afford it. you like it? remember it just being really slow. I remember being shocked that the teachers didn't care. Like, I was used to homeschooling and where, I don't know, it just like, it meant something, it felt like the people around me that were teaching me because we had, like, a mom's group also, like, directly cared about what I was learning and I would be able to ask questions and they would, like, really respond to mom's group and it was like a homeschooling groups where a bunch of moms who are homeschooling their kids get together and then teach each other's kids. Oh, cool. Yeah."
+}

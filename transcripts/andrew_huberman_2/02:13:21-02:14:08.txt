@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:21",
+  "End": "02:14:08",
+  "Text": ". let's just put it this way, there's a lot of fascinating computer vision problems involved, but I only kept long sequences of data where the eyes detected exceptionally well. And I also removed people that were wearing glasses, I removed. There's certain people that have a way of moving their eyes squinting where it's harder to infer like concrete blinks. They'll kind of have a squint the whole time and their blink is very light. It's very tough to know what's with an actual blink. So I wonder"
+}

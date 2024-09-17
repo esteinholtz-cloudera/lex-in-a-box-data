@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:43",
+  "End": "01:20:47",
+  "Text": "the cloak of anonymity on the internet you weren't getting."
+}

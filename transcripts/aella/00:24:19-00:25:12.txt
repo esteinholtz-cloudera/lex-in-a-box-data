@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:19",
+  "End": "00:25:12",
+  "Text": "? Like ethics and morality, you could construct studies that ask different questions like uh you know, just having worked with autonomous vehicles a lot, the trolley problem gets brought up and I don't know, you can construct all kinds of interesting surveys about the trolley problem. But does that really get at some deep calculus that humans do? It's sexy because people write Clickbait articles about it but doesn't really get to like what you value more five grandmas or like three Children, whatever they construct these arguments of like, if you could steer a train if you could steer an autonomous car. Which do you choose?, I don't know. I don't know if it's possible with some of those to construct, like sometimes the fuzzy area, there's some topics that are fuzzy and will forever be fuzzy. Given our limited cognitive capabilities."
+}

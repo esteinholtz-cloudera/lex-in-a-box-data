@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:46:15",
+  "End": "01:46:22",
+  "Text": "not great at it, right? As it stands. No, because it's like necessarily short, you can quote, treat things out of context, et cetera. But,"
+}

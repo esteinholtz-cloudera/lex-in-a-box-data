@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:38:59",
+  "End": "01:39:26",
+  "Text": "know, but and there's quite a few folks who talk about the fall of the American Empire. And it also concerns me that we don't know when that might fall. You assume me as a very excited naive American. I'm very excited by this project that I think is the beacon of hope in the world still. But that's probably how you, you know, that's, that's probably how you feel before it's the end. It's"
+}

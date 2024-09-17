@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:47:59",
+  "End": "02:48:04",
+  "Text": "kind of beautiful a kind of Russian masochistic"
+}

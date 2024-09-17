@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:01",
+  "End": "01:10:49",
+  "Text": "the alertness side, I do feel like it's probably person dependent for me. Alertness alert makes my life better in a lot of ways, more than just the alertness itself. Like for example, one of the things I discovered with fasting that when I was training twice a day in jiu jitsu, for example, and competing and so on. I performed way better at things that you traditionally would say you need carbs for which is explosive movements and all that. don't know if I actually perform better in terms of the force of the explosion, the explosiveness, what I do know is the alertness resulted in me doing the technique more precisely."
+}

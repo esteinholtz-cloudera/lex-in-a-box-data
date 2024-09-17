@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:14",
+  "End": "02:48:26",
+  "Text": ". I got it. But that's interesting was young people are probably better for this kind of survey because there's probably a culture that's a little bit more honest about their sexuality. Yeah."
+}

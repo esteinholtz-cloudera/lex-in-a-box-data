@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:30:20",
+  "End": "02:30:58",
+  "Text": ", he copilot, I love it and it's free for me, but I would pay for it., I think it's very good. And the utility that I found with it was is in is it, I would say there is a learning curve and you need to figure out when it's helpful and when to pay attention to its outputs and when it's not going to be helpful where you should not pay attention to it. Because if you're just reading its suggestions, all the time, it's not a good way of interacting with it, but I think I was able to sort of like mold myself to it. I find it's very helpful. Number one in uh copy paste and replace some parts. So I don't um when the pattern is clear, it's really good at completing the pattern. number two, sometimes it suggests API S that I'm not aware of. So it tells you about something that you didn't know. So, and that's"
+}

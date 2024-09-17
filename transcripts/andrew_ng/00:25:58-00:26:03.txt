@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:58",
+  "End": "00:26:03",
+  "Text": ", so you, you're saying that, that, that perhaps was the wrong intuition for the time, for"
+}

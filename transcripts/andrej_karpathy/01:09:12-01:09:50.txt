@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:09:12",
+  "End": "01:09:50",
+  "Text": "definitely, it's really interesting because search engines used to be about. Ok, here's some query, here's, here's, here's web pages that look like the stuff that you have, but you could just directly go to answer and then have supporting evidence. Um, and these, uh, these models, basically, they've read all the texts and they've read all the web pages and so sometimes when you see yourself going over to search results and sort of getting like a sense of like the average answer to whatever you're interested in uh like that just directly comes out, you don't have to do that work. Um they're kind of like a,, I think they have a way to this of distilling all that knowledge into like some level of insight basically. Do"
+}

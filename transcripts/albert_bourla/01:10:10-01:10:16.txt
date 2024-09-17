@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:10",
+  "End": "01:10:16",
+  "Text": ", this is the, the, this is, this is the dangerous thing. This is the sad thing."
+}

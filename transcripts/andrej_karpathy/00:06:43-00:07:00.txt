@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:43",
+  "End": "00:07:00",
+  "Text": "poetry is just a collection of letters with spaces, but it can make us feel a certain way. And in that same way, when you get a large number of knobs together, whether it's in the inside the brain or inside a computer, they seem to, they seem to surprise us with, with their power."
+}

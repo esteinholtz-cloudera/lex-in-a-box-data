@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:30:02",
+  "End": "00:30:08",
+  "Text": "so we never, we're never very sure which are, which are the really important ones."
+}

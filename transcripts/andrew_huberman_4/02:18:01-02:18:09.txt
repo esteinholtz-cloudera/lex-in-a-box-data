@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:18:01",
+  "End": "02:18:09",
+  "Text": "can't wait to ready for it when, uh, you know, uh when, when God decides I'm ready, I'll, I'll, I'll have him"
+}

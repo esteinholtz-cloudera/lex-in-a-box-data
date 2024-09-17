@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:12:23",
+  "End": "00:13:21",
+  "Text": ", and then I see if that makes sense and then I check it with my intuitions, which is really the scientific process. And I really, many ways, I feel like I'm a physicist at heart, all of my inquiry, all of my career, everything I'm interested in actually going back to being a child is just deep curiosity about how the world works, what this place is, what it's made of how we got here. Um Just being amazed at the fact that I'm having an experience over here and you're having one over there and we're in this moment of time. And know, what does that all mean? My interest in consciousness really came out of originally an interest in physics. And, and I guess that the two were always side by side and I didn't really connect them until I was older. But um I've always been really interested in just understanding the nature of reality. Um Before I even had the language to describe"
+}

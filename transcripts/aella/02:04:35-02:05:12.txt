@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:35",
+  "End": "02:05:12",
+  "Text": ", no, no, that's not other people. Just my personal, my personal feeling and the other is like, jokes because like, we're talking about sex, right? So, for me, it's fun to just around. But you also have to tread carefully because like,, it's a weird, it's a weird surface because like, you know, even I already feel bad about making a joke for 50 bucks for a hand job. That's crappy by me. Um, but I think, think sometimes you just got to go for it. I went for it. It kind of flat, fell flat on his face. But, uh,, that, that's the thing of the conversation."
+}

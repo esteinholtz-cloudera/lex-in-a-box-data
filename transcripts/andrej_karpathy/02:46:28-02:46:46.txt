@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:46:28",
+  "End": "02:46:46",
+  "Text": "it. It's beautiful. You're a rare human in that sense. What advice would you give to researchers trying to develop and publish idea that have a big impact in the world of A I? maybe um undergrads, maybe early graduate students."
+}

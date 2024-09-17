@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:52:11",
+  "End": "00:52:47",
+  "Text": "Well, I was just before I came here writing an introduction to a paper in the first sentence was yet imprecisely defined holographic principle, blah blah blah blah. So nobody knows exactly what it is. But roughly speaking, it says just what we were alluding to that. Um all the information that is in some volume of space time can be stored on the boundary of that region."
+}

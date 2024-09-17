@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:00",
+  "End": "00:50:07",
+  "Text": "you don't see the connection between thinking the earth is flat coming up"
+}

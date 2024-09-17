@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:15:38",
+  "End": "01:16:37",
+  "Text": ", it stops doing its job. there's, yeah, there's such a thing as optimizing for things and, and you know, failing to, to ahead of time of all the possible things that might be important. And so that's so that's interesting because his story, I work a lot on reward learning from the perspective of customizing to the end user, but it really seems like it's not just the interaction with the end user. That's a problem of the human and the robot collaborating so that the robot can do what the human wants, this kind of back and forth, the robot probing the person being informative, all of that stuff be actually just as applicable to this kind of maybe new form of human robot interaction, which is the interaction between the robot and the expert programmer, roboticist designer in charge of actually specifying what the heck one should do, specifying the task for the"
+}

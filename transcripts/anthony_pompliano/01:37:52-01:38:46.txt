@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:52",
+  "End": "01:38:46",
+  "Text": ". Yeah. And also, I mean, this whole process with overdraft fees and just many of the financial transactions we have to live through today forces many of us to be like accountants to understand the different mechanism of financial movement of money as opposed to you, which is what we want to do as human beings operating in high layers of providing services for others following your passions and working for others doing cool shit or you know, basically providing value exchanging value in the world and not thinking about the money, the money takes care of itself and then you see the results of it. So you're able to think in terms of money but not have to know how the accounting works."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:49",
+  "End": "01:27:19",
+  "Text": "book or books, technical or fiction or philosophical had uh when you look back at your life had a big impact, maybe it was a turning point was inspiring in some way, maybe we're talking about some silly book that nobody in their right mind would want to read. Or maybe it's a book that you would recommend to others to read. Or maybe those could be two different recommendations that uh of books that could be useful for people on their journey"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:57",
+  "End": "01:12:17",
+  "Text": "we so we know Bell Campo and just the way sort of this regenerative farming approach of Bel Campo and the sort of how humane is good for the land is good for the animal. you comment on ways? It's good for the human that eats the meat., is this me better for you?"
+}

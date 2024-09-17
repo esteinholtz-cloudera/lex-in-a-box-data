@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:54:40",
+  "End": "02:54:49",
+  "Text": "didn't have a tie on, but you had all the look and seriousness that you do now. So clearly, nature nurture. Clearly you were born with that. What"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:34:27",
+  "End": "02:34:50",
+  "Text": "you recognize it when you have it, when you have a great collaboration. I mean, in science, but also in other areas in this TED production, I'm working on. I just happen to working with this producer where we have this instant connection and the chemistry is great and I have so much fun recording with her. It's like, it's so great to have, I usually work alone and it's been wonderful to have. So"
+}

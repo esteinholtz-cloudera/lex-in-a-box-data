@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:35",
+  "End": "00:53:40",
+  "Text": "typing is not a reaction or is it the brain generating words? And then you're like, how's typing a reaction?"
+}

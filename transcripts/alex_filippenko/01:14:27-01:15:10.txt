@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:14:27",
+  "End": "01:15:10",
+  "Text": "life? I'm sorry, I switched gears there. If we, if we found some intelligent or rather, you know, even, even Trilobites, right? And stuff, you know, elsewhere that would be bad news for us because that would mean that the great filter is ahead of us, you know? Right. Because it would mean that lots of, lots of things have gotten roughly to our level., but given the Fermi paradox, if you accept that the Fermi paradox means that there's no one else out there, you don't necessarily have to accept that. But if you accept that, it means that no one else is out there. And yet there are lots of things we found that are at or roughly at our level. That means that the great filter is ahead of us and that bodes poorly for our long term future. funny,"
+}

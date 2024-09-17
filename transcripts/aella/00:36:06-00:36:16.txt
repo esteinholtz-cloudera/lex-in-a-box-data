@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:06",
+  "End": "00:36:16",
+  "Text": "who uses, sorry to interrupt the word cum in their argumentation I think is sus"
+}

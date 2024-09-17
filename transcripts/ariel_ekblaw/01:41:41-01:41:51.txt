@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:41:41",
+  "End": "01:41:51",
+  "Text": "it's a stable orbit. Um There are several different Lagrange points and so it just requires less energy to stay where you're trying to stay."
+}

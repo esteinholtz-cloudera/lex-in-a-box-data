@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:25",
+  "End": "00:14:28",
+  "Text": ". Yeah, the hijab is a symbol of something much deeper,"
+}

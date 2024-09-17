@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:21:02",
+  "End": "00:21:17",
+  "Text": "do you think capitalism that's maybe one of the flaws of capitalism is it turns a blind eye to injustices against human nature? Against the human rights. Like it turns a blind eye to authoritarian governments."
+}

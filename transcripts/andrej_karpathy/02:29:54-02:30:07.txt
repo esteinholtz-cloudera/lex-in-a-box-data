@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:29:54",
+  "End": "02:30:07",
+  "Text": "think the current answer is VS code currently. I believe that's the best. Um E it's got a huge amount of extensions. It has a guitar copilot um uh integration, which I think is very valuable. What do you think"
+}

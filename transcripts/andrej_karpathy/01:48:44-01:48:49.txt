@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:44",
+  "End": "01:48:49",
+  "Text": ", you're climbing a mountain and it's fog, but you're making a lot of progress,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:45",
+  "End": "01:18:48",
+  "Text": "of the sentence is called the"
+}

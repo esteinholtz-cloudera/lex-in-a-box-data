@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:56:16",
+  "End": "00:57:05",
+  "Text": "where I feel like we in the industry need more help. know, the A I piece the intelligence, the, the the thinking about ways to do things differently is where we need more support. And I think it's been a, you know, a kind of a in the past of years where it's like meats a mess. It's terrible. So let's ditch meat and are opt for these hyper processed, you know, plant-based solutions. And am saying there's a way to make meat, this a part of the solution and it's going to mean eating less of it. It's going to mean paying more for it. It's going to mean that the farming systems are more complicated. not the easiest path, but I think in the long term, it's the better path and it's also better for human health."
+}

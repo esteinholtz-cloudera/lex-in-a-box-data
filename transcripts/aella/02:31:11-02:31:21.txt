@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:11",
+  "End": "02:31:21",
+  "Text": "I guess if you're honest, the body need to put it on the table. don't want you to have any friends. I want you to sit in a box."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:52",
+  "End": "01:41:54",
+  "Text": "is a path to acceptance."
+}

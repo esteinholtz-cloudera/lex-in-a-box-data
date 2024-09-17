@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:48:57",
+  "End": "00:49:37",
+  "Text": ", like, is there somebody that you respect to consider significantly smarter than you? And can you imagine believing an idea that you've heard them talk really disdainfully about? Like, how would you feel coming to me? Like, I believe this thing that you find to be., I do all the time. Maybe braver than me and to be fair. I support doing this. I try to do this. But I think subconsciously I notice that I don't do it as much. And so I'm suspicious of myself. I'm like, oh, I wonder if I'm hiding to myself, like, actual curiosity about things that might deviate from my peer group because I've noticed that I'm not actually deviating with them as much as I do with the outside world. That's"
+}

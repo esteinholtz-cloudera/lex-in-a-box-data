@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:06",
+  "End": "00:09:27",
+  "Text": "are still being made. So there is a if you ran the universe over again, is there, would it turn out the same way? I mean, maybe I'm trying to sneak up to like, does it mean to make a decision in a way? That's almost uh that means"
+}

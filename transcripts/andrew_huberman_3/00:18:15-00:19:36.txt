@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:15",
+  "End": "00:19:36",
+  "Text": ". Well, I actually to push back, I know there's a culture of if you write a paper standing on the shoulders of giants is a powerful thing, but there's also a culture of not giving credit the strongest idea in your paper and instead say or imply that it's original. There is a culture of kind of not celebrating others. I think people get most competitive in all walks of life, but especially in science, when the closer they get and exactly the thing they work on. so there's this dance, you know, there's a few researchers in each of the individual little things that you work on. If you're studying a particular kind of ant, you know, that other asshole that also is studying that particular ant, and then you're not going to often give credit for the brilliant ideas that, that other researcher is doing. And I think one of the things you've discovered and just as part of your nature and which is why it's really great that you've have an audience and you inspire others to do the same as you celebrate. That other ant Studer is great and you, everybody wins. It raises all boats. But that initial instinct to be like, uh what is it in Borat? Like my neighbor, my neighbor gets a, a toaster. I get a bigger toaster"
+}

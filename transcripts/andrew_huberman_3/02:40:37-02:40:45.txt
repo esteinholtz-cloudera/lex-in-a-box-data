@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:40:37",
+  "End": "02:40:45",
+  "Text": "right there. I love the owl. I love the ow, the owl shows up every once in a while. I love the, sorry, I interrupted you again."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:32:02",
+  "End": "02:32:09",
+  "Text": "when you're the techno king, you can do whatever you want, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:37:53",
+  "End": "01:38:11",
+  "Text": ", infinite space. And by that, I mean that if you were trying to use light to measure its size, you'd, you'd never be able to measure its size because it would always be bigger than the distance light can travel. That's what you get in a universe that's accelerating in its expansion."
+}

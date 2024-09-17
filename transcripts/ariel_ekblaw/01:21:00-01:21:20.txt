@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:21:00",
+  "End": "01:21:20",
+  "Text": ", I'm coming back. I don't want that one way mission. I want the two way mission. Um But yes, I mean, I think we're already talking about a pretty near term opportunity where I could send graduate students to the International Space Station, a sacrifice but send graduate"
+}

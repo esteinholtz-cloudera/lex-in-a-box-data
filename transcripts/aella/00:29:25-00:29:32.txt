@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:25",
+  "End": "00:29:32",
+  "Text": "not possible. No, if you understand the mechanism of consciousness, you'll be able to measure it probably. Right."
+}

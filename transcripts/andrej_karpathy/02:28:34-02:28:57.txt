@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:34",
+  "End": "02:28:57",
+  "Text": "? It's never, it's never just one minute. It's just, it's just a quick big deal. Why are you being so? No, what's your computer setup? uh what's like the perfect do? Are you somebody that's flexible to no matter what laptop four screens or do you prefer a certain set up that you're most productive?"
+}

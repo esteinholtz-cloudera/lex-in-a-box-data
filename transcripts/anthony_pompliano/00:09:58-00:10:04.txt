@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:58",
+  "End": "00:10:04",
+  "Text": ". So what impact, I mean, do you remember 911? What impact did that have on your thinking about this? So,"
+}

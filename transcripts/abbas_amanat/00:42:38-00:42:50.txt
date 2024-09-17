@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:42:38",
+  "End": "00:42:50",
+  "Text": "majority of the population of the Muslim world are Sunnis that these are main street. If you like to call that, Stona means that kind of a ministry."
+}

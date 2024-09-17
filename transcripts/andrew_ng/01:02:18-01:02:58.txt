@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:18",
+  "End": "01:02:58",
+  "Text": "actually a really profound advice that we kind of sometimes sweep, we don't consider rigorously or carefully is the people around you are really often, especially when you accomplish great things. It seems the great things are accomplished because of the people around you. that, that's um not about the, whether you learn this thing or that thing or like you said, the logo that hangs up top. It's the people. That's a fascinating and it's such a hard search process of just like finding the right friends and somebody to get married with and that kind of thing. It's a very hard, it's a people search problem."
+}

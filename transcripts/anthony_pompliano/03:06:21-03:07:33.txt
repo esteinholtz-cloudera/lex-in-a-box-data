@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "03:06:21",
+  "End": "03:07:33",
+  "Text": "also think it's kind of purpose driven in the sense of there's a lot of people who have the I need to do more, but in a somewhat altruistic way. they're, they're, you know, take Elon as an example, idea of colonizing Mars. If he is successful, he will be very rich. I don't think you or I, or many people believe he's doing it for the money, right. There's a lot of other things he could do that would be much easier. That would make him tons of money. so in some weird way, he has enough because he's able to free himself from the constraints of I need to acquire more resources and he can focus on what is the thing that I want to work on regardless of money. so in that pursuit that is noneconomic, you can be as selfish as you want because ultimately, you're not tied back to this like measurement tool. And so it's this uh again, like altruistic, non monetary purpose. And I think that there's a lot of people who spend their whole life looking for that and they don't know what it is. so, some people may not think of it that way. But if you can find something to do that, you win."
+}

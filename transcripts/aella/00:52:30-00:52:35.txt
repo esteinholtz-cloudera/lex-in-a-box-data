@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:52:30",
+  "End": "00:52:35",
+  "Text": "can what I'm typically following. I'll like occasionally throw in a little lead here and there. But"
+}

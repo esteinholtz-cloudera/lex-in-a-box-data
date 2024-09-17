@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:37",
+  "End": "00:29:44",
+  "Text": "there could be gray areas too. There's always gray areas. That's the challenging aspect of all ethical questions."
+}

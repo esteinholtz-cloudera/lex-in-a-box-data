@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:45",
+  "End": "02:41:25",
+  "Text": "non sequi, it means you're interested 70% of the time, the other thing, you're just an asshole. So you have to figure out. So I'm told there's non secular parts in this cartoon. It's voted as one of the greatest cartoons of all time short little films, documentary filmmakers. So it is um you know, in, in the Soviet Union, in, in a lot of sort of authoritarian regimes, channels to communicate difficult ideas to people and you figure out those channels and in the Soviet Union, one of those channels was uh children's cartoons. So you're actually, they're very much for adults."
+}

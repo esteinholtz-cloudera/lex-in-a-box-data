@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:12",
+  "End": "01:23:24",
+  "Text": "of work is the key and, and the theorem is about to leave proof of work. So about to go to proof of stake, which is literally the existing system where a small group of people get to decide the monetary policy. Yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:11:46",
+  "End": "01:11:49",
+  "Text": "moved into a house of cam girls."
+}

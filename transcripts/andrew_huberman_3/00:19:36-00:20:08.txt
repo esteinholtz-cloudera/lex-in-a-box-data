@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:19:36",
+  "End": "00:20:08",
+  "Text": "mindset. You know, it's not that I'm not competitive in certain domains. But um yeah, I get great pleasure from um sharing things that I find. um I think that, you know, at the end of the day, you're as strong as your community and you can build a wonderful community just by pointing out things that you love. Like these are all just loves. I see a paper and I love it only rarely do I think, oh, I wish we had done that. I usually think fantastic. Now, I can just focus on something else because they checked off that box"
+}

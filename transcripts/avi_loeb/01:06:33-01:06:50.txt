@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:33",
+  "End": "01:06:50",
+  "Text": "couple that with a curiosity and open mindedness that allows us to explore all kinds of possible hypotheses. always the pursuit of the scientific rigor around those hypotheses is ultimately get evidence"
+}

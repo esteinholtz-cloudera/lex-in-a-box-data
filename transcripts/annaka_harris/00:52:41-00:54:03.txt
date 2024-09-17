@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:52:41",
+  "End": "00:54:03",
+  "Text": "say that the scientists I know and some of them are very well known, very famous. Scientists are the least arrogant people I've ever met that scientists in general, personalities are more open, more humble, more likely to say they say they just don't know I've been involved a lot in the science writing and how the media portrays. So, one of scientists, the scientific community's greatest frustration how their work gets presented in the media. And a lot of the time that is the F I would say that's the main frustration is there's some new breakthrough, there's something and the scientists will be saying we're not sure we, you know, it's gonna take five year and the me, you know, no one likes to write a story about something that may or may not be true. They think it's true. They're gonna take five years testing it. And so the headline will be neuroscientists discovered, know, they want the sensational. And so I think the public often gets the false impression that the scientists are arrogant. And I really don't find that to be the case. And I've worked with all kinds of people, artists and life path has taken a strange,"
+}

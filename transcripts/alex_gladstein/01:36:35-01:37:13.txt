@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:36:35",
+  "End": "01:37:13",
+  "Text": ". I'm very jaded. I mean, it's very difficult to do these things at scale effectively. I do not believe we will be successful in boycotting the Chinese Olympics. We weren't in 2008. I don't think they're much more evil now and I don't think we're going to be able to do it this time that again to go back to the, the Bitcoin piece. That's why I'm like, very interested in this thing because it doesn't require my altruism. It doesn't require some famous singer or some corporation to sacrifice anything. They're literally just going to follow their own profit, seeking self interested motives and they're going to end up making a stronger human rights tool for other people. Freedom go up FGU man."
+}

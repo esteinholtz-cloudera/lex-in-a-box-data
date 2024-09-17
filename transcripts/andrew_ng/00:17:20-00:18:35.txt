@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:20",
+  "End": "00:18:35",
+  "Text": "stylus. The slowness of a white board is also its upside because it forces you to reduce everything to the basics. So some of some of your talks that involve the White Board. I mean, there's really, you go very slowly and you really focus on the most simple principles and that's a beautiful, enforces a kind of a minimalism of ideas that I think is surprising. At least for me is great for education. Like a great talk I think is not one that has a lot of content. A great talk is one that just clearly says a few simple ideas. And I think you the White Board somehow enforces that Abeel, who's now one of the top roboticists and reinforcement learning experts in the world was your first phd student. I bring him up just because I kind of imagine this is um this was must have been an interesting time in your life. Do you have any favorite memories of working with Peter since your first student in those uncertain times, especially before deep learning? Really, um sort of blew up any favorite memories from those times,"
+}

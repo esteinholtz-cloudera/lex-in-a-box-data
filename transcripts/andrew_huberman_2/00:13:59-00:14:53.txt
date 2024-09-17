@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:59",
+  "End": "00:14:53",
+  "Text": ", one fascinating thing you said is that blew my mind and we went right past it, which is the temperature is a really powerful like if you were to think about the ways that different parts of the body, different systems in the body would communicate with each other. Temperature would be a really good one. And that just, I mean, maybe it's obvious but it kind of blew my mind just now that, yeah, systems are all distributed, right. And they have to kind of, they're not actually sending signals but they're coordinating. They need some of universal thing to look at in order to coordinate and temperature is a nice one to, to to build her on. And that way can control the behavior of all these different systems by controlling the temperature. Right."
+}

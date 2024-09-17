@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:34:19",
+  "End": "03:35:13",
+  "Text": "is like,, I don't know what I make of just past of like time. know, like, each human is a collection of experiences you don't know most of those experiences and all of a sudden you meet this bag of experiences., what are you supposed to do with both of your like training data? you supposed to like, like what?, I don't know if we like part of me wants to not actually ever talk about it to care at all. Like, why does it matter? Because it's only the futures that matters and yet the past also matters a lot potentially but maybe not really because you're, you're, you're somehow like constructed from that past, but you're no longer that past."
+}

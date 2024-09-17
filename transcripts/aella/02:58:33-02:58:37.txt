@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:33",
+  "End": "02:58:37",
+  "Text": "a method of survival. So you stay out of the competition. Yeah."
+}

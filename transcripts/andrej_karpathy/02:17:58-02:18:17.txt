@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:17:58",
+  "End": "02:18:17",
+  "Text": "I can't talk about one day basically in isolation because it, it's a whole process when I want to get, when I want to get productive in the problem. I feel like I need a span of a few days where I can really get in on that problem and I don't want to be interrupted and I'm going to just be completely obsessed with that problem. And that's where I do most of my good work. I would say"
+}

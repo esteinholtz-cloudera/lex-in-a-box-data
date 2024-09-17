@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:47",
+  "End": "00:14:09",
+  "Text": "don't have to. is normal anyway. Uh, what do you think is the primary driver of human civilization? Is it the desire for sex, love power or immortality? Like avoiding uh the fear of death, constructing illusions that make us forget about our terror over mortality. So sex, love power, death."
+}

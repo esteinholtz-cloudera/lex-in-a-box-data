@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:17:18",
+  "End": "03:17:28",
+  "Text": ", everything now my whole life is in contrast to that and it's awesome. It's fucking great. I'm really thrilled about it."
+}

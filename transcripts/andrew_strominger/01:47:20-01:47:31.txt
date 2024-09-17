@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:20",
+  "End": "01:47:31",
+  "Text": "you think uh you highlighted the issue with time and the origin of the universe, do you think time is fundamental or or emergent?"
+}

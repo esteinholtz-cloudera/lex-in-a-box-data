@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:37",
+  "End": "00:23:42",
+  "Text": ", you did an episode on hypnosis. Do you think it's a kind of self hypnosis?"
+}

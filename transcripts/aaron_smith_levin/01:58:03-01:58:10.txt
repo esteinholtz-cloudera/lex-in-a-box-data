@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:03",
+  "End": "01:58:10",
+  "Text": "uh monogamous only you do like, can you do open marriages and open"
+}

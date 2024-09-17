@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:19",
+  "End": "01:06:25",
+  "Text": "me ask sort of another small side of this that we've been talking about the pure autonomous driving problem, but there's also relatively successful systems already deployed out there in the what you may call like level two autonomy or semi-autonomous vehicles, whether that's Tesla autopilot. Um I've worked quite a bit with um Super Guru system which has a, driver facing camera that detects your state. There's a bunch of basically lane centering systems. your sense about kind of way of dealing with the human robot interaction problem by having a really dumb robot, and relying on the human to help the robot out to keep them both alive. that, is that from the research perspective, how difficult is that problem? And from a practical deployment perspective, is that a fruitful way to approach this human robot interaction problem?"
+}

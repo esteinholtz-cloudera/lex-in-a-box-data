@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:02",
+  "End": "00:50:32",
+  "Text": "got, we got to go there a little bit. So, so how is it possible when we say gigabyte that there's some information so black holes can store information. How is this thing that sucks up all light? And it's supposed to basically be, you know, be super homogeneous and boring. How is that actually able to store information? Where does it store information on the inside on the surface? where, where's and what's information liking this? Ask five questions to see which one you actually answer."
+}

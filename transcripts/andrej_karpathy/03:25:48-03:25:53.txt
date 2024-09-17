@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:25:48",
+  "End": "03:25:53",
+  "Text": ", I think, I mean, I don't know if you looked at some of the whisper transcripts but they're quite good. They're good."
+}

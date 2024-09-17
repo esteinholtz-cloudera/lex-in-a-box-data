@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:16:07",
+  "End": "01:16:29",
+  "Text": ". Exactly. But for me, I've always been the person that likes operating and you know, what you still get to do when you leave CIA you still get to operate. is just working with people. It's understanding how people think, predicting their actions, driving their, their direction of their thoughts, persuading them winning negotiations. Like it's, you still get to do that. You do that every day"
+}

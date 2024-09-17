@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:18",
+  "End": "00:30:36",
+  "Text": ", it is almost like a treat. It has a flavor of its own that almost stands on its own. Like I could probably just eat cook. That's probably the only oil I could enjoy by itself. It sounds weird to say, but feels like fat is often a thing that enriches the flavor of something else. Coconut can almost stand on its"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:52:56",
+  "End": "03:53:53",
+  "Text": "that's what you want or you want, like a dominant, like, clearly this is what women want a dominator with strong hands. Yeah., and kind of dumb not. I don't know that you can customize. It would be interesting to do a survey, like, how they would customize it. What would you want in a perfect robot? That is the problem. I see with people the way they talk about robots is they kind of want a servant. think what people don't realize what they want in relationships. They want some like there's, it has to be a push and pull there, there has to be some resistance you, you really don't want a servant or even like the perfect manifestation of what, you think you want. I think you want imperfections around that like some uncertainty. I don't know. I, I question how well we're able to perfectly on paper, what we really want."
+}

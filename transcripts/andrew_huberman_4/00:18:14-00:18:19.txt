@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:14",
+  "End": "00:18:19",
+  "Text": "you've learned to trust your gut versus like the, the influences of other people's"
+}

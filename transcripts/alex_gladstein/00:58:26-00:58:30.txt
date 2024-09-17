@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:58:26",
+  "End": "00:58:30",
+  "Text": ", I know I'm outside this community."
+}

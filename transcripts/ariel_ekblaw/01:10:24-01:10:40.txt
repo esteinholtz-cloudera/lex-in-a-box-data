@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:24",
+  "End": "01:10:40",
+  "Text": "robot is equipped with four magnetic wheels which enabled the robot to attach to any magnetic surface. So you can operate basically in any environment. He tested the, we tested the mobility of all robots on different materials in a microgravity environment on"
+}

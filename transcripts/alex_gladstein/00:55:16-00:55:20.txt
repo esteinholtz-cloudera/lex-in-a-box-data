@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:55:16",
+  "End": "00:55:20",
+  "Text": "if we look at Zimbabwe Sudan, if we look at uh small"
+}

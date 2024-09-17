@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:21:12",
+  "End": "01:21:34",
+  "Text": "movie was amazing and it was only once he became famous from that movie his, a more academic work started to receive any kind of attention and he was invited back to Columbia and NYU you know, the New York Neuroscience mafia is a real thing. And yes, you know who you are and some of them are actually coming on the podcast. Um They, they, they are,"
+}

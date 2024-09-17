@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:21",
+  "End": "02:34:41",
+  "Text": "is going to be replaced in five years. I don't know, it's going to show that this is where we thought because I agree with you, but I think we might be very surprised. Right. Like, what, what are the next, what's your sense of where we stand with language models? Like, does it feel like the beginning or the middle or the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:25:00",
+  "End": "03:25:16",
+  "Text": "I agree. But at some point like if you've done it enough times, know, life is finite. You know, it is beautiful to see these couples that seem very much in love many years despite having been together many years,"
+}

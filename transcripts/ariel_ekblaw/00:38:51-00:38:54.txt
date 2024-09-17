@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:38:51",
+  "End": "00:38:54",
+  "Text": ", forced vacation, vacation, come"
+}

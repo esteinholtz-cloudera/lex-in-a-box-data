@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:00",
+  "End": "00:56:06",
+  "Text": "space time. OK. So what's the, what's the Sitter and anti Sitter space?"
+}

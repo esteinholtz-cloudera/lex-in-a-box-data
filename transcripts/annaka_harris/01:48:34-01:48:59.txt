@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:34",
+  "End": "01:48:59",
+  "Text": ", I mean, it's fascinating and the nice thing about psychedelics from my perception is that they don't currently suffer from the taboo that weed does for. I don't think so. example, there's some kind of cultural construct about a pothead that makes it so that Elon got in trouble for smoking weed."
+}

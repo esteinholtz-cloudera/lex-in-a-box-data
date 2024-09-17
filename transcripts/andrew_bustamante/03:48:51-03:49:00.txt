@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:48:51",
+  "End": "03:49:00",
+  "Text": "you do something that makes them think otherwise if you are consistent, we talked about consistency being the superpower. If you are consistent, they will think you're Bill forever."
+}

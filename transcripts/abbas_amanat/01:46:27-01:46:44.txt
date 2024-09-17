@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:27",
+  "End": "01:46:44",
+  "Text": "way, there's so much beautiful language here. I'm just looking at the, the Persian constitution in 1906 it says it's the constitution of the sublime state of Persia, Qajar, Iran, I mean, just, just the extra adjectives on top of this stuff is beautiful."
+}

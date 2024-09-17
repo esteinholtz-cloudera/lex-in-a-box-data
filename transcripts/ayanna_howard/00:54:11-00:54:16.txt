@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:11",
+  "End": "00:54:16",
+  "Text": ". Are you especially drawn to humanoid or human like robots?"
+}

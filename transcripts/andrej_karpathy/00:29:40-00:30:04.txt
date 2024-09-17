@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:29:40",
+  "End": "00:30:04",
+  "Text": ". It's some kind of a crazy explosion. And we're living, we're like, we're stepping through a explosion and we're like, living day to day and it doesn't look like it. But it's actually, if you, I saw a very cool animation of earth and life on earth and basically nothing happens for a long time and then the last, like, two seconds, like basically cities and everything and, and the lower orbit just gets cluttered and just the whole thing happens in the last two seconds and you're like this is exploding, this state explosion."
+}

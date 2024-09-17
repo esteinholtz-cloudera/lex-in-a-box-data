@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:25",
+  "End": "00:35:31",
+  "Text": "mean, the journals with A I are problematic across the board."
+}

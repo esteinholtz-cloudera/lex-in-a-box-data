@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:40:05",
+  "End": "00:41:17",
+  "Text": "that's a really, that's a very interesting question. going to approach it slightly obliquely, which is that if, if, uh, a friend of yours got stabbed in a mugging and, um, you then very angry at the person who'd done the stabbing. But then you learned that it was a 15 year old and the 15 year old, both their parents were addicted to crystal meth. And the kid had been addicted since he was 10 and he really never had any hope in the world and he'd been driven crazy by his upbringing and the stabbing that would hugely modify. And it would also make you wary about that kid then becoming president of America. And Ava has had a very, very distorted introduction into the world. So, although there's nothing as it, it were organically within Ava that would lean her towards badness. not that robots or sentient robots are bad. She did not, arrival into the world was being imprisoned by humans. So I'm not sure she'd be a great president."
+}

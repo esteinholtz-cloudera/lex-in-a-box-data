@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:28",
+  "End": "00:57:40",
+  "Text": ", ok. So they're, they're supposed to self control what they read or not? And what's the explanation is, is it always assumed that anything critical of Scientology is a lie."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:23:07",
+  "End": "01:24:00",
+  "Text": "? Yeah. So the first part of your question, I am thrilled by all of the commercial activity in space. It is really empowered our program. So instead of me waiting for five years to get a grant and get the money from the grant and only then can you send of space? I got my fundraise a lot like a start up founder and I directly buy access to space on the International Space Station through SpaceX or NANO Rx. Same with blue origin and their suborbital craft. Same with axiom. Now, axioms making plans for their own commercial space station. not out of the realm of possibility, but in a few years, I will rent lab space in orbit. I will rent a module from the Axiom Space Station or the Orbital Reef, which is the Blue Origin Space Station or NARA is thinking about star lab oasis. There's probably some other companies that I'm not even aware of yet that are doing commercial space habitat. So I think that's fabulous really empowering for our research."
+}

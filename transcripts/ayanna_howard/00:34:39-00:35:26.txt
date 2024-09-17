@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:34:39",
+  "End": "00:35:26",
+  "Text": "was the headline was racist A I Algorithms. OK, like OK, totally a Clickbait title. And so you looked at it and so there was data that these researchers had collected. Um I believe I want to say it was either science or nature, it was just published, but they didn't have a sensational title. It was like the media. so they had looked at uh demographics, I believe between and white women, right? And they show that there was a discrepancy in the outcomes,? So, and it was tied to ethnicity tied to race, the piece that the researchers did actually went through the whole analysis. But of course,"
+}

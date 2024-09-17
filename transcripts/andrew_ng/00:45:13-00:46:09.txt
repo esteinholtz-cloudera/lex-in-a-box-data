@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:45:13",
+  "End": "00:46:09",
+  "Text": ". Yeah, that's really cool. And I feel like, you know, the world actually needs all sorts even within machine learning. I feel like deep learning is so exciting, but A I team shouldn't just use deep learning. I find that my teams use a portfolio of tools and maybe that's not the exciting thing to say. But days we use the neurone. Some days we use uh you know, uh PC A. Uh Actually the other day, I was sitting down with my team looking at PC. A residual was trying to figure out what's going on with PC applied to manufacturing problem. days we use a pro graphical model. Some days we use the knowledge draft, which is one of the things that has tremendous industry impact. But the the amount of chat about knowledge drafts in academia is really thin compared to the actual real impact. So, so I think reinforcement learning should be in that portfolio and it is about balancing how much we teach all of these things and the world, the world should have diverse skills. It would be sad if you know, everyone just learn 11 narrow thing."
+}

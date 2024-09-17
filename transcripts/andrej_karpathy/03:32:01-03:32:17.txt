@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:32:01",
+  "End": "03:32:17",
+  "Text": "do think many people will, will go with that, which I think is great. I love the idea that people can just choose their own adventure. Like you, you are born as a conscious free entity by default. I'd like to think and you have your unalienable rights for life in"
+}

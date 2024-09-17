@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:54",
+  "End": "01:33:59",
+  "Text": "their mind, controlling their bodies through chemicals and, and"
+}

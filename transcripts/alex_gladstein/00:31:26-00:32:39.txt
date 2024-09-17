@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:31:26",
+  "End": "00:32:39",
+  "Text": "little bit of a stalemate here, democracy has really blossomed between World War two and year 2000, especially in the eighties and nineties, you had an incredible wave of fall. You know, where, where many, many authoritarian regimes fell and were replaced by democracies. I think around 22,015, the acceleration kind of to a standstill a little bit. Um There's some good news in some countries and there's bad news in others. Um like in the last 10 years you've had, for example, the Philippines has gone backwards. Um Thailand has gone backwards, Bangladesh has gone. Turkey has gone backwards. That's, that's like a half billion people right there. So you've had some positives. Um like you know, there was positive movement forward in Armenia, Malaysia, some other countries. Um but we're, we're kind of at a stalemate right now and what most people fear them about where we are right now, who, who I respect is what is the digital transformation of the world due to this like progressive democracy of open societies? And that's what concerns me the most interesting."
+}

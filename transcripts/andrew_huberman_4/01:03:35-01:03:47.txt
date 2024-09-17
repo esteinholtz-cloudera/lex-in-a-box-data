@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:35",
+  "End": "01:03:47",
+  "Text": "it interesting that this secret thing you're almost embarrassed by that you did it as a child is something you, oh, that's another thing you do as you get older is you realize like those things are part of you. And it's actually a beautiful"
+}

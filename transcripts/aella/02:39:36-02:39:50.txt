@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:36",
+  "End": "02:39:50",
+  "Text": "with animals. I guess dogs, horses oral sex from an animal is high taboo ness and pretty high"
+}

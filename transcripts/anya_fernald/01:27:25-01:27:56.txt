@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:27:25",
+  "End": "01:27:56",
+  "Text": "think it's because it was the first time that I had amazing food. Ok? Because uh in the, where I grew up there wasn't that crude quality. Like I had some stuff in my garden and things that were great. But that's the kind of place where when artichokes in season all of a sudden there's guys selling artichokes on their bicycles in the street and they're just fresh picked and you'd get that one thing or the torpedo onions or they like. So there's a seasonality and celebration of things in their peak moment and you would just have that one thing and that was the first time I'd ever eaten in that way."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:09",
+  "End": "01:45:14",
+  "Text": "of democracy should be seen as like a supreme leader. King"
+}

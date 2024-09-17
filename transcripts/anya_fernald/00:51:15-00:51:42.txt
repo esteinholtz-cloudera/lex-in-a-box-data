@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:15",
+  "End": "00:51:42",
+  "Text": ". I've got to ask, I don't know if you think about this kind of stuff I mentioned to you offline that I spent a bit of time with some robots and Boston dynamics. Do you think there's a way to use artificial intelligence to help? So, data collection. So automating some of the of the things that makes humans special, make some of that decision, some of that memory that's then utilized convergence to knowledge, to make decisions about the crops and so on. Is there a way A I can help? Do you think?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:23:33",
+  "End": "02:23:45",
+  "Text": "would say, I mean, just on my own use of these words, suffering is only something that can happen in a conscious experience, right? So can"
+}

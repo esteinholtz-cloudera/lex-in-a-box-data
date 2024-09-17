@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:09",
+  "End": "01:49:31",
+  "Text": "produced it. I mean, he did the produced, he pulled Johnny Cash out a dark place to produce something that um I mean, when you look back as one of the great things ever in music, which are these like a haunting covers of certain songs and originals,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:02",
+  "End": "02:15:23",
+  "Text": "societies more than others, there's certain culture, it might have to do with the romantic poetry that we mentioned earlier. I mean, surely, I mean, not to draw too many parallels, but with the Soviet Union, there is romanticism too. And I mean, I don't know, it does idealism,"
+}

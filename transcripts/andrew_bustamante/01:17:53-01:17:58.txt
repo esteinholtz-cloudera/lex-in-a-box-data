@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:17:53",
+  "End": "01:17:58",
+  "Text": ". I have, yeah, you have to military regulations. You can't have hair longer than one inch."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:58:46",
+  "End": "02:58:51",
+  "Text": "you think it will answer clearly or would it answer poetically?"
+}

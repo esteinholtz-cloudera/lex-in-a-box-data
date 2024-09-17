@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:55:40",
+  "End": "02:56:16",
+  "Text": "been afraid. I've just not been pulling the trigger out of fear because I enjoyed this life. This is sorry to interrupt. But it's ultimately, this question of taking a leap is like, uh say you're in academia like you're at MIT. I really love doing research at MIT. I really love that life. Why take a leap out? know, but I did uh because it's been a dream but now accidentally along the way, I found this podcasting thing, which is also really fulfilling. And, you know, it's like, why take a leap"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:37:22",
+  "End": "01:37:25",
+  "Text": "hope not. hope not in the"
+}

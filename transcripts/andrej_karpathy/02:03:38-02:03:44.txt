@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:03:38",
+  "End": "02:03:44",
+  "Text": ",, I think it's really hard to work on robotics in academic setting or A I"
+}

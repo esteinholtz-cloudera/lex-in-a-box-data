@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:21",
+  "End": "00:26:46",
+  "Text": "he also said, like, you know, he is the professional. said, how close do you like it to be? And he said it with a gentleness where I had like an existential crisis where I don't, I don't know, I, gave me so much like, wow, like he made me feel like an artist like that the microphone uh distance is a decision you're supposed to make. Well,"
+}

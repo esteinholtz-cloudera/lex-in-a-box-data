@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:52",
+  "End": "01:33:22",
+  "Text": "think freedom is really important. And that includes letting people who are hateful, letting people who are controversial have a voice on platforms, but it becomes, I'm not sure what exactly to think because also treasure the quiet voices in the back of the room sometimes the assholes,, silence those voices, meaning by being loud and obnoxious and so on. It pushes away the thoughtful people. So I'm also a fan of creating communities like you should be able to let people kind of a community that's positive, that's loving or that's constantly trolling or that's super hateful. All those communities should have a place in the world. But like the thing I've noticed is that hate can destroy a community full of hate can destroy a community full of love easier than a community full of love can overtake one with hate. And so you have to kind of, I don't know exactly how but create digital mechanisms that discourage the collision of these communities. They should all have a platform and ability to speak to a large audience. But I just, you have to be careful to protect that like little flame of of connection that people have. No, that's"
+}

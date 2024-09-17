@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:30",
+  "End": "02:19:40",
+  "Text": "basically you wake up, you have some coffee. Are you trying to get to work as quickly as possible? Do you do take this diet of, of like what the hell is happening in the world? First,"
+}

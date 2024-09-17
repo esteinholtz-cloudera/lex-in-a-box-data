@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:34:45",
+  "End": "01:35:18",
+  "Text": "I'm envisioning it on a farm for you. in a place that's like, really into ag and food. You know, like even in a place like Romania, you know, like, they have incredible farms right where it's not, you're going to get any, like, fancy restaurants there, but you're probably gonna have some amazing little cheeses and cured meats and you might go to some, you know, have some experience and end up in a place with like four things on the plate and each of them blows your mind. You know, like, or Japan is another place like that., I think Vietnam Laos, like, I mean, those are countries where there's like these incredible niche ingredients and this essentialism around"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:14",
+  "End": "02:18:34",
+  "Text": "don't even know what the word aesthetic means, really artistic, artistic, I mean, I know what aesthetic means, but I also don't know what it means. It's kind of like the word love, perspective. Yeah. Well, but part of it in conversation, you don't want to ask a question that has an answer fully. Always."
+}

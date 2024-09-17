@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:56:13",
+  "End": "00:56:15",
+  "Text": "it as the illusion of it. And that's the subjective"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:14",
+  "End": "01:59:28",
+  "Text": "we just linger on the Islamic law? firm and clear the Islamic law that he was representing and embodying is this uh codified, codified? Yes, that's a"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:40:43",
+  "End": "00:41:57",
+  "Text": "to learning mathematics. I think one of the challenges of deep learning is that there are a lot of concepts that build on top of each other. Um If you ask me what's hard about mathematics, I have a hard time pinpointing. One thing is it addition subtraction is it carry, is it multiplication law? There is a lot of stuff. I think one of the challenges of learning math um and of learning certain technical fields is that there are a lot of concepts and if you miss a concept, then you're kind of missing the prerequisite for something that comes later. So in the deep learning specialization, um try to break down the concepts to maximize the odds of, you know, each component being understandable. So when you move on to the more advanced thing we learn, you know, confidence, hopefully you have enough intuitions from the earlier sections to then understand why we structure confidence in a certain certain way. And then eventually why we build, you know, RNNS and LST MS or attention model in a certain way building on top of the earlier concepts., I'm curious, you, you, you, you do a lot of teaching as well. Do you have a, do you have a favorite? This is the hard concept moment in your teaching."
+}

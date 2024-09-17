@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:45:03",
+  "End": "03:45:14",
+  "Text": "for body count. So I'm picking 150. helping you by 30 of the uncanny valley."
+}

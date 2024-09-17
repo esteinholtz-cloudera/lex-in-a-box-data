@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:41:04",
+  "End": "02:41:09",
+  "Text": "question for the body and mind system we call Annika, call"
+}

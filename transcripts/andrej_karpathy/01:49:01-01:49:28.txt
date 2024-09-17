@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:01",
+  "End": "01:49:28",
+  "Text": "components of solving the problems seem to be there. The data engine to the compute, to the computer on the car, to the computer for the training, all that kind of stuff. you've done over the years, you've been a test, you've done a lot of amazing um breakthrough ideas and engineering all of it. Um From the data engine to the human side, all of it. you speak to why you chose to leave Tesla?"
+}

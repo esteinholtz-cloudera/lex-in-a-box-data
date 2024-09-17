@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:08:18",
+  "End": "03:09:01",
+  "Text": ", it's just, it's a huge amount of power and then also with the proliferation, I basically, I don't, I don't actually really see, I don't actually know what the good outcomes are here. So I'm definitely worried about it a lot and then A G I is not currently there, but I think at some point will more and more become uh something like it, the, the danger with A G I even is that I think it's even like slightly worse in the sense that there are good outcomes of A G I and then the bad outcomes are like an epsilon away, like a tiny run away. And so I think um capitalism and humanity and so on will drive for the positive ways of using that technology. But then if bad outcomes are just like a tiny, like flip and minus sign away, that's a really bad position to be"
+}

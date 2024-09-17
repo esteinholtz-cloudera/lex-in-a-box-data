@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:19",
+  "End": "02:33:29",
+  "Text": ". It's funny because to me monogamy is, is, it's not, it doesn't make sense for it to be a default. Like, to me, monogamy goes against human nature. in some sense. Like romance is a fuck you to the way the world works. Really? Yeah. Like, it's a, like Romeo and Juliet romance. Like description of what romance looks like versus, like, there's like a million variations of that. But in my, in my head, like this partnership that's for a long time together is a kind of, you know, like, I don't know, like true romance. You know, that movie, it's a really fucking good movie. Ok. There's just like a, together the world.. Yeah, that's the, mean, that's what close friendship feels like. It's like ride or die like that. I guess it doesn't, it doesn't, it can be, it can span across multiple, you can have multiple partners in that way. But I just don't see monogamy as like, definitely not a default. I would actually, like, honestly would probably see polyamory as a more natural default."
+}

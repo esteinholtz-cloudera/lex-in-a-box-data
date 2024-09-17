@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:00:22",
+  "End": "02:00:39",
+  "Text": "so beautiful about consciousness about the fact that not just a dead universe with atoms doing their thing. That least in this one instance there is a felt experience of the universe"
+}

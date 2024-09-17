@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:53",
+  "End": "00:39:28",
+  "Text": "., me who loves working all the time, all vacation is forced vacation. But uh, all right.. So that gives us a sense of duration and we can maybe also talk about longer and longer and longer duration as well. What are the hardest aspects of this, of living in space for many days for, let's say 100 days, 200 days, maybe there's a threshold when it gets really tough. What are some little things or big things that are very difficult for human beings to go through?"
+}

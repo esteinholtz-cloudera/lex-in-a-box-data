@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:10",
+  "End": "02:22:23",
+  "Text": ". And so there is some responsibility. This is not sort of, um, a beauty and a power and a, and a, and a, and a, and a terror to these ideas, you know."
+}

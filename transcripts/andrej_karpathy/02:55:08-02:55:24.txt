@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:55:08",
+  "End": "02:55:24",
+  "Text": ". Yeah, I don't think, I think it will emerge. I think it's going to be something very boring. Like be talking to these digital A is they will claim they're conscious, they will appear conscious, they will do all the things that you would expect of other humans and it's going to just be a stalemate. I think there"
+}

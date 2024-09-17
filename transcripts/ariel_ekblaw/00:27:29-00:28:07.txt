@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:29",
+  "End": "00:28:07",
+  "Text": "I just say how awesome it is to hear you say we space people. I know you meant people that are doing research on space exploration and space technology. But it also made me think of a future. There's earth people and there's those space people and then there's the Mars too. Yeah. No, no, for sure, for sure. But like, like New Yorkers and Texans or something like that. Yeah, of course, you live for a time in New York and then you go up to Boston and, but for a time you're the space people. I know those space people, they're kind of wild up there. Let's"
+}

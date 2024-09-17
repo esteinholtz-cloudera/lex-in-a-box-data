@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:58:57",
+  "End": "00:59:48",
+  "Text": "think that is extremely unlikely. What I think is more possible based on what we understand about the brain is that it in brains or nervous systems. Um And so then we're talking about flies and bees and all kinds of things that kind of fall out of our, intuitions for whether they could be conscious or not. But I think once you talk about more complex brains with many, many more neurons, when you're talking about cats and dogs and dolphins, um It's very hard to see how there would be a difference humans and other mammals in terms of consciousness. Is"
+}

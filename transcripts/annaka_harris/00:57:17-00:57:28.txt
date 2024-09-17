@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:17",
+  "End": "00:57:28",
+  "Text": "not sure what that means. Either. The flame of consciousness does not start burning until a certain complexity of organism is able"
+}

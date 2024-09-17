@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:03:00",
+  "End": "02:03:32",
+  "Text": "mean, we didn't prove this, we, we, we uh you know, we put it out there with hadn't really been considered previously, we put it out there. And um it does seem more plausible than the idea that it sits literally at the horizon. And it is a big problem of, of how you have a holographic reconstruction of black holes like M 87."
+}

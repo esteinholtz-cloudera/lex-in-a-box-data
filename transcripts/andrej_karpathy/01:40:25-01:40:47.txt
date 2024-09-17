@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:25",
+  "End": "01:40:47",
+  "Text": "strong drive to simplify from, from your perspective, I mean that that also probably applies to just designing systems and machine learning and otherwise like simplify, simplify. do you think is the secret to maintaining the start up culture in a company that grows? Is there? you introspect that?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:36",
+  "End": "00:41:04",
+  "Text": "should be a T shirt. So you tweeted the transformer is a magnificent neural network architecture because it is a general purpose differentiable computer. It is simultaneously expressive in the forward pass opti miz via back propagation gradient descent and efficient high parallelism compute graph. Can you discuss some of those details, expressive optimisation, efficient., from memory or or in general whatever comes to your heart,"
+}

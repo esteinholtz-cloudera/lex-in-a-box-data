@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:28",
+  "End": "01:07:48",
+  "Text": ", uh can you say what you've learned from the man uh in terms of, like what you think is interesting and powerful and inspiring about the way he sees the world or maybe what you learn in terms of how to get strong in the gym or anything about life, things"
+}

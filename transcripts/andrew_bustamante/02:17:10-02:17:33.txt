@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:17:10",
+  "End": "02:17:33",
+  "Text": "? And you know what's fascinating is I think the challenge is building that model quickly. technology is one of those tools that will be able in the future to very quickly create a model of behavior because technology can pull in multiple data points in a very short period of time that the human brain simply can't pull in at the same period at the same space at the same speed."
+}

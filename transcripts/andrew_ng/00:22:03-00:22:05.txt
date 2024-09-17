@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:22:03",
+  "End": "00:22:05",
+  "Text": "like stuff that works in"
+}

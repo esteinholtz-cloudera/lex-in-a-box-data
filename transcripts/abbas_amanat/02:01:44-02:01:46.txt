@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:44",
+  "End": "02:01:46",
+  "Text": "became a martyr. On top of"
+}

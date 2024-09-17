@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:01:25",
+  "End": "01:01:49",
+  "Text": "me every one of those inspire me. But I have to say that to me at the origin of, as I've gotten older, to me, the origin of life has become interesting because I feel, well, not because it's more, I think I understand, I have a better grasp of how it might have happened."
+}

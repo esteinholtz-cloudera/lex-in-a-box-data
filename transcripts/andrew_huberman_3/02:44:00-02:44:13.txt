@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:44:00",
+  "End": "02:44:13",
+  "Text": "ask you about, you had awesome podcasters. I mean, I can ask you questions about basically all your podcasts. People should definitely listen to Cuban and LA. But uh with, with Andy Gap in the conversation, talked about strength and muscle building all that kind of stuff. He's"
+}

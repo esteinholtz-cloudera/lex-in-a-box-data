@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:13",
+  "End": "00:23:37",
+  "Text": "if I just sat here quietly and tried to understand something about you by listening to you talk, it would be harder than if I got to say something and ask you and interact and control you can the robot help its understanding of the human by influencing behavior by actually acting. Yeah,"
+}

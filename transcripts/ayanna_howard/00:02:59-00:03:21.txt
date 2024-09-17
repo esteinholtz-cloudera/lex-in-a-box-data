@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:02:59",
+  "End": "00:03:21",
+  "Text": ". But also, I mean, think about it she was socially engaging. She every so often had an attitude, right? She kept us honest., she would push back sometimes when, you know, George was doing some weird stuff. Um, but she cared about people, especially the kids. She, she was like the perfect robot"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:34:13",
+  "End": "02:34:22",
+  "Text": "don't currently think that they're just going to uh replace human programmers. Um I'm so hesitant saying stuff like this, right? Because"
+}

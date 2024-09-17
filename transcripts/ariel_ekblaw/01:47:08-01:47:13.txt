@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:47:08",
+  "End": "01:47:13",
+  "Text": ". Yeah, cross disciplinary, interdisciplinary, whatever you want to call it. But"
+}

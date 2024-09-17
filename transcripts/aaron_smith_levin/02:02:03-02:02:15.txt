@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:02:03",
+  "End": "02:02:15",
+  "Text": "But that said, how do they wield influence with government agencies with, you've talked about the local police enforcement also, federal agencies? Anything"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:15:54",
+  "End": "00:17:07",
+  "Text": "mean, so that puts us back in the shoes of Copernicus, right 500 years ago, where he had this philosophical preference for the sun being the dominant body in what we now call the solar system. The observational evidence in terms of the measured positions of planets not better explained by the heliocentric sun centered system. It's just that, you know, Copernicus saw that the sun is the source of all our light and heat. And he, and he had, you know, he, he knew from other studies that it's, it's far away. So the fact that it appears as big as the moon means it's actually way, way bigger because even at that time, it was known that the sun is much farther away than the moon., um you know, he just felt, wow, it's big, it's bright. What if it's the central thing? But the observed positions of planets at the time the early to mid 16th century, under the Heliocentric system was not a better match, at least, not a significantly better match than Ptolemy's system, which was quite accurate and lasted 1500 years. Yeah,"
+}

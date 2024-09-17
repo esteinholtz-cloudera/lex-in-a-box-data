@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:36:56",
+  "End": "01:37:49",
+  "Text": "it was not a point. It was not a point because if, if we live in what's called a closed universe, now a sphere or the three dimensional version of that would be a hyper sphere, you know, then regardless of how far back in time you go, it was always that topological shape. can't turn a point suddenly into a shell. OK? It always had to be a, a shell. So when, when people say, well, the universe started out as a point that that's being kind of flippant kind of glib. It, it didn't really, it just started out a very, at a very high density. And we don't know actually whether it was finite or infinite, I think personally that it was finite at the time, but it expanded very, very quickly. Indeed, if it exponentiation and continued in some places to exponentiation, it could in fact be infinite right now. And most cosmologists think that it is infinite."
+}

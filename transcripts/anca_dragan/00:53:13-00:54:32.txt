@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:13",
+  "End": "00:54:32",
+  "Text": "a chance to, I went to Phoenix and I shot a video with Waymo and I need to get that video out. People have been giving me slack, but there's incredible engineering work being done there. And it's one of those other seminal moments for me in my life to be able to, sounds silly but to be able to drive without a ride, sorry, without a driver in the seat. I mean, that was an incredible robotics. I was driven by a robot being able to take over without being able to take the steering wheel. That's a magical, that's a magical moment. So, in that regard, in those domains, at least for Waymo, they're solving that humans. I mean, they're going, I mean, it felt fast because you're freaking out at first, this is my first experience, but it's going the speed limit, right, 3040 whatever it is there's humans and it deals with them quite well. It detects them, it negotiates the intersections left turns and all that. So at least in those domains, it's solving them. The open question for me is like, how quickly can we expand? know, that's the, know, outside of the weather conditions, all those kinds of things, how quickly can we expand to cities like San Francisco?"
+}

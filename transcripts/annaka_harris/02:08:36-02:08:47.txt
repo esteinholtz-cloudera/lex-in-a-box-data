@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:08:36",
+  "End": "02:08:47",
+  "Text": ", it's not. He's saying something more than that, I mean, but my point is that a lot of what he's already saying on some level, we kind of science is already there and could agree with."
+}

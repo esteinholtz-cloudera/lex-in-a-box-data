@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:24:21",
+  "End": "00:24:36",
+  "Text": ". I think it should be very interesting to scientists are alien scientists. What happened here. Um you know, it's a, what we're seeing today is a snapshot. Basically, it's a, it's a result of a huge amount of computation billion years or something like that. So"
+}

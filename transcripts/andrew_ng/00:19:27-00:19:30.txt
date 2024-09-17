@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:19:27",
+  "End": "00:19:30",
+  "Text": "range. That was 10 years old. That"
+}

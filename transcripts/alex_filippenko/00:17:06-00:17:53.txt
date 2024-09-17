@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:06",
+  "End": "00:17:53",
+  "Text": "so fascinating to think that the philosophical predispositions that you bring to the table are essential. So you have to have a young person come along that has a weird infatuation with a son almost philosophically. However, their upbringing is, they're more ready for whatever, the more the simpler answer is., that's, um, kind of sad. It's sad from an individual descendant of a perspective because then that means like me, you, as a scientist, stuck with whatever the heck philosophies you brought to the table, you might be almost completely unable to think outside this particular"
+}

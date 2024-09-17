@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:14",
+  "End": "00:24:31",
+  "Text": "you think thinking about that kid with the hatred? Do you think there will always be hatred in the world? Do you think uh from another perspective, do you think there will be war always? Is that a fundamental aspect of human nature or is that something we can escape?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:34",
+  "End": "01:47:39",
+  "Text": ". What does it mean for time to be emergent?"
+}

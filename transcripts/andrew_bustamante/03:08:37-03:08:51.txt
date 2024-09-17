@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:08:37",
+  "End": "03:08:51",
+  "Text": "Well, let me ask you, do you think, say played a part in enabling drug cartels and drug trafficking, which is another big kind of shadow that hangs over the CIA"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:12:36",
+  "End": "01:12:39",
+  "Text": "he was in the fifth or sixth day of the,"
+}

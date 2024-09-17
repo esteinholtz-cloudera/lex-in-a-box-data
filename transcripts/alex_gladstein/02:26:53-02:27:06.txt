@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:26:53",
+  "End": "02:27:06",
+  "Text": "in your own personal life, where did the concern for the suffering in the world come from? was that born?"
+}

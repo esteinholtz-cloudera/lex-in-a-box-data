@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:08",
+  "End": "02:30:13",
+  "Text": "of them make public statements, but he had a proclivity for outrageous"
+}

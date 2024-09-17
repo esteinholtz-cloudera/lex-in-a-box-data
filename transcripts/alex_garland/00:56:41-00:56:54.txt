@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:41",
+  "End": "00:56:54",
+  "Text": "that sense, your sort of sense is that you can unroll the universe forward or backward and you will see the same thing. And I mean, that notion,"
+}

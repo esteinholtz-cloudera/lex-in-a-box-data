@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:48",
+  "End": "01:29:00",
+  "Text": "we could just linger on the, on the Drake equation for, for a little bit, we kind of talked about. There's a lot of uncertainty in the parameters and, and our,, and the Drake equation itself is very limited. I think the parameters are interesting in themselves, even if it's limited because I think each one is within the reach of science, right? To get the evidence for, I mean, a few I find really interesting, it would be interesting to get your comment on. So the one with the most variants would say from my perspective is the length that civilizations last. However, you define that in the Drake equation, it's the length of how long you're communicating, just transmitting, just like you said, that that's a wrong way to think about it because we can be detecting some other outputs of the civilizations. But just if we just define broadly how long those civilizations last, do you have a sense of how long that might last? What, are the great filters that might destroy civilizations that we should be thinking about? And how can science give us more hints on this topic?"
+}

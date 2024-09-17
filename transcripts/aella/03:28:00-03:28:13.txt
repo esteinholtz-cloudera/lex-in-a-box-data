@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:28:00",
+  "End": "03:28:13",
+  "Text": ", yeah, I mean, yeah, the, the itch to live it's nice to drop a little like chaos into a thing, right? What's your chaos survey, by the way? Like you mentioned that earlier, I kind of saw it."
+}

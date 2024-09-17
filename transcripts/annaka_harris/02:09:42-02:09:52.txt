@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:09:42",
+  "End": "02:09:52",
+  "Text": "he's not just saying that we really only have this tiny window onto reality. He's saying that that window onto reality giving us a lot of false information."
+}

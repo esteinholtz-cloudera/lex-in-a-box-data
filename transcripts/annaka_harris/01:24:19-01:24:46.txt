@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:24:19",
+  "End": "01:24:46",
+  "Text": "it can't, but it's also a source of awe. And uh I mean, so many people now use that fact to a positive response to inspire creativity and curiosity and awe and all of these things that are so um useful for human well being. Where's the"
+}

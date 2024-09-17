@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:03",
+  "End": "01:20:45",
+  "Text": "that's a difficult decision. Like a lot of people have to make, I have to make with jiu jitsu, for example, like if you just look empirically, I've trained really hard for all my life in grappling sports and fighting sports and all this kind of stuff. And I've avoided injury for the most part. And I would say I would attribute that to, um, training a lot sounds counterintuitive, but well and safely and correctly keeping good form saying no, and I need to say no, but training a lot and taking it seriously. Now, when this training is kind of a really a side thing, I find that the injury is, becomes higher and higher probability when"
+}

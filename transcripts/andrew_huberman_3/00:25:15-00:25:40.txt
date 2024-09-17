@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:15",
+  "End": "00:25:40",
+  "Text": ". Can you maybe uh on that lucid day a little bit more your process of how you get in that space. That's really interesting because I have to admit I do everything last minute before podcast. I don't know, like there's a lot of anxiety because whatever, if I have to pack, if I have to set up stuff, you were luckily a few minutes, you showed up a few minutes later,"
+}

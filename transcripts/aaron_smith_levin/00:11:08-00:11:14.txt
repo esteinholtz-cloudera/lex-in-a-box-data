@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:08",
+  "End": "00:11:14",
+  "Text": "the reactive mind protects you the trauma that is inside your subconscious mind."
+}

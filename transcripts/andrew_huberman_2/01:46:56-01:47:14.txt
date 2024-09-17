@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:56",
+  "End": "01:47:14",
+  "Text": "approaching the same kind of uh therapy from different angles. One A I is is the computational size. So like the robotics injecting like maybe you can even think about it as like electricity, the electrical approach versus then like the chemical"
+}

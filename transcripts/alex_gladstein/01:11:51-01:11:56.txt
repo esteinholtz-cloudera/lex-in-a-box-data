@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:11:51",
+  "End": "01:11:56",
+  "Text": "the people talking about Bitcoin on TV, or maybe investor"
+}

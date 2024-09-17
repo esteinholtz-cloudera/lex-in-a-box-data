@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:35",
+  "End": "02:52:16",
+  "Text": ". Well, this is what he was saying. He, uh actually, I mean, I don't listen to all of his interviews but on that live on the clubhouse, he mentioned that was kind of worried. It's interesting. He was worried that sometimes what I think he said is I'm worried that at some point my brain is just going to fail of the amount of load it's under, like how much I have to think through throughout the day, like how many problems you have to think through. Like, you know, it's like puzzles, it's constant puzzle"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "02:15:19",
+  "End": "02:16:13",
+  "Text": "world, travel, the world, um get rid of friends who don't push you up and, and don't celebrate your success. It's, it's hard to give that advice to young Children because kids are always so catty. honestly, it's like when I see that that really is, I just think, not just advice to my kids, but some of the best advice to anybody. If you got anyone you who doesn't celebrate your success, just spend less time with those people surround yourself with people who actually want to celebrate your success and push you to succeed. I think that's true. I think it's even more important at a young age because if, if at a young age you get used to being around people who kind of take joy and tearing you down, then that's what you become accustomed to, you know, and I just think, you know, friends who love you and support you is just about the closest thing to true meaning of life"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:46",
+  "End": "01:50:20",
+  "Text": "co authored a paper titled Photon Rings around warped black holes. First of all, whoever writes your paper titles, like the soft hair and the, and the term black hole in the Big Bang, you're very good at coming up with titles yourself. Anyway, you co-authored a paper title of Photon Rings around Warped black holes in it. You write, quote, recent work has identified a number of emergence symmetries related to the intricate self similar structure of the photon ring. So what are photon rings? What are some interesting characteristics of a photon ring?"
+}

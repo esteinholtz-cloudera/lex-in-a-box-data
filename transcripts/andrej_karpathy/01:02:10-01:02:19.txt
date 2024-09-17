@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:02:10",
+  "End": "01:02:19",
+  "Text": "impression of it honestly is there's a lot of longing for it. I mean, yeah, that's what I it's not subtle. It's my impression of it. It's not subtle but"
+}

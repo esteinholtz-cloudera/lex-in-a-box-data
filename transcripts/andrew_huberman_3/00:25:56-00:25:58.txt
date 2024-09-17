@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:25:56",
+  "End": "00:25:58",
+  "Text": "knows a lot about microphones. What did he"
+}

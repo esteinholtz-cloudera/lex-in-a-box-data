@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:14",
+  "End": "02:07:17",
+  "Text": ". Isn't that what we're doing as assuming before we act?"
+}

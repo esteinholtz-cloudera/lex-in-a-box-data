@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:10",
+  "End": "00:29:40",
+  "Text": "then what happens after? Right? Because if you just fast forward earth many billions of years, it's quiet and then it's like turmoil, you see city lights and stuff like that. And then what happens at the end? Is it like a is it like a calming, is it explosion? Is it like earth like a giant because you said emit roasters. Will it start emitting a giant number of satellites?"
+}

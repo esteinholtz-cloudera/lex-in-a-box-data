@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:57",
+  "End": "00:12:20",
+  "Text": ", maybe it's the Russian thing too. III I love love. So I appreciate that kind of uh celebration. looking back from that moment to before, how much did it cost to develop the Pfizer Biontech vaccine? What was it like making the decision to make that investment the risk is very high? And you don't know if it's going to be successful."
+}

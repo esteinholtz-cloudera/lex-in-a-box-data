@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:28:09",
+  "End": "01:28:41",
+  "Text": "mean, I go on experience and think about how many of your, like most memorable, fantastic meals are like three star Michelin meals. It's more about the experience. Right. It's more about that slow down. Who are you with? Um, and some of our best meals are like the most simple things. So, Iron Chef, you know, those are, those were fun experiences. Um a lot of sous vide though. It's a lot of sauces. It's a lot of powders. I mean, it's kind of like magic food. So that's not, I mean, it's incredible to watch it as science. Um but I don't know, those are my most memorable meals."
+}

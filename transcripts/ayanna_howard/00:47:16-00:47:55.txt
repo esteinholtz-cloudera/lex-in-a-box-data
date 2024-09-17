@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:16",
+  "End": "00:47:55",
+  "Text": ", that, that reveals that the deeper thing is there's a compassionate love that we all have within us. It's just that when all that is taken care of and get bored, we love drama. And that's, I think almost like the division is a sign of the times being good is that it's just entertaining on some unpleasant mammalian level to watch, to disagree with others. And Twitter and Facebook are actually advantage of that in a sense because it brings you back to the platform and they're advertiser driven so they make a lot of money. So you go"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:45",
+  "End": "02:35:01",
+  "Text": "the context of the greatest story ever told, like the fact that we came from stars hour or two apes asking about the meaning of life. How does that fit together? How does"
+}

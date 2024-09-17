@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:12",
+  "End": "00:45:14",
+  "Text": "think you're absolutely right. sad thing is there hasn't been a big application, impactful real world application reinforcement learning. I think its biggest impact to me has been in the toy domain, in the game domain. In a small example. That's what I mean for educational purpose. It seems to be a fun thing to explore, you know, that works with. But I think from your perspective and I think that might be the best perspective is if you're trying to educate with a simple example, in order to illustrate how this can actually be grown, scale and have a real world impact, then perhaps focusing on the fundamentals of supervised learning in the context of, you know, a, a simple data set, even like an minus data set is the right way is the right path to take. I just uh the amount of fun I've seen people have with reinforcement learning has been great but not in the applied impact in the real world setting. it's a, it's a trade off how much impact you want to have versus how much fun you want to"
+}

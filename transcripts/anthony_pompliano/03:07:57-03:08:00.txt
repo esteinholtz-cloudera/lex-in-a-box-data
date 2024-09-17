@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "03:07:57",
+  "End": "03:08:00",
+  "Text": ". Thank you so much for having me."
+}

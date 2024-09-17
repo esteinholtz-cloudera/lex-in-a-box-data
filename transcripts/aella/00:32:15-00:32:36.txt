@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:32:15",
+  "End": "00:32:36",
+  "Text": "of my favorite questions is like if you could press a button and then have all of your wants fulfilled anything that you want. So it's like such a rapid degree that you don't really experience the want. Like as the want arises, it then is completed immediately so that you are completely without want. Like would you, would you that? But I didn't think you would."
+}

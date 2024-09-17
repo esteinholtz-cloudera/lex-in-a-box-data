@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:54",
+  "End": "00:53:59",
+  "Text": "you're responding, you're responding to your brain, your fingers are doing the responding to the brain that generate the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:28",
+  "End": "01:45:33",
+  "Text": "like a monarchic term. Like a, like a king. It"
+}

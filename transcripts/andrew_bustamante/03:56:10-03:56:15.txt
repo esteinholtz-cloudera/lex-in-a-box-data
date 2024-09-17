@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:56:10",
+  "End": "03:56:15",
+  "Text": "? That's a fast answer. There's a story behind it. If you want the story,"
+}

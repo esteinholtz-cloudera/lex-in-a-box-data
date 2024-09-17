@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:25:34",
+  "End": "01:25:49",
+  "Text": "before you ask about relationship. I think what's clear is that every species, it seems animal species wants to make more of itself and protect its young,"
+}

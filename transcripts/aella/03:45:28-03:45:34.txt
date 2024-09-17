@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:45:28",
+  "End": "03:45:34",
+  "Text": ". Yeah. I mean, it also really depends on if other people get this feature."
+}

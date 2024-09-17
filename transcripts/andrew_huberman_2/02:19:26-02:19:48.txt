@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:26",
+  "End": "02:19:48",
+  "Text": ", what you just made me realize with the coupling is I have a better data set than the Joe Rogan podcast with high resolution video, which is the raw video for this podcast. So for example, both cameras right now are recording you and I full feed. The final results will switch cameras back and forth, but I have the full feed I can have the blinking for both you and I the whole time."
+}

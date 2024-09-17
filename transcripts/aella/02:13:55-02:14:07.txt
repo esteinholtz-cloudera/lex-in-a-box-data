@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:55",
+  "End": "02:14:07",
+  "Text": "me and saying we should taboo the term love in this conversation. How dare you? romantic love"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:16",
+  "End": "00:06:43",
+  "Text": ". So, going further deeper into that direction, you've also described that world a psychedelia. So, on that topic, I'm curious about that world on the topic of psychedelic drugs. Do you see those kinds of chemicals that modify our perception a distortion of our perception of reality or a window into another reality?"
+}

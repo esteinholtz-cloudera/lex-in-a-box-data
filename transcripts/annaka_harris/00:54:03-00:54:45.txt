@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:03",
+  "End": "00:54:45",
+  "Text": "met some incredible people, you work with some incredible people. So that's the crazy topic of free will. I mean, we have to link on this because I can't. So the plant? All right. Can you try to steel man the case that there's something really special about humans that there is a fundamental difference between us and the pendril. know, humans are clearly very special in the evolution of organisms on earth. Could that have been the magic leap? Could consciousness been like the invention of the eu creat cell or something"
+}

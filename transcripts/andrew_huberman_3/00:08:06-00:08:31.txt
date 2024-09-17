@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:08:06",
+  "End": "00:08:31",
+  "Text": ". Last time we were hanging out, we went, we went to see Joe do comedy and then we went to eat Russian food and it was a particularly fun experience to to a Russian restaurant. I was the only person there that didn't speak Russian and eat Russian food with you. And, um, because I felt walking in, they, they trusted you. They didn't trust me. Yeah. The"
+}

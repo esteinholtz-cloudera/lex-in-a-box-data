@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:36",
+  "End": "02:18:44",
+  "Text": "experience, would you say? Yeah, absolutely. But didn't you say that some aspect of conscious experience is memory?"
+}

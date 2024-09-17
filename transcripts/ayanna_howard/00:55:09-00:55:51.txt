@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:55:09",
+  "End": "00:55:51",
+  "Text": ", there's the near term, for example, they just announced the rover that's going to the moon,, you know, that's kind of exciting, that's like near term. You know, my favorite, favorite, favorite is Star Trek, right? You know, I really hope and even Star Trek, if I calculate the years, I wouldn't be alive, but I would really, really love to be in that world. Like even if it's just at the beginning like, you know, like voyage adventure one. So"
+}

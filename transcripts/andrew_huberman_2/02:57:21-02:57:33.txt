@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:21",
+  "End": "02:57:33",
+  "Text": "hope you're right and I hope it's a fulfilling experience as opposed to one that leads to my demise. But"
+}

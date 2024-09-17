@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:20",
+  "End": "00:34:25",
+  "Text": "because it distracts from the focus of the work. Yeah. What about sexual relations?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:45",
+  "End": "00:58:57",
+  "Text": "there. Is it possible to make the case that that arising happens first the first time ever with homo sapiens."
+}

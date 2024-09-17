@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:11:40",
+  "End": "00:12:18",
+  "Text": "backwards? I was going to say, I mean, this leads into the point I was going to make. But what I was going to say is, I mean, also, just for me, I feel like I not as good at speaking as I am at writing that I'm, I'm clear in my writing and because these topics are so difficult to get our minds around. Um, it's hard to kind of to any real conclusion in real time. It's actually how I started writing. My book was just writing for myself. I decided that I needed to spend some time writing down all of my thoughts in order to get clear about how I think about them. So you"
+}

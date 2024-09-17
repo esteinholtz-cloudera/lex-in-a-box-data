@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:53:18",
+  "End": "00:54:12",
+  "Text": "on a sort of darker and more difficult subject in terms of. So you just talked about the cosmos being an inspiration for science and for us growing out of our messy adolescence. But nevertheless, there is threats in this world. do you worry about existential threats? Like you mentioned nuclear weapons? Do you worry about nuclear war? And if you could also maybe comment, I don't know how much you've thought about it, but there's folks like Elon Musk who are worried about the existential threats of artificial intelligence, of our robotic computer creations of resulting in us humans losing control. So can you speak to the things that worry you in terms of existential concerns? All"
+}

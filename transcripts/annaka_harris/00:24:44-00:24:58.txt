@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:44",
+  "End": "00:24:58",
+  "Text": "want to imagine that without anthropomorphizing, so without projecting the human experience, but rather sort of humbling yourself that we're just another plant with more complexity to see"
+}

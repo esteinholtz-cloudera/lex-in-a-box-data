@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:02",
+  "End": "01:58:19",
+  "Text": "that's for people who are like master controllers. He's one of the greatest koshers of all time. It's fascinating to see what that battle looks like of resistance and then of letting go. Um Yeah, I mean, II I can't wait to uh to uh to see where these studies takes us"
+}

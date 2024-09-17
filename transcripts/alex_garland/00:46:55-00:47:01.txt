@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:55",
+  "End": "00:47:01",
+  "Text": "you're saying Newton, but that's a scientific. So there's an engineering element of building Eva."
+}

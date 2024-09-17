@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:43:33",
+  "End": "02:43:53",
+  "Text": ". Yeah, to me, what stands out is his statement that the, best way to corrupt the mind of young people is to tell them that they should agree with the common view, you know, and, uh, you know, it goes back to the thread that went through our discussion. Yes,"
+}

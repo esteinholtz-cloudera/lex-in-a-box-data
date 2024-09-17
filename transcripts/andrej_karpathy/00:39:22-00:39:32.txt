@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:22",
+  "End": "00:39:32",
+  "Text": "criticize the paper title in retrospect that it wasn't it didn't foresee the bigness of the impact that it"
+}

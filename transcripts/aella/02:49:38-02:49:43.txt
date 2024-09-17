@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:49:38",
+  "End": "02:49:43",
+  "Text": "log scale, but it was kind of spread things out to make it more and more"
+}

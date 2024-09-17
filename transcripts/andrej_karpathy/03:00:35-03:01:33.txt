@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:00:35",
+  "End": "03:01:33",
+  "Text": ", I meant more like say you had infinite compute and it's still good to make mistakes sometimes like in order to integrate yourself, like, um, is it going back to good will hunting Robin Williams character says like the human imperfections, that's the good stuff, right? Isn't that like we don't want perfect. We want flaws in part to form connections with each other because it feels like something you can attach your feelings to flaws in that same way. You want an A I that's flawed. I don't know. I feel like perfectionist. But then you're saying, but that's not a G I but see a G I would need to be intelligent enough to give answers to humans that humans don't understand. And I think perfect is something humans can't understand because even science doesn't give perfect answers. There's always gabs and mysteries and I don't know, I don't know if humans want perfect."
+}

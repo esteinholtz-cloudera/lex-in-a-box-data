@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:11:12",
+  "End": "02:11:38",
+  "Text": "honest., like right now in this moment, I'm feeling like kind of like nervous energy because I'm talking to you. And this is a unique situation and I want you to think I'm cool. I want a real me to think I'm cool. But I'm also having some sort of delight at being able to express in this way and like some admiration for how you set up and built this thing that I can be a part of. And all of these things are sort of in my body right now is this sort of vibrating high thing"
+}

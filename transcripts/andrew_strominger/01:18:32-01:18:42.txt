@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:32",
+  "End": "01:18:42",
+  "Text": "this and once you're being precise, you can actually, uh that makes you can actually answer this kind of very problematic thing that Hawking suggested that black holes destroy information."
+}

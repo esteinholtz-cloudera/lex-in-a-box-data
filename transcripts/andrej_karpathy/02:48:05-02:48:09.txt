@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:48:05",
+  "End": "02:48:09",
+  "Text": ", what I like about diffusion is it works so well"
+}

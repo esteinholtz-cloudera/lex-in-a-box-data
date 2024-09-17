@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:23",
+  "End": "01:38:34",
+  "Text": "pre or post emotion pre don't you think it would be a more interesting conversation, post emotion? Yeah,"
+}

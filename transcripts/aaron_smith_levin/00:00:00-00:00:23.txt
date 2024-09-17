@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:00:00",
+  "End": "00:00:23",
+  "Text": "The following is a conversation with Aaron Smith 11. A former scientologist raised in scientology and have worked in the organization full time for many years as a staff member and a sea org member, including the job of training scientology auditors. Today, he educates the public about scientology on his youtube channel called Growing up in Scientology."
+}

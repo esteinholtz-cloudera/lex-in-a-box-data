@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:16:20",
+  "End": "01:16:26",
+  "Text": ", yeah. Like if you don't frame it, like, if you don't say the word sex trafficking, you're like, are you just in a situation where you,"
+}

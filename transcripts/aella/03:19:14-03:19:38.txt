@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:19:14",
+  "End": "03:19:38",
+  "Text": "it's so interesting that you can, I mean, work through that. So for a lot of us, for a lot of human beings, like childhood is full of those kind of mini, big or small and like working through that, it feels like what a lot of life is about is trying to work through that it feels like you have to kind of relive it. I guess that's what therapy is about in part and be able to vocalize"
+}

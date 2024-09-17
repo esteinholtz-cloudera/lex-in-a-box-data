@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:31:44",
+  "End": "00:32:31",
+  "Text": ". Yeah, the puzzle is basically like alerting the creator that we exist or maybe the puzzle is just to just break out of the system and just uh you know, stick it to the creator in some way. Um Basically like if you're playing a video game, you can um can somehow find an exploit and find a way to execute on the host machine. Uh any arbitrary code uh there's some, uh for example, I, I believe someone got a Mario, a game of Mario to play Pong just by um exploiting it and then um creating a basically writing writing code and, and being able to execute arbitrary code in the game. And so maybe we should be, maybe that's the puzzle is that we should be um find a way to exploit it. So, so I think like some of these synthetic ads will eventually find the universe to be some kind of a puzzle and then solve it in some way. And that's kind of like the end game somehow."
+}

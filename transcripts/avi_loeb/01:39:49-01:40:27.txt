@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:49",
+  "End": "01:40:27",
+  "Text": ". And the more of us are looking at the stars, the likelier we are to for this thing, for this little experiment we have going on to last a while as opposed to end too quickly. I mean, it's not just about science of being humble, it's about the survival of the human species is being humble to me. It's incredibly inspiring the star shot project of, mean, there's something magical about being able to go to another habitable planet and take a picture even, I mean, within our lifetime, I mean, that with crazy technology too,"
+}

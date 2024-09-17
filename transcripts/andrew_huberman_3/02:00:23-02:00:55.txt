@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:23",
+  "End": "02:00:55",
+  "Text": "think he, he's not short on material but I do see if I knew what I wanted to tweet if I knew you're allowed to just slab comedians, my conversation with Tim Dylan would have gone very differently. People just being humans. There's so much fascinating human nature on display there. It's also in terms of it becoming a topic that a lot of people are talking about versus the war in Ukraine. For example, it is also fascinating to watch, like just these kind of news cycles moving through."
+}

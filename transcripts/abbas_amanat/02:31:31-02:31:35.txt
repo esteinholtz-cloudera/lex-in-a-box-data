@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:31:31",
+  "End": "02:31:35",
+  "Text": "prior to Raisi,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:11:02",
+  "End": "01:11:55",
+  "Text": ", you know, I would also add that you or not you realize it or not, you took tremendous risk. I mean, we come from the same original community which is academic science, right? And to be at MIT and to start posting lectures online is risky right? To, you know, I was third or fourth man in on, in terms of podcasting as an academic because you had gone on Rogan many times. David Sinclair had gone on there. You know, the, especially before the the pandemic, you just didn't see many academics and scientists talking in a public facing way. Uh So you took tremendous risk, right? You took tremendous risk always wearing that jacket and tie, right? Um The only time I haven't seen you in that truly is when we rolled jiu jitsu, which is, and I hear I'm being generous to myself saying I rolled jujitsu and basically you choked me out in front of hundreds of times. It was a, it was a, it was great fun. And II I thank"
+}

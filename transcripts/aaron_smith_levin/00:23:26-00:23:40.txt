@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:26",
+  "End": "00:23:40",
+  "Text": "an idea of a God? Because I read there is a kind of, there is a sense of a supreme being that basically the Satan that's at the core, at the bottom of it all not, not defined, undefined."
+}

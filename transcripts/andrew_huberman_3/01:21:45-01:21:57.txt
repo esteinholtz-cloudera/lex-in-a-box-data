@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:21:45",
+  "End": "01:21:57",
+  "Text": ". So I have tremendous respect for science done in New York. Don't get me wrong. They are excellent scientists. It's, it's just a very different culture than on the west coast. and the personalities, the personality and disrespect"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:09:06",
+  "End": "02:09:33",
+  "Text": ". Although I think we already know that as well. I mean, if any version of string theory is correct and of course, we don't know yet. It's all up for grabs. But the truth is, each theory is weirder than the last. Um If there are 15 dimensions of space, we are just not, not wired but to be able to understand the fundamental reality."
+}

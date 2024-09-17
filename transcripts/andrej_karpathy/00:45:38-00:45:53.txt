@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:45:38",
+  "End": "00:45:53",
+  "Text": ". Currently, it definitely looks like the transformer is taking over A I and you can feed basically arbitrary problems into it. And it's a general differentiable computer and it's extremely powerful. And uh and this convergence in A I has been really interesting to watch uh for me personally,"
+}

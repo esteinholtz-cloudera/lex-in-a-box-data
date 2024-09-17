@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:45",
+  "End": "01:45:59",
+  "Text": "we humans are just clever and we want to be able to try to do that at a bigger and bigger scale, like as much as possible to reduce the suffering in the world. somehow that alleviates us of our own suffering. That's the Russian thing. Life is suffering and somehow helping others alleviates it come up with creative solutions to do that. That's really interesting. almost consciousness is the thing that led to suffering, but it also led to the desire to alleviate the suffering. a, it's a feedback loop consciousness creates suffering and the desire to alleviate it. Is there yet a pretty numb linear life? Your parents or professors? have done a lot of sort of incredible things that made you would say kind of like how the hell are you going to get this done? Is there advice you can give to young people today, like high school college uh how to do uh how to live a similarly nonlinear crazy life and accomplish be as successful as you have been whether it's just their career or life in general."
+}

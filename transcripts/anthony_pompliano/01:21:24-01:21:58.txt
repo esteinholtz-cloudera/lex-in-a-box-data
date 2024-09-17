@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:24",
+  "End": "01:21:58",
+  "Text": "in the streets, Bitcoin in the sheets, like it that said in terms of shit posting and memes, I got to say bring it on because I believe in terms of asymmetry of power. I believe that love will save the world, not memes. or at least the good, good vibe memes as opposed to shit posting. It's a, it's an interesting battleground though. It's an interesting battleground to think about. The the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:58:30",
+  "End": "01:58:36",
+  "Text": "the photons that are orbiting photon ring are the photons that orbit around"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:04:18",
+  "End": "01:05:31",
+  "Text": ", I would hope it would teach us some humility. are very big on exceptionalism. You know, uh America is, is constantly proclaiming itself to be the greatest nation on earth, which it may feel like that if you're an American, but it may not feel like that if you're from Finland because there's all sorts of things you dearly love about Finland and uh exceptionalism is, is usually bullshit. not. If we both sat here, we could find a good example of something that isn't, but as a rule of thumb, uh, and, and what it would do is it would teach us some humility and, uh, about, you know, actually often that's what science does in a funny way. It makes us more and more interesting but it makes us a smaller and smaller part of the thing. That's interesting. And, um, I don't mind that humility at all., I, I don't think it's a bad thing. Excesses don't tend to come from humility. You know, our excesses come from the opposite megalomania and stuff. We tend to think of consciousness as having some form of exceptionalism attached to it. I suspect if we ever unravel it, it will turn out to be less than we thought in a"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:44:44",
+  "End": "01:45:37",
+  "Text": "a beautiful book. It's a dreamy book. I think when people hear that it's a book about neuroscience, they think they're gonna get a textbook or a protocols book or something. It's nothing like that, but it really is a deep dive into the mind of the psychiatrist and the researcher and so much feeling and compassion. I love that. You love poetry. I mean, I didn't know that until I saw you on Rogan read if, um and I'm not a, a, uh rabid consumer of poetry, but I, I'm a big Wendell Berry fan. Um, uh, and I try and read a poem once every few days also. I think if it is a tough act to follow, you know. Oh, yeah, I mean, that, that's the richness and the, mean, you said, ev every third line in there is something that you would, you know, you'd consider your life well lived if you, if you said that, right."
+}

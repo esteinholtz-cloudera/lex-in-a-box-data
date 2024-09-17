@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:00",
+  "End": "02:09:51",
+  "Text": "to it. So it's in terms of our strategies and decision making, which should be long term and have like a regular almost think like an algorithm that in that, in that kind of way. I think you've tweeted that you believe that Bitcoin has a chance of reaching 1 million. I don't know what it is currently. I think it's 560 which is incredible. I think I remember when it was at least in the double digits, I think I remember what it was in the signal digits of a dollar. So the fact that it's cross 50 is crazy, but you're even crazier apparently thinking that it can reach a million. do you think it's possible for it to reach a million? Is there some kind of transformative effects we'll have to see first. When might it reach a million? What are the signs that we would look for? What's required for it to reach a million? So"
+}

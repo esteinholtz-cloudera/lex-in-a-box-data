@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:09:51",
+  "End": "02:10:46",
+  "Text": "just look at it from a macro perspective. Gold is a $10 trillion asset. And when you compare the technology of gold to the technology of Bitcoin, is superior in every single way, right? It's more portable, it's more divisible. Uh It's more verifiable, it's more scarce on everything. so some people would argue it's a 10 X improvement. Some people argue it's 100 X improvement from a technology standpoint. And so we don't need Bitcoin to actually kind of um capture the full 10 X or 100 X improvement from a a market cap standpoint. If Bitcoin simply captures two X, value be a $20 trillion market cap, which would put Bitcoin at about a million dollars, right? So kind of just from a macro perspective, if you have a 10 X or 100 X improvement from a technology standpoint, and you directionally get some value capture in that direction, you're hitting around a million or more. Uh dollar price point can"
+}

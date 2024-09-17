@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:44:37",
+  "End": "00:44:58",
+  "Text": ". And I, I would, you know, bet the farm as they say, do you have a farm?, you know, I say that much more seriously because not only do I have a farm, but we just renovated it. before I renovated. So before I renovated, better get the farm, my wife, I spent five years renovating it before you"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:17",
+  "End": "02:18:24",
+  "Text": "done a bunch of cool like little projects in a very short amount of time very quickly. So that that requires you just focusing on it. Yeah,"
+}

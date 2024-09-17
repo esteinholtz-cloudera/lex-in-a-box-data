@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:21:34",
+  "End": "03:21:56",
+  "Text": "low level learning and then also uh communicating so that others can go through the same realizations and shortening that gap. Um because I usually have to do way too much work to understand a thing. And then I'm like, OK, this is actually like, OK, I think I get it and like, why was it so much work? It should have been much less work. that gives me a lot of frustration and that's why I sometimes go teach. So"
+}

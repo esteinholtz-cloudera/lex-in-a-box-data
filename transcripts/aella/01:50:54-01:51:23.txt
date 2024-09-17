@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:54",
+  "End": "01:51:23",
+  "Text": ". Well, the interesting thing you mentioned in my extensive research, um, you used to do 1200 to 1400 an hour and then you said that you're thinking of jumping back in at a rate of 2400 the first hour.. And I think 900 each successive hour. That's interesting. like, I mean, to me, that's really interesting. Like why it's like the first hour? Yeah."
+}

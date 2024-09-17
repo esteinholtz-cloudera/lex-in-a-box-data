@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:17",
+  "End": "02:03:37",
+  "Text": ", first of all, I can with the actions that Will Smith did. Right. They're not, I think they're kind of sh not kind of, they're just shitty. You should probably talk privately, man to, man. Uh Not because otherwise it's like a dramatic display. like, it's almost like you are a fake act, you're"
+}

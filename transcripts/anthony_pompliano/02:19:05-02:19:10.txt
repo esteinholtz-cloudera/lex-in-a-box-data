@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:05",
+  "End": "02:19:10",
+  "Text": "and the way you divide those tiers might be different, depending on who you ask."
+}

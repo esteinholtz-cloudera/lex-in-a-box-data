@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:36",
+  "End": "03:02:40",
+  "Text": ". And we must not like we must do this. This has to be done"
+}

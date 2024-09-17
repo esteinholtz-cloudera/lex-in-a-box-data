@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:33:58",
+  "End": "01:34:02",
+  "Text": "controls the press? Big Pharma and big psych."
+}

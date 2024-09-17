@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:01",
+  "End": "00:37:14",
+  "Text": ". So you've been there from the early days of string theory, you've seen as developments, what are some interesting developments? Uh What do you see as the, also the future of string theory? what is strength there?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:58:36",
+  "End": "01:58:48",
+  "Text": "a team effort. Now it's a team. It should be redone. And Breakthrough Prize in Fundamental Physics, which was started by Yuri Milner and Zuckerberg is involved in others as well, you know, uh m"
+}

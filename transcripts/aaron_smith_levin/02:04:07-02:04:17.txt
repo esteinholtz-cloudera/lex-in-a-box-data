@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:07",
+  "End": "02:04:17",
+  "Text": "a direct explicit corruption, but more just friends and coworkers integrated deeply in the community. I"
+}

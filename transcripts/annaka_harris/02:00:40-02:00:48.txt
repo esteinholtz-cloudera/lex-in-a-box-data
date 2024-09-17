@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:00:40",
+  "End": "02:00:48",
+  "Text": "of the universe. Yeah, there's a right here in this little point in space and time, there is an experience of the"
+}

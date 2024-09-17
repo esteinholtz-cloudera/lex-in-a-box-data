@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:14:21",
+  "End": "00:14:24",
+  "Text": "we talk about what the problem of human robot interaction"
+}

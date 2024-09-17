@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:59",
+  "End": "00:52:05",
+  "Text": "the country, they still, yeah. So what do they teach in school? So it doesn't matter."
+}

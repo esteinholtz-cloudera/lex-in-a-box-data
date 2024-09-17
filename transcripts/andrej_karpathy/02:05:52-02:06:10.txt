@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:52",
+  "End": "02:06:10",
+  "Text": "would it take for a data set to captivate the imagination of everybody like where they all get behind it? That that could also need like a like a leader, right? Somebody with popularity. I mean that, yeah, why did I imagine that take off? there or is it just the accident of"
+}

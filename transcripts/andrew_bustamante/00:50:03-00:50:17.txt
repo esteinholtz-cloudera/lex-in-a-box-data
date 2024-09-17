@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:03",
+  "End": "00:50:17",
+  "Text": "your estimation. But are you sure we can, we can't if you can convert that into political influence into money, don't you think attention is money,"
+}

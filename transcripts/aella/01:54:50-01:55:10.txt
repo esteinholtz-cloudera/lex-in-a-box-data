@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:54:50",
+  "End": "01:55:10",
+  "Text": "it has to be plausible. Like, you have to, like, trick my brain into, like, having it actually be incentivizing for me. Yeah. Like the homeless man bought me a coffee and then I sucked his dick. Like, that's not cool. No shade of homeless men, by the way, like, I've been friends with a lot of them. I'm just using like some sort of stereotype of."
+}

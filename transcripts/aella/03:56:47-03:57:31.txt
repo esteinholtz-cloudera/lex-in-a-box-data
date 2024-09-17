@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:56:47",
+  "End": "03:57:31",
+  "Text": ", I love the rationalists because they're interested in like, how do you have conversations more effectively if you're trying to figure out what's actually true and which sounds kind of obvious, but in practice, it's not usually, I remember when I first started having, you know, debating conversations, I was very antagonistic. I'm like, oh, I'm, you know, a feminist or not a feminist. And then the rationalists were generally like, actually, we don't know what you mean by the term feminism. Like, how do you feel about that? It was, it was very like uh kind and compassionate. Like even if somebody says something that sounds insane, you're like, OK, well, we're going to respect your reasoning and like, even if we disagree, let's actually figure out why you think the way that you think. Um they also really smart, write a whole bunch of great stuff about how to think more clearly and with less bias."
+}

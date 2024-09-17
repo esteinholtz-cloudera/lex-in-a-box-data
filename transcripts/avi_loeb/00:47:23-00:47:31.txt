@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:47:23",
+  "End": "00:47:31",
+  "Text": "I hope it's even more than a smartphone. I hope that it's something that is really sophisticated. And"
+}

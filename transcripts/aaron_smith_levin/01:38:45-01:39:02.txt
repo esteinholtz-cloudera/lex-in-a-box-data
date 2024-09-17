@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:38:45",
+  "End": "01:39:02",
+  "Text": "of former CG members from the international base have told stories of being assaulted by Miscavige. In fact, Mike Rinder is probably the one person who's been assaulted by muscat more than anyone else. He's personally probably been assaulted dozens of times"
+}

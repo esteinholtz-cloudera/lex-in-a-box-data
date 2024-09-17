@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:02:09",
+  "End": "02:03:17",
+  "Text": "if you look at actors and actresses, I mean, there's some amazing ones. Right. And who also do well in their outside life but their careers were built on the business of pretending to be other people. Yeah. And that's got to distort maybe positively. But also just, be honest, what it is that the neuroplasticity there, the changes in the areas of the brain that represent personality have to be quite different for somebody who pretends to be lots of different personalities and gets paid for it. You're working the reward system into the system of self identity. And, you know, you have to imagine that that can really, um, contort neurology in ways that maybe they are not as in, maybe they are not in touch with reality in the same way that we are. Remember earlier, we were talking about neurotic versus psychotic. You know, they may be more borderline their kind of ground state than, than we think. And so I'm actually impressed anytime there's a celebrity who doesn't have a messed up life, I'm like, oh, wow. You know, finally, somebody who's managed to you know, maintain some semblance, at least from the outside of, of normalcy."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:49:45",
+  "End": "02:50:13",
+  "Text": ", I think I'm truly grateful that a person like you exists at the center of the scientific community, gives me faith and hope about this, big journey that we call science. So thank you for writing the book you wrote recently. You have many other books and articles that I think people should definitely read. And thank you for wasting all this time with me. It is truly an honor. Thank you so"
+}

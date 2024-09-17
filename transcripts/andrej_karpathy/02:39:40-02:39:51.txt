@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:39:40",
+  "End": "02:39:51",
+  "Text": ", they certainly deep mind specifically has been um in the regime of having a slightly higher quality, basically process and latency and publishing those papers that way."
+}

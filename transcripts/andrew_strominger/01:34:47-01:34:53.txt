@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:34:47",
+  "End": "01:34:53",
+  "Text": "course, Wolfram's version of that is that physicists will never be able to describe it. Right."
+}

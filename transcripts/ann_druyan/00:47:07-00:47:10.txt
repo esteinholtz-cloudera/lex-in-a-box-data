@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:47:07",
+  "End": "00:47:10",
+  "Text": "the people were essential to the creation of."
+}

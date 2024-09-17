@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:26:46",
+  "End": "00:27:21",
+  "Text": ", I have to say, and this has actually come up in some of our conversations about you. I mean, you are, you are an artist. And actually Joe Rogan, once I heard him talking about podcasting and the fact that he's always trying to get better at it, you know, and he described podcasting at one moment as an art, right? And it is, it's a certain medium of communication and there's a cadence and a rhythm that when it's working, it really can facilitate the transfer of information when it's not. It doesn't, I mean, obviously, Joe just being himself has tapped into that cadence that allows and it's made so many people excited to hear him"
+}

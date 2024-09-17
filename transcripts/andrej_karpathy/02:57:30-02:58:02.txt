@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:57:30",
+  "End": "02:58:02",
+  "Text": "I think there's some canary in the coal mines even with what we have today. Um And uh you know, for example, these, there's these like wus that you can like work with and some people are trying to like this company is going to shut down, but this person really like loved their Waifu and is trying to, like, port it somewhere else and like, it's not possible. And like, think, like, definitely people will have feelings towards, uh towards these systems because in some sense, they are like a mirror of humanity because they are like, sort of like a big average of humanity in a way that it's trained."
+}

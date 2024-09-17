@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:15:56",
+  "End": "01:16:02",
+  "Text": ", we have to be realist, you have to acknowledge it and then maybe use it for your advantage."
+}

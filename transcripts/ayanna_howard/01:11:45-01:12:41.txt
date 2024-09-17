@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:11:45",
+  "End": "01:12:41",
+  "Text": "identifying whether a person is focused is like that, we can figure out we can figure out and there's some positive results in this is that personalized adaptation based on any concepts, right? So imagine, I think about um I have an agent and I'm working with a, kid learning, I don't know, algebra two can that same agent then switch and teach some type of new coding skill to a displaced mechanic? Like what does that actually look like, right? might be the same content is different, two different target demographics of engagement. Like how do you do that?"
+}

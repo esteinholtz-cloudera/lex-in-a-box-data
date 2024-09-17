@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:12",
+  "End": "02:23:06",
+  "Text": "clearly unjust, but life is full of unjust things like this. Uh, cruel things all the time. You lose a loved one no good reason. You lose your job., you lose your home., I've been talking to a lot of refugees now and, uh, the war in Ukraine has really focused my mind to how much suffering there is in the world. And so just cruel things happen all the time and, and, and people kind of, the suffering and you and you kind of go on, stick to the people really close to you. There's still love all around you. Traumatic events kind of focus your mind on this. Like practical like, OK, how do we solve the problem? How do we escape? Let's salt. Like survival food, shelter. Focus."
+}

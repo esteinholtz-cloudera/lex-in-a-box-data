@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:56",
+  "End": "01:01:08",
+  "Text": ", I got to say that's my view on life and love in general is scarcity is what makes it more valuable people talk about immortality. know, I would like to be immortal, but it does seem that when you let go of the finite of life, feel like that meals and the experiences you have get devalued significantly, the longer you live, the less value there are in infinity. If you live forever. I worry that all the meaning will dissipate and the same thing with love. A quick criticism of dating culture and all that kind of stuff. Like I haven't a shocking revelation that I've never been on attendant date or any of those things. believe that scarcity and dating and interaction is like the value of when the interactions do happen. So when love does happen, so in that sense, there's something magical about scarcity in the more subjective psychological social world as well. And perhaps money is just another version of that, right? It's just it's all about the stories and ideas we tell ourselves, I think"
+}

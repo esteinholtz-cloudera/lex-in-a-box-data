@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:55",
+  "End": "00:48:12",
+  "Text": ". And I guess a smartphone is full of thousands of different technologies that we could probably pick at. you have a sense of where, a hypothesis of is the cocoon that it might have come from?"
+}

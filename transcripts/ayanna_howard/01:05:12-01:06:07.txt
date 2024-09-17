@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:05:12",
+  "End": "01:06:07",
+  "Text": ", even if you think about cars, I think it's a beautiful case. I came here at some point. I'm sure on either Uber or Lyft. Right. remember when it first came out, I bet if they had had a survey, would you get in the car with a stranger and pay them? many people do you think would have said, like, really, you know, wait even worse. Would you get in the car with a stranger at 1 a.m. in the morning to have them drop you home as a single female? Like how many people would say that's stupid. And now look at where we are. I mean, people put kids, like, right, like, oh, yeah, my, my child has to go to school and I, yeah, I'm going to put my kid in this car with a stranger. mean, it's just fascinating how, like, what we think we think is not necessarily matching our behavior"
+}

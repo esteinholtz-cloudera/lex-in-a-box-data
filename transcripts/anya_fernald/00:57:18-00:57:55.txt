@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:57:18",
+  "End": "00:57:55",
+  "Text": "the first piece you need to just be comfortable with is that making an animal into meat, know, is, is something you're comfortable with because I think that's the biggest question, right? And so certified Humane actually goes all the way through the death of the animal, how it's killed and handled at, at processing. So I, I put that out there just to say, let's, you know, this is all about producing an animal to die for meat. And that's like, that's not necessarily, that's something people struggle with, with the word humane. And I understand that like I have space and empathy for that. It's a, it's a complicated decision when you have to be comfortable with at the outset to say this is an animal that's going to die to feed"
+}

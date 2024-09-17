@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:31:25",
+  "End": "00:31:28",
+  "Text": ", all the tolerances come together. So"
+}

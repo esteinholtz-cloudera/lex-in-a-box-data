@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:07",
+  "End": "00:44:13",
+  "Text": "other alien civilizations potentially very different than our own. I think there's"
+}

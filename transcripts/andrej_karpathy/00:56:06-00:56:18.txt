@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:06",
+  "End": "00:56:18",
+  "Text": "the interaction be with like the way humans see it with the buttons and the language or should be with the HTML javascript and this and the CS S, what's, what do you think is the better? So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:03:17",
+  "End": "02:03:30",
+  "Text": ". Well, they're the ones that are like a stocked lake, like, like Rya, you know, it's like they like, they sort of like companies will actually fill them with, you know, people that look a certain way and will soon be filled"
+}

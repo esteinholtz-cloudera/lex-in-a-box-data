@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:45:48",
+  "End": "00:46:14",
+  "Text": "lot of people find auditing, very helpful. I mean, I've heard some describe it as quite thoroughly addictive me personally, I never enjoyed getting auditing. That's probably more a function of having raised in it and it was never something I wanted to do something that was forced on me as a child, you know. And also I was never, I don't like talking about private secret stuff. Like you kind, you kind of have to want to be an open book to honestly and thoroughly participate in an auditing session because"
+}

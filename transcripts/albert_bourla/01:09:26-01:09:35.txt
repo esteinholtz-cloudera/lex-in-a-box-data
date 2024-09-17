@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:26",
+  "End": "01:09:35",
+  "Text": ", to push back, there is quite a lot of papers, but the studies are small so that so there's no conclusive evidence and that I haven't"
+}

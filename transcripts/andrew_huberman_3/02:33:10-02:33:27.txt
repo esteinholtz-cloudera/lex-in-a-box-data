@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:10",
+  "End": "02:33:27",
+  "Text": "fascinating that I think one way to define focus for me is to the experience, the feeling of focus is losing track of time is getting to a place where you're no longer in time."
+}

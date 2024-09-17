@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:24:03",
+  "End": "03:24:07",
+  "Text": "of information is, is a hostile"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:00:54",
+  "End": "01:01:25",
+  "Text": "that? Yeah. Absolutely. To some degree, I think that people kind of model it slightly wrong. Like I think there's a truth to it. But when I first got out of the house for me, freedom was like going outside at 2 a.m. eating chocolate on days that I previously wasn't allowed to eat chocolate. That was a really intense expression of rebellion for me. And I think people don't think of this. I got out a lot of my intense rebellion through things that people don't typically consider to be rebellious at all. Like I wore a bikini insane. I"
+}

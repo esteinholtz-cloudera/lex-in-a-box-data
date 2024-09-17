@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:43:40",
+  "End": "01:43:53",
+  "Text": "one of my justifications for just putting up content every day is every video is just an excuse to in some little way promote the aftermath foundation. And, and I do that again, one to genuinely help people escape and two because I know it drives David Miscavige crazy"
+}

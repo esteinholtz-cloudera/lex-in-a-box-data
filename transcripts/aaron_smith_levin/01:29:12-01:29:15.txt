@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:12",
+  "End": "01:29:15",
+  "Text": "role matters more within sea org. Your"
+}

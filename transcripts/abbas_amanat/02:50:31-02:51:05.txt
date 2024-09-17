@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:50:31",
+  "End": "02:51:05",
+  "Text": "a long nuanced discussion and I look forward to having it so we'll just leave it, um, there for the moment., but it is stressful place in the world where the rhetoric is existential, where Iran makes claims that it wants to wipe a country off the face of the earth. It's just the level of intensity of rhetoric is unlike anywhere else in"
+}

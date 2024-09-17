@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:46",
+  "End": "02:08:19",
+  "Text": "simulation of the average case that what's on real engine? What do you mean by a real engine? So simulating a world physics of that world? is that different? Like because you also can add behavior to that world and you can try all kinds of stuff, right? You could throw all kinds of weird things into it. A real engine is not just about, I mean, I guess it is about submitting the physics of the world. It's also doing something with that."
+}

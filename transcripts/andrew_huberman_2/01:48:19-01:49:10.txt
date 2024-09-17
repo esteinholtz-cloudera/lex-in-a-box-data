@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:19",
+  "End": "01:49:10",
+  "Text": ". So language is not just words, it's everything together. And that's one of the fascinating things about the eyes in the window to the soul. I mean, they express so much the face, the eyes, the body. I mean, Lisa talks about that, the communication of emotion, it's a super complex. Perhaps it's a bit of a side fun tangent. But Matt Matthew Johnson brings up DMT and the experience of DMT as a from a scientific perspective, just a mystery in itself over its intensity of what happens to the brain. of course, Joe Rogan and others bring it up as a very different special kind of experience and elves seem to come up often."
+}

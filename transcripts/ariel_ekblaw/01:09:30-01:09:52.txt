@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:09:30",
+  "End": "01:09:52",
+  "Text": "? Yeah. So we're actually going to fly one of the little astro ants. That's the current plan. One of the little swarm robots on the top of a rover. That's part of the riding a rover. Exactly. An ant riding a rover that rover gets packed in a lander, that lander gets packed in a SpaceX rocket. So it's a whole nesting dolls situation to get to get to the moon. Mother of"
+}

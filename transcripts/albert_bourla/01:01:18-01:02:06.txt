@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:18",
+  "End": "01:02:06",
+  "Text": ". Well, let me just say that I think again, coming from the Soviet Union, I think at the public level, at the federal level mandates is um is a really bad idea even even if it's good for the health of the populace. Um There's something about preserving the freedom is really powerful about this country and like doing the hard work of convincing people to get vaccinated, to choose to get vaccinated if they want, but still have the freedom not to, that's a really powerful freedom. me it's super lazy to mandate should understand the science and want to get vaccinated. you think Children need to get vaccinated?"
+}

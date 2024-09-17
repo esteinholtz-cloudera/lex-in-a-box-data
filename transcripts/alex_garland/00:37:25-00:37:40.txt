@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:25",
+  "End": "00:37:40",
+  "Text": "was really interesting. She, we don't get to observe a much, or something like a smile in any context except through interaction, trying to convince others that she's conscious, that's as beautiful."
+}

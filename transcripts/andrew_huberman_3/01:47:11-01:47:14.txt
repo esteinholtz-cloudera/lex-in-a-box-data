@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:11",
+  "End": "01:47:14",
+  "Text": "are made for Children, but it's not gonna"
+}

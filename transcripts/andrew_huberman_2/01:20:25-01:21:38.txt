@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:20:25",
+  "End": "01:21:38",
+  "Text": "extremes are like they're interesting because people have this need. The extremes are informative though, right? I mean, well controlled experiments, you eliminate as many variables as you can except the one you're interested in. So people are running these experiments. I think that hard to imagine getting. I know people say you can get enough amino acids from plant-based sources. And I believe that I think it probably takes a little more work. Um One thing that's really clear is that the benefit of these um omega three omega six ratios like fish oils and things like that. There are some data that show that the getting at least 1000 mg of the EPA, which is in high in fish oils but other things too, even some meats and other plants, it double, you know, in matched uh placebo, double blind controlled studies, placebo controlled double blind studies have shown that those can offset antidepressive symptoms as much as some of the selective serotonin reuptake inhibitors like prolac and PROzac and Zoloft. So that's pretty impressive. And in Scandinavia, people know, especially in winter to, to consume a lot of those Omega threes because they're good for you. They're good for the brain."
+}

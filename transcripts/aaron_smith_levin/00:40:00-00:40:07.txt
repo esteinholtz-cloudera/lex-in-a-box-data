@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:00",
+  "End": "00:40:07",
+  "Text": "needle, even if it's kind of random really be like um, a catalyst for a conversation."
+}

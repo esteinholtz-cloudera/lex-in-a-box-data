@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:09:50",
+  "End": "02:09:52",
+  "Text": "your favorite books about Putin and Russia."
+}

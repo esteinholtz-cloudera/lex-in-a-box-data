@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:17:25",
+  "End": "01:17:27",
+  "Text": "what your options are, at least"
+}

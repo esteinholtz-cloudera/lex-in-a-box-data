@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:33",
+  "End": "02:38:01",
+  "Text": "of the things that garnered a lot of excitement in the crypto community is NFTS. have no idea really the depths, the fundamental technological philosophical depths of, of this technology, whether this is just a little bit of a fad or if there's some deep lessons to learn, whether it's Bitcoin or Cryptocurrency in general about it. Do you have thoughts about the long lasting fundamental aspects of NFT?"
+}

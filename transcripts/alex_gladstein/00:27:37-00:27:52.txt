@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:27:37",
+  "End": "00:27:52",
+  "Text": "in an interesting way at a certain point just said, I'm going to be a ruler forever, which is interesting. There's an important switch that happens when you as opposed to having a facade of elections. You even, you just put that aside and saying basically, like we're not even doing"
+}

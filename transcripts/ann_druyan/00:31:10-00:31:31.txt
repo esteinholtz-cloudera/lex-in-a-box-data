@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:31:10",
+  "End": "00:31:31",
+  "Text": "would fill in the blanks, they would fill in the blanks. So let me ask, you've mentioned how unlikely it is that you and Carl did two souls like yours would meet in this vast world. What are your views on how and why? Incredibly unlikely things like these nevertheless do happen? It's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:00",
+  "End": "00:52:09",
+  "Text": ". Communism didn't work because it wasn't implemented correctly. It's the, it's always, it's always, it's always an escape hatch with ideologies."
+}

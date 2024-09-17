@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:29:44",
+  "End": "00:30:16",
+  "Text": "I always like. So there's a funny one and in fact, I think it might be in the paper because I think I talk about self driving cars, but think about this. We um for teenagers, right? Typically companies charge quite a bit of money if you have a teenage driver. So you could say that's an age bias, right? But no one, I mean, parents will be grumpy but no one really says that that's not fair."
+}

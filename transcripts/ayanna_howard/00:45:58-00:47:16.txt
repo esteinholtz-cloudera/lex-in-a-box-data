@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:45:58",
+  "End": "00:47:16",
+  "Text": ". So I'm an optimist, right? Um And you know, there were some dark times in history always. I think now we're in one of those dark times. I truly do the polarization and it's not just us, right? So if it was just us, I'd be like, yeah, it's a US thing, but we're seeing it like worldwide this polarization. so I, I worry about that, I do fundamentally believe that at the end of the day, people are good, right? And, and why do I say that? Because any time there's a scenario where people are in danger and I will use uh so Atlanta, we had Snowmageddon and people can laugh about that at the time. So the city closed for, you know, little snow but it was ice and the city closed down. But you had people opening up their homes and saying, hey, you have nowhere to go, come to my house, right? Hotels were just saying like sleep on the floor like places like, you know, the grocery stores were like, hey, here's food, there was no like, oh how much are you going to pay me. It was like this, such a community and like people who didn't know each other, strangers were just like, can I give you a ride home? that was the point I was like, you know what like"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:33:14",
+  "End": "01:33:57",
+  "Text": "agree more. And I actually think that this is why we need a real life Starfleet Academy right now. It was the place where the space cadets got to go to learn about how to engage in, in a future of life in space and we can do it in a much better way. There are a bunch of groups that traditionally haven't thought that they could engage in aerospace, whether it's because you were told you had to be into math and science. Now we need space lawyers, we need space artists like grimes, right? We need really creative, profoundly interesting people want to see themselves in that future. And I think it's a big challenge to us in the space industry to also do some more diversity, equity and inclusion and show a broader swath of society that there's a future for them in this space exploration."
+}

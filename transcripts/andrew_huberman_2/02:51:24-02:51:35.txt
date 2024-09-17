@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:51:24",
+  "End": "02:51:35",
+  "Text": "more impressive because, you know, many people who've been at exceedingly high output for a decade or more don't do well, their system breaks"
+}

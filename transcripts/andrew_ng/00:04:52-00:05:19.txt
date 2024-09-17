@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:04:52",
+  "End": "00:05:19",
+  "Text": ", I felt, you know, teaching at Stanford, teaching machine learning to about 400 students a year at the time. um I found myself filming the exact same video every year telling the same jokes in the same room. And I thought, why am I doing this? Why don't we just take last year's video and then I can spend my time building a deeper relationship with students. So that process of thinking through how to do that. That led to the 1st 1st moocs that we launched"
+}

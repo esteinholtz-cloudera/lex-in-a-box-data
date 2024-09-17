@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:09:54",
+  "End": "01:10:02",
+  "Text": "? I like oatmeal. I like rice. The other time is if people are doing very high intensity weight training, they need to replenish Glycogen."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:39:05",
+  "End": "00:39:56",
+  "Text": "vaccines take years to do that. And the the the time uh that it takes, it is basically the vast majority of the time to conduct the final phase three study. What is the confirmatory study? you do that? Because the face study cost a lot of money in our case, cost almost a billion. you don't want to go and risk a billion in blind data. Normally, before you do a lot of experiments to make sure that the product that you are putting in the phase three is the right one. We didn't have that time, so we risk all the money. So we went into, we condensed all the time towards this phase three. But the phase three study had to follow all the rules that any study follows. When we do this trial. Could you"
+}

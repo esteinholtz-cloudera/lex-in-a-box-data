@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:28:04",
+  "End": "01:28:45",
+  "Text": "try to the vacuum cleaner is what I've been told was not like their first rendezvous in terms of designing a product, right? And so they were able to survive until they got to the point that they found a product market. Right. And even if you look at the Roomba, the price point now is different than when it was first released. Right. It was an early adopter price, but they found enough people who were willing to fund it. And, I mean, you know, I forgot what their lost profile was for the first couple of years, but they became profitable in sufficient time that they didn't have to close their doors."
+}

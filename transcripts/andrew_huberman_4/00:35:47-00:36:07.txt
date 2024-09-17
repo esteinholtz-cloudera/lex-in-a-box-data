@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:35:47",
+  "End": "00:36:07",
+  "Text": ". And keep going. There's this beautiful, as I mentioned, it seems like every podcast lately. Um I'm a huge rancid fan mostly because I just think Tim Armstrong's writing is, is pure poetry and whether or not you like the music or not. Um You know, and he's written music for a lot of other people too. He's not, doesn't advertise that much because he's humble. But,"
+}

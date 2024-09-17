@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:07",
+  "End": "00:23:32",
+  "Text": "know, when you go into Vegas or whenever you go into a city it like over the hill appears in front of you. And I mean, there's something majestic about seeing like, wow, humans created that it gives you hope about these. A bunch of ants were able to figure out how to build skyscrapers that light up. And in general, the design of these tiles and the way you envision it are pretty scalable. Yes."
+}

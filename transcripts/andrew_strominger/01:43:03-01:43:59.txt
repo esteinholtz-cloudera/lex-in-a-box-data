@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:43:03",
+  "End": "01:43:59",
+  "Text": ", OK. But just to sort of one thing in in order to answer every question, would need a theory of the origin of the universe, right? that is a huge task, right? So, and the fact that the universe seems to have a beginning everything we know and love, right? Because we we, you know, one of the, one of the basic principles of physics is determinism that the past, follows from the, present falls, from the past, future follows from the present. So on. if you have the origin of the universe, if you have a big bang, that means before that there was nothing. You can't have a theory in which something falls from nothing. somehow"
+}

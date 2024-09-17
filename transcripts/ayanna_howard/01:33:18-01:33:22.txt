@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:18",
+  "End": "01:33:22",
+  "Text": "is the dimension of change that's needed. So"
+}

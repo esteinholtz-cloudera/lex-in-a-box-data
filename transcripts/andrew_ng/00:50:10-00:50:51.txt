@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:50:10",
+  "End": "00:50:51",
+  "Text": "official length of the DL specialization is I think 16 weeks, so about four months. Uh but it's good at your own pace. So if you subscribe to the DV specialization, there are people that finished it in less than a month by working more intensely and studying more intensely. So it really depends on, on the individual., when we created the specialization, we wanted to make it very accessible and very affordable. Um And with, you know, Coursera and di da education mission, one of things that's really important to me is that if there's someone for whom paying anything is a, is a financial hardship, uh then just apply for financial aid and, and get it for free"
+}

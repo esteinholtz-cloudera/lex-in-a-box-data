@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:42:00",
+  "End": "02:42:34",
+  "Text": ", yeah, I read the number of existentialists that to me because they were authentic, you know, Satr, you know, he declined the Nobel prizes we discussed, but he uh was mocking people that pretend to be something better than they are. You know, he was living an authentic life that is sincere that's what appealed to me. And Albert Camille was another French philosopher that advocated existentialism. Um you know, that really appealed to me. It's probably"
+}

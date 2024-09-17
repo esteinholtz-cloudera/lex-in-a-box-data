@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:22:03",
+  "End": "02:22:10",
+  "Text": "thinking about it. Like suppose I did all these things but did not share them. I don't think I would have the same amount of motivation that I can build up. You"
+}

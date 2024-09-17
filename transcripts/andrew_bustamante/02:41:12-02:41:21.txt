@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:41:12",
+  "End": "02:41:21",
+  "Text": ", that's exactly what you see happening in China. what you just laid out. It's genius. And that is the, that is the standard on the surveillance"
+}

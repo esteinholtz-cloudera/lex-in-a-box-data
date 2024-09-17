@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:54",
+  "End": "00:19:18",
+  "Text": ". And then I guess that's what a sleep showed. They have like an app. Is it warms back up to wake you up? The idea that I haven't actually used it. I'm like this is stupid. People say it works, but I just keep it the same temperature throughout the night. warming it up, I guess wakes you up was just fascinating"
+}

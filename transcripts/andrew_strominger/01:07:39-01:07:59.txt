@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:39",
+  "End": "01:07:59",
+  "Text": ". But man, I mean, did you have an intuitive when you sit late at night and you stare at the stars? Do you have an intuitive understanding of what a holographic plate is? like that? There's two dimension no projections that store information"
+}

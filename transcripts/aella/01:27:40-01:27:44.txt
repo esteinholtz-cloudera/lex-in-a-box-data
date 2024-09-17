@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:40",
+  "End": "01:27:44",
+  "Text": "just so many more options. It's like the absence of creativity. I"
+}

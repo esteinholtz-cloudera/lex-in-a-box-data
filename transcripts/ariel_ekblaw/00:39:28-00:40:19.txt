@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:39:28",
+  "End": "00:40:19",
+  "Text": "big thing and one little thing. And there, there two classic problems that we're trying to solve in the space industry. One is radiation. It's not as much of a problem for us right now on the International Space Station because we're still protected by part of earth's magnetosphere. But as soon as you get farther out into space and you don't have that protection once you leave the Van Allen Belt area of the Earth and the, you know, cocoon around the earth. have really serious concerns about radiation, the effect on human health. Long term, that's the big one, small one. And I say it's small because it seems mundane, but it actually is really big in its own way is mental health and how to keep people happy and balanced. And you were alluding to some of the psychological challenges of having humans together on missions and especially as we try to scale the number of humans in orbit or in space. So that's another big challenge is how to keep people happy and balanced and cooperating."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:29",
+  "End": "00:49:40",
+  "Text": "yes, I didn't realize how densely packed everything was from the perspective of the old cloud. That's really interesting. So yeah, it, it could be nearby, it could be very far away."
+}

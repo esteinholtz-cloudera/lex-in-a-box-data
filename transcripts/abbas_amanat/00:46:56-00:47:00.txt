@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:56",
+  "End": "00:47:00",
+  "Text": "ancient traditions and languages. And"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:56",
+  "End": "00:38:08",
+  "Text": "duration space missions. Ok. Let's talk about this. Um I was just going to ask a bunch of dumb questions. So approximately how long does it take to travel to Mars? Asking for a friend, asking"
+}

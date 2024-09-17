@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:53",
+  "End": "00:46:12",
+  "Text": "else do you think could be discovered here about transformers? That was surprising thing? Or, or is it a stable? Um we're in a stable place. Is there's something interesting we might discover about transformers like aha moments maybe has to do with memory, uh maybe knowledge representation, that kind of stuff."
+}

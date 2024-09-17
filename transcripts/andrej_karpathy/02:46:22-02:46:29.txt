@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:46:22",
+  "End": "02:46:29",
+  "Text": "code. It's not mathematical symbols, et cetera. The source of truth is the code. It's not slides. It's just like, let's"
+}

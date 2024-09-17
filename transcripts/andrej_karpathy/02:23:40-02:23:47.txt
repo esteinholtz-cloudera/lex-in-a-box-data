@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:40",
+  "End": "02:23:47",
+  "Text": "judgmental. That's beautiful. I mean, that's on the flip side of that, but I'm very sort of flexible. Have you tried doing one meal a"
+}

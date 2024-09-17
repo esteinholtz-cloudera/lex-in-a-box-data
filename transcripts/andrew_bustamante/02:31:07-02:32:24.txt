@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:07",
+  "End": "02:32:24",
+  "Text": ", I personally have a sort of optimistic view that ultimately the best way to stay within ethical bounds. Kind of like what you suggested if you want to be a company that's extremely successful is uh win with competence, not with cheating because cheating won't, I believe win in the long term. uh terms of being publicly responsible to your decisions, I mean, I've already been supposed to talk to Peter Thiel twice on this podcast and it's just been complicated if I were to put myself into his shoes. do podcasts? The, the, the risk is too high to be a public person at all. And so I totally understand that at the same time, think if you're doing things by the book and you're the best in the world at your job, um then you have nothing to worry about and you can advertise that and you recruit, you help recruit. I mean, that's the, that's the work of capitalism is you want to advertise that. Um this is the place where the best people in the world at this thing"
+}

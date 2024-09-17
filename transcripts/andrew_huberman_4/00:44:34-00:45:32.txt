@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:34",
+  "End": "00:45:32",
+  "Text": "um I think he is approaching it as a sport, is approaching it as a. And I mean, the way he talks about it, he's a huge fan of history. He talks about all the warriors that have fought throughout history. If you look, he wants to really do it at the Coliseum. And you know, the Coliseum is for 400 years. I was, there's so many, so much great writing about this. Um I think over 400,000 people have died in the Coliseum gladiators. So this is historic place that shed so much blood, so much fear, so much anticipation of battle, all of this. So he loves this kind of spectacle and also the meme of it, the hilarious absurdity of it. The two tech CEO S are battling it out on sand in a place where gladiators fought to the death and then bears and lions, eight prisoners part of the execution process."
+}

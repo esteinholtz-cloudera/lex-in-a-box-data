@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:09",
+  "End": "00:25:19",
+  "Text": "uh something I think about. So I grew up in the Soviet Union and um need to perhaps introspect this a little bit, but when, when I was growing up,, there was a sense that bribery is the only way you can get stuff done that that was the system of the time. Uh like you get pulled over by a police officer, like obviously you need to bribe them. mean, it, it was like the way of life. Um And then so coming to this country was, it was beautiful to see that the rule of law has so much power and, and ultimately the rule of law when enacted, when when it holds up, it gives people freedom to do the best work of their lives, but there's still human nature and that, that worries me a lot here. And again, it goes back to the perception, the communication when there's people that have worked at pfizer and an FDA at the CDC. You know, you look at their resume, they have those things on their resume. It worries. People these great leaders that we are supposed to see as authorities. they playing a game on us?"
+}

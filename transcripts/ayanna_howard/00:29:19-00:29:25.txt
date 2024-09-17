@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:19",
+  "End": "00:29:25",
+  "Text": "there the bias could be positive or negative and then is prejudice, the negative, prejudice is"
+}

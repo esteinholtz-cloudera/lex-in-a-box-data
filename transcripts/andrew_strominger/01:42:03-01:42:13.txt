@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:42:03",
+  "End": "01:42:13",
+  "Text": "a theory of everything, you mean theory, a theory of of everything, an an algorithm to predict everything but"
+}

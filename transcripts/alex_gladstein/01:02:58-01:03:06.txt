@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:02:58",
+  "End": "01:03:06",
+  "Text": ". can opt out peacefully from the system it's"
+}

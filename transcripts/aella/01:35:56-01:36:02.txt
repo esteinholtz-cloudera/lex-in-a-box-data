@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:56",
+  "End": "01:36:02",
+  "Text": ", in the not just sexual relationship too like that was that in the survey?"
+}

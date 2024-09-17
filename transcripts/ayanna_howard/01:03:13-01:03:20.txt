@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:13",
+  "End": "01:03:20",
+  "Text": ". How do you think about overt trusts? Like what is, first of all, what is, is trust and what is over"
+}

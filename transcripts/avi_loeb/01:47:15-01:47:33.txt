@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:15",
+  "End": "01:47:33",
+  "Text": "don't know if you have thoughts about this. But what are the things that worry you the most about, uh, from the great perspective of the universe, which is the great filters that destroys intelligent civilizations, but for our own species here,, like, what are the things that worry the most?"
+}

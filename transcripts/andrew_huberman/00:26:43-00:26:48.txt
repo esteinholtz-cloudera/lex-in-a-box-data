@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:26:43",
+  "End": "00:26:48",
+  "Text": ", everything's in a peak state there. I really think that's where optimal performance lies."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:54:13",
+  "End": "03:54:58",
+  "Text": ", I think so because so because that's how you define perfect because perfect for me would be easy and all that kind of stuff, right? But then I would be like, this is too easy if I, if I actually were to introspect what is the perfect relationship then? Yes. Maybe because I probably want some challenge. I probably want some chaos. Right. Like you, does anyone really fully want zero conflict?, completely perfect conflict? Like, it's, it's the thing that pressing a button. Like, do you really want in a relationship? Anything you want, you press a button you get, I don't think people want that. You might think you want that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:37",
+  "End": "02:43:53",
+  "Text": "work. Well, be very careful about the, um, the time sync of it. But yeah, if you want to, you and I go together, we have a conversation on there But one of the things you have to figure out, don't still know how to do it, but how to exit."
+}

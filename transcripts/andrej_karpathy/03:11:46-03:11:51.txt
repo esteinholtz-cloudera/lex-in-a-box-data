@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:11:46",
+  "End": "03:11:51",
+  "Text": "we'll have transhumanists and then we'll have the Amish and they're gonna, everything is just going to coexist. You know, the"
+}

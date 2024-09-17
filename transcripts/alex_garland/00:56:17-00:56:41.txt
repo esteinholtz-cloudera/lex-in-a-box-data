@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:56:17",
+  "End": "00:56:41",
+  "Text": "is a useful thing to have. And it partly, it partly comes down to, although we live in a deterministic universe, our brain not very well equipped to fully determine the deterministic universe. So we're constantly surprised and feel like we're making snap decisions based on imperfect information. So that feels a lot like free will. It just isn't, would be. That's my guess. So,"
+}

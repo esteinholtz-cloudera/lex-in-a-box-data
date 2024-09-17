@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:47",
+  "End": "02:27:55",
+  "Text": ". So sprints out of distribution means that most of the time you, you have a quote unquote balance, I"
+}

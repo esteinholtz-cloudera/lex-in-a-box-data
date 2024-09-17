@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:09:29",
+  "End": "03:09:35",
+  "Text": ". have to figure out how to read your facial expressions. I'm still learning. There's none. There's no, you don't"
+}

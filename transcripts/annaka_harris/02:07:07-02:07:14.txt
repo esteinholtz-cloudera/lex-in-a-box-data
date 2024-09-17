@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:07",
+  "End": "02:07:14",
+  "Text": "we got every term from somewhere else. That's true. Everything, there's no new ideas,"
+}

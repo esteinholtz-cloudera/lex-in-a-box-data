@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:01",
+  "End": "01:07:26",
+  "Text": "said, you know what I really appreciate about you is I'm asking some really dumb questions and you're answering it in a very intelligent way. So I appreciate that. you ask the chair questions? was in mind. You fucking idiot. OK. I'm sorry. It's true. there's gnomes on the, like big gnomes or small gnomes laws laws and you seduce the lawn on the chair. The gnome is sitting on the chair."
+}

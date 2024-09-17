@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:29:21",
+  "End": "00:29:28",
+  "Text": ", competence, but we expect extreme incompetence if anything right"
+}

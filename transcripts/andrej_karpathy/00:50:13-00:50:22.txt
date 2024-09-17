@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:50:13",
+  "End": "00:50:22",
+  "Text": "think it's doing some understanding it in its weights, it understands, I think a lot about the world and it has to in order to predict the next word in a sequence."
+}

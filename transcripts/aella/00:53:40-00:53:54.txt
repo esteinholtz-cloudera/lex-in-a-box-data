@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:53:40",
+  "End": "00:53:54",
+  "Text": ". The sensation that I get when I am typing is the kind of thing that I'm trying to point out. So maybe, maybe reaction time isn't quite, I don't know what the term is, but whatever that thing is, like the thing where you have to look at a word and then communicate it into your fingers. feels like dancing,"
+}

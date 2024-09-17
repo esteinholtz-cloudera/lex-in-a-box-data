@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:18",
+  "End": "01:27:26",
+  "Text": "you think he sees himself as doing good for the world? I do. What about for the people of Scientology?"
+}

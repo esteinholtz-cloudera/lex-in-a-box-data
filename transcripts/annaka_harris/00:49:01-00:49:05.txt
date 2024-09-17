@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:49:01",
+  "End": "00:49:05",
+  "Text": "it's not true. I'm not a fan of following."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:50",
+  "End": "00:30:15",
+  "Text": ", there's a nontrivial definition of what is life here. So this idea of a, the, and the thing that permeates through lifetimes through people, there's some, some fabric that is bigger than the individual biological bags of meat. That's a philosophically interesting idea. Of course, if it's not grounded in a little bit more a physical reality, then it becomes a little woo."
+}

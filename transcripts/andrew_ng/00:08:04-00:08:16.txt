@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:04",
+  "End": "00:08:16",
+  "Text": "the kind of learner you imagined in your mind is as, as broad as possible, as global as possible. So really try to reach as many people interested in machine learning and A I as"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:43:26",
+  "End": "02:44:24",
+  "Text": "no such thing as luck when you believe in free will. Right? There are all reasons I start in retrospect, started working on my book years ago and had no idea that I was working on a book. this kind of ties into my advice, which is I think it's really important to follow your passion and find things that you love and that you find inspiring and motivating and exciting whether they relate to your career or not. And I think times if you persist just for the pure passion of thing itself, it finds a way your everyday life,"
+}

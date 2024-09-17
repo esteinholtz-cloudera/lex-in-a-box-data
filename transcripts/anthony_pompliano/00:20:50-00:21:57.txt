@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:50",
+  "End": "00:21:57",
+  "Text": "snap it into the training. But nevertheless, I mean, you're somebody who thinks philosophically about this world now, right? You're uh very intelligent and things deeply about the world. looking back, you mentioned hatred in the 14 year old kid's eyes, there's death. So the way you kind of describe this whole story is training kicks in this shit is serious. Like this is, you know, there's a reason there's a gun in your hand. there's a strategic element. There's like you have to get the job done. There's a task at hand, but at the same time, if you zoom out, a kid who has hate for you, uh, some of those kids would probably, if they could, would kill you for the thing you stand for in the uniform then there's bullets flying at you then there's people that some of them you might already care for deeply are dying. What the hell do you make of that? Do you think about that? Does any of that haunt you? do you think about the world having witnessed that?"
+}

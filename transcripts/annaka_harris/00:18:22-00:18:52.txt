@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:18:22",
+  "End": "00:18:52",
+  "Text": "? Absolutely. I think it already has and I think many facts that have come out of neuroscience are still barely seeping into the culture. I mean, I think this is going to be a long process. So part of my work is really just looking at areas where we already know some of our intuitions are wrong and to accept them and starting to let them in and starting to ask questions about what does this mean then about the nature of consciousness? Let's"
+}

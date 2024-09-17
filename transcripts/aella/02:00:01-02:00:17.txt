@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:00:01",
+  "End": "02:00:17",
+  "Text": "I really like that. I like being as vulnerable as I can to match it. Like I'm not forcing myself or anything but like, I just feel into it and like, notice how beautiful the person was and like, feel grateful for being able to be in this intimate experience with them that was so wonderful."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:04",
+  "End": "01:51:07",
+  "Text": "of all, what is the accelerating universe?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:22:21",
+  "End": "00:23:35",
+  "Text": "about yours. No, I actually don't know if you look at the, you are an astronomer, one thing that you learn from the universe is to be modest because you are not so significant. I mean, think about it, all these emperors and kings that conquered the piece of land on earth and we're extremely proud, you know, you see these images of kings and emperors that, you know, usually are alpha males they, they stand, you know, strong and um they are very proud of themselves. But if you think about it, there are 10 to the power, 20 planets like the earth in the observable volume of the universe. And view of conquering a piece of land and even conquering all of earth is just like an ant, hugging a single grain of sand on the landscape of a huge beach that's not very impressive. So you can't be arrogant. If you see the big picture, you have to be humbled. You know, also we, we are short lived, you know, we within 100 years. That's it. Right. what does it teach you first to be humble, modest, you never have significant powers relative to the big scheme of things. And second, you should appreciate every day that you live and, and learn about the world."
+}

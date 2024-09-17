@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:28",
+  "End": "00:27:35",
+  "Text": ", physical pain versus psychological pain. It's really interesting to, really interesting to think about."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:04:41",
+  "End": "01:04:49",
+  "Text": "it's not now. So why some a kid to do it now it needs to be protected. Well,"
+}

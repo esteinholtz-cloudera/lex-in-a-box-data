@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:53:32",
+  "End": "01:53:38",
+  "Text": "that are contained in string theory and they have different structure in them. Well, but"
+}

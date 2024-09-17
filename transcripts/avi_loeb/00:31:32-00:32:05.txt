@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:31:32",
+  "End": "00:32:05",
+  "Text": ", right? So a comet is a rock that has some water ice on the surface. So you can think of it as an icy rock. actually comets were discovered a long time ago. But uh the first model uh that was developed for, for them was by Fred de Whipple who was at Harvard. And I think the legend goes that he got the from walking through Harvard Square and seeing during a winter day and seeing these icy rocks, you know, and so a"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:33:19",
+  "End": "01:33:43",
+  "Text": "majority of your eye movement is to the right, you right, my left right, which is usually someone who's, if you ask micro expressionist, that's someone who's referencing fact, not necessarily what's happening for you because you're pulling concepts out of the air. So it's also a place that you reference something other than fact, it's a place for you to find creativity. So if I just thought that you were lying because you look up into the right, I would be wrong. That's so fascinating."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:26",
+  "End": "01:23:41",
+  "Text": ", but I wonder where that, because that's been that way for, for a very, very long time. And so I wonder, know, it, it's funny, certain ideas just their time comes"
+}

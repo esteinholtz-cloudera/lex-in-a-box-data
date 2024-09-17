@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:34:07",
+  "End": "00:34:21",
+  "Text": ". You know what I think Tiger Woods actually was, um, taught self hypnosis quite young., and use self hypnosis often during his tournaments sometimes to great, uh, success and other times less. So, is there"
+}

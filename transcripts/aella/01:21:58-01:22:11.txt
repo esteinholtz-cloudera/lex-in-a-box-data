@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:21:58",
+  "End": "01:22:11",
+  "Text": "mean, they've done some studies but again, like again, I'm not sure I haven't actually read the study. So maybe they didn't replicate where like they measured people before and after winning a bunch of money to see if their happiness was higher, I think like it by some measure it was and by some it wasn't. No, I"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:58:05",
+  "End": "00:59:05",
+  "Text": "energy is synonymous with positive cosmological constant. um we think it's there astronomers have told us it's there um they, they know what they're doing and it's really, really hard measurement but they know they really know what they're doing and we have no frigging idea why it's there another big mystery. Another, another reason it's fun to be a physicist. And if it is there, why should it be so small, should there be so little? Why should it have hid itself from us? shouldn't there be enough of it to substantially curve the space between us and the moon? Why did there have to be such a amount that only the crazy best astronomers in the world could find it?"
+}

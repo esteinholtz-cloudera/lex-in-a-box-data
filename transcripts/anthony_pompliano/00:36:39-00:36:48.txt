@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:39",
+  "End": "00:36:48",
+  "Text": ". When you say security, sorry to interrupt. Do you mean financial security or do you mean like literally the the the security of the, of the particular Cryptocurrency,"
+}

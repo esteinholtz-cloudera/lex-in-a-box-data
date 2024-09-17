@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:52:10",
+  "End": "02:53:30",
+  "Text": "they like, and then we can, we can pretend to be like, well, let's hope the chimps like, don't get violent because they don't seem to get violent when the resources aren't constrained. But like we don't know. the problem is it all starts by building that first chimp multiplier device. And everyone's like, OK, yeah, there's a lot of good applications you want, you know, you can make all kinds of arguments for why you have more chimps. Maybe they can help you out around the house or something like that in the physical space. But ultimately, it's the unintended consequences that you're referring to is you don't know what's going to happen. I'm really worried about A I agents like having impact when they're multiplied to a million to a billion and are allowed to operate in the digital space, as we clearly are moving more and more of our lives into the digital space. So it's kind of terrifying because a lot of people are terrified or concerned about super intelligent systems. I think I'm definitely much more concerned about super dumb systems at scale., that's terrifying. I"
+}

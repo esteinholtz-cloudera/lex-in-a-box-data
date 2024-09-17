@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:53",
+  "End": "01:38:13",
+  "Text": "if you could hang out for a day with a robot from science fiction, movies, books safely and get to pick or her, their brain. Who would you pick?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:11:14",
+  "End": "00:12:09",
+  "Text": "? You're 100% correct in how the agency and how officers and managers at the agency handle the P DB. There's a ton of competition. Everybody wants to be the first on the radar. Everybody wants to be on the first page. The thing that we're not baking into the equation is the president's interests. president dictates what's on the first page of his P DB. And he will tell them usually the day before I want to see this on the first page tomorrow, bring this to me in the beginning. I, I don't want to hear about what's happening in Mozambique. I don't really care about what's happening in Saudi Arabia. I want to see 123 and regardless of whether or not those are the three biggest things in the world, president's the executive, he's the one, he's the ultimate customer. So we do what the, what the customer says that has backfired in the past. If you haven't already started seeing how that could go wrong, that is backfired in the past. But that is essentially what happens when you serve in the executive branch, you serve the executive."
+}

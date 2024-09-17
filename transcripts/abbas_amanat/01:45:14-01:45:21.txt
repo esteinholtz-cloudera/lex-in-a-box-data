@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:45:14",
+  "End": "01:45:21",
+  "Text": "the head of the executive power to the constitution of 1906. 0,"
+}

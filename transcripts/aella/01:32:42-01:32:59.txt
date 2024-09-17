@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:42",
+  "End": "01:32:59",
+  "Text": ", but see, I guess my preferences are more, it's a really strong point, but my preferences are represent the majority probably right because most women want monogamous relationships. So it's, I'm ok with the other option because statistically speaking,"
+}

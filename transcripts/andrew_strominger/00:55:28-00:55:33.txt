@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:28",
+  "End": "00:55:33",
+  "Text": "you have to step what a couple of dimensions up. So it's hard to,"
+}

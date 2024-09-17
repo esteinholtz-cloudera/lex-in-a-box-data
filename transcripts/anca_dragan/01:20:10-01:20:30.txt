@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:10",
+  "End": "01:20:30",
+  "Text": ". How difficult is that signal, to, interpret and make actionable. So because this connects to our autonomous vehicle discussion, whether they're in the semi-autonomous vehicle or autonomous vehicle when the safety driver disengages the car, but they could have disengaged it for a million reasons."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:32:43",
+  "End": "02:33:40",
+  "Text": "it. On the money side, I think the information side, there's innovations that are open, that's possible. And the political side, I'm the most skeptical about. I just feel like there's without hot wars that we don't seem to make any kind of progress, bureaucracies just grow corruption and greed grow and human nature does not, not do well in the political arena. So I hope technology can outpace the darker sides of human nature. you're busy fighting the demons, the darkness that's out there. But looking in the mirror, you're a finite being. Unfortunately, this ride ends for you pretty soon. Do you ever ask yourself about the meaning of it? All of why the hell us descendants of apes are even on this thing striving so hard to make a better world for ourselves."
+}

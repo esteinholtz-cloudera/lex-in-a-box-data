@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:11",
+  "End": "01:21:21",
+  "Text": "there's cheese involved, right? Like what did you take away from that experience? Both as a chef? And as a human being,"
+}

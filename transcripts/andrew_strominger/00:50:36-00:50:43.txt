@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:36",
+  "End": "00:50:43",
+  "Text": "don't know, I don't know what I'm doing. I'm desperately, desperately trying to figure it out as we go along here."
+}

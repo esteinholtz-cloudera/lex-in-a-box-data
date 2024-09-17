@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:42",
+  "End": "01:14:58",
+  "Text": ", I think to, to Sean Carroll, by the way, everyone should go check out Sean Carroll's mindscape podcast. That's incredible. And Sean Carroll is an incredible person. I think you said there maybe in a paper, I have a quote. You said that a soft particle is a particle has zero energy just like you said now. And when the energy goes to zero, because the energy is proportional to the w of length, it's also spread over an infinitely large distance. If you like it's spread over the whole universe, it somehow runs off to the boundary. What we learned from that is that if you add a zero energy particle to the vacuum, you get a new state. And so there are infinitely many vacua for vacuum, which can be thought of as being different from one another by the addition of soft photons or soft gravitons. Can you elaborate on this wild idea you like, it spreads over the whole universe when the energy goes to zero because the energy is proportionate to the wavelength, it also spreads over an infinitely large distance. If you like, it's spread over the whole un it's spread over the whole universe. What uh ca can you explain these soft gravitons and photons?"
+}

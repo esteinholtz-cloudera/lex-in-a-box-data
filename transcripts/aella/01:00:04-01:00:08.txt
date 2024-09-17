@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:04",
+  "End": "01:00:08",
+  "Text": "father was basically saying you're not good enough was intellectual. Oh,"
+}

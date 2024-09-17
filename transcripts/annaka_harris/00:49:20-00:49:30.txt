@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:49:20",
+  "End": "00:49:30",
+  "Text": "very interested in why they're so compelling to some people and not others. I feel like there must be some difference that at some point will be able to discover. Um,"
+}

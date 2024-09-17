@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:33",
+  "End": "00:45:48",
+  "Text": "I got to be honest though, this process again, sorry to be sort of going there. But um feels like this is a very rigorous talk therapy session. Is there good aspects to this? Sure,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:35",
+  "End": "02:17:03",
+  "Text": ". This is a really frustrating thing. When we think from me as an A I person, you start to think about what is intelligence, which is consciousness and you start to sometimes again, night, evening thoughts is, um, little we understand how narrow our thinking is about these concepts that it could be, intelligence could be, something could be intelligent and be very different, intelligent in a very different way that we won't be able to detect because we're not keeping an open mind open enough mind. that's kind of sad because to me, there's also just a strong possibility that aliens or something like alien intelligence or some, beautiful physical phenomena are all around us we're too dumb to see it now too close minded to see it. There's something we're just deeply missing or there's uh like fundamental limitations of our cognitive abilities or just because our tools are too primitive right now like the way we, it's like you said, like, uh the ideas seem trivial once you figured it all out looking back. Yeah. But kind of makes me sad because there's could be so much beauty in the world we're not seeing you have to be dumb."
+}

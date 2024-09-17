@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:07",
+  "End": "01:44:26",
+  "Text": "said the animals are happiest in the wild and that's where they find meaning. What about us, the human animal? What's the meaning for us? Do you think you've, uh, monitored the life cycle of a lot of living beings, you ever look in the mirror and think like, why the hell are we humans here?"
+}

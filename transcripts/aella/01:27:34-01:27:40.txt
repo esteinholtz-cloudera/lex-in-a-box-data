@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:27:34",
+  "End": "01:27:40",
+  "Text": "don't. It is really good though. eat vanilla ice cream, I eat vanilla ice cream. Yeah, I think"
+}

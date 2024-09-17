@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:39:31",
+  "End": "00:40:01",
+  "Text": "going to have. Yeah, I'm not sure if the authors were aware of the impact that that paper would go on to have probably they weren't, but I think they were aware of some of the motivations and design decisions behind the transformer. And they chose not to, I think uh expand on it in that way in the paper. And so I think they had an idea that there was more um just the surface of just like, oh, we're just doing translation and here's a better architecture. You're not just doing translation. This is like a really cool, differentiable optimisation, efficient computer that you've proposed maybe they didn't have all of that foresight. But I think it's really"
+}

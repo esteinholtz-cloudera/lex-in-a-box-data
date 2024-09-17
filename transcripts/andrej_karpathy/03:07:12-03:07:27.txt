@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:07:12",
+  "End": "03:07:27",
+  "Text": ", I don't know about that actually, I hope it continues. Um, mean, I'm definitely, like, concerned about nuclear weapons and so on. Not just as a result of the recent conflict even before that. Uh that's probably like my number one concern for. So"
+}

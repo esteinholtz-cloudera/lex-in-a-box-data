@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:57",
+  "End": "02:24:07",
+  "Text": ", it's a nice world without going. It'd be nice to keep it going for a little bit longer. Andrew. Um I'm really honored that you sit down with me. This is uh thank you for your work. Thank you for"
+}

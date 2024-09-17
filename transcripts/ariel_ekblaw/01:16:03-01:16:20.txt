@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:03",
+  "End": "01:16:20",
+  "Text": ", yeah, she's amazing. She's already been on this podcast, but we talk all the time and we're supposed to talk and we've been missing each other and we're going to make it happen soon.. Come down to Texas. OK. Anyway, yeah, she's amazing. She has this book, she has her whole work is about"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:02",
+  "End": "00:36:10",
+  "Text": "the position, the tasks, the jobs uh allocated within the sea org? What do you mean? what kind of tasks you're doing? What kind of stuff"
+}

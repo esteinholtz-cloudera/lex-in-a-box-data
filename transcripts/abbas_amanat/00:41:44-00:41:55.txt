@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:41:44",
+  "End": "00:41:55",
+  "Text": "Iran has 1 million school teachers, may not seem as much if you are in the United States, but it's a fairly big number"
+}

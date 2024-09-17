@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:59",
+  "End": "00:37:20",
+  "Text": "fascinating. I never even thought about that. I just, thought it kind of, I mean, it adds to the texture of the meat, the chewiness of the meat. But you're saying it also adds to how heat, how it reacts to heat, how the entirety of the meat reacts to heat. the fat is not as important to that as the"
+}

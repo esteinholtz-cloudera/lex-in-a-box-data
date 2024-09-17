@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:16:54",
+  "End": "01:18:33",
+  "Text": "to be a female running a meat and livestock operation? felt very alone lot, you know, for a long time. Um I felt very, uh, everybody waiting for me to fail or watching and assuming that I was, like, just good at marketing or whatever else. And, and, um, so it's, it's taken me a while not internalize that. think the only reason I'm here is have our own supply chain in slaughterhouse. And I think, had I really been playing in the broader meat industry, it would have been a shorter journey, you know, it would have been very hard to make it even get to this phase. Um, I do, you know, I think mission is my life's work, mission of cleaner ingredients that taste so amazing. You don't need to do too much to them. You know, I, I like creating food that's in support of good health then secondary to that it's the environment but like I want healthy food to be a joy to eat, right? And um, you know, creating innovation in the space for this company has been about building a brand that's people understand and is transparent and that people believe in in an industry that's broadly perceived of as pretty corrupt. So those are the things I feel enormously proud of."
+}

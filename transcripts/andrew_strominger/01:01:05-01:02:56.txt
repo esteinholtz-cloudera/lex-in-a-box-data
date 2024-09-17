@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:01:05",
+  "End": "01:02:56",
+  "Text": ", that is one of the little off the track here, but that certainly is one of the nice things about being a physicist. It's, spend a lot of time thinking about, you know, insides of black holes and billions of years in the future and, and it's sort of uh gets you away from the day to day uh, into another fantastic realm. Um I was answering your question about there could be information in a black hole. Einstein only gave us an approximate description and we now have a theory that corrects it string theory now sort of was the moment of truth. Well, when we first discovered string theory, we knew, we knew from the get go that string theory would correct what Einstein said, just like Einstein corrected what Newton said. but we didn't understand it well enough actually compute the correction to compute how many gigabytes there were. sometime in the early nineties, began to understand the mathematics of string theory better and better. it came to the point where it was clear that this was something we might be able to compute. it was a kind of moment of truth for string theory because if it hadn't given the answer Beckenstein and Hawking said it had to give for consistency, theory itself would have been inconsistent and we wouldn't be doing this interview."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:51",
+  "End": "02:05:05",
+  "Text": "wish that afterwards. He would sort of say something loving and kind to Will Smith and, and his wife and then hit him real hard, into the"
+}

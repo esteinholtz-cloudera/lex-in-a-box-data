@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:37:18",
+  "End": "01:38:15",
+  "Text": "the guy that I did was he took the survey, he was waiting for the pizza to come out of the oven. And so it was important that it was short and so he literally waiting for pizza and he saw the thing is like, I guess I'll just fill out the survey really fast and changed our lives. For me. This is my kind of romance. I'm really into it., but you could, it could be efficient with surveys by like making sure your questions don't overlap. So for example, if somebody is very polyamory, they're very unlikely to be interested in like a traditional, like, man works and like, and, and the job and the woman stays home and raises the kids kind of relationship because probably people just generally don't do that. And So if I'm asking about polyamory, it's sort of kind of already covers the thing. And so if I have a whole bunch of questions, like I can kind of like triangulate a bunch of implicit kinds of questions that I haven't directly asked about. this is why I didn't ask directly about power dynamics because from the rest of the questions that are in my survey, like I can pretty accurately predict whether or not you're going to be interested in power dynamics. But I'm"
+}

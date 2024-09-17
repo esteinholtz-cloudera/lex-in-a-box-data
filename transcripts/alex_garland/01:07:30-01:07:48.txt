@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:30",
+  "End": "01:07:48",
+  "Text": "don't know that the mystery is to imagine 100 years out into the future. What will Alex Garland be remembered for from something you've created already or feel you may feel somewhere deep inside you may still create."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:03",
+  "End": "00:15:05",
+  "Text": "think I was born genetically to"
+}

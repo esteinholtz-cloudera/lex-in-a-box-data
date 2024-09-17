@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:53",
+  "End": "01:46:25",
+  "Text": "look at your own life, you're an incredibly accomplished scientist, young scientists, but you know, and you hopped around from physics to aerospace. So going from the biggest theoretical ideas to the biggest practical ideas, is there something from your own journey? You can give advice to how to end up doing incredible research at MIT um the role of the university and college and education and learning all that kind of stuff."
+}

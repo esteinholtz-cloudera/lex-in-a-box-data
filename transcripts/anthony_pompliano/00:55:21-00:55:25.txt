@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:21",
+  "End": "00:55:25",
+  "Text": "and that's what you mean by narrative driven. We can't really prove it. Like mathematically, we,"
+}

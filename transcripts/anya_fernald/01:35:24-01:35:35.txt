@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:24",
+  "End": "01:35:35",
+  "Text": "be, uh, it's hard to reproduce that. If that is, in fact, a good meal, it would be, you know, it's hard, it's hard to get him out to the farm, but maybe one time it'd be the best meal. What about you?"
+}

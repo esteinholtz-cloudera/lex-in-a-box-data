@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:32:27",
+  "End": "03:33:21",
+  "Text": "I still am pretty sure I'm an NBC but um an NBC can't know it's an NBC. There could be different degrees and levels of consciousness. I don't think there's a more beautiful way to end it. Uh Andre, you're an incredible person. I'm really honored. You would talk with me, everything you've done for the machine learning world, for the A I world just to inspire people, to educate millions of people. It's been, it's been great and I can't wait to see what you do next. It's been an honor man. Thank you so much for talking today. Awesome. Thank you. for listening to this conversation with Andre Kathi. To support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Samuel Carlin. The purpose of models is not to fit the data but to sharpen the questions. for listening and hope to see you next time."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:24:02",
+  "End": "03:24:13",
+  "Text": "think I used to more when I was younger with the traveling. I think I'm a little traveled out now, but my first one, I moved out of Idaho for the first time. I moved to Australia. Just kind of heated myself across the globe. verb"
+}

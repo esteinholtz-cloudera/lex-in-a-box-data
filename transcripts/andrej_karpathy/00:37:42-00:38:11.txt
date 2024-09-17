@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:42",
+  "End": "00:38:11",
+  "Text": ". OK. So why does it feel like we have a free will? Like if, if I raise the hand I chose to do this now? Um what doesn't feel like a deterministic thing? It feels like I'm making a choice, feels like it. OK. So it's all feelings, it's just feelings. Yeah. So when RL agent is making a choice is that not really making a choice, the choice is already there."
+}

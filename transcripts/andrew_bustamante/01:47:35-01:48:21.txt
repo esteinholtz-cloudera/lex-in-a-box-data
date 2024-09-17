@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:47:35",
+  "End": "01:48:21",
+  "Text": "when people talk about beating a lie detector, it's not that they're telling an effective lie, that's not hard, it's not hard to tell a lie to an interviewer. What? And the interviewer doesn't care if you're being honest or not honest about a topic. What they're looking for is sensitivity. If they see no sensitivity, that's a big sign for them. That's a big sign that you're probably a pathological liar. you show sensitivity to many things, then that's a sign that you're probably an anxious person and they can still reset their baseline because they can tell how your anxiety is increasing. You know, in 15 minute increments, it's, it's a unique skill. I mean, a really good polygrapher is a is immensely valuable. But the uh yeah, it's the misnomers, the misconceptions about Polygraphs are vast. You"
+}

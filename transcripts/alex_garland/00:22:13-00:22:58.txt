@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:22:13",
+  "End": "00:22:58",
+  "Text": ". But but at least my sense of it I might be wrong. But my sense of it is that the algorithms have an either conscious or unconscious bias which is created by the people who are making the algorithms and and of delineating the areas to which those algorithms are going to lean. And so for example, the kind of thing I'd be worried about is that it hasn't been thought about enough how dangerous it is to allow algorithms to create echo chambers say um but that doesn't seem to me to be about the A I or the algorithm. It's, it's the naivety of the people who are constructing the algorithms to do that thing you see what I mean? Yes."
+}

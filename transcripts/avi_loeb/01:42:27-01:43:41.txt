@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:42:27",
+  "End": "01:43:41",
+  "Text": ", you might think that humans cannot really survive and there are risks by going there. But my point is, know, we started from Africa and we got to apartment buildings in Manhattan, right? It's a very different environment from the jungles to live in an apartment building in, you know, a small cubicle. Um and you know, it took tens of thousands of years but humans adapted, right? So why couldn't humans also make the leap and adapt to a habitat in space? You know that you can build a platform that would look like an apartment building in the Bronx or somewhere but have inside of it, everything that humans need and it just like the space station but bigger and uh it will be a platform in space. And the advantage of that if something bad happens on earth, you have that complex where humans live and uh you can also move it back and forth depending on how bright the sun gets. Uh, because, you know, within, within a billion years, within a billion years, the sun would be too hot and it will boil off all the oceans on earth. So we cannot stay here for more than a billion years, that's for sure."
+}

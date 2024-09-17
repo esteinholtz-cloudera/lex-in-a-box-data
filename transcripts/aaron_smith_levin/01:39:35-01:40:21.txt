@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:39:35",
+  "End": "01:40:21",
+  "Text": "a fantastic book. He also narrates his own audio book too. I know you like the audio books. That's how I listen to him. So Mike famously, I just said a moment ago, like someone who's treated so horribly, even though he still believed in scientology that he had no choice but to leave. And he, he tells the story in that book and he still believed in Scientology for years after he escaped for years there's this thing called the Independent Scientology Movement or the free zone or whatever. There are people who do Scientology outside of the Church of Scientology. There's just not many of them, but Mike was one of those people who was actually doing Scientology. Even after he left now, he no longer believes in that anymore and he doesn't do it. But, but, but even though he still believed, even though everything he knew was what he was leaving behind, he still had to leave it behind."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:56",
+  "End": "00:16:23",
+  "Text": ". So you mentioned to go back to Swarm. So that was interesting to you, first of all in your own work. But also I believe you said something that was inspiring from Neil Stevenson as well. So when you say Swarm, are you thinking about architectures or you think about artificial intelligence like robotics or those kind of intermixed?"
+}

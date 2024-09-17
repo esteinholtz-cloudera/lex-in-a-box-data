@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:43:00",
+  "End": "01:43:14",
+  "Text": "be motivated, I'm just not motivated to learn something unless there's an actual curiosity I have and I have to learn it and to solve it. I was trying to avoid learning coding for so long. But eventually it was with my data set became too large. I couldn't work with it with anything else. So,, Python, it"
+}

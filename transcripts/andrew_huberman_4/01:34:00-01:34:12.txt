@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:34:00",
+  "End": "01:34:12",
+  "Text": "how generative two people are. What does that mean means the way he explains it is how devoted to creating growth within the context of the family, the relationship with"
+}

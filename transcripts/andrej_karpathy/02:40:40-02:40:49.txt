@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:40",
+  "End": "02:40:49",
+  "Text": ". Yeah, that's actually pretty profound that a lot of the insecurity has to do with not writing the code in the computer science space like that because that is the truth that, that, that"
+}

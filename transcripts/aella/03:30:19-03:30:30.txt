@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:19",
+  "End": "03:30:30",
+  "Text": ". Have you run? Is there don't have to share the the the contents but is there like data on each?"
+}

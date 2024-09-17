@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:07:59",
+  "End": "02:08:12",
+  "Text": ", maybe that's the wrong word. You can make it intellectual, but you can still continue the same flavor because you're not fully disengaging from the conversation doing, you're just creating an extra metal layer"
+}

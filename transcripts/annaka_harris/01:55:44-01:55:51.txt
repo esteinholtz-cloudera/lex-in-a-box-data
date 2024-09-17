@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:44",
+  "End": "01:55:51",
+  "Text": "234 hour sessions that break. I don't have Children, the Children"
+}

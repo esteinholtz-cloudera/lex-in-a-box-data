@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:50",
+  "End": "02:28:28",
+  "Text": "they don't realize, first of all, I think at his best, if you're at the level of Joe Rogan, who I think is an excellent conversationalist, just lose track of time. It can be 34 or five hours and you lose track of time. I'm still not there. I find that it's still painful. Like the conversation is still challenging. Sometimes you don't lose quite as much of track of time. It's still an intellectual effort and I think it might always be as it would be with you because you're talking about difficult topics. Maybe that require more brain. You're not shooting the shit with like a Brian Red band or somebody like comedians are just"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:22:42",
+  "End": "03:22:49",
+  "Text": "not like so to you romantic is like objective analysis the interactions between humans"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:57:29",
+  "End": "00:57:35",
+  "Text": "it wouldn't follow that every time you roll it back or forward you'd get exactly the same result,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:26",
+  "End": "01:56:42",
+  "Text": ", uh, you're one of the most productive people. I know., what, what's the secret to your productivity? How do you maximize the number of productive hours in a day? You're a scientist. You're a teacher. You're a very prolific educator."
+}

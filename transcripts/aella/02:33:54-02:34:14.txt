@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:33:54",
+  "End": "02:34:14",
+  "Text": "that? Men cheat a lot women too. But men cheat about 30% more than women do. also asked men and women to predict if they think their partner has cheated. And people's predictions were about the same. So people roughly predicted that the male or female like spouse uh hadn't cheated about the same rate, but men cheated much more than women."
+}

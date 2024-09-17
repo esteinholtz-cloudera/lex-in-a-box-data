@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:18",
+  "End": "00:36:31",
+  "Text": ", I'm just kidding. I'm sorry, go ahead. Sorry, I interrupted rudely the flow of thought. But so you don't think so in part, you disagree with that kind of argument?"
+}

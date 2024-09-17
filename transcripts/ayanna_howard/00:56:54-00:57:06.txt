@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:54",
+  "End": "00:57:06",
+  "Text": "do that as Children, right? So we're very egocentric when we were very egocentric. And so isn't that just an early version of the emotion chip? Then I haven't watched much Star Trek."
+}

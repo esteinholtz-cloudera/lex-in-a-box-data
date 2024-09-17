@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:31:44",
+  "End": "03:31:56",
+  "Text": "actually have that information on my last survey. I just haven't looked at it yet. There's just so many things to look at, so I haven't. But I think if I'm sleeping with a guy and he's had sex with more than 100 and 20 people, then I start to get a little bit wary."
+}

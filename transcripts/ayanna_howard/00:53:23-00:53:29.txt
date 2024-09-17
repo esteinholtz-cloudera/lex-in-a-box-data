@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:53:23",
+  "End": "00:53:29",
+  "Text": "cheesy. If you look at it now, I've seen a couple of reruns lately"
+}

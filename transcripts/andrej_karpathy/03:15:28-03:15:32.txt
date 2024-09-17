@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:15:28",
+  "End": "03:15:32",
+  "Text": ", I, I would say like there needs to be some grounding at some point to like a physical reality."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:20",
+  "End": "01:27:38",
+  "Text": "how hard is it for robots? Sort of maybe if you look at Irobot, the company that makes Roombas vacuum cleaners, can you comment on, did they find the right product market product fit?, are people willing to pay for robots? Is also another kind of question. The think"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:34:11",
+  "End": "01:35:03",
+  "Text": "thing is this um paper from uh JIA Farms, the Howard Hughes Campus showing that if you put uh animals into a simulated environment where you can measure their effort, it forces on while they're running and you can look at the and you can control the visual environment and you can create a scenario where the animal thinks that its output is futile. It thinks it knows it's running and it's actually running. But you change the frequency of the stripes going by in their visual world such that they think they're not getting anywhere and eventually they quit. the thing that determines whether or not they quit is a threshold level of epinephrine in the brain stem. If you drop that level back down or you or you give the animals dopamine, essentially they keep going. If you take dopamine down they, they're like, this isn't worth it. It's helpless. They're just, this isn't worth my time and energy. But this is"
+}

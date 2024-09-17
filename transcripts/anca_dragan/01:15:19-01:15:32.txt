@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:15:19",
+  "End": "01:15:32",
+  "Text": ", right? So there's this thing called Good Hearts Law, which is you set a metric for an organization and the moment it becomes a target that people actually optimize for, it's no longer a good metric. What's it"
+}

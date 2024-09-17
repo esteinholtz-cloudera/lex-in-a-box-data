@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:13",
+  "End": "00:52:59",
+  "Text": ". Well, let's, let's talk about the big galactic things and how we might be able to leverage them to travel fast. I know this is a little bit science fiction but, know, uh ideas of wormholes and ideas at the edge of black holes that reveal to us that this fabric of space time is uh be messed with perhaps, is that at all an interesting thing for you? I mean, in, in looking out at the universe and studying it as you have is that also a possible like a dream for you that we might be able to find clues how we can actually use it to improve our transportation."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:12",
+  "End": "01:34:41",
+  "Text": ". Well, let me ask you about mating rituals and how to find such a relationship. I mean, you're really big on friendships, the value of friendships., that I think extends itself into a, 11 of the deepest kinds of friendships you can have, which is a romantic relationship., uh, what mistakes, successes and wisdom can you impart?"
+}

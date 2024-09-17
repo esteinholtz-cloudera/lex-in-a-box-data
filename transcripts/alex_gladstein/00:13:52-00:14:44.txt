@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:13:52",
+  "End": "00:14:44",
+  "Text": "is a Soviet dissident Natan Sharansky who um the regime and he wrote a book in which his thesis was essentially the way that you can define a free society is through something called the Town Square test. Can you go to a public space where you live and criticize your ruler loudly without fear of retribution? you can do that, you have, you have free speech. I think that's a pretty good litmus test. Most people in this world cannot do that. If you live in Havana, if you live in Moscow, if you live in Beijing, you cannot do that. And, and that's not a free society uh in Austin, Texas, in Boston, Massachusetts in London, in Santiago, Chile in Tokyo, Japan. In many democracies, you can do that. And I think that that's a really helpful, basic sort of litmus test."
+}

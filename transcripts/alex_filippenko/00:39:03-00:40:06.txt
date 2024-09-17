@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:39:03",
+  "End": "00:40:06",
+  "Text": "know, great question. Uh There's a lot to unpack there. Of course, you know, humans are by their very nature explorers, pioneers, they want to go out climb the next mountain, see what's behind it explore the ocean depths, explore space. This is our destiny to go out there. And, of course, from a pragmatic perspective, yes, we need to um plant our seeds elsewhere really because things could go wrong here on earth. Now, some people say that's, that's an excuse to not take care of our planet that well, we say we're elsewhere and so we don't have to take good care of our planet. No, you know, we should take the best possible care of our planet. We should be cognizant of the potential impact of what we're doing. Nevertheless, it's prudent have us be elsewhere as well. So in that regard, I actually agree with Elon. Uh it'd be good to be on Mars. That would be yet another place for us to from which to, you know, explore that"
+}

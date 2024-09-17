@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:29:05",
+  "End": "00:29:14",
+  "Text": "some sense that Congressman also represents our society, perhaps his opposition should have been included as well."
+}

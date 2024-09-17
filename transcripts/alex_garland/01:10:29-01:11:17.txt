@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:29",
+  "End": "01:11:17",
+  "Text": "for listening to this conversation with Alex Garland and thank you to our presenting sponsor Cash app. Download it, use code Lex podcast. You'll get $10.10 dollars will go to first an organization that inspires and educates young minds to become science and technology innovators of tomorrow. you enjoy this podcast, subscribe on youtube, give five stars on Apple podcast support on Patreon or simply connect with me on Twitter at Lex Friedman. now let me leave you with a question from Ava, central artificial intelligence character in the movie Ex Machina that she asked during her turing test, will happen to me if I fail your test? you for listening and hope to see you next time."
+}

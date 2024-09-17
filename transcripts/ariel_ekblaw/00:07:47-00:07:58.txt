@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:47",
+  "End": "00:07:58",
+  "Text": "they themselves dream about going to the stars as opposed to flying here in the earth's atmosphere just looking up? Yeah."
+}

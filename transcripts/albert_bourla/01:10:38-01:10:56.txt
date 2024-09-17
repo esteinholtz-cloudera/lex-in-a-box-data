@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:38",
+  "End": "01:10:56",
+  "Text": "gone through uh one of the more difficult periods recent human history over the past two years, like as a society, what gives you, what gives you hope about the future for human civilization? look into the next few years."
+}

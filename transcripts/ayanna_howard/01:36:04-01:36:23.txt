@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:04",
+  "End": "01:36:23",
+  "Text": "them for sentimental value still. Just to come back for Thanksgiving dinner every once in a while. Exactly. This so beautifully put. You've also said that The Matrix may be one of your more favorite A I related movies. you elaborate? Why?"
+}

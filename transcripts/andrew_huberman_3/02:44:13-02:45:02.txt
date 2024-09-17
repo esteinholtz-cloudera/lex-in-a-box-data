@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:44:13",
+  "End": "02:45:02",
+  "Text": "encyclopedia. Yeah. And he also works with a lot of UFC fighters and he works with, he has a lab that includes a gym and so he works on endurance and powerlifting and also hypertrophy training, et cetera, but he also does muscle biopsy. So he runs the full spectrum he's a full tenured professor and he does all this stuff. So he's, he's a really unique um person in this whole la fitness landscape because there are a lot of pts out there, there are a lot of kinesia there are a lot of people studying nutrition and sports training. But he, I think he has the among people out there, he's at least in the top five, probably within the top three of people that really have their arms around the full extent of what's possible with, with training. And um he works with the UFC Performance Center. Well,"
+}

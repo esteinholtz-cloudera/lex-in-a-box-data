@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:07",
+  "End": "00:43:12",
+  "Text": "really hope there's life or traces of previous life on Mars."
+}

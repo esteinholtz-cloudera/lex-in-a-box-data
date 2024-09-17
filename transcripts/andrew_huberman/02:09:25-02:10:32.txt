@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:25",
+  "End": "02:10:32",
+  "Text": "a really, like what you're saying was not a lesson that was obvious to me and it's still not obvious. It's something I really work at, which is there is always an option to quit. mean, that's something I really struggle with. I mean, I've quit some things in my life., stupid stuff. uh one lesson I've learned is you quit, once it opens the door like, it's really valuable to trick your brain into thinking you're going to have to die before you quit. It's actually really convenient. So actually what you're saying is very profound, but you shouldn't intellectualize it. took me time to develop in ways that I think it would be another conversation because I'm not sure how to put it into words, but it's really tough on me to do certain parts of that challenge."
+}

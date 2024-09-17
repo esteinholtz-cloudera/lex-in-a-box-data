@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:10",
+  "End": "00:30:17",
+  "Text": "activity. So it's not just the geometry but the the properties of the surface of that thing."
+}

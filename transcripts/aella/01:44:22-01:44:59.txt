@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:22",
+  "End": "01:44:59",
+  "Text": "also highlight interesting anecdotal things were like people freak out at each other and just argue a thread that goes on for like 1000 messages that you might never be even aware is happening because you're like, because Twitter doesn't surface that Twitter doesn't make it easy for you to visualize what the hell's going on even with your own social network. if you post something that's controversial, that gets a large amount of attention, if you can't clearly visualize everything that's going on. Like it's, it's very, a blurry, amorphous. Like you're just kind of looking through the fog at different replies and they kind of, it's uh yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:38:25",
+  "End": "02:38:44",
+  "Text": ", there's a balance between, I think just like you said, the privacy, somehow allows for the intimacy. So being able to, as opposed to putting on an act, which I realize we do when we're visually presenting ourselves in remote communication. But"
+}

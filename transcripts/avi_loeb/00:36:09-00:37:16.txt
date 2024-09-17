@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:36:09",
+  "End": "00:37:16",
+  "Text": ", so I operated just like Sherlock Holmes in a way. said, OK, what are the possibilities? And the only thing I could think so I ruled out everything else. And I, I said it must be the sunlight reflected of it. Ok. So the sunlight reflects off the surface and gives it a push just like you get a push on a sail on a boat, you know, from the wind reflecting off it. Now, in order for this to be effective, it turns out the object needs to be extremely thin. Mhm. It turns out it needs to be less than a millimeter thick nature does not produce such things. So, but we produce it because it's called the technology of a light sail. So we are for space exploration, we are exploring this technology because it, it has the benefit of not needing to carry the fuel with the spacecraft. So you don't have the fuel, you just have a uh you just have a sail and it's being pushed either by sunlight or by a laser beam or whatever. Uh So perhaps this is the light sail. So this"
+}

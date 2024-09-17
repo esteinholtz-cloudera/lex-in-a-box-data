@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:03",
+  "End": "02:39:30",
+  "Text": "makes me sad about like deep mind, for example, where they, they still, they still publish in nature. And these big prestigious, I mean, there's still value, I suppose to the prestige that comes with these big venues. But the result is that they, they'll announce some breakthrough performance it will take like a year to actually publish the details. I mean, and those details in if they were published immediately would inspire the community to move in certain directions, they"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:15",
+  "End": "01:32:25",
+  "Text": "you train a language model, a really powerful way is by you interacting with it. Yeah. 100 try to build up an intuition. Yeah, I"
+}

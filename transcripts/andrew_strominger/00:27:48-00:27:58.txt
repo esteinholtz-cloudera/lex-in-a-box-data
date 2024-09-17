@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:48",
+  "End": "00:27:58",
+  "Text": "adding some experimental stuff into the, into the bunch actually making observations. And in all the, all the computers also help with the visualizations and all that kind of"
+}

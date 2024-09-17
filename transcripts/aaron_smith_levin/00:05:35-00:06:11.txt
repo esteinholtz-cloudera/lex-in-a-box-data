@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:35",
+  "End": "00:06:11",
+  "Text": "is Alex Friedman podcast that supported. Please check out our sponsors in the description and now dear friends. Here's Aaron Smith. Levin. do a full overview of Scientology. It's ideas how it operates, how it wields its power and influence. And let's start at the very basics. What is Scientology?"
+}

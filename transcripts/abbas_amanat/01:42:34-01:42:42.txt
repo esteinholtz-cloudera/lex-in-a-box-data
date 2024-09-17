@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:34",
+  "End": "01:42:42",
+  "Text": "actually almost want to protect Iran and its own sovereign processes from the influence of the Soviets"
+}

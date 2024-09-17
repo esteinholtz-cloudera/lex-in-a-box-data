@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:14",
+  "End": "02:11:33",
+  "Text": ". So if you capture the entirety of the gold market, uh then it would be value of a single Bitcoin. Uh the price of a single Bitcoin would be 500,000. OK? To reach a million, it would be double that, that's what the 20 trillion comes from. Got it."
+}

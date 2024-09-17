@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:32",
+  "End": "01:18:48",
+  "Text": ", right? So, I mean, if you could think of all close relationship and love in general as a kind of mutual manipulation that dance the human dance, I mean, manipulation is a negative connotation that's why I don't"
+}

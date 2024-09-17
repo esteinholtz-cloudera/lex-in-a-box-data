@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:18:32",
+  "End": "01:19:22",
+  "Text": "you're gonna eat meat, getting it from sources that are compatible with, um, you know, continuation of the planet is good. I mean, there are some, some real problems with the factory farm meat. You know, you drive up and down the five and you pass that point where all those cows, I mean, as somebody who loves animals, um, it's, it's clear that it's, know, you want to limit the amount of suffering of those animals whenever I hear about. Um, you know, we have, we know people that hunt and they go and get their own meat. I really admire that. I admire that people do that. We don't, we don't tend to do that in the hills around Stanford. You know, there are mountain lines back there, but that's about it. And I'm, I'm certainly, I admire the vegan mindset of being of just making that decision. You're just not going to consume other beings. But, you know, I haven't gone that way,"
+}

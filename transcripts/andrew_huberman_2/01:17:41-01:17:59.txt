@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:41",
+  "End": "01:17:59",
+  "Text": ". But all that said, I do want to because a lot of people who are vegan, write to me I do want to seriously in the same seriousness that I approached Keto. I do want to go in a few months to switch to a vegan diet at some point to really try it. I"
+}

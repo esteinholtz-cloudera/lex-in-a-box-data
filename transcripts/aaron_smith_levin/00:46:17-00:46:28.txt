@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:46:17",
+  "End": "00:46:28",
+  "Text": "no expectation of privacy, but there's no expectation that your stuff's going to be leaked for blackmail either. I mean, you kind of trust the people in the organization,"
+}

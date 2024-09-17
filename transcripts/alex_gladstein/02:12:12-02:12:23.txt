@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:12:12",
+  "End": "02:12:23",
+  "Text": "the goat, he's Andreas, is the goat is the goat. I know a lot of people have issues with some of his more recent work, but Andres is the goat. I mean, he's the reason I'm in, I mean, he's the reason I'm in Bitcoin. So"
+}

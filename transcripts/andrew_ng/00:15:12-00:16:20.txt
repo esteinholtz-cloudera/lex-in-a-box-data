@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:15:12",
+  "End": "00:16:20",
+  "Text": "could see society getting there. Um There's one other interesting thing, you know, if I go talk to the mom and pop store, if I talk to a lot of people in their daily professions, I previously didn't have a good story for why they should learn to code. You know, we could give them some reasons. what I found with the rise of machine learning and data science is that I think the number of people with a concrete use for data science uh in their daily lives in their jobs may be even larger than the number of people with concrete use for software engineering. For example, if you actually, if you run a small mom and pop store, I think if you can analyze the data about your sales, your customers, that I think there's actually real value there, maybe even more than traditional software engineering. I find that for a lot of my friends in various professions, be it recruiters or accountants or, you know, people that work in the factories which I deal with more and more these days. Um I feel if they were data scientists at some level, they could immediately use that in their work. Uh So I think that data science and machine learning may be an even easier entree into the developer world for a lot of people than the software engineering."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:41",
+  "End": "02:18:46",
+  "Text": ". How many sexual partners have you had in the last year? Oh my"
+}

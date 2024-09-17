@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:43:58",
+  "End": "00:44:19",
+  "Text": "can't go in arbitrary directions in the configuration space under your control. It's a very simple way of under actuation where basically there's literally these degrees of freedom that you can control and these degrees of freedom you can't, but you influence them. And I think that's the important part is that they don't do whatever, regardless of what you do that what you do influence is what they end up"
+}

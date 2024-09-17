@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:32",
+  "End": "02:00:37",
+  "Text": "but I wonder what the experience is a, what the actual experience because the I mean, space itself is curved."
+}

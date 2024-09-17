@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:32",
+  "End": "01:25:36",
+  "Text": "in the 1906 Iranian Constitution?"
+}

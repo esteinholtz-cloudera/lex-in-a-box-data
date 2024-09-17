@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:00:19",
+  "End": "01:01:15",
+  "Text": ". And so what we're talking about here is how do we reason about what other people do in situations where we haven't seen them and somehow we just magically navigate that, you know, I can anticipate what will happen in situations that are even novel in many ways. And I have a pretty good intuition for, I don't always get it right. But, you know, and I might be a little uncertain and so on. But I think this that if you just rely on data, you know, there's just too many possibilities, there's too many policies out there that fit the data. And by the way, it's not just state, it's really kind of history of state because to really be able to anticipate what the person will do. It kind of depends on what they've been doing so far because that's the information you need to kind of at least implicitly sort of say, oh, this is the kind of person that this is, this is probably what they're to do. So anyway, it's like you're trying to map history, states to actions. There's many mappings, history,"
+}

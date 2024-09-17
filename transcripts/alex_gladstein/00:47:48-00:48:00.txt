@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:47:48",
+  "End": "00:48:00",
+  "Text": ", information, money. Yes, let's talk about money. is money and why is it important to think about in the context of human rights?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:55",
+  "End": "01:37:01",
+  "Text": "his mind is corrupted to the point where he's not able to actually be a good businessman. Essentially."
+}

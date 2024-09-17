@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:21:20",
+  "End": "03:21:25",
+  "Text": ". What about it is appealing? Is it just like being able to revisit it with new eyes?"
+}

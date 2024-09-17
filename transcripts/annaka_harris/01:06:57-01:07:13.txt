@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:57",
+  "End": "01:07:13",
+  "Text": "intuition, or at least the direction which you're pushing is that consciousness the only fundamental thing in the universe that else like time, all those kinds of things emerge from that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:26:18",
+  "End": "00:26:26",
+  "Text": "the way to Odessa and into, into uh Moldova, I believe all of that will happen before the fall"
+}

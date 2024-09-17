@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:21:22",
+  "End": "01:21:42",
+  "Text": "students to the ISS to do their research. I do think you and I both would have an opportunity to go to a lunar base of some sort within our lifetime. And there's a good chance if we really wanted to, we might have to really advocate for it. You know, apply to an astronaut program. There will be some avenues for humans in our lifetime to go to Mars. What's"
+}

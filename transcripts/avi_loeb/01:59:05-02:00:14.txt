@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:59:05",
+  "End": "02:00:14",
+  "Text": "? So black holes are the ultimate prison, know, you can check in but you've never met. even light cannot escape from them. So there are extreme structures of space and time. And there is this so-called Schwartzchild uh radius or, or the event horizon of a black hole. Once you enter into it with a spaceship, you would never be able to tweet back to your friends and tell them. By the way, I asked the students in my class freshman seminar at Harvard. I said, uh let me give you two possible journeys that you can take. I said, suppose aliens come to earth and um suggest that you would board their spaceship. you do it? Um And the second is suppose you could board a spaceship that will take you into a black hole, would you do it? So all of them said the first question,, under one condition that I'll be able to maintain my social media contacts and report back. Share the experience with them. I personally, I have no footprint on social media, which is as"
+}

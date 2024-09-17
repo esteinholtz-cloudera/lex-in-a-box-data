@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:18",
+  "End": "01:56:29",
+  "Text": "very possible that uh in a small handful of people, even three, that you would be one of the Nobel, one of the winners of the Nobel Prize doesn't weigh heavy on you. Well,"
+}

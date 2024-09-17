@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:12:23",
+  "End": "02:12:36",
+  "Text": ", that's fascinating. And it's funny, it's funny to watch the big immune system also attacking him and this whole feedback mechanisms working together. It's fascinating."
+}

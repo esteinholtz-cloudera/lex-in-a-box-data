@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:00:35",
+  "End": "01:01:20",
+  "Text": ", if a bit like Ava and her robotics, you, you park the, the sheer complexity of what you're trying to do. Um The, issues are I think, I think it will have a profound,, I if you were able to have a machine that was able to project forwards and backwards accurately, it would, in an empirical way show it would demonstrate that you don't have free will. So the first thing that would happen is people would have to, to really take on a very, very different idea of what they were, thing that they truly, truly believe they are, they are not. And so that, that I suspect would be very, very disturbing to a lot of people. Do you think"
+}

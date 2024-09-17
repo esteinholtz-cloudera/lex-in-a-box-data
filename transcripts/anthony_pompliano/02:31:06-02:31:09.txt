@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:31:06",
+  "End": "02:31:09",
+  "Text": "to reach weird people, you can't be serious"
+}

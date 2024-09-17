@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:45:05",
+  "End": "01:45:53",
+  "Text": "say you should feel empowered because it's really the first time in human history that we're at this cusp of interplanetary civilization. And I don't think we're going to lapse back from it. So the future is incredibly bright for young people that even younger than you and I who will actually really get a chance to go to Mars for certain. The other thing I would say is be open minded about what your own interests are. I don't think you anymore have to be shoehorned into a particular career to be welcomed into the future of space exploration. you are an artist and that is your passion, but you would love to do space art or if not space art, use your artistry to communicate a feeling or a message about space. That's a role that we desperately need just as much as we need space scientists and space engineers. So well, when"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:10:04",
+  "End": "00:11:10",
+  "Text": "was, uh, in eighth grade, um, if I remember correctly and I remember being in school when it happened and, uh, I walked into a classroom and the entire class, uh, somebody else's class, were all talking to the teacher about something. The second that me and a couple of other kids walked in and we got real quiet and the teacher was like, hey, go back to your like home room. And so it was just kind of a weird, like what's going on. Uh And then next thing I know they called all the students into the cafeteria and this is back before, you know, every classroom really had a television in it and, you know, cable and all that kind of stuff. And so when we were there, they basically just said, listen, there's been this uh, event that's occurred, all of your parents are gonna come pick you guys up and, uh, they'll explain it to you. so to, you know, a kid in eighth grade, you're basically like what happened. And so I got home and I remember talking to my dad about it and my dad basically gave me, you know, the, uh the core American kind of talking points, right? Somebody from another country came here and tried to kill Americans and was successful in doing that. And to some extent, he just said, and I'm willing to bet we're going to go back"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:04",
+  "End": "01:28:09",
+  "Text": "of clearly power and influence that he's had and money"
+}

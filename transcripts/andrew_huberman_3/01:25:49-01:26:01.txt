@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:25:49",
+  "End": "01:26:01",
+  "Text": ". What's that saying? Um I think Dorothy Parker said the cure for boredom is curiosity. There is no cure for curiosity"
+}

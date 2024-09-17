@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:27:33",
+  "End": "03:27:53",
+  "Text": ", I think it's fascinating to me how these uh the predictions of A I and what it's going to look like and what it's going to be capable of are completely inverted and wrong and sci fi of fifties and sixties was just like, totally not right. imagine A I as like super calculating the improvers and we're getting things that can talk to you about the emotions they can do art. just like"
+}

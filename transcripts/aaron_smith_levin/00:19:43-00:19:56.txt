@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:19:43",
+  "End": "00:19:56",
+  "Text": ". Anyone over there. If they've done their homework knows you're going to be as fair as anyone in the world is going to be. And yet simply things they're not allowed to talk about and they're not even allowed to say I'm not allowed to talk about it. So"
+}

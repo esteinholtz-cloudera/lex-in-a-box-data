@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:59",
+  "End": "01:42:13",
+  "Text": "it reveals so much, not just about the person, but about the kind of questions I I should be asking that have nothing to do with truth or loyalty but how to get a good engineer with very specific questions. But I think it's really useful to get text input."
+}

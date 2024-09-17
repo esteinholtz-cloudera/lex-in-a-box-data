@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:46",
+  "End": "01:50:01",
+  "Text": ". So why, so I understand from the from the perspective of that's holding our science back. Uh why do you have a sense that that's also something that might be a problem for us in terms of the survival of human"
+}

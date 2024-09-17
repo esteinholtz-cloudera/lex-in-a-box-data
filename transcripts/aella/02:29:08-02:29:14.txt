@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:29:08",
+  "End": "02:29:14",
+  "Text": "hear, yes,, which can be destroyed by the truth should be"
+}

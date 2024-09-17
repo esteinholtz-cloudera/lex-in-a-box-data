@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:38",
+  "End": "00:25:41",
+  "Text": "physical universe. There's no theater,"
+}

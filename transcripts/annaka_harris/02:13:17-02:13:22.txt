@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:17",
+  "End": "02:13:22",
+  "Text": "feel like it's for a long time going to be snow globes inside snow globes inside snow"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:47",
+  "End": "02:34:13",
+  "Text": "know, the feeling is the number of programmers in the world has been growing and growing very quickly. Do you think it's possible that it'll actually level out and drop to like a very low number with this kind of world? Because then you'll be doing software 2.0 programming. And you'll be doing this kind of generation of copilot type systems programming, but you won't be doing the old school. So software 1.0 programming,"
+}

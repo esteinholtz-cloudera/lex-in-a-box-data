@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:16",
+  "End": "02:20:56",
+  "Text": ", but we'll, we'll do the interview eventually. So it's this annoying thing about me being a stickler for three hours. S don't seem to understand, like, not understand, but it's scheduling. So what happens is Saunders said? Yes, definitely. Let's do it. I'm a fan of the podcast as a fan of yours. And then it goes to his executive assistant, like, oh, let's find a slot and then they immediately think. All right. Well, one hour is good. 45 minutes, 90 minutes by Zoom. 90 minutes. Yeah. Right. Well, no, they know in person I'm sticking on that, but it's like, no, we need more it's so hard to, to"
+}

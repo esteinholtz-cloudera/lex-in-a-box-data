@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:05",
+  "End": "00:58:20",
+  "Text": "individual scale, be deliberate about controlling the environment. I think about that with the conversations too. I haven't been deliberate about that either in terms of controlling the space you're in visually. Yes, black curtains, all those kinds of things."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:33:42",
+  "End": "03:33:51",
+  "Text": "think it's unethical to lie about your body count?. So, all lying is unethical. Yeah."
+}

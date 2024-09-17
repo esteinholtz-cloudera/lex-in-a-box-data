@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:31:57",
+  "End": "01:32:15",
+  "Text": ", I think there's a ton of uh it's, it's a source of truth. It's your interaction with the system and you can see it, you can play with it, you can perturb it, you can get a sense of it. You have an intuition for it. I think numbers just like have a way of numbers and plots and graphs are, you know, much harder. It hides a lot of it's like"
+}

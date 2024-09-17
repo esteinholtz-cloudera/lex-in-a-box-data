@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:47:43",
+  "End": "00:48:03",
+  "Text": ", my now friend Tim Armstrong, like I said, least hearing from ran, he put it best. He said, you know Mike Tyson's life is, you know, Shakespearean you know, down, up, down up and just that the arcs of his life are just like sort of an only in America kind of tale too, right? So,"
+}

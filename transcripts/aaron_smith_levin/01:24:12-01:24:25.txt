@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:12",
+  "End": "01:24:25",
+  "Text": "Musca believes that they can be written down so they exist sort of in the platonic sense. L Ron Hubbard is the only one that can write it down. So his faith is really"
+}

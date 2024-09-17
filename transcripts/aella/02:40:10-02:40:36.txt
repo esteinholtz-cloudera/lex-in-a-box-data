@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:10",
+  "End": "02:40:36",
+  "Text": "is so fascinating. So I, I would uh, can we just talk about the methodology of this? feels like deeply honest of humanity in a way? We don't usually map humanity. Yeah, it's so your fetishes are so meaningful to each individual person."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:48",
+  "End": "00:56:55",
+  "Text": "right. Well, it's beautiful. So, you through all the dragons, did you end up in a factory school?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:33:44",
+  "End": "02:34:30",
+  "Text": ", that's my goal. Anyway. And I've watched people die. I watched my post doc advisor die. Wither away my graduate. It was tragic, but they found beauty in these closing moments because their bubble was their kids in one case. Or like one of them was a Giants fan and like, got to see a Giants game, you know, in her last moments and like, and you just realize like it's a Giants game, but not in that moment because time is closing. And so those time bins feel huge because she's slicing things so differently. I think, um learning how to do that better and more fluidly recognizing where one is and not getting too tacked to the idea that there's one correct answer. Like that's what brings meaning. That's my goal. Anyway,"
+}

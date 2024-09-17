@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:33:24",
+  "End": "00:33:34",
+  "Text": "symbolic but yes. Ok. Like no, it's not a legally enforceable contract. haven't succeeded in enforcing it in any subsequent lifetimes yet marriage contract"
+}

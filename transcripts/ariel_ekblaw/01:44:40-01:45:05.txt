@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:40",
+  "End": "01:45:05",
+  "Text": ", those are all again, the same human questions. What advice would you give to a young person today? Thinking about what they want to do with their life career. somebody in high school, somebody in college, maybe somebody that looks up to the stars and dreams to one day. Take it one way, take it to Mars or to contribute something to the effort."
+}

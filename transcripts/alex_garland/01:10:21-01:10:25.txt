@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:21",
+  "End": "01:10:25",
+  "Text": ". It was truly an honor to talk to you. I really appreciate it. I really enjoy it. Thank"
+}

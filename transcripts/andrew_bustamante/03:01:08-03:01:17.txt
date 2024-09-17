@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:01:08",
+  "End": "03:01:17",
+  "Text": "sometimes those conspiracy theories turn out to be true. But most times they don't, just part of the risk of being a myth."
+}

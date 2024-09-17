@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:23:47",
+  "End": "00:24:05",
+  "Text": ", I think you would need like a very good reason, I think to, to destroy it. Like why don't we destroy these ant farms and so on? It's because we're not actually, like, really in direct competition with them right now. Uh We do it accidentally and so on. But um plenty of resources and so why would you destroy something that is so interesting and"
+}

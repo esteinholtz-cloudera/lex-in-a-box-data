@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:58:20",
+  "End": "00:58:40",
+  "Text": "is nothing like the Lex Friedman podcast studio. of all, when you, when you do them remotely, I always feel like I'm in a witness relocation program, you only get the coordinates at the last moment and you always get the sense that there are people behind the walls that um you know, are recording things. Well, there,"
+}

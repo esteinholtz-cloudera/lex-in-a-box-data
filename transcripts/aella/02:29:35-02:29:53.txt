@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:35",
+  "End": "02:29:53",
+  "Text": "they give me your number after. Yeah., man, that's kind of beautiful. What do you think of monogamous relationships, like, philosophically? Can you maybe steal that or make the case for monogamous relationships?"
+}

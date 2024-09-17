@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:16",
+  "End": "01:18:37",
+  "Text": "prediction is happening in this like four D land with three dimensional world over time. How do you do annotation in that world? What, what, what have you as a data annotation, whether it's self supervised or manual by humans is um a, is a big part of the software 2.0 world,"
+}

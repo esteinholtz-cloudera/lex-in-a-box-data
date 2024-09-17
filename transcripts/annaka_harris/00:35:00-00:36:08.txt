@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:35:00",
+  "End": "00:36:08",
+  "Text": "inherent. Yeah, I mean, there must be a range but I do think that it's pretty deep and I think um also a difference between the autobiographical me and then this more fundamental me that, that we're talking about where that I'm pointing to is the illusion. So um in my book, I talk about if someone um wakes up with amnesia, if they have a brain injury and suddenly have amnesia and can't remember anything about their lives. Can't remember their name, don't recognize people they're related to. Um would have lost their autobiographical self, but they would still feel like an I, they would still have that basic sense of I'm a person. I mean, they'd be speaking that way. I don't remember my name. I don't know where I live. Um You still, it, it goes very deep this feeling that I am a single entity. Um, that is somehow completely reliant upon the cause and effect of the physical world. Can I"
+}

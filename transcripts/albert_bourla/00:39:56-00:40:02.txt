@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:56",
+  "End": "00:40:02",
+  "Text": "briefly the basics of what is phase one? What is phase two? What is phase"
+}

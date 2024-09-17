@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:39:54",
+  "End": "03:39:59",
+  "Text": "it. Ok. You like it? What effect do you think it has on society?"
+}

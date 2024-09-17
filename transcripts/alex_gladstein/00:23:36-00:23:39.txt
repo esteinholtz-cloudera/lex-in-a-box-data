@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:36",
+  "End": "00:23:39",
+  "Text": "fascism scapegoats minorities,"
+}

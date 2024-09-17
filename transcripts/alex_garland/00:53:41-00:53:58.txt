@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:41",
+  "End": "00:53:58",
+  "Text": ", there's something hopeful and beautiful about reaching out any kind of exploration, reaching out across earth ago and then reaching out into space. So what do you think about colonization of Mars? So going to Mars, does that excite you the idea of a human being stepping foot on Mars?"
+}

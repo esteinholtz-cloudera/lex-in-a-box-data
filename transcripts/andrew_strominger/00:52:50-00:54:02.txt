@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:52:50",
+  "End": "00:54:02",
+  "Text": ", any space. However, we've made sense of the holographic principle for black holes. made sense of the holographic principle for something which could be called anti de Sitter space, which be thought of as a giant, as a black hole turned into a whole universe. um we don't really understand how to talk about the holographic principle for flat space which we appear to live in or the consider space which astronomers tell us we actually live in as the universe continues to expand. it's one of the, one of the huge problems in uh physics is to, know, apply or even formulate the holographic principle for more realistic, well, black holes are realistic, we see them. But um, in, in more general context. So more general statement of the holographic principle,"
+}

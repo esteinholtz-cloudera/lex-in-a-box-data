@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:28",
+  "End": "01:10:59",
+  "Text": "you've spoken a lot about the idea of software 2.0., all good ideas become cliches so quickly the terms. It's kind of hilarious. Um, it's like, I think Eminem once said that if he gets annoyed by a song he's written very quickly, that means it's going to be a big hit because it's too catchy. But can you describe this idea and how you're thinking about it has evolved over the months and years since, since you coined"
+}

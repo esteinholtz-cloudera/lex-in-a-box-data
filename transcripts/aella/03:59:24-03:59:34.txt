@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:59:24",
+  "End": "03:59:34",
+  "Text": "like the conversation. I was a little worried coming in. I was like, what if you only ask a couple questions and then we don't know what to talk about, but it's been quite a long time"
+}

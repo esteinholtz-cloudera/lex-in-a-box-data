@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:12:42",
+  "End": "02:12:53",
+  "Text": "for nuance in this world. I'm glad to hear that. If people are fascinated by your work, what is the way to get more of Alex?"
+}

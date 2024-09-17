@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:33:56",
+  "End": "00:34:50",
+  "Text": "course, now we could send worldwide, we could send everything that's on the world wide web we could send, I mean, you know, that was a time when we were talking about photograph records and transistor radios and, you know, so, uh we tried to be, uh, to take advantage of the existing technology to the fullest extent, know, the computer that was hooked up to me from my brain waves and my heart sounds while I was meditating was, you know, the size of a gigantic room and I'm sure it's not that it didn't have the power of a phone the phone has now. So, you know, no, we could just, I think we could let it all hang out. We could just send, you know, I mean, that's the wonder like would send, you know, Wikipedia or something and not be a gatekeeper. But"
+}

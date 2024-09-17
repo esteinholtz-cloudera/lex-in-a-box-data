@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:00",
+  "End": "02:04:14",
+  "Text": "the highest possible topic of consciousness to the, to the lowest level, uh, of David Goggins, I"
+}

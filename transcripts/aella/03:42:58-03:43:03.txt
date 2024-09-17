@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:42:58",
+  "End": "03:43:03",
+  "Text": ". Well, I would like to, I mean, I'm hoping that we get to be immortal."
+}

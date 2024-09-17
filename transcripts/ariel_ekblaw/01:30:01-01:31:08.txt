@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:30:01",
+  "End": "01:31:08",
+  "Text": "think that's what's so special about what Elon is doing with spacex is he takes these risks and he tests iteratively and he'll will see the spectacular failures on the path to a successful starship. It's something that, you know, people have said, why isn't NASA doing that? Well, that's because NASA is doing that with taxpayer dollars and we would all revolt if we saw NASA failing at all these different stages. But that level of, you know, spiral engineering theory of development isn't super impressive. And it's a really interesting approach that has taken. And I think between people like Elon and Jeff Bezos and Firefly and Nasa and Esa, we are going to get there, they're building the road to space. These trailblazers are doing it. And now part of the challenge is to get the rest of the public to understand that it's happening,. A lot of people don't know that we're going back to the moon that we're going to send the first woman to the moon. Um Within a few years. A lot of people don't know that there are commercial space stations in orbit that it's not just NASA that does space stuff. So we have a big challenge to get more of humanity excited and educated and involved. Again, kind of like in the Apollo era where it was a big deal for everybody."
+}

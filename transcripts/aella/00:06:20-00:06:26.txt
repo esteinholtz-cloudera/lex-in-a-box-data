@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:06:20",
+  "End": "00:06:26",
+  "Text": "uncertainty, exciting to you., in conversations in general or just this"
+}

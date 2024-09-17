@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:27",
+  "End": "02:15:48",
+  "Text": "know, it might be something there, but it could be also just personal. I just have some, found myself, everyone's different, but I've found myself to be able to do unpleasant for very long periods of time. Like I'm able to shut off the mind and I don't think that's been fully tested"
+}

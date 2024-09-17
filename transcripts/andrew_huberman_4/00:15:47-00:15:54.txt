@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:15:47",
+  "End": "00:15:54",
+  "Text": "are great. That's what I miss about Rogan being on youtube with the full length episodes that comment. So"
+}

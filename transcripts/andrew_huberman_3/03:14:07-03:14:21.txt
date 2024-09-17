@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:14:07",
+  "End": "03:14:21",
+  "Text": "there's a bunch of questions on, on Instagram, one of them this topic on relationships. Uh Somebody suggested to do a part three of why Lex is single, there's a running joke about this. Uh, so,"
+}

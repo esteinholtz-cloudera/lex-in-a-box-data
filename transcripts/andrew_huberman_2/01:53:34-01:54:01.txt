@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:34",
+  "End": "01:54:01",
+  "Text": "know, one thing that Matt mentioned as the study that they're working on as opposed to, I think most of the psychedelic studies they've done is on how to treat different conditions. And one of the things they're working on now is to try to do a study where for creatives, for people that don't have a condition they're trying to treat. But instead how this, how psychedelics can help you create. So"
+}

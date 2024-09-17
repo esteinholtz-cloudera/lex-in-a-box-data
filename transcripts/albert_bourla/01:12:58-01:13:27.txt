@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:12:58",
+  "End": "01:13:27",
+  "Text": "? I, I would repeat something that, uh, uh Steve Jobs has said death is life's biggest invention. Uh It eliminates the old and gives place to the new. Uh, life is all about moving forward. is all about uh creating new things. Um Maybe everyone is a contributor, but no one is the owner"
+}

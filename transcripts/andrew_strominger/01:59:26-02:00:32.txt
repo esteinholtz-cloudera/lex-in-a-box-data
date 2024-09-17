@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:59:26",
+  "End": "02:00:32",
+  "Text": ", I'm able to imagine that kind of thing. Yeah. So for example, and actually there's a wonderful movie um and um that movie, you know, Kip Thorne of, of course, is a great physicists experimental who later won the Nobel Prize um for Ligo. And movie is very accurate scientifically. there's some funny statements in there of the, know, 100 million people who saw that movie, there can't be more than 10 or 20 understood about why Matthew mcconaughey is the trash in a certain direction in order to. the, you know, for example, if I were a spinning black hole right here, if I was spinning fast enough, you wouldn't be able to stay still there, you'd be have to be orbiting around like that. You know, you'd have to have your microphone on"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:49:02",
+  "End": "03:49:09",
+  "Text": "? It's, it's not convenient it's quite difficult. Is that like required training? It does require training"
+}

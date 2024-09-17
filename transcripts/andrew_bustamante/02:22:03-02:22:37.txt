@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:22:03",
+  "End": "02:22:37",
+  "Text": "is one of those organizations that, that was trying to pitch their product to an intelligence community because they have it's a fantastic product on paper. But the challenge was the proprietary services, the proprietary systems that we current that we used in CIA prior to Pune here continued to outperform Pune. So just like any other business decision, if you've got homegrown systems that outperform external systems and it's not worth it to share the internal information."
+}

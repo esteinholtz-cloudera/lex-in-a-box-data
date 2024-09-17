@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:31",
+  "End": "00:31:44",
+  "Text": "this is like a touring test for intelligence from earth like the creator is uh I mean maybe this is like trying to complete the next word in a sentence. This is a complicated way of that. Like earth is just basically sending a message"
+}

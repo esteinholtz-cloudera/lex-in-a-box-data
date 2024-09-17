@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:23:32",
+  "End": "00:24:12",
+  "Text": "they're inspired by exactly what you mentioned a moment ago, which is we have these patterns of self earth. And there's a lot of fantastic mit research that we're building this concept on. So like Daniela Rus at sea sail and Pebbles, taking the power of magnets to create units that are themselves interchangeable, this notion of programmable matter. so we're interested in going really big with it to build big scale space structures with programmable tiles. But there's also a really fascinating, you know, end of that on the other side of the spectrum, which is how small can you go with matter that's programmable and stacks and builds itself and creates a bridge or something in the future."
+}

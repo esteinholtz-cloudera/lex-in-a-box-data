@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:41",
+  "End": "02:45:46",
+  "Text": "questions. You're going to miss stuff. You're just picking what, what's less and less important to miss."
+}

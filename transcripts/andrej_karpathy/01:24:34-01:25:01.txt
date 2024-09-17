@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:24:34",
+  "End": "01:25:01",
+  "Text": "not just that. But again, this real, real importance of it's the sensor that humans use. Therefore everything is designed for that sensor, the text, the writing the flashing signs, everything is designed for vision. And so and you just find it everywhere. And so that's why that is the interface you want to be in um talking again about these universal interfaces. And uh that's where we actually want to measure the world as well and then develop software for that answer."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:19",
+  "End": "01:17:29",
+  "Text": "actually talked to her. So I will talk to her on this podcast actually. And she invited me like a week ago out to visit the farm in May or June or whatever. Yeah, they have"
+}

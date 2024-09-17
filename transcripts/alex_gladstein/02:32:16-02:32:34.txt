@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:32:16",
+  "End": "02:32:34",
+  "Text": ". So the big question is how do we prevent the rise of this, like, authoritarian um surveillance state in China while at the same time, kind of diffusing the military industrial complex on our side. That to me is like the biggest challenge of our time. I don't have the answer but we should keep digging. Yeah,"
+}

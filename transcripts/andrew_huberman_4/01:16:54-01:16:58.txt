@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:54",
+  "End": "01:16:58",
+  "Text": ". We should also say that you came here to wish me a happy birthday. I did. I"
+}

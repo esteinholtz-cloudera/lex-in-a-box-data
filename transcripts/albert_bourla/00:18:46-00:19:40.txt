@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:18:46",
+  "End": "00:19:40",
+  "Text": ". But this is not a black box. We know very well. What uh is the process? Everybody knows very well. What are the processes, the review process. Also it is very detailed. They have scientists of very very high caliber, not every regulator in the world, but the Europeans, the the breeds the FDA clearly, have very, very high caliber of science that they are going into a lot of details. And uh also everything for a study is really released by law in the specifications of the product. But it's a very detailed document that it is issue and has basically the essence of everything was discussed. I don't know uh about uh specific documents if take them time to release. But clearly this is not a black box uh type of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:10:18",
+  "End": "03:10:54",
+  "Text": "eventually I would once it's safe enough, but I don't actually know if it's on my lifetime scale unless I can extend it by a lot. do think that, for example, a lot of people might disappear into um virtual realities and stuff like that. And I think that could be the major thrust of um sort of the cultural development of humanity if it survives. Uh So it might not be, it's just really hard to work in physical realm and go out there. And I think ultimately all your experiences are in your brain. And so it's much easier to just disappear into digital realm and I think people will find them more compelling, easier, safer, interesting. So,"
+}

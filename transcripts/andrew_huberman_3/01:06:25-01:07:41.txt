@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:25",
+  "End": "01:07:41",
+  "Text": ". Can I just make another quick comment? This may come off entertaining to you, Andrew, maybe you've already gotten the same. But mentioned Vladimir Putin, Vladimir Zelensky, uh Guillain Maxwell, there is a natural question. does Lex access to these people? does he work for?, how is he who works for him? Who works for him? What does he have on others? I actually, I asked when I look in the mirror, just somebody who kind of enjoys conspiracy theories. I want to ask the same question. Well, I usually ask in the following way, like, how the fuck am I so lucky? Who I being, am I a robot being controlled by somebody else or like, how is this, how is this my life right now? What is happening? It really does feel like a simulation So let me just speak to, to, to several things. First of all, have no boss. I know I know of. No. Am I controlled by any intelligence agencies of any nation?"
+}

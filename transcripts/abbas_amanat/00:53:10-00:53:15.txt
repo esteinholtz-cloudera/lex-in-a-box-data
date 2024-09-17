@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:53:10",
+  "End": "00:53:15",
+  "Text": "complete person? That's, I would converse with them. They speak"
+}

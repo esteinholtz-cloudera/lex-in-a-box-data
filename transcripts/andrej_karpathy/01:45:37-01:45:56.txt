@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:45:37",
+  "End": "01:45:56",
+  "Text": ", I would say like what's easy to say is that this problem is tractable and that's an easy prediction to make it's tractable. It's going to work. Yes. It's just really hard. Some things turn out to be harder than some things turn out to be easier. Uh So, uh but it's, it definitely feels tractable and it feels like at least the team at Tesla, which is what I saw internally is definitely on track to"
+}

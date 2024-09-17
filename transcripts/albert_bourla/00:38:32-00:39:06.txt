@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:32",
+  "End": "00:39:06",
+  "Text": "with the incredibly fast development of the vaccine, you tell me the story from the engineering to the science, to the human story of how you could do it so fast November even had the ambition to do it by October. It was in the initial days. do you 88 days later that time, how do you show that the vaccine is safe and effective given that I think previous vaccines have taken years to do that."
+}

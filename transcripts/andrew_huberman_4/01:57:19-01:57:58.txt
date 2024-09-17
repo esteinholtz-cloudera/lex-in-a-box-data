@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:57:19",
+  "End": "01:57:58",
+  "Text": "? Yes. So we've pushed out episodes because I want more time with them. I also, I haven't advertised this. Um but I have another uh fully tenured professor that's started um checking my my um podcasts and helping me find papers. He's a close friend of mine. He's an incredible expert in neuroplasticity and that's been helpful. But I research all my, do all the primary research for the episodes myself. Although my niece has been doing a summer internship with me and finding amazing papers. She did last summer as well. She's really good at it. Um, just sick that kid on the internet and she gets great stuff."
+}

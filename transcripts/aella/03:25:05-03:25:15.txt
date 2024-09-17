@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:25:05",
+  "End": "03:25:15",
+  "Text": "T like, uh, sounds like you and don't you have to express agency when you're eating yourself across the world a"
+}

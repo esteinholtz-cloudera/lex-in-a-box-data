@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:40:03",
+  "End": "00:40:29",
+  "Text": ". Often the question is why doesn't it work yet? Or can I expect it to eventually work? And what are the things I could try change the architecture, more data, more regularization, different optimization algorithm, know different types of data. So to answer those questions systematically so that you don't, so you don't spend six months heading down the blind alley before someone comes and says, why you spend six months doing this?"
+}

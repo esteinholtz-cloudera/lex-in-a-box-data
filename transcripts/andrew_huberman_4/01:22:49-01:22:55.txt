@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:49",
+  "End": "01:22:55",
+  "Text": "we brought up champ Empire. Let me ask you about relationships. think we've talked about"
+}

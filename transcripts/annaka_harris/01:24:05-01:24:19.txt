@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:05",
+  "End": "01:24:19",
+  "Text": ", yes, that's like long term. But short term, I bet you the number of people who had an existential crisis as it got integrated into society that thought is huge. It's like, um, a hard one and you're saying,"
+}

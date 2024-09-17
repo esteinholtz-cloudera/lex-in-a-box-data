@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:12",
+  "End": "01:47:16",
+  "Text": ", where do artists come in? Do you work with artists? We"
+}

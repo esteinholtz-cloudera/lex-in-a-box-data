@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:58:55",
+  "End": "00:59:20",
+  "Text": "line up the gold community and the Bitcoin community next to each other, they'll agree on all the problems that they, that they see in the world. Right. They'll actually agree on the solution. That sound money is the solution they differentiate is the gold communities believes that it's the analog application of sound money, right? The physical gold, that is the solution. The Bitcoin community believes the digital application of sound money. Bitcoin can you define"
+}

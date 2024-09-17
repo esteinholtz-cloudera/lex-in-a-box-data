@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:41:42",
+  "End": "00:42:01",
+  "Text": "does that make you feel? I mean, the number of scientists, I mean, a lot of it is quiet, right? But the number of scientists cosmos has created is just countless. I mean, it probably touched a live, I don't know, probably it could be a crazy number of 90% of scientists or something have"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:42",
+  "End": "01:03:59",
+  "Text": "point people to them. Beautiful. the A I fund helps A I start ups, get off the ground or perhaps you can elaborate on all the fun things it's involved with. What's your advice on? How does one build a successful A I start up,"
+}

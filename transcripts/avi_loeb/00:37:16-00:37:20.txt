@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:16",
+  "End": "00:37:20",
+  "Text": "actually the same technology with the, with the star shot project. Yes."
+}

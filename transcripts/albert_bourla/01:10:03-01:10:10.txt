@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:10:03",
+  "End": "01:10:10",
+  "Text": ". Yes, for God's sake. That's why, how many people died because of it."
+}

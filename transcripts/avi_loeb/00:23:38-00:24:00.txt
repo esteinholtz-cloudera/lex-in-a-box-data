@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:38",
+  "End": "00:24:00",
+  "Text": ", let's talk about the probably the most interesting object I've heard about and also the most fun to pronounce mua. Can you tell me the story of this object and why it may be an important event in human history? And is it possibly a piece of alien technology?"
+}

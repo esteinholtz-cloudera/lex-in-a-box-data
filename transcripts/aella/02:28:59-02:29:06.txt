@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:28:59",
+  "End": "02:29:06",
+  "Text": ". I mean, they should say it according to themselves, like, oh, I prefer, like, I have a better time with her than I have with you, then I would want to know that. Yeah."
+}

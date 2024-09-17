@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:18:38",
+  "End": "03:18:51",
+  "Text": "childhood? I don't remember. I mean, time is really messed up when you, when you do that, I was listening to the soundtrack of the Fountain, which is excellent. I listen to that a lot when I did LSD, I know it's probably a couple of hours."
+}

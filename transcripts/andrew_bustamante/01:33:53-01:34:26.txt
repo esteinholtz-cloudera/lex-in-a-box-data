@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:33:53",
+  "End": "01:34:26",
+  "Text": "an art? It's a bit of both. I would say that like all good art, art is taught from a foundation of skills and those skills are, are uh played, are taught in a very structured manner and then the way that you the skills after that, that's more of the artistic grace. So I've always called espionage. An art spying is an art. Being able to hack human beings is an art, but it's all based on a foundation of science. You still have to learn how to mix the color palette and use certain brushes."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:36:30",
+  "End": "01:37:23",
+  "Text": ". Yes. But eventually they agreed, eventually, Stalin agreed to leave the Azerbaijan province in the hope that it would get some concessions from Iran which in, in the oil of the Caspian era area, which didn't work. And it's a different story altogether. But what happened is that in the post war era between 1944 45 and 1953 is the period of greater uh was that Shah's dictatorship basically. this is where you see political parties, free press. A lot of chaotic really uh as as democracies often"
+}

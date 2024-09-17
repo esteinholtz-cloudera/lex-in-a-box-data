@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:16",
+  "End": "02:15:22",
+  "Text": "it's, it's nice to focus, not on those brain states, but instead on the shifting,"
+}

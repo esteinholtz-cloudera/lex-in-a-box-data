@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:36:41",
+  "End": "02:36:49",
+  "Text": ", this is a big graph and it has taboo as one axis and popularity is the other."
+}

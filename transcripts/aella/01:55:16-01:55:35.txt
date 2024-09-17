@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:55:16",
+  "End": "01:55:35",
+  "Text": "so that's different. So now, now in this sort of frame, I am still like I'm accepting money but still much more expressive of my actual preferences. So like before when I would start escorting full time, I was suppressive. And now I'm like, you know, I'm doing this for me. So we're going to make sure that I have a good time and so much more demanding"
+}

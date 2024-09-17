@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:40",
+  "End": "01:56:49",
+  "Text": ", what about the market of how much to charge?, 20 2400, like how transparent is that market? Is there like a market?"
+}

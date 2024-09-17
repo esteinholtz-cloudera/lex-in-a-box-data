@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:19:01",
+  "End": "03:19:14",
+  "Text": "good to experience it purely like it just is what it is, it's just is grief like it is loss you just are in it without having to make it be anything."
+}

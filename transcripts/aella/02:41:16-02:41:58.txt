@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:41:16",
+  "End": "02:41:58",
+  "Text": "one of the things that I'm researching. So, in the big survey that I'm doing, I asked so many questions about childhood. All the ones I think, like, we have common theories about like, oh, are you abused? Is it yelled at by a man or a woman? Stuff like that? Like you were really sexually repressive, you know, is it gender roles where you've expected to conform a whole bunch of stuff? And then I asked, you know, obviously about like a massive amount of fetishes and my sample size right now is 500,000 people. Yeah, it's massive and I have for all of it and the result looks like this is not really correlated. Nothing that I asked about in childhood. Nothing with fetish preference later in life. It does correlate with onset. Lots of things that happen in childhood can change the age at which it triggers."
+}

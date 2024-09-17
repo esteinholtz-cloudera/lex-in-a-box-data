@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:29",
+  "End": "00:38:34",
+  "Text": "holding the can. So you're, you're doing the auditing of me. Ok. I'm holding the cans."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:11:56",
+  "End": "01:12:35",
+  "Text": ", I, that's a very interesting question. I, I was discussing with a lot of people that I was fearless of death. I couldn't care less when I was young. The first thing that the first time that uh I start feeling that I want to be around was when I had kids then I started feeling that, oh gosh, is it? I hope I will be around to see their wedding. I hope they will be around to see their, their Children. So if there is something that scares me, the possibility that I will not be part of their lives anymore and I would not be watching, I hope there is life upstairs. So I will be able to watch them from"
+}

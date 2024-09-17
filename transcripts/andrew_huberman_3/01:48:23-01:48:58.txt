@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:48:23",
+  "End": "01:48:58",
+  "Text": ", but in any case, uh, yeah, music and poetry are, they're, they're the, they're the subconscious, right? I mean, if you think about a Bob Dylan song or a really good strummer song or a poem that the, the words don't mean anything when read linearly, but they make you feel something they're tapping into the subconscious. That's really what they're doing. They, they're pulling on neural threads of emotion on either timbre or cadence or something that's independent of the word structure. that to me is the beauty of music and poetry."
+}

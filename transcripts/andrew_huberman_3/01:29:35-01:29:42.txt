@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:35",
+  "End": "01:29:42",
+  "Text": "which, which ones are you aware of? People are going to wonder, like, what, what you think? I'm a dungeon. What is"
+}

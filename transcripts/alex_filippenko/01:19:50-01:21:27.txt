@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:50",
+  "End": "01:21:27",
+  "Text": "? I know. Right. I would figure out, but that's why I'm always keeping a distance and staying blurry but pixelated. You know, that there is something in the human condition that a cognition that wants to see, wants to believe, beautiful things and some are terrifying. Some are exciting. Goats Bigfoot is a big fascination for folks and UFO sightings I think falls into that. There's people that look at lights in the night sky and mean, kind of a downer to think in a skeptical sense to think that's just the light you want to feel like there's something magical there. I mean, I felt that first when my dad's a physicist, when he first told me about ball lightning, when I was a little kid, very weird physical phenomenon. And he said his intuition was tell me this as a little kid. I really like math. His intuition was whoever figures out ball lightning will get a Nobel Prize. I think there was a side comment he gave me and I decided there when I was five years old or whatever, that I'm going to win a Nobel Prize for figuring out ball light. That was one of the first sparks of the scientific mindset. Those mysteries, they capture your imagination. I think when I speak to people that report UFO S, that fire. That's what I see. Excitement. I"
+}

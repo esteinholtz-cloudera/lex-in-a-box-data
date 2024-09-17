@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:54",
+  "End": "01:17:04",
+  "Text": "have limits like I might not recognize him if he was upside down or something like that. It'd be fascinating to, see what the limits of that Joe Rogan concept is. So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:45",
+  "End": "01:37:00",
+  "Text": ". So from a neuralink perspective, it makes sense to optimize the control and the augmentation of the, of the more primitive circuitry. So like the, the stuff that is closer to the raw sensor information,"
+}

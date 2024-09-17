@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:25:54",
+  "End": "01:26:13",
+  "Text": ". And I think, and, and just to, to, to some companies or regulator comes to you and says, look your product is messing things up, uh fixing it may have a revenue impact was much more fun to talk to them about how you promise not to wipe out humanity than to face the actually really hard problems we face."
+}

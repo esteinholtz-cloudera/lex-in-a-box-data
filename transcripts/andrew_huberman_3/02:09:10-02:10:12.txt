@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:09:10",
+  "End": "02:10:12",
+  "Text": "you watched that show? The, um, what is it, the Marvelous Miss Maisel show? It's really good. Um, I watched a few of them, um, guilty pleasure there. Uh, she plays a, a comic in the, I think it's a mid 19 sixties in, New York. And, um, and there's a, a character that somewhat resembles Lenny Bruce. It's sort of meant to be Lenny Bruce. Um And they're always getting arrested and this and this kind of thing, I think I learned about it from Joe. Anyway, it's, the writing is great. It's very funny. Um yeah, comedy is designed to push boundaries, right? And to get and to say the thing that, you know, uh other people aren't feel they can't say not something in science, right? Science, you're supposed to etiquette is a big part of how you communicate ideas. It's about constraining communication. is something I, I mean, I confess on the podcast in the goals of making it clear, uh interesting, surprising and actionable, you know, you have to constrain the amount and the style of information otherwise it becomes something else altogether. Right?"
+}

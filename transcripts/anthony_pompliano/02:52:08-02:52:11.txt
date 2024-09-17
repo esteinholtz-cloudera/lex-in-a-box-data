@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:52:08",
+  "End": "02:52:11",
+  "Text": "? Where the fuck all these chimps come from?"
+}

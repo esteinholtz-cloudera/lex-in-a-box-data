@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:30:34",
+  "End": "00:31:19",
+  "Text": "is aged, right? It's definitely, there's no question about it. And so, so these are, this is the gray area, right? Because um you know that, you know, teenagers are more likely to be in accidents. And so there's actually some data to it. But then if you take that same example and you say, well, I'm going to make the insurance higher for um area of Boston because there's a lot of accidents and then they find out that that's correlated with socioeconomics. Well, then it becomes a problem, right? That is not acceptable but yet the teenager which is age, against age is, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:26",
+  "End": "02:30:39",
+  "Text": "do you know if it's a real want for an intimacy? Like checking out a attractive person while being inside a monogamous relationship? Yeah. How do you score that? Is that bad that the person cannot pursue those feelings?"
+}

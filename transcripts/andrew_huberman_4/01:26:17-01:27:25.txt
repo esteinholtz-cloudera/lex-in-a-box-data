@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:26:17",
+  "End": "01:27:25",
+  "Text": ". There's even siblicide. Like, first of all, I just want to say that I, I was um delighted in your delight around animal kingdom stuff because this is a favorite theme of mine as well. But there's, for instance, fascinating uh data on, for instance, uh for those that grew up on farms, they'll be familiar with free martins, you know about free martins. This is, there are cows that have multiple um calves inside them and there's a situation in which the calves will secrete if there's more than one inside will secrete chemicals that will hormonally castrate the ca the cap next to them so they can't reproduce. So already in the womb, they are fighting for future resources. That's how early this stuff can start. So it's chemical warfare in the womb against the siblings. Sometimes there's outright siblicide siblings are born, they kill one another. This also becomes biblical stories, right? Um There are instances of cuttlefish, beautiful cephalopods like octopuses. And that is the plural as we made the"
+}

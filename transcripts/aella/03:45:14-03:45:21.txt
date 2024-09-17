@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:45:14",
+  "End": "03:45:21",
+  "Text": "like probably everybody that you grew up with is going to be dead. It's like just enough for like everybody you know, to die like one cycle."
+}

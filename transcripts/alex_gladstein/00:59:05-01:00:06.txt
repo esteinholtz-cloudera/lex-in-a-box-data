@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:59:05",
+  "End": "01:00:06",
+  "Text": "look, the good news is you can withdraw to your own control. And in the Bitcoin community, we try to teach this idea that it's not your keys, not your coins in the same way that if you deposit your money at the bank, you might not get it back. I mean, it's low likelihood but it, but it's very possible. Same thing in Bitcoin. Like if you want to get the full experience, you want to actually custody your own Bitcoin. You want, you want to put it whether it's on an open source software wallet. Like the blue wallet is a good one for people to check out or a hardware wallet like cold card, for example, there's different ways to do this. Um But essentially like around the world, uh people are innovating like don't think so low of your fellow man you know what I mean? Like, people are able to figure this out. know, I get a lot of flak from people saying, oh, Bitcoin is so hard to use. I read this article in the New York Times saying this guy in Silicon Valley lost all of his Bitcoin. That's because he was a moron and didn't care about it. This guy lost all this Bitcoin because it wasn't worth much 10 years ago and he, you know, he forgot the password. But if you're like receiving your Remittance from a family member, you're going to lose the password, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:30:28",
+  "End": "01:30:54",
+  "Text": "really just comes down to extremely good execution from an engineering team who knows what they're doing? They understand intuitively, the phys philosophical insights underlying the data engine and the process by which the system improves uh how to again like delegate the strategy of the data collection and how that works. And then just making sure it's all extremely well executed. And that's where most of the work is, is not even the philosophizing or the research or the ideas of it. It's just extremely good executions so hard when you're dealing with data at that scale."
+}

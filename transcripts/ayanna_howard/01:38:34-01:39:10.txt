@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:38:34",
+  "End": "01:39:10",
+  "Text": "would be drama and you know, I'm human, I deal with drama all the time. But the reason why I want to pick data's brain is because I could have a conversation with him and ask for example, can we fix this ethics problem, right? And he could go through the rational thinking and through that, he could also help me think through it as well. And so that's there's these questions, fundamental questions I think I can ask him that he would help me also learn from that fascinates me."
+}

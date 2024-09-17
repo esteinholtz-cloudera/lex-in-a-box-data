@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:51",
+  "End": "00:13:52",
+  "Text": "unfortunately, I can't talk to Stanley Kubrick. So, uh I'm really fortunate to get a chance to talk to you. Do you, on this particular? I'd like to ask it a bunch of different ways and we'll explore in different ways. But do you ever consider human imagination your imagination as a window into a possible future and that you're doing? You're putting that imagination on paper as a writer and then on screen as a director and that plants the seeds in the minds of millions of future and current scientists. And so your imagination, you putting it down actually makes it as a reality. So it's almost like a first step of the scientific method. Like you imagining what's possible in your new series with Ex Machina actually inspiring, know, thousands of 12 year olds, millions of scientists and actually creating the future you have imagined."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:36",
+  "End": "01:22:02",
+  "Text": "you feel pressure from the community? So, for example, with string theory, was, it was very popular for a time. There's a bit of criticism or it's less popular. Now, do you feel the forces of the community as it moves in and out of different fields or do you try to stay, like how difficult is it to stay uh intellectually and uh mathematically independent from the community"
+}

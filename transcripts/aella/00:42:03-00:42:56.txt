@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:42:03",
+  "End": "00:42:56",
+  "Text": "the time? Yeah, definitely. Well, it's confusing because like when, when I was a child, it was, it was just painful in the sense that like, things suck, but it was placed in a meaning framework, right? Like it is good. It is virtuous to submit to your parents and do what they want if they tell you to say goodbye to your best friend forever and never talk to them again. You go do that without complaining. so like, I would go do something like that and I would like, it would suck. It really was like concretely painful, but it was also placed in this narrative where I was like, fulfilling some sort of greater purpose. And so, so it's very confusing to refer to it as suffering because there's so many painful things we do today that are placed in the narrative of a greater purpose that like, I think I would agree with. Like I go get a medical procedure. sucks. But I'm like, ah, this is helping me in the long run. But like, say if I got abducted to an alien planet and they're like, by the way, all of those medical procedures you got done, like you didn't have to get them done, those are totally unnecessary, then I might get really upset about it."
+}

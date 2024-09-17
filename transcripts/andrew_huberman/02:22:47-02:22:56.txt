@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:22:47",
+  "End": "02:22:56",
+  "Text": ", first of all, thanks for the kind words, especially coming from you. I think Stanford is an amazing place as is MIT and it's such ami"
+}

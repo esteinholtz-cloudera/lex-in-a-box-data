@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:26:13",
+  "End": "01:26:25",
+  "Text": "I, I look at all, I look at that data and I'm like, they seem to have like product market fit like, so that's the only one I don't understand the rest of it was product market fit"
+}

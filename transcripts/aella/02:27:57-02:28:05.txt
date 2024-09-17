@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:27:57",
+  "End": "02:28:05",
+  "Text": "has to be like, cool. All right, you're jealous. Like I'm not going to freak out about it. I'm not going to change my behavior. I'm just going to be with you in that we're going to sit in it together."
+}

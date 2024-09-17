@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:13",
+  "End": "01:04:18",
+  "Text": "didn't chemistry even outside of sex, just chemistry. Like human chemistry conversation."
+}

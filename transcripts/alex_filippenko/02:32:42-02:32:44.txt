@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:32:42",
+  "End": "02:32:44",
+  "Text": "meaning of life, you know, from"
+}

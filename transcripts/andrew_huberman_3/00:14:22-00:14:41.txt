@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:22",
+  "End": "00:14:41",
+  "Text": "like pasta is a, is a vehicle for pasta sauce. It's interesting. But like Indian non bread, you have, uh you have the bread., I, I've had a lot of soul searching on which part of Indian is, brings me so much joy. Is it the bread or is it all the sauces that come with the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:10:09",
+  "End": "01:10:25",
+  "Text": ". Yes, these could also be centralized. So they, they have wireless technology that could also talk to a central base station and will be assessing kind of case by case, whether it makes sense to operate them in a decentralized swarm or to command them in a centralized swarm."
+}

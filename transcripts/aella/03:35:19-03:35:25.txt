@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:35:19",
+  "End": "03:35:25",
+  "Text": "out my ass. But yes, go ahead. I'm just saying crazy shit. Like, as if I'm on drugs,"
+}

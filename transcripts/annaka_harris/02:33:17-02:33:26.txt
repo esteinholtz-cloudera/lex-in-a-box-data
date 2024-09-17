@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:33:17",
+  "End": "02:33:26",
+  "Text": "you want to picture your friends as a plant, it's helpful, helpful to, to appreciate the beauty that they are as an organism. Yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:05:05",
+  "End": "02:05:29",
+  "Text": ". But they're, I think in hockey they call taking a number of a friend who plays hockey and there's this idea that like if someone checks you really badly in one game, you don't go and check them again, you don't get into a fight but three games later you, like, you blade them in the shin, like you. So what, the ability to defer and to handle it in whatever fashion one feels is,"
+}

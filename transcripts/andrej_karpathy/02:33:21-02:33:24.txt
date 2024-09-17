@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:33:21",
+  "End": "02:33:24",
+  "Text": "a committee of like a GP T sort of like. And"
+}

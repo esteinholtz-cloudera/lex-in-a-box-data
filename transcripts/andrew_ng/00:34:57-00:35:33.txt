@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:34:57",
+  "End": "00:35:33",
+  "Text": "the D line specialization offered by DA I is uh is, is I think it was Coursera top specialization, it might still be. So it's a very popular way for people to take that specialization to learn about everything from neural networks to uh how to tune a neural network. So what is the con to what is a RNN or sequence model or what is an attention model? And so specialization um steps everyone through those algorithms. So you deeply understand it and can implement it and use it for whatever from the"
+}

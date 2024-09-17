@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:14",
+  "End": "01:21:53",
+  "Text": ". No, they're all together. I'm only half joking because you're probably interested a little bit in both. But let me ask a romanticized question. So much of the work, your work and our discussion today has been on applied A I, you can even call narrow A I where the goal is to create systems that automate some specific process that adds a lot of value to the world. there's another branch of A I starting with Alan Turing that kind of dreams of creating human level or super human level intelligence. this something you dream of as well? Do you think we human beings will ever build a human level intelligence or super human level intelligence"
+}

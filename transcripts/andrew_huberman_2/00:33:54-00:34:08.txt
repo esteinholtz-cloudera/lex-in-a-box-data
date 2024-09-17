@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:54",
+  "End": "00:34:08",
+  "Text": "you say that's the, if you were to recommend to the general, it's very weird to recommend anything to the general populace because obviously it's very person specific. But what's a good one where you say to friends is 20 minutes, 20 or"
+}

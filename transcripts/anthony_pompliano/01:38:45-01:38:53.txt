@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:38:45",
+  "End": "01:38:53",
+  "Text": "simply frees humans up to do more creative work like that like that's it. And which is why"
+}

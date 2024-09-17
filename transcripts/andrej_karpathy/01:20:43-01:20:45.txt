@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:20:43",
+  "End": "01:20:45",
+  "Text": "but it can be done. So"
+}

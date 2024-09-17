@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:42:15",
+  "End": "01:42:28",
+  "Text": "relatively simple algorithm to predict everything. for me, it would be a sad day we arrived at that answering some deeper questions."
+}

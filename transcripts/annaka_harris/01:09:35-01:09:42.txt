@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:35",
+  "End": "01:09:42",
+  "Text": "you think about what it's like to be a plant, to experience a thing, OK. We can kind of get that, we can kind of understand"
+}

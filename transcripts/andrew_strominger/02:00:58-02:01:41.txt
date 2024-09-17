@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:58",
+  "End": "02:01:41",
+  "Text": "fact that this was just nonchalantly stated is, is, is just beautiful like two biological systems discussing which level of curvature is required to rip apart, said biological system very well. Um So you propose in the paper that a photon ring of a war black hole is indeed part of the black hole hologram. photon ring of a warped black hole is indeed part of the black hole hologram. So what can you intuit about the hologram the, the holographic plate from looking at the photon rings?"
+}

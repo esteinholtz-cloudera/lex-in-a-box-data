@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:29",
+  "End": "01:32:36",
+  "Text": "there's a lot of mystery about this. Now, of course, it's hard to say that this is the second batch until it proves out, right?"
+}

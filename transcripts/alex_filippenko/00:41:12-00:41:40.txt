@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:41:12",
+  "End": "00:41:40",
+  "Text": "haven't thought about it in great detail. Other than recognizing that Mars is a harsh environment. You don't have much of an atmosphere there. You've got less than a percent of earth's atmosphere. Um, so you, you'd need to build some sort of a dome right away, right. And, and that, that would take time. need to melt the water that's in the permafrost or have canals dug from which you transport it from the, from the polar ice caps. You know,"
+}

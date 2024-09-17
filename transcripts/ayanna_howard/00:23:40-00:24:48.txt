@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:23:40",
+  "End": "00:24:48",
+  "Text": "think about I'm going to age myself. But I remember when we didn't have like testers, right? And so what did you do as a developer? You had to test your own code, right? Like you had to go through all the cases and figure it out and, you know, and then they realized that, you know, like we probably need have testing because we're not getting all the things. And so from there, what happens is like most developers, they do a little bit of testing, but it's usually like, OK, did my compiler bug out? Let me look at the warnings. OK? Is that acceptable or not? Right. That's how you typically think about it as a developer and you'll just assume that it's going to go through another process and they're going to test it out. I think we need to go back to those early days when you know, you're a developer you're developing. There should be like they say, you know, OK, let me look at the ethical outcomes of this because there isn't a second testing, ethical testers, right? It's you. Um we did it back in the early coding days. I think that's where we are with respect to ethics. Like let's go back to what was good practices mainly because we were just developing the field."
+}

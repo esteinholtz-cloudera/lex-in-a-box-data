@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:31:49",
+  "End": "03:32:01",
+  "Text": "the way we find meaning might change, we, there is a lot of humans probably including myself that finds meaning in the finite of things. that doesn't mean that's the only source of meaning."
+}

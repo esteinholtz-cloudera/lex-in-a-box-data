@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:57",
+  "End": "03:06:00",
+  "Text": "least part of the next human lab podcast either in the,"
+}

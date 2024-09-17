@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:08",
+  "End": "01:23:12",
+  "Text": "that proof of work is what makes it hard to"
+}

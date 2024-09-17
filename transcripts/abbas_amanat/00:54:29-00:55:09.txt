@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:29",
+  "End": "00:55:09",
+  "Text": ", it's, it's really interesting because the thing I feel about the protests right now, uh, there's a large number of people that, instead of giving into cynicism about, you know, this government is no good. They're actually getting this, like, uh, energy, this desire to, for revolution,, in, in a sort of nonviolent, sort of, in the, in the democratic sense of that. Let's, let's actually find the ideas. Let's, let's build a great nation here. This is a great nation, this is my nation. Let's build something great here. Well, that's my hope."
+}

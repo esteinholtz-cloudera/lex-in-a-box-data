@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:41",
+  "End": "00:21:37",
+  "Text": ". Yeah. Yeah. You know, many friendly folks out there, by the way, I'm sweating. Not because this is a difficult conversation. It is, but it's also hot in here for the record. one of the folks is Mr Jordan Peterson. don't know if you know who that is. He's a psychologist and intellectual and author. He suggested to me that I raised the concern that there's a close working relationship between pfizer FDA and CDC. So we, we talked about FDA. you worry that this affects both positive and negative? Uh Pfizer's chances of getting drugs approved? The fact that there's people you know, that worked at the FDA that now work at Pfizer, pfizer FDA that there's a kind of pipeline. this worry you that it affects your to do great unbiased work?"
+}

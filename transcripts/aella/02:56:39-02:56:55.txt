@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:39",
+  "End": "02:56:55",
+  "Text": "is so fascinating. Once again, this is like a super interesting way to look at humanity because it is such an important part of humanity. And so like how many people are doing large scale research like this? I feel like you're like at the top of the world, you're like world class at the top of the world doing research on"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:37:50",
+  "End": "00:38:42",
+  "Text": "because I tend to see governments as ultimately incompetent in the space of technology to where there will always be lagging behind. So you look at what the Chinese surveillance systems are doing. I believe when once they start getting bad enough uh technologies would be created to resist that. So to mess with it from the hacker community, but also from the individual community. So surveillance is actually very difficult from a centralized perspective to detect uh you know, to collect data about you to detect everything you are because you can spoof a lot of that information. I believe you can put power in the hands of the citizens to sort of feed the government's fake data to confuse it at a mass scale to where it'll, it'll make their surveillance less effective. But that OK, that could be very sort of hopeful."
+}

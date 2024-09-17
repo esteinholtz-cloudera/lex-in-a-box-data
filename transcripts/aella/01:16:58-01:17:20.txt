@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:16:58",
+  "End": "01:17:20",
+  "Text": "I think like the actual question is, could you do better if you broke up? I think the thing that keeps most people in their relationships is like, this is the best that I can do. This is normal. And if it were normal, I would say that they are right? Like, if you live in a culture where everybody is a, their people in their relationships, then yeah, you mean what are you going to do? Break up and then just be alone for the rest of your life? Most people don't want to do that."
+}

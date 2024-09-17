@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:59:46",
+  "End": "02:00:32",
+  "Text": "Russia. Gary and handful of other Russian activists that we work closely with, including Vladimir Kara Murza who again, I mean, it's just incredibly heroic. The man has survived two poisonings by Putin. They like to say that, you know, Russians will bring democracy to Russia on their own terms. They don't need our help. This is what Vladimir especially says, what he does say is that we should stop propping up Putin like that, that's kind of his uh stop uh kind of legitimizing him. That that's kind of his argument. He's like, we don't need your foreign interference. We don't need your ideas. We don't, you know, we don't need your help, we can do it on our own. But please stop like propping up our, you know, illegitimate ruler. That's kind of like his point of view, which, which I think is interesting. Um And fair."
+}

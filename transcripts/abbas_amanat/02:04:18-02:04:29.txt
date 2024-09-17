@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:04:18",
+  "End": "02:04:29",
+  "Text": "the above that you mentioned or was it just the beard?, I think, no, it's beyond the appearance. The appearance is greatly helps. As you know,"
+}

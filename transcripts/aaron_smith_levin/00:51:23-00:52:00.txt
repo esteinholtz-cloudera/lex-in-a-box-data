@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:51:23",
+  "End": "00:52:00",
+  "Text": "the effectiveness of the auditing process. This is one of the things Hubbard says is that standard tech, standard Scientology, they call it the tech, the technology of how to deliver auditing. Standard tech works 100% of the time when applied 100% correctly. Well, that's kind of unfalsifiable, right? Because anytime it doesn't work, it wasn't applied correctly. Exactly. a nice little uh escape hatch to pull on having a crisis of faith. But it didn't work well obviously it wasn't applied correctly. That's where quality control comes in. Their job is to nit pick. And you can always find one thing that wasn't done"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:08",
+  "End": "02:05:21",
+  "Text": "how do we leverage that like in the physical space, taking actions or is there some chemicals that can stimulate uh neuroplasticity? Like one thing, it's the"
+}

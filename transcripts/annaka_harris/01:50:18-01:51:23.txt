@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:18",
+  "End": "01:51:23",
+  "Text": ",, I, you know, I'm almost nervous because every time I've, I've taken mushrooms I've had a really pleasant experience. I mean, it was, um, already the thing I feel anyway, but I feel it more intensely. The thing I feel anyway is like appreciation of the moment how beautiful life is. The weird thing I feel not throughout the day, but certain moments of the day, especially early on, that's like life is intensely beautiful., um that's usually what I'll tweet. It's like everything is awesome. And I remember those feelings because sometimes when I feel really down and all those kinds of things, remember that it's a roller coaster and you just, and then you find the good feelings and it's cool and it does make me a little bit sad that they kind of fade. But then as they get older, you get to use those moments, you realize they don't use them well. You know, when you feel great, when you're focused, all that kind of stuff, use them well, because the mind is a roller coaster."
+}

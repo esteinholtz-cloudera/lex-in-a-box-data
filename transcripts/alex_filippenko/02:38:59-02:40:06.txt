@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:38:59",
+  "End": "02:40:06",
+  "Text": "for listening to this conversation with Alex Filipenko and thank you to our sponsors, Neuro, the maker of functional sugar free gum and mints that I used to give my brain a quick caffeine boost, better help online therapy with a licensed professional master class, online courses that I enjoy from some of the most amazing humans in history and cash app, the app I use to send money to friends. check out these sponsors in the description to get a discount and to support this podcast. If you enjoy this thing, subscribe on youtube, review it with five stars on Apple podcast. Follow on Spotify, support on Patreon or connect with me on Twitter at Lex Friedman. now let me leave you with some words from Carl Sagan, nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of star stuff. you for listening and hope to see you next time."
+}

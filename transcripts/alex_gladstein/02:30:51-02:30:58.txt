@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:30:51",
+  "End": "02:30:58",
+  "Text": "thought we learned the lesson of 911 and the invasion of Iraq and Afghanistan."
+}

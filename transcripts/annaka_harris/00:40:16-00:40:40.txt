@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:16",
+  "End": "00:40:40",
+  "Text": "there's the autobiographical self is connected to the sense of self through the memory. And then you're thinking that the solution to that lies in physics, not just neuroscience, like consciousness and the experience that conscious will a question of physics."
+}

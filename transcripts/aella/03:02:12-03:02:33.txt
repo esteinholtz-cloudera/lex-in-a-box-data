@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:02:12",
+  "End": "03:02:33",
+  "Text": ". And I mean, there's probably other dimensions about how traumatic it is, how difficult it is to recover from all that kind of stuff.. I mean, like people, it's a dangerous thing to sign a word to, to, to an experience like even or to a relationship like saying a toxic relationship., that can completely destroy your perception of that relationship."
+}

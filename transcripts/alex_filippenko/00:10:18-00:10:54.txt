@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:18",
+  "End": "00:10:54",
+  "Text": ". So there could be this interesting field that we don't yet understand. That's morphing over time, that's changing the way the universe is expanding. I mean, funny that you were thinking through this rigorously like an experimentalist. But what about the fundamental physics of dark energy? Is there any understanding uh what the heck it is or is or is this the kind of uh the god of the gaps or the field of the gaps? Uh So like it, there must be something there because of what we're observing."
+}

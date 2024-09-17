@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:56",
+  "End": "01:46:29",
+  "Text": ". How do you form a strong representation that allows you to make a prediction about tractability? So like you're the leader of a lot, a lot of humans, have to kind of say this is actually possible, how do you build up that intuition? It doesn't have to be even driving, it could be other tasks, it could be. Um I wonder what difficult task did you work on in your life? I mean classification, achieving certain, just an image that certain level of superhuman level performance."
+}

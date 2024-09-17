@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:20:59",
+  "End": "02:21:19",
+  "Text": "personal definition of it, which I readily admit is not shared by a lot of people, but to me, the definition of polymer is simply not forbidding your partner from pursuing intimacy with others. doesn't mean that you have to pursue it personally. Like two people could be married and only have had sex with each other for 20 years. And as long as they're like, you know, what, if you ever want to go have sex with somebody else? You're welcome to do"
+}

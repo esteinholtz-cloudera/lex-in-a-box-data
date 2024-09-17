@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:59",
+  "End": "00:53:12",
+  "Text": "does hurt me to see the politicization of this war as well. think that it has, that's maybe, has to do with the kind of calculation you're referring to. But it seems like it doesn't, it seems like there's a cynical, whatever takes attention of the media for the moment that the red team chooses one side and the blue team chooses another. And then, um I think, correct me if I'm wrong, but I believe the Democrats went into full support of Ukraine on the idea, logical side. And then I guess republicans are saying, why are we wasting money? The prices are the gas prices are going up? That's, that's a very crude kind of analysis. But they basically picked whatever argument on whatever side and now more and more and more this particular war in Ukraine is becoming kind of pawn in the game of politics. That's first the midterm elections, then building up towards the presidential elections and stops being about the philosophical, the social, the geopolitical aspects, of this war and more about just like whatever the heck captivates Twitter. And we're going to use that for"
+}

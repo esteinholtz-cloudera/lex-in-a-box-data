@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:37:19",
+  "End": "00:37:37",
+  "Text": ". I imagine his, I mean, I've done some work with David. His energy is infectious. That's an intense schedule. Um And the, the periodicity of those four hour every four hours, four miles means that there's no chance of catching an extended of sleep."
+}

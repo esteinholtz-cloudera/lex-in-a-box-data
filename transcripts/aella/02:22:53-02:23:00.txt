@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:22:53",
+  "End": "02:23:00",
+  "Text": "like how you say median versus mean? Ok, median is 15 people. What's the, what's the gender distribution usually?"
+}

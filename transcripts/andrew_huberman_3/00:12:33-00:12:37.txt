@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:33",
+  "End": "00:12:37",
+  "Text": "probably a scientific explanation. It says to do neuron"
+}

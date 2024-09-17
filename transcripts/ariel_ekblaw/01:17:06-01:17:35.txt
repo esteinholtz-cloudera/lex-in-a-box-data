@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:06",
+  "End": "01:17:35",
+  "Text": "do you, by the way, the book you mentioned is into the Anthro Cosmos, a whole space catalog from the catalog. Yeah. So call out to earth catalog, a whole space catalog from the mit space exploration initiative. Um What about the happiness you said that that's one of the problems of when you're out in space. How do you keep humans happy again? Asking for a friend? I"
+}

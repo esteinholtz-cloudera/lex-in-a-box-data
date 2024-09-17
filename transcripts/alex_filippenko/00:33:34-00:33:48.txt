@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:34",
+  "End": "00:33:48",
+  "Text": "terrifying to think that people would listen to this conversation. It's like when you listen to Bill Gates, talk about pandemics in his TED talk a few years ago and realizing we should have supported our local astronomer more."
+}

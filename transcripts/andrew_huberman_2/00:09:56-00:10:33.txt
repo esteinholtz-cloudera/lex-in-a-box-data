@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:56",
+  "End": "00:10:33",
+  "Text": ". OK. So that's fascinating. So there's a bunch of oscillations going on and then it kind of the evolutionary process have evolved to all be aligned somewhat and they interplay. So you said your body temperature goes up and down, there's chemicals in your brain that oscillate. And then there's the actual oscillation of the sun in the sky. So all of that together some impact on each other and somehow that all results in us wanting to go to sleep every night. Right."
+}

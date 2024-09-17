@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:18",
+  "End": "01:56:22",
+  "Text": "percent of your net worth."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:14",
+  "End": "02:20:27",
+  "Text": "terms of a perfectly productive day. For how long of a stretch of time one session do you try to work and focus on the thing? A couple of hours? Is it one hour? Is it 30 minutes is 10 minutes?"
+}

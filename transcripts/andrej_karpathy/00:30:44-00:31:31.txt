@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:30:44",
+  "End": "00:31:31",
+  "Text": ", it is a really interesting to think about like what the puzzle of the universe is. Did the creator of the universe give us a message? Like, for example, in the book contact. Um Carl Sagan, there's a message for humanity for any civilization in the digits the expansion of pi in base 11 eventually, which is kind of interesting thought. Uh Maybe, maybe we're supposed to be giving a message to our creator. Maybe we're supposed to somehow create some kind of a quantum mechanical system that alerts them to our intelligent presence here. Because if you think about it from their perspective, it's just say like quantum field theory massive like soul autonoma like thing. And like how do you even notice that we exist? You might not even be able to pick us up in that simulation. so how do you how do you prove that you exist that you're intelligent and that you're part of the universe?"
+}

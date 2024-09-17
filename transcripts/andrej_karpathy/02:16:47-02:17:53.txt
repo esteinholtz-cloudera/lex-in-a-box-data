@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:16:47",
+  "End": "02:17:53",
+  "Text": "? I'm not a morning person. I'm a night owl for sure. Is it stable or not semi stable? Like eight or nine or something like that? Uh During my phd, it was even later, I used to go to sleep. Usually at 3 a.m. think uh the AM hours are, are precious and very interesting time to work because everyone is asleep. Um At, at 8 a.m. or 7 a.m. the east coast is awake. Uh So there's already activity, there's already some text messages, whatever, there's stuff happening, you can go on like some news website and there's stuff happening. It's distracting. Uh At 3 a.m. everything is totally quiet and so you're not going to be bothered and you have solid chunks of time to do work. Um I like those periods. Um night owl by default and then I think like productive time basically. Um What I like to do is you need uh you need to like build some momentum on the problem without too much distraction. And um you need to load your ra m uh your working memory with that problem. And then you need to be obsessed with it. When you're taking a shower, when you're falling asleep, need to be obsessed with the problem and it's fully in your memory and you're ready to wake up and work on it right there. So it is the scale"
+}

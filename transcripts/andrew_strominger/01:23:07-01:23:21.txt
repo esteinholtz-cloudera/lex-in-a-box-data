@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:23:07",
+  "End": "01:23:21",
+  "Text": ", um love math. I think my first love is, is physics and the math that I've done, I've, done to because it was needed"
+}

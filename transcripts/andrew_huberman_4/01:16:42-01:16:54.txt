@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:16:42",
+  "End": "01:16:54",
+  "Text": "there's also this thing that maybe we're in this portion of the podcast now. But, um, but is late at night, we're talking. That's right. Certainly late for me. But I'm two hours I came in today on, I'm still in"
+}

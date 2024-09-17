@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:35:31",
+  "End": "00:36:21",
+  "Text": "so this is a problem, right? And so there's this thing about, oh A I, it has all these problems. We're doing it on historical data and the outcomes aren't even based on gender or ethnicity or age. I'm always saying is like, yes, we need to do better, right? We need to do better. It is our duty to do better. the worst A I is still better than us, like you take the best of us and we're still worse than the worst A I, at least in terms of these things and that's actually not discussed, right? And so I think, and that's why the sensational title, right? And so it's like, then you can have individuals go like, oh, we don't need to use this A I, I'm like, oh no, no, no, no, I want the A I instead of the, the, the doctors that provided that data because it's still better than that, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:43:17",
+  "End": "00:43:29",
+  "Text": "means belonging to the Shi community. She I means a person of a Shia that belongs to me. Are you a Shia?, I am a Shia"
+}

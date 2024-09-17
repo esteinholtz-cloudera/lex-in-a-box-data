@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:25",
+  "End": "00:57:29",
+  "Text": "so that unrolling there might be a multiverse thing where there's a bunch of branching"
+}

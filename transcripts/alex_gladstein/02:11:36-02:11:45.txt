@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:11:36",
+  "End": "02:11:45",
+  "Text": "it, is it discussing the technical sides or also the philosophical? Because a lot of people mentioned sort of the Bitcoin standard is the philosophical entry into the whole Bitcoin world"
+}

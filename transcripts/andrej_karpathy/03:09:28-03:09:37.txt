@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:09:28",
+  "End": "03:09:37",
+  "Text": ", I have to, I do feel like I have to try to be optimistic and so on. And I think even in this case, I still am predominantly optimistic but there's definitely"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:29:25",
+  "End": "02:29:35",
+  "Text": ", it's not like a fun experience. I've had guys be like, well, you're not as pretty as I'd like, I'm just like, oh, you know, stabbed to the heart and, but then"
+}

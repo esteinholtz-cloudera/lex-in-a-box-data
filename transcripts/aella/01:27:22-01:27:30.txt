@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:27:22",
+  "End": "01:27:30",
+  "Text": "done a lot of studies on what is vanilla like. I've done a couple of different surveys where I ask people how taboo is this thing? And I have a rating from least to most taboo."
+}

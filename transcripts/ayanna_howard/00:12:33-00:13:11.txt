@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:33",
+  "End": "00:13:11",
+  "Text": "Musk is very confident that you kind of take it from where it is now to full autonomy. So from this human robot interaction where you don't really trust and then you try and then you catch it when it fails to, it's going to incrementally improve itself into full, full where you don't need to. What's your sense of that trajectory? Is it feasible? So the promise there is by the end of next year, by the end of 2020 is the current promise. What's your sense about that journey that Tesla is on?"
+}

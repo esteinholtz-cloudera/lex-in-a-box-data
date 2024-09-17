@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:06:09",
+  "End": "03:06:17",
+  "Text": ", right? That's like that is the, that is a mic drop right there. Nope, not doing that. Yep. Doing that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:54:14",
+  "End": "02:54:35",
+  "Text": "exactly where people pay for this? did a post. Right. Of you as a baby. It's, you know, I had to go deep to get that photo of Lex, um, in a bassinet in the snow because in Russia they actually did this for a long time. They thought that it, and indeed it does build the immune system to expose babies to the"
+}

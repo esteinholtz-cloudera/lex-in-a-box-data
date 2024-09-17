@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:53",
+  "End": "01:25:59",
+  "Text": ", you're putting, you're saying like there's a lot of value to focusing on the monkey brain or whatever the heck you call it. Like"
+}

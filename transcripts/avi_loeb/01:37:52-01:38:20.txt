@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:52",
+  "End": "01:38:20",
+  "Text": "brilliant. know, in our discourse about it, the space race is sometimes made synonymous with the Cold War or something like that or with wars. But really, yeah, there was a lot of ego tied up in that. I remember, I mean, it's still to this day, there's a lot of pride that Russians, Soviet Union was the first space and there's a lot of pride on the American side. That was the first on the moon. But yeah, you're exactly right. There's no aggression, there's no wars"
+}

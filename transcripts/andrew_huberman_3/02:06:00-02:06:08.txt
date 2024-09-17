@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:00",
+  "End": "02:06:08",
+  "Text": "put on a cowboy hat and instantly I became a cowboy. I've been talking like a cowboy and I mean, I belong out there in the desert. He's"
+}

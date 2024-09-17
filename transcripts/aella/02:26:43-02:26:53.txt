@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:26:43",
+  "End": "02:26:53",
+  "Text": ". So, you do still feel jealousy? Oh, yeah, definitely. it's also interesting that you kind of recommend when there's a little bit of jealousy, like to, to, to bring that to the surface"
+}

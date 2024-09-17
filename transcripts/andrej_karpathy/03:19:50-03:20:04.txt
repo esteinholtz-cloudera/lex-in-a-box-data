@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:19:50",
+  "End": "03:20:04",
+  "Text": ". But certainly I've come across papers, I would say, say, like synthetic biology or something that I thought were quite readable for the abstract and the introduction and then you're reading the rest of it and you don't fully understand but you kind of are getting a gist and I think it's cool."
+}

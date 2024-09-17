@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:50:31",
+  "End": "01:51:15",
+  "Text": "there's certain songs that um I've loved so much that I actually won't play them during a relationship until the relationship passes a certain duration. Because you, if you start sharing in those experiences with somebody in the room and it starts to become associated with the relationship, you braiding it in with the dopamine of uh of love and that relationship ends. The song is forever tainted. There's certain songs that I will never play in the company of any else. They're mine. I, I just, um it's too risky to uh to give those up. Um And uh you know, and I think that um there's like levels, they're levels. Right. Exactly. We'll leave it at that."
+}

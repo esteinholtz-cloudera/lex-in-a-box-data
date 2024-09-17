@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:38",
+  "End": "01:22:13",
+  "Text": "the other question. Nutrition wise. What kind of stuff have you come across? That's useful. I basically only take fish oil, like you said, electrolytes, electrolytes with water, the David Goggins diet, fish oil plus fish oil. And then again, the sponsor, they've made it so easier. The sponsor of your podcast and mine athletic greens.com/huberman support it. I don't know, it's, it's great stuff for sure, but also just takes away the headache of like, I don't have to think about,"
+}

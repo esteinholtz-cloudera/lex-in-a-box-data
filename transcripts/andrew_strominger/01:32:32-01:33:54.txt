@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:32",
+  "End": "01:33:54",
+  "Text": ". All right. they, they start a little flame of a fire going that some of those flames I think eventually become physics. So eventually becomes something that we can really like. Having them around is really important because you'll discover something by modeling and exploring black holes. That's really weird. And having these ideas around like the ideas of panpsychism that consciousness could be a fundamental force of nature. even having that crazy idea swimming around in the background could really spark something where that you were missing something completely. And it's just, that's where the philosophy done, right? I think is very useful. That's where even the these thought experiments, which is very fun in the sort of the tech sci fi world that we live in a simulation, you know, taking a perspective of the universe as a computer, as a computational system that processes information, which is a pretty intuitive notion. But you can just even reframing it that way for yourself, could really open up some different way of thinking. And then you have, don't know if you're familiar with Stephen Wolfram's work of cellular atom and complexity."
+}

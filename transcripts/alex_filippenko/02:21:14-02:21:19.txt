@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:14",
+  "End": "02:21:19",
+  "Text": "can happen in our galaxy. We would be ok."
+}

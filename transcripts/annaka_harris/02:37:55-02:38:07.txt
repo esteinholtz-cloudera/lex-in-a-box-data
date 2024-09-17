@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:37:55",
+  "End": "02:38:07",
+  "Text": ". My God, what is it? About humans. I think you spent too much on Twitter is focused on the suffering. I mean, there's also the awesomeness and I think the awesomeness out power, the suffering over time."
+}

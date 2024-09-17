@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:07:29",
+  "End": "00:07:59",
+  "Text": ", right now, I would say that it would expand forever because I think that the dark energy is likely to be just quantum fluctuations of the vacuum. The vacuum zero energy state is not a state of zero energy. is the ground state is a state of some elevated energy which has a repulsive effect to it. And that will never go away because it's not something that changes with time. So if the universe is accelerating now, it will forever continue to do so."
+}

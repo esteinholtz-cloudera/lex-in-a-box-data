@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:38:52",
+  "End": "00:39:11",
+  "Text": "the very end, he, he said something like I'm afraid Dave but that, that maybe he is on some level experiencing fear or it may be, this is the terms in which it would be wise to stop someone from doing the thing they're doing if you see what I mean. Yes,"
+}

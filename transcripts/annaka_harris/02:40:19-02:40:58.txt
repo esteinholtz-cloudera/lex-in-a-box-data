@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:40:19",
+  "End": "02:40:58",
+  "Text": "it's mostly, yeah, it's war but it's also just, it's like poverty, it's extreme poverty. When people criticize farms and so on. You also have to consider the suffering of the animals. We try to imagine that animals in the woods are all this happy time notes like you have to really consider if you really asked an animal, would they like to sit in a boring zoo and be fed away from the wild and nature and the freedom and so on? I don't know how many of them would choose the zoo versus nature anyway. But the meaning of life? Let me ask the question. Why?"
+}

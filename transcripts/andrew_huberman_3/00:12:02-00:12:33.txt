@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:12:02",
+  "End": "00:12:33",
+  "Text": ". I mean, there are things that guys do in their thirties that you just shouldn't do in your forties. I can say that because I'm in my forties and, uh, now I just try and eat well, most days. And what's interesting is about 12 to 14 months ago. I completely lost all appetite for sweets. I don't know what happened. I still love savory food. So meat and butter and cheese. Uh, and love vegetables too. I love fruit also, but lost all appetite. So, if you put a doughnut in front of me or ice cream or something, like I just, it's, it's almost aversive to me and I don't know what happened. I don't know what changed."
+}

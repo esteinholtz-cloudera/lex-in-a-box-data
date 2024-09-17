@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:06:43",
+  "End": "00:07:34",
+  "Text": ", I think what I'd be saying is that we live in a distorted reality and then those kinds of drugs give us a different kind of distorted. Yeah, exactly. They just give an alternate distortion. And I think that, that what they really do is they give, give a distorted perception which is a little bit more allied to, uh, daydreams, um, or unconscious interests. So if for some reason, you're feeling unconsciously anxious at that moment and you take a psychedelic drug, you'll have a, uh, a more pronounced unpleasant experience and if you're feeling very calm or, or happy, you might have a good time. But, um, but yeah, so, so if I'm saying we're starting from a premise, our starting point is we're already in the psychedelic state. What those drugs do is help you go further down an avenue or maybe a slightly different avenue. But that's what"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:30",
+  "End": "00:54:14",
+  "Text": ". And empirically speaking, anecdotal data is it actually seems to improve people's lives within the context. taking the outside world out of it, within this particular organization, you're actually measurably seeing improvement is that, is that to some degree real because like if you look at a book, like animal farm where the pigs start to rule the other animals and over time, the life of the animals gets worse and worse and worse while the pigs keep saying that it's actually getting better and better and better. Again, communism, same thing. rationing was getting worse and worse and worse, less and less food. But there's constant reporting that there's more and more food we're winning. Hashtag I would"
+}

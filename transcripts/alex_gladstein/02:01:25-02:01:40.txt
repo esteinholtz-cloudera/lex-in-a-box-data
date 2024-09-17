@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:01:25",
+  "End": "02:01:40",
+  "Text": ". I mean, that's, that's journalism though. I mean, that's very different from, you know, advocacy or strategic thinking about what to do with Russia. Absolutely. Yeah, we should interview everybody and everybody should know exactly what they're thinking, you know?"
+}

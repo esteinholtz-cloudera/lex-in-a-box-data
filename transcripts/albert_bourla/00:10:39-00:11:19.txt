@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:10:39",
+  "End": "00:11:19",
+  "Text": "had assembled in a very small office that we are having in Connecticut, very few people. There were five I think and uh in, in another place, what we call the data monitoring committee, which is a group of experts, independent experts. They are on Pfizer. We're going to have uh the opportunity to unblind the data then uh tell us if the study needs to continue or if it is successful or if it fails we were waiting for their call. So the call came a little bit later than what we expected, which created a lot of uh anxiety to all of us but came around, I think two o'clock,"
+}

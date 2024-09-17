@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:11",
+  "End": "01:47:21",
+  "Text": ". So let's talk about escorting. So you wrote about escorting your blog post. Escorting was good for me. Um How did you get into escorting?"
+}

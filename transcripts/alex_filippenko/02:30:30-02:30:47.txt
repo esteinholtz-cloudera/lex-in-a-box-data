@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:30",
+  "End": "02:30:47",
+  "Text": ". So you also, I mean, you, you widely acknowledge as, mean, outside of your science work as being one of the greatest educators in the world. And Feynman is famous for, for being that, is there something about being a teacher that you,"
+}

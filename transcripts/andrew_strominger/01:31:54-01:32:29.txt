@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:54",
+  "End": "01:32:29",
+  "Text": ". You can see that it's possible you just don't know the way. But that, that's what I mean, why some of the philosophical questions could be formulated in a way that's explored scientifically., uh, some of the stuff we've talked about. But, you know, for example, uh, this topic that's become more OK to talk about, which is the topic of consciousness., you know, to me as an artificial intelligence person, that's a very, practically interesting topic. But there's also philosophers. Uh Sean Carroll loves to argue against them. But there's some philosophers that are pens psychic, I'm not"
+}

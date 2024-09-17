@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:25",
+  "End": "00:42:47",
+  "Text": ", it's interesting because I do think prepping for interviews is having a similar process might be also very valuable. Like I have to, have to think about that because, um, think when you do a conversation for several hours, when it's a high stakes one. So it's not like you and I know it's more like it's just chatting"
+}

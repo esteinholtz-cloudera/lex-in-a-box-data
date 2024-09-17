@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:32",
+  "End": "00:46:54",
+  "Text": ". So, I mean, I don't know. I mean, obviously I'm joking on that one, but there could be stuff like that. Let me ask you the, the, the, the Drake equation, the big question, how many like uh obviously nobody knows. But what's your gut? What's your hope as a scientist, as a human? How many alien civilizations are out there"
+}

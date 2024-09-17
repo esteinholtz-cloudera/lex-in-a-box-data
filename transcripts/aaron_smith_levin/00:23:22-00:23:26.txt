@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:23:22",
+  "End": "00:23:26",
+  "Text": ", it's just Satan's everywhere. Satan's, it all comes down to the Satan. Is"
+}

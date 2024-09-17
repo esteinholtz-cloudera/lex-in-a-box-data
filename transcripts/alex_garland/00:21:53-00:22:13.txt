@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:53",
+  "End": "00:22:13",
+  "Text": "driven by artificial intelligence in the sense that there's too much information to be able to, an algorithm has to filter that information and present to you. So ultimately, the algorithm, a simple oftentimes simple algorithm is controlling flow of information on social media. So that's another"
+}

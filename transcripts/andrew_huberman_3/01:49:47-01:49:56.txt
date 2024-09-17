@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:49:47",
+  "End": "01:49:56",
+  "Text": "by Johnny Cash and Joe Strummer. You know, sometimes I think what it would be to be a fly on the wall when these guys were doing the songs"
+}

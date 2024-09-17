@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "00:50:32",
+  "End": "00:51:16",
+  "Text": "why the scalability question. So all that stuff that I just talked about, like think about all the actions that that requires somebody's out there looking and paying attention understanding how far the grass is, remembering what happened in that field last year, there's a huge human intelligence need and human of a availability of attention. Now, industrial farming has done a great job at Deskilling. Agriculture, farming has taken agriculture from being art science to being level employment.. So that's the limiting factor on Regen. And that's why I think the human intelligence."
+}

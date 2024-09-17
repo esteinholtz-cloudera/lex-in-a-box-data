@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:36:31",
+  "End": "01:37:11",
+  "Text": "the whole thing. It seems to me that even if we kind of solved it and we've experiments, there would still, would be more questions like, why are there four dimensions instead of six? It doesn't seem to have any anything that in it that would explain that, that you could, you can always hope, you know that there's something that we don't know about string theory that will explain it. But, it, but it still doesn't look like it's gonna answer every question., um, is there one time? Not two? You know, why is there? You know, it, it doesn't seem like it's, don't even know what it would mean to answer every question."
+}

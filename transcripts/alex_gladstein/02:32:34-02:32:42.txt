@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:32:34",
+  "End": "02:32:42",
+  "Text": "believe there's a technological innovations. suggesting that perhaps one of the technological innovations is"
+}

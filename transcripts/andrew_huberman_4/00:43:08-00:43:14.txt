@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:43:08",
+  "End": "00:43:14",
+  "Text": "you. Not. That's OK. That's OK. I'll take a, I'll whiff it as if I were a chemical"
+}

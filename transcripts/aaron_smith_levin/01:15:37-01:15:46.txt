@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:37",
+  "End": "01:15:46",
+  "Text": "you describe the ot again? So ot levels ot 12345 to the eight, what, what are they, what, how do you get to level one? I'm going to"
+}

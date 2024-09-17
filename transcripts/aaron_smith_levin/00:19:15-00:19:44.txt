@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:15",
+  "End": "00:19:44",
+  "Text": "know, in general, journalists in these kinds of situations can be, can attack a way that doesn't empathize and doesn't come from a place of deep knowledge and understanding. And I think it's possible to have serious conversations with people like that in an empathetic way, but it's also in a challenging way. I think there's a huge amount of trust required. And obviously for a very secretive organization, the amount of trust, yes, might be too much"
+}

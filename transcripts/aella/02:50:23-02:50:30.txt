@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:50:23",
+  "End": "02:50:30",
+  "Text": "you, have you published in like journals and stuff? No, I haven't. Do you have any interest in that or is your your approach?"
+}

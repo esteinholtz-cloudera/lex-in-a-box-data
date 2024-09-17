@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:42:19",
+  "End": "00:43:01",
+  "Text": ", I I don't think you could say that fully because I think you could then easily have a thought experiment which said we will create something which we know is not conscious but is going to give a very, very good account of seeming conscious. And so and, and also it would be a particularly bad test. are involved because humans are so quick to project sentience into things that don't have sentience. So someone could have their computer playing up and feel as if their computer is being malevolent to them when it clearly isn't. And so so of all the things to judge consciousness, us, humans are bad at we're empathy machines. So the"
+}

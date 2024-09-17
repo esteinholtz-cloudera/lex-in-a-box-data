@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:21",
+  "End": "00:57:29",
+  "Text": ", you traveled, you, uh you ended up in a different place than you started in more ways than one. Yeah. And"
+}

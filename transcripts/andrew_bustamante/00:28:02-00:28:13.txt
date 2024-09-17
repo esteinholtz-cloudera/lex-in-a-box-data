@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:02",
+  "End": "00:28:13",
+  "Text": "mean, in order to take Odessa would require amount of artillery and slaughter of civilians."
+}

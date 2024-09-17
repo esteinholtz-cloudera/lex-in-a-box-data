@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "01:07:50",
+  "End": "01:07:53",
+  "Text": ". And thank you so much for talking to us at all. It's wonderful."
+}

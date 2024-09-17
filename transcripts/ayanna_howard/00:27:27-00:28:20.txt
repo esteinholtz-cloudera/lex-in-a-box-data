@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:27:27",
+  "End": "00:28:20",
+  "Text": ", because I do a lot of work with healthcare robotics, I have not lost a patient, for example. Um the first one's always the hardest,? But they really teach the value, right? So they teach responsibility, but they also teach the value like saving 40,000. But in order to really feel good about that, when you come to a decision, you have to be able to say at the end, I did all that I could possibly do, right? Versus a well, I just picked the first widget and right. So every decision is actually thought through. It's not a habit, it's not a let me just take the best algorithm that my friend gave me. Right. It's a, is this, it, is this the best? Have I done my best do good? Right. And so"
+}

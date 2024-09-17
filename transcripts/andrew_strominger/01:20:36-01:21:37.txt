@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:20:36",
+  "End": "01:21:37",
+  "Text": ", he was one of my great teachers. Of course, he's, he's older than me And I was, I was reading his um textbooks in, in um graduate school. And um you know, I learned a lot about uh relativity from him. I learned about passion for a problem. I, I learned about um caring what other think, you know, I mean, physics isn't culture even if you make a great discovery like Hawking dead. People don't believe everything you say. In fact, uh people love to disagree. a, it's a, a culture that uh cherishes disagreement and, and so, you know, he kept ahead with what he believed in and sometimes he was right and sometimes he was wrong."
+}

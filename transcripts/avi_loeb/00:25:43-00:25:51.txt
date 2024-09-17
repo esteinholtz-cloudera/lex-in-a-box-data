@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:43",
+  "End": "00:25:51",
+  "Text": "a really important point, sorry to interrupt that you showed that it's unlikely that a rock from another solar system would arrive"
+}

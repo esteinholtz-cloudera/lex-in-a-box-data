@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:09",
+  "End": "00:56:13",
+  "Text": "free will. So do you, what we call free will is what we"
+}

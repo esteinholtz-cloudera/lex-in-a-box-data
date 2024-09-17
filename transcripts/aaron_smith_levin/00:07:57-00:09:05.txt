@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:57",
+  "End": "00:09:05",
+  "Text": "mean, it's an interesting idea. I just would like to kind of explore the philosophy of that. So there's a being that's all powerful, that's immortal its projection, its manifestation on this earth is fundamentally limited. And you're trying to, uh the process of scientology is the process of uh letting go of those limitations. know, that's an interesting idea. I mean, a lot of religions have this kind of idea that there's uh not just religions, but like uh we have the capacity as human beings to do to achieve greatness in all kinds of ways. And that, that's the question we have with our cognitive abilities, we start with the embryo and build up and into this organism and like this world of opportunities before us, what are we capable of? And the idea that we're capable of almost anything is a really powerful one. And there's a lot of religions, there's a lot of philosophies, there's a lot of, self help that kind of explore those ideas. And so in it seems like with Scientology, this, the application of this religious philosophy means that there's we're limited and we have to break through those limitations and there's a process to break through those limitations"
+}

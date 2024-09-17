@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:26",
+  "End": "01:03:35",
+  "Text": "you realize that there are some like the foundation of your beliefs were wrong, then everything might be wrong and you're kind of just doing first principles and"
+}

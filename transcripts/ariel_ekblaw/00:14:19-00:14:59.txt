@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:19",
+  "End": "00:14:59",
+  "Text": "? Just the the desire to explore the mysterious. Yes, but also it does seem by placing us in harsh conditions, the harsh conditions of space, the harsh conditions of planets and the biology, the chemistry, the engineering, the robotics, the materials, all of that, that's just a nice way to come up with cool new things, forcing function. It's exactly, it's a forcing function like survival if you don't get this right, you die. and that you can bring back to earth and it will improve. Like figuring out food and space will make you figure out how to eat live, healthier lives here on earth."
+}

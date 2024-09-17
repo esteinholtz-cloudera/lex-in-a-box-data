@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:10",
+  "End": "02:16:19",
+  "Text": "over time, you can start to figure out things that are very difficult to so you form the baseline, you start to understand the person is very, it becomes very difficult to lie."
+}

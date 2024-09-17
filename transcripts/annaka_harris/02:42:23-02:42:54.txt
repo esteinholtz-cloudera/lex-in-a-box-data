@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:23",
+  "End": "02:42:54",
+  "Text": "me ask you for advice. You had a a complex and a beautiful journey through life. You're exceptionally successful. What advice would you give to young folks in high school or in college about how to live a life like yours or how to live a life that can be proud of or have a career that can be proud of, you know,, how, how to pave a path and journey that can be uh happy with and be"
+}

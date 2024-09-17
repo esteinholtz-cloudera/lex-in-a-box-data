@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:44:47",
+  "End": "02:45:22",
+  "Text": "finite to this experience. We live every day. mean, I think of her being honest with her every day as if it's going to last forever, we often kind of don't contemplate the fact that it ends. You kind of have plans and goals and you have these possibilities. Uh You have a kind of lingering thought, especially as you get older and older and older this is especially when you lose friends and then you start to realize, you know, it doesn't, but I don't know if you really are cognizant of that. I mean, because,"
+}

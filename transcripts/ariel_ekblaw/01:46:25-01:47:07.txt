@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:46:25",
+  "End": "01:47:07",
+  "Text": "say one piece of advice is find really good teammates because I get to be the one that's talking to you. But there are 50 graduate students, staff and faculty that are part of my organization back at MIT. And I'm actually, you guys can't see it on camera, but I'm sitting here with my co founder and coo Danielle Delo. And that is really what makes these large scale challenges for humanity possible is really fantastic teams working together to scale more than what I could do alone. I think that that's an important model that we don't talk about enough in academia. There's a big push for this like lone wolf genius figure in academia, but that's certainly not been the case in my life. I've had wonderful collaborators and people that I work with along the team also cross"
+}

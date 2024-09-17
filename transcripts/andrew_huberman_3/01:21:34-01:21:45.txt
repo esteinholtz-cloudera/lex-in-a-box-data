@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:34",
+  "End": "01:21:45",
+  "Text": "think we talked offline about this. We should start a mafia to ba to fight off whatever is going on in the east coast, although I'm still at MIT. So I don't know how that works, but Boston is different than New York."
+}

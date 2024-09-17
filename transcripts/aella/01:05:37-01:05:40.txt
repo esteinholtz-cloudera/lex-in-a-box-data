@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:37",
+  "End": "01:05:40",
+  "Text": ". When did you first learn the word? Fuck?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:47:26",
+  "End": "02:47:37",
+  "Text": "is the most the most? Ka think like maybe Captain America was the least kinky or something or Gandhi"
+}

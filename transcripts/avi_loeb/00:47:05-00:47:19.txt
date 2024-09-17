@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:47:05",
+  "End": "00:47:19",
+  "Text": "? But imagine a caveman seeing a cell phone? caveman would think, since the caveman played with rocks all of his life, he would say it's a rock just like my fellow astronomer said. Right. Exactly."
+}

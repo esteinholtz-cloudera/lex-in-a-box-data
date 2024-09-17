@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:20:56",
+  "End": "03:21:25",
+  "Text": "can like low pass filter yourself in terms of like what has consistently been true for you. Um But yeah, I definitely see how can be hard, but I would say like you're going to work the hardest on a thing that you care about the most. Uh So lo pass filter yourself and really introspect in your past, where are the things that gave you energy? And what are the things that took energy away from you concrete examples? And usually uh from those concrete examples, sometimes patterns can merge. I like, I like it when things look like this when I'm these positions. So"
+}

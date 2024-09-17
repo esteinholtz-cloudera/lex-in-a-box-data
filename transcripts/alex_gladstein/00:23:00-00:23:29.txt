@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:00",
+  "End": "00:23:29",
+  "Text": "? There's a couple of good litmus tests. One is actually, can you have a gay pride parade? a good series. It actually lines up perfectly. It doesn't matter what religion the dictatorship is, they don't like, they don't like minorities and they love to scapegoat whether it's gays or religious minorities, et cetera. So it lines up pretty well. That's really if you cannot have a gay pride parade in your country because you're fearful that you're going to get the crap kicked out of. You probably live in an authoritarian regime. Um"
+}

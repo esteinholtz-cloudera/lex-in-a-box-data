@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:10",
+  "End": "01:09:44",
+  "Text": "so poetic and romantic is disgusting. No. But yes, I think you have that engine in your head, I guess of creativity. Yeah. The way you ask questions, it's not trivial to do. It's actually very difficult to do good survey questions. And I mean, we're joking but yeah, almost like poetic because you have to ask a question in a way that doesn't lead to the answer. You have to kind of inspire them to think and then indirectly get at the truth. It's an art form honestly. Yeah."
+}

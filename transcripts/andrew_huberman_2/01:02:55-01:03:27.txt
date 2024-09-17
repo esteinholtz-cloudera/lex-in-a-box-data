@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:55",
+  "End": "01:03:27",
+  "Text": "know, there is a magic to, uh, don't know if you can comment on this, but I find myself able to, if I just say I'm feeling good like this old hack of smiling while you're running. If I just tell myself, I'm feeling really good right now, no matter how I'm actually feeling, I'll start feeling way better. And the whole thing, there's a cascading effect uh allows me to maximize the effort. It's, it's quite fascinating. It's weird."
+}

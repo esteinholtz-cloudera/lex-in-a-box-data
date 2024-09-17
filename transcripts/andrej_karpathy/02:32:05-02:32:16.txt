@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:32:05",
+  "End": "02:32:16",
+  "Text": "mental model for it is the same thing will happen to us with the autopilot. So currently he is doing following is doing some simple stuff and eventually we'll be doing autonomy and people will have to intervene less and"
+}

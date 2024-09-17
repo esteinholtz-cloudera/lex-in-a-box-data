@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:45:52",
+  "End": "00:45:54",
+  "Text": ". I remember you and Sarah were talking"
+}

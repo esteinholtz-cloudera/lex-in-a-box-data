@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:04",
+  "End": "02:22:47",
+  "Text": "have to ask you about this. You're one of the great communicators in science. I'm really a big fan of yours enjoying in terms of the educational stuff you're putting on neuroscience. What's the, you have a philosophy behind it or is it just an instinct, unstoppable force? Do you have? What's your thinking? Because it's rare and it's exciting. I'm excited that, you know, somebody from Stanford. So I,, I'm in multiple places in the sense of like where my interests lie and one, you know, politically speaking institutions are under fire, you know, for many reasons, we don't need to get into, get into it in a lot of other places. But I believe um like Stanford and places like mit as one of the most magical institutions for inspiring to dream people to build the future. I mean, it, I believe that it is a really special, these universities are really special places. And so it's always exciting to me when somebody as inspiring as you represents those places. So it makes me proud that somebody from Stanford is somebody like you is representing Stanford. maybe you could speak to what's, how did you come to be who you are in, in being a communicator."
+}

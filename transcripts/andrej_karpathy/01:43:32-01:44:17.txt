@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:43:32",
+  "End": "01:44:17",
+  "Text": "mean, I think a good example here is the deep learning revolution in some sense you could be in computer vision at that time when during the uh deep learning sort of revolution of 2012 and so on, uh you could be improving a computer vision stack by 10% or we can just be saying actually all this is useless and how do I do 10 X better computer vision? Well, it's not probably by tuning a hog feature detector. I need a different approach. Um I need something that is scalable, going back to uh Richard Sutton's um and understanding sort of like the philosophy of the uh bitter lesson then being like, actually, I need much more scalable system like a neural network that in principle works and then having some deep believers that can actually execute on that mission and make it work. So that's the 10 X solution."
+}

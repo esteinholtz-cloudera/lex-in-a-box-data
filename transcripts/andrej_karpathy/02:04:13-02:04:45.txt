@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:04:13",
+  "End": "02:04:45",
+  "Text": ", I don't know that I recall a specific instance where I was uh unhappy or criticizing image net. I think image net has been extremely valuable. Uh It was basically a benchmark that allowed the deep learning community to demonstrate that deep neural works actually work. It was uh there's a massive value in that. Um I think image net was useful but um basically, it's become a bit of an MNS at this point. So MS is like the 228 by 28 gray scale digits. There's kind of a joke data set that everyone like just crushes. There's no papers"
+}

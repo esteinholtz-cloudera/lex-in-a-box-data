@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:10",
+  "End": "00:29:21",
+  "Text": ". It's just outside of robotics, that's just communicating with humans. That's just a good to assume you just don't sort of empathy, right? It's"
+}

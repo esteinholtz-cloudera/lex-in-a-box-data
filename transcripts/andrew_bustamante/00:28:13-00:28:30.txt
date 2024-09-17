@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:28:13",
+  "End": "00:28:30",
+  "Text": ", they're not going to use artillery in Odessa because Odessa is too important to Russian culture. Um, it's gonna be even uglier than that. It's going to be clearing of streets, clearing of buildings, person by person, troop by troop. It'll be a lot like what it was in. Mar,"
+}

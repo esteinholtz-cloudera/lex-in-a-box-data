@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:07:17",
+  "End": "00:07:36",
+  "Text": "mission of the CIA is to collect intelligence from around the world that supports a national security mission and be the central repository for all other intelligence agencies so that it's one collective source where all intelligence can be synthesized and then passed forward to the decision makers"
+}

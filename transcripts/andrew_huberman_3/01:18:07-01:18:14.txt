@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:18:07",
+  "End": "01:18:14",
+  "Text": "just watched Apollo 13 again. Great movie. I'm not going to space. not going to"
+}

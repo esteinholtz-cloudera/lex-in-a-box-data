@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:22",
+  "End": "02:08:36",
+  "Text": "he being too poetic about it. Is that, is that the right way to phrase it? Because he says like not that our perception is just a controlled hallucination. Well,"
+}

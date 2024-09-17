@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:10",
+  "End": "01:03:33",
+  "Text": "think that one of the dreams of artificial intelligence was to solve common sense reasoning, whatever the heck that means. you think something like common sense reasoning has to be solved in part to be able to solve this dance of human robot interaction in the driving space or human robot interaction in general? You have to be able to reason about these kind of common sense concepts physics of um know, all the things we've been talking about humans, I don't even know how to express them with words, but the the basics of human behavior, a fear of death. So like to me, it's really important to encode in some kind of sense. not, maybe it's implicit, but it feels that it's important to explicitly encode the fear of death people don't want to die it seems silly. But like that the, the game of chicken involves with the pedestrian crossing, the street is playing with the idea of mortality. We really don't want to die. It's not just like a negative reward. I don't know, it just feels like all these human concepts have to be encoded. Do you share that sense or is this a lot simpler than I'm making out to be?"
+}

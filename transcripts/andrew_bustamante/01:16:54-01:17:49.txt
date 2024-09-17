@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:16:54",
+  "End": "01:17:49",
+  "Text": ", uh so I was leaving the United States Air Force in 2007. Uh I was a, I was a lieutenant getting ready to pin on captain. My five years was up and I was a very bad fit for the US Air Force. I, I was an Air Force Academy graduate, not by choice but by lack of opportunity, lack of, lack of options otherwise, so I forced myself through the academy, barely graduated with a 2.4 GPA. then went on the Air Force taught me how to fly. And then the Air Force taught me about nuclear weapons. And I ended up uh as a as a nuclear missile commander in Montana. And I chose to leave the Air Force because I didn't like shaving my face. I didn't like having short hair and I most definitely didn't like shining my shoes and I did not want to be one of the people in charge of nuclear weapons. So when I found myself as a person in charge of 200 nuclear weapons, knew that I was going down the wrong road. I have"
+}

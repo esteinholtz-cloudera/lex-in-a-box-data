@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:21:28",
+  "End": "03:22:01",
+  "Text": "recently talked to Ryan Graves who's a Lieutenant Ryan Graves who's a fighter jet pilot. many things. He also does work on autonomous weapon systems, drones and that kind of thing including quantum computing. But he also happens to be one of the very few pilots that were willing to go on record and talk about UFO sightings. the CIA and the federal government have interest in UFO"
+}

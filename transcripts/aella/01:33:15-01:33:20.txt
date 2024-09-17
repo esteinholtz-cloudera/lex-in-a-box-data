@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:33:15",
+  "End": "01:33:20",
+  "Text": "is true, this is not the romantic narrative that uh that you're very"
+}

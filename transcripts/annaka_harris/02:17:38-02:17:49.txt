@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:17:38",
+  "End": "02:17:49",
+  "Text": "boys. And there are physicists who think that space is emergent, but time is still fundamental. And Lee Smolin is one of those scientists and it's really interesting to talk to him about this. But yeah,"
+}

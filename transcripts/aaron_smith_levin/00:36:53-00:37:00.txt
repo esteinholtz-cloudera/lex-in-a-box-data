@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:36:53",
+  "End": "00:37:00",
+  "Text": ", auditing is, so we described earlier, Dynetics, auditing. Scientology auditing is very similar to that."
+}

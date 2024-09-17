@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:28",
+  "End": "01:35:38",
+  "Text": "you're a little bit like, terms of sexual compatibility, you were able to,, you're self aware enough to know what preferences you have. Like, you can."
+}

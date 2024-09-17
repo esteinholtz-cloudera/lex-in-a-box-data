@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:10",
+  "End": "01:38:19",
+  "Text": ". But you know, if a thing was a hyper sphere, it's very small, not a point. How can that thing be infinite?"
+}

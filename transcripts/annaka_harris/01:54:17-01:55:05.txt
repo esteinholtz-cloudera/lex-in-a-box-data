@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:17",
+  "End": "01:55:05",
+  "Text": "notice more and more beautiful things about the simpler, simpler things. Yeah, it's great. I like to do that. I don't meditate. I've tried a few times I will but I, I do meditate but not, I meditate by thinking about a thing and holding on to that thing and just like that's not really, I guess technically meditation, but it's keeping a focus on an idea and then you walk with it and you solve the little puzzle of it, especially any kind of programming or math stuff. You're holding stuff in your head and you, don't, don't look stuff up, don't take notes. You're only allowed to have your mind."
+}

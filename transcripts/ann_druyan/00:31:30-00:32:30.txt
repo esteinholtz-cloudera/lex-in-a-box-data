@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:31:30",
+  "End": "00:32:30",
+  "Text": "to meet chance. totally random. It's a just, I mean, but, and the fact is is that some people are and it's happening every day right now. Some people are the random casualties of chance that, and I don't just mean the people who are being, you know, destroyed in childhood in war time. Uh I'm also, or the people who starve to death because of famine, but also the people who, know, who are not living to the fullest, all of these things. I think there's a my parents met on the subway in rush hour. And so I'm only here with you because of the most random possible situation. And so I've had this a sense of this, even before I knew Carl, I always felt this way that I only existed because of the generosity of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:02",
+  "End": "01:34:09",
+  "Text": "that there's a lot of correlation to other kinds of conspiracy theories., that's fascinating."
+}

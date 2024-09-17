@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:17",
+  "End": "00:29:21",
+  "Text": "actually, the Allong nature, all that kind of things."
+}

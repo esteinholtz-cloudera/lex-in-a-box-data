@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:55:16",
+  "End": "03:55:52",
+  "Text": ". But that's sha shadiness but, like, resistance. Like, um, don't know what the example is, I mean, I, I partially agree with you but I just, and I, every time I would imagine, like, perfect flawless nothing. No conflict. You imagine somebody that doesn't have, like, a complexity of personality, right? Like, I feel like it's not even, it's conflict that's laden in misunder basic misunderstanding between human beings. Like misinterpretation, different perspectives that clash different worldviews, different ideas, all that kind of stuff. That conflict."
+}

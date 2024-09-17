@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:28:04",
+  "End": "01:29:02",
+  "Text": "in some sense, if I were to speak to the Bitcoin Maximus community is to maybe ease up on the certainty because that gives me the signal that it's a scam, to be honest. So whenever somebody, whenever there's a lot of people being excited about something, start being very skeptical, it's like, you know, I used to like Green Day before they became really popular And then the moment they became really popular, I'm like, I don't know, he started wearing mascara and I was like, I, I don't like them anymore. So I'm very skeptical about evangelists of an idea because I think Bitcoin on its own is just a powerful idea that stands. But I also understand that in a world of a lot of competing ideas where there's a lot of scams a lot of money to be made through those scams that you have to be, that you have to be innovative in the kind of mechanisms you use to break through the scam, the ocean of scams."
+}

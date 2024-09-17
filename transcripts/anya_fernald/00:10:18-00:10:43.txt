@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:18",
+  "End": "00:10:43",
+  "Text": "than just like the how the ingredients come together to form a taste. It's the whole pipeline, like the fact that uh there's a lot of work that uh went bringing the ingredients together and then, you know, making, giving you the ability to make the meal and then who gets to consume the meal and the whole thing. And you see that as service as opposed to just the taste."
+}

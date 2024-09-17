@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:25",
+  "End": "00:45:38",
+  "Text": "uh you, you admire the resilience here. There's something profound about this architecture that, that at least so maybe we can, everything can be turned into a into a problem that transformers can"
+}

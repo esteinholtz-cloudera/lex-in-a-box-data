@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:26",
+  "End": "01:29:18",
+  "Text": "for listening to this conversation with Andrew and thank you to our presenting sponsored cash app. Download it, use code Lex podcast. You'll get $10.10 dollars will go to first an organization that inspires and educates young minds to become science and technology innovators of tomorrow. If you enjoy this podcast, subscribe on youtube, give it five stars on Apple podcast. Support it on Patreon or simply connect with me on Twitter at Lex Friedman. now let me leave you with some words of wisdom from Andrew Ang. yourself if what you're working on succeeds beyond your wildest dreams which have significantly helped other people. not, then keep searching for something else to work on otherwise you're not living up to your full potential. you for listening and hope to see you next time."
+}

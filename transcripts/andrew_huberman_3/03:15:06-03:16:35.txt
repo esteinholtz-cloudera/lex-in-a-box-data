@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:15:06",
+  "End": "03:16:35",
+  "Text": "like, to me this kind of,, so relationship is more like a commitment to one particular kind of, um, object of your love., it's almost like a, it's like a journey that you take on together because also the interesting thing about humans is they're moment by moment, a different person, day by day, week, by week, month, by month, they change, they evolve. There's an ups and downs and stuff like that. So, what you're doing is you're saying, well, I'm going to explore all the ways that this human gets morphed and changed and what makes them cry, what makes them excited, what makes them, lonely, uh, like the, the, the habits, like when they form certain habits, what, how they feel when those habits are broken, like the stupid minute things that make everyday life, you're going to be on that journey together, figuring that out just the way we're trying to figure ourselves out when we're optimizing these things about diet and health and so on. You're kind of doing this computation together because neither person really understands themselves at all and you're together both confused about each other. And you get to almost like um relationship is a chance understand yourself to understand another person together, that process is some iterative,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:32:42",
+  "End": "02:32:55",
+  "Text": "it enhance or um your capacity for love of other human beings? What role does love play in the human condition? A"
+}

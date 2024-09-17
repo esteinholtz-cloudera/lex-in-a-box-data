@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:48",
+  "End": "01:23:02",
+  "Text": "a lot of open problems in that space? Just in general annotation where the stuff the machines are good at machines do and the humans do what they're good at and there's maybe some iterative process,"
+}

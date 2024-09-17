@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:16",
+  "End": "00:27:41",
+  "Text": ". So you mentioned the eight, the eight dynamics, but you also mentioned survival. So that seems to be a core principle that human existence is about survival. Can, can, can you elaborate what is meant by survival? Are we talking about the survival of the human species, survival of the individual, humans, survival of the, the manifestation of Thean in human form? What, what do we, what's survival?"
+}

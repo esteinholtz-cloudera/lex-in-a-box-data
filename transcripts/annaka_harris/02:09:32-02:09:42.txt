@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:32",
+  "End": "02:09:42",
+  "Text": "I think we have a consistent abstraction that seems to be reliable, like a Blockchain."
+}

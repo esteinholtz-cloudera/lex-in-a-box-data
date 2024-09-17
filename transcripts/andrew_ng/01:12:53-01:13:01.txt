@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:53",
+  "End": "01:13:01",
+  "Text": "like you said, the impact is there. So what are the best industries, the biggest industries where A I can help perhaps outside the software tech sector."
+}

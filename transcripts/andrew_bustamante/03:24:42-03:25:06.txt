@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:24:42",
+  "End": "03:25:06",
+  "Text": "a, yeah, there's an economic interest in the private investment in the private intelligence world because for example, if you understand why certain aerial phenomenon are happening over a location, then you can use that to inform investors whether to invest in that location or avoid investment in that location. But that's not a national security concern. So that doesn't, it doesn't matter to the federal government."
+}

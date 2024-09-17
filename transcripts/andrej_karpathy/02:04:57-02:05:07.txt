@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:57",
+  "End": "02:05:07",
+  "Text": "way I've heard you somewhere, maybe I'm just imagining things. But I think you said like image net was a huge contribution to the community for a long time. And now it's time to move past those kinds of"
+}

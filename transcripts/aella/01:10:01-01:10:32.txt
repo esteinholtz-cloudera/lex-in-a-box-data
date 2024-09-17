@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:10:01",
+  "End": "01:10:32",
+  "Text": "think this might be my greatest strength. So I'm not very good at statistics. I'm not great at presenting data, but I think probably my greatest strength is in fact, survey design and like question phrasing because I have treated so many thousands of polls and every single one I get people telling me the way that they misinterpreted the poll. So it's like, it's like you've gone through fire. then again, I, I'm testing the phrasings all the time. Like what happens if you slightly shift phrasings? And so I'll do the same question test over time to see how it changes and the way the framing affects the results."
+}

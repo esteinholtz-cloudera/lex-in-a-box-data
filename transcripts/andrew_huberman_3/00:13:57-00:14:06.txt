@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:13:57",
+  "End": "00:14:06",
+  "Text": ", we diverge because for me, bread is just a vehicle for butter. cracker is just a vehicle for cheese. Oh,"
+}

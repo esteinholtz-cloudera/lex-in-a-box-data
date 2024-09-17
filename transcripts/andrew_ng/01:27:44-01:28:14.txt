@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:27:44",
+  "End": "01:28:14",
+  "Text": "then second is helping other people. I think to me, I think the meaning of life is um helping others achieve whatever are their dreams. And then also to try to move the world forward by making humanity more powerful as a whole. So the times that I felt most happy and most proud was when I felt um someone else me the good fortune of helping them a little bit on the path to their dreams."
+}

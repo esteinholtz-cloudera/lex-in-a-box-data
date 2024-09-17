@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:05",
+  "End": "02:28:14",
+  "Text": "mean, is some of that just insecurity that you should also just comfort, like basically alleviate your insecurity, bring it back to like a rational objective evaluation."
+}

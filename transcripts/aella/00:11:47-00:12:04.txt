@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:11:47",
+  "End": "00:12:04",
+  "Text": ". Yeah, super charged. Super because everybody has a really strong opinion, like whether or not, you know, pornography is damaging to society or like how sex corresponds to gender or like what kind of sexuality is acceptable? Like, do, can you have sexual preferences that in them in themselves are immoral? People get very angry about"
+}

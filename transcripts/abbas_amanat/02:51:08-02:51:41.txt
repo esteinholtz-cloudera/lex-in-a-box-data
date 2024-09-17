@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:08",
+  "End": "02:51:41",
+  "Text": "both directions. So one, the real danger, rhetoric actually being acted upon then the extreme political parties using the rhetoric to justify even a greater escalation. uh if Iran is saying that this is saying that they're wanting to wipe Israel off the face of the earth that justifies any response"
+}

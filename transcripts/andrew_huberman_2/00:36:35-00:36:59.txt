@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:35",
+  "End": "00:36:59",
+  "Text": "we should talk to people. I'd be curious to get your thoughts and advice on it on March 5th running 48 miles with Mr David Goggins. So four miles every four hours and people should join us. He's that mad man is going to be live on Instagram at 8 p.m. Pacific on March 5th. So you're going to"
+}

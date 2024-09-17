@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:07",
+  "End": "01:45:24",
+  "Text": "you kind of enjoy. I mean, part of it is you joking and trolling that you enjoy knowing that your youtube channel drives David Miscavige crazy. mean, what that means? You still, I mean, there is a joy you have, there"
+}

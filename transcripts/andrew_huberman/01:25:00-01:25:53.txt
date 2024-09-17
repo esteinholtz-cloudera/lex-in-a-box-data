@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:25:00",
+  "End": "01:25:53",
+  "Text": ". And which one to go after first and, here I, I'm poaching badly from someone I've never met, but whose you know, work I I follow which is, and it was actually on your podcast. I think Elon Musk said, you know, basically the brain is a, when I say a monkey brain with a supercomputer on top, and I thought that's actually probably the best description of the brain I've ever heard because it captures a lot of important features like limbic friction, right? we think of like, oh, you know, when we're making plans, we're using the prefrontal cortex and we're executive function and all this kind of stuff. But think about the drug addict who's driven to go pursue heroin or cocaine. They make plans so clearly, they use their frontal cortex. It's just that it's been hijacked by the limbic system and all the monk, the monkey brain as you refer to. really not fair to monkeys though, Elon because actually monkeys can make plans. They just don't make plans as sophisticated as us. I spend a lot of time with monkeys, but I've also spent a lot of time with humans anyway, I'm"
+}

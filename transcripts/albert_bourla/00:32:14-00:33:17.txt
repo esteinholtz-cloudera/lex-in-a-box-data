@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:32:14",
+  "End": "00:33:17",
+  "Text": ", I, I think that we try always to do the right thing and that's, as I said, very well embedded into our culture. If you don't do the right thing, sooner or later, you will pay for it one way or another. And right now, for us doing the right thing, it is being able to find innovations to issues that are real that they do not have good coverage, good treatments. Right now, try to find treatments that significantly the current standards of care. we try not only to comply with what regulators are asking us to do, this is what you need to do to prove the safety or the efficacy, but exceed them, matter what we do on that, sure that people will find the opportunity because as you said, there are a lot of lawyers to, to sue us, but we believe in the justice system and we believe that uh eventually, if you are doing the right thing, will be on the right side of the history."
+}

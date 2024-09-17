@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:37",
+  "End": "01:23:45",
+  "Text": "there's no gap for faith to seep in that there is a level nine and 1011 and 12. 0, the"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:10:41",
+  "End": "01:11:33",
+  "Text": "that is just, it was exhausting the site that I was on the way that it's structured is that you're ranking on the site and thus the amount of people that see you and th the amount of money you are on you earn is affected by the amount of money that you earn on average over the last 60 days. So if you're streaming and nobody's tipping you, this means that you're going to be dropping down in the rankings, which is going to make it harder in the future. So the rich get richer and that it, yeah, so it's very high pressure. Like if you're on, you need to be making money fast as you can, if you want to continue to make money. So that was really stressful. It was very mentally taxing. I would do it for a couple of hours and just walk off and be completely exhausted because you're just like on as hard as you can. And that's why I have a little ptsd streaming. Like I've considered Twitch Streaming. I try a little bit and I'm like, I haven't fully integrated the fact that you don't have to be like maximally entertaining every single second yet. You can actually just chill out and take it slow and nothing bad happens."
+}

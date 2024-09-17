@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:35",
+  "End": "01:07:39",
+  "Text": ", you know, what would be cool is if we can understand deeper ways to measure happiness of an animal because then we can optimize like a certified humane could be literally an optimization problem. Just make sure as opposed to kind of uh using our projecting our own human values, actually measuring what the what the animal is happy doing. That could be so understanding the pig brain might help us understand pig happiness and what it means for a happy animal. And then maybe it's a lot easier to make a happy animal to make the animal happy than we think. And it might have to do with a variety of delicious food in the kitchen. Is there something you could say about grass fed meat? Is it all just out of my own sort of curiosity whenever people say grass fed meat is better for you, are all grass fed meat made the same? Is there different? Like it's like the word organic, is there a lot of variety within that? the way Bel Campo does with it. Others do it just more color if you could add to this whole word and what it means. Grass"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:24:55",
+  "End": "02:25:03",
+  "Text": "fascinating to me. Iii I feel like I would have loved my parents more"
+}

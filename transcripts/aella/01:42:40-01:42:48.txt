@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:40",
+  "End": "01:42:48",
+  "Text": "love that you're also doing like you're writing scripts and stuff like you're doing, you're doing some statistical analysis. Are you using Python"
+}

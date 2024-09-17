@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:29",
+  "End": "00:08:48",
+  "Text": "like Magnus Carlsen said, I'm rated 2900, whatever, which is pretty decent. I think you're talking very, you're not giving enough credit in your own nuts here. Why do they seem to, what's your best intuition this emergent"
+}

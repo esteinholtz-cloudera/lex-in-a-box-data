@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:42:44",
+  "End": "01:43:14",
+  "Text": "does a very good job talking about all of this in the book it took him, it took him like four or five years to get that book done. Like, it's a, it's a polished version. It's a polished version of his story. And, and, and I think Mike's about getting ready to start his own youtube channel. So that'll be a lot of fun. Actually, Mike comes on my channel all the time. Yeah. You guys, you guys do a thing together. Yeah, we do three amigos with me and Mike Rinder and Mark Headley. That's why I gave you Mark's book. I thought maybe you would know him from our little three amigos are Mondays with Mike and Mark videos."
+}

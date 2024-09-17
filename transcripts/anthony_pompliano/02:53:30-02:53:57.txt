@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:53:30",
+  "End": "02:53:57",
+  "Text": "think about um the inadvertent, but as you were talking, what it made me think of is also the irreversible, irreversible. So it's one thing if there's uh inadvertent negative impact, but we have reversibility built into a system and we can fix our mistakes. I think the really scary part is when you overlay inadvertent mistakes with the irreversible aspect of it and therefore humans have no control."
+}

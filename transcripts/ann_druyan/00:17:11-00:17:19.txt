@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:17:11",
+  "End": "00:17:19",
+  "Text": "the farthest spacecraft, it's the farthest human creation from us. That Voyager one"
+}

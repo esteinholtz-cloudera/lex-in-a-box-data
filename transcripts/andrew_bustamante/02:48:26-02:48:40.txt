@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:26",
+  "End": "02:48:40",
+  "Text": "don't ask these kinds of questions because it's so convenient as we do for, uh, Google, Facebook, Twitter, uh, Apple Microsoft products."
+}

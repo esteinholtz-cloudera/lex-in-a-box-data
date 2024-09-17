@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:07:29",
+  "End": "00:09:24",
+  "Text": "is love is knowing. For me, love is knowing something deeply still being completely by it, you know, and wanting to know more. So what is love? What is loving someone, a person, let's say deeply not idealizing them, putting some kind of subjective on them, knowing them as they are. And so for me, for me, the only aperture to that knowing about nature, the universe is science because it has that error correcting mechanism most of the stuff that we do doesn't have. You know, you could say the bill of rights is kind of an error correcting mechanism, which i it's one of the things I really appreciate about the society in which I live the extent that it's upheld and we keep faith with it. And the same with science, it's like we will give you the highest rewards we have for proving us wrong about something. That's genius. That's, that's why, why in only 400 years since Galileo's first look through a telescope could get from this really dim, vague, this vague apprehension of another world to sending our eyes and our senses there or even to going beyond. So it is, it is, it delivers the goods like nothing else. You know, it really, it, it delivers the goods because it's always, it's always self aware of its fallibility."
+}

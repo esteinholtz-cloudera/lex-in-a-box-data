@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:45:41",
+  "End": "02:46:39",
+  "Text": ". Definitely. And I'll do these in bullet points because if people want the logic behind them and the mechanism, they can listen to that episode, it's a really good episode. I'll start with heat and cold really quickly and just say that avoid cold immersion. So ice baths and being in cold water up to the neck, uncomfortably cold within the four hours after a session, that's designed to evoke an adaptation, either endurance hypertrophy or strength because the inflammation that you experience from a hard endurance workout or from a hard strength or a hypertrophy workout is the stimulus by that you're going to adapt to the cold water immersion, reduces inflammation can short circuit some of that four hours, you're probably ok. But if you can do it a different day or you can do it before those sessions, that's better heat, however, can be done immediately after training. And it's probably beneficial because of the way that it dilates the vascular system and delivery, perfuse the muscles and ligaments, et cetera with more nutrients."
+}

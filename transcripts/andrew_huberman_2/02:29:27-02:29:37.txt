@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:27",
+  "End": "02:29:37",
+  "Text": ". He goes through hell to prepare. He spends months preparing. It feels like you've had to really prepare for your podcast. I"
+}

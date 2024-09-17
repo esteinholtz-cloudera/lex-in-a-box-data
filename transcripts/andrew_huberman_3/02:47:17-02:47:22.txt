@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:47:17",
+  "End": "02:47:22",
+  "Text": "stay out of the ice bath after a workout. There you go"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:05:47",
+  "End": "00:06:43",
+  "Text": "what is a neural network? It's a mathematical abstraction of brain. I would say that's how it was originally developed the end of the day. It's a mathematical expression and it's a fairly simple mathematical expression when you get down to it. It's basically a sequence of uh Metris multiplies, which I really do products mathematically and uh some non linearity is thrown in. And so it's a very simple mathematical expression it's got knobs in it. Many knobs, many knobs and these knobs are loosely related to basically the synapses in your brain. They're trainable, they're modifiable. And so the idea is like we need to find the setting of the knobs that makes the neural net uh do whatever you want to do. Like, classify images and so on. And so there's not too much mystery I would say in it. Like, um you might think that don't want to endow it with too much meaning with respect to the brain and how it works. It's really just a complicated mathematical expression with knobs and those knobs need a proper setting for it to do something desirable. Yeah."
+}

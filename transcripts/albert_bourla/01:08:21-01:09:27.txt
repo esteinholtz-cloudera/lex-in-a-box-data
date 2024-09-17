@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:08:21",
+  "End": "01:09:27",
+  "Text": "the first time if you remember there were other compounds that were claimed that they are the uh the the solution to COVID. And uh clearly they were proving that they are not. there are compounds that there are solutions and compounds that they are not. I as a scientist and I discussed with our scientists, they don't see any why a medicine like Ivan Martin, which is a parasitic side to be able to act on COVID. And so they don't seem that there's any connection and they haven't seen any paper that describes someone that used it that had any results. I'm sure that there will be some people that will claim because people are claiming anything. But uh I don't think that I there was any paper in any peer review and a reliable scientific magazine to, to support this claim. So we are focusing on saving people's lives. We are not focusing on uh on uh."
+}

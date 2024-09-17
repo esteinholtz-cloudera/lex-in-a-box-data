@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:31",
+  "End": "00:30:45",
+  "Text": "you give much value to the intention or do you think it's better to look at the results of the behavior as opposed to the, the underlying ideology, the underlying intention of, of the behavior?"
+}

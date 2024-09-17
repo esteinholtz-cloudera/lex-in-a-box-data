@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:29:43",
+  "End": "01:29:44",
+  "Text": "us into,"
+}

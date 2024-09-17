@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:17",
+  "End": "00:15:33",
+  "Text": "a philosophical level, on a human level. Do you ever worry that the pressure to cover the costs that were invested to develop a new drug to develop this vaccine your ability to conduct unbiased studies."
+}

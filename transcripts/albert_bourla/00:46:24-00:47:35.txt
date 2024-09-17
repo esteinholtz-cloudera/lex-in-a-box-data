@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:46:24",
+  "End": "00:47:35",
+  "Text": ", they should not uh fear something like that. It's completely wrong. There is no medical product in the history of humanity that have been tested as much as this vaccine has been administered to hundreds of millions of people. And because of the importance of COVID, have been scrutinized those people constantly. Right now, healthcare authorities are looking for every single signal around the world of people that they got the vaccine and try to see if it is vaccine related or not. There are electronic medical records that will tell us when and what happened to a person when he did got the vaccine. And we know now we have so high certainty that it is so safe. as the data sit says about this vaccine, more than any other product. They should not be afraid of something like that and they should not listen to but it is misinformation but it is spread on purpose."
+}

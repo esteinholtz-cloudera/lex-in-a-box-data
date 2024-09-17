@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:44",
+  "End": "02:18:21",
+  "Text": "the revolution, 1979 that change is still with us today. What we can we just linger on? Um there some practical of power that occurred, know, in the way that Stalin took power and held power in the early days? Is there something like this in terms of the establishment of the Revolutionary Guard and all those kinds of stuff? So it's the Masonic figure that has some support from the people, but does he have to crush his enemies in competition?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:47",
+  "End": "01:07:29",
+  "Text": "be, you'll say the same thing as you said to your daughter. But it nevertheless feels something like to be me and that, that's pretty damn good. Kubrick created many masterpieces including The Shining Doctor Strangelove Clockwork Orange. to me, he will be remembered, I think to many 100 years from now for 2001 A Space Odyssey. I would say that's his greatest film. are incredibly humble. I listened to a bunch of your interviews and I really appreciate that you're humble in your creative efforts in your work. But if I were to force you at gunpoint,"
+}

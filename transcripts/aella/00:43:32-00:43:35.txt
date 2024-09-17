@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:43:32",
+  "End": "00:43:35",
+  "Text": "high resting happiness state. Yes."
+}

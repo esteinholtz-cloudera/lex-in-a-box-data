@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:50",
+  "End": "00:50:05",
+  "Text": "and the change to fall back would be to humans. You ultimately think like humans should be uh know, it's not turtles or A I all the way down. At some point, there's a human that actually still think"
+}

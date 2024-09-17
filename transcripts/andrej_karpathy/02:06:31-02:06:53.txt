@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:06:31",
+  "End": "02:06:53",
+  "Text": "think um as neural nets converge to humans, uh the value of simulation to neural nets will be similar to value of simulation to humans. people use simulation for uh people use simulation because they can learn something in that kind of a system. Um And uh without having to actually experience it. Um but"
+}

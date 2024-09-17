@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:02",
+  "End": "01:05:57",
+  "Text": "mean, you also mentioned fasting potentially through this two day thing. It'd be cool to get your thoughts about fasting in general. Do you think on a personal level and at a higher sort of level of studies that you're aware of and physiology and so on? What do you think about intermittent fasting of like not eating for 16 hours and then having an eight hour window or something? I've been doing a lot recently, which is eating only once a day. So that's 24 hour fast, I guess one meal a day or something of, um, thinking about doing, haven't done yet of doing like 72 hours or some people do like five day fasts in general. So this will be, for, this particular run will be a 48 hour fast if I don't need it at all., What do you think about that for performance, for mood for all those kinds of"
+}

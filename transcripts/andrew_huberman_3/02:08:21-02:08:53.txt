@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:08:21",
+  "End": "02:08:53",
+  "Text": ". If you go to a small comedy club open mic or otherwise you're in the shooting gallery, like you're basically there teed up as a pin to get it., we went and saw Andrew Scholl in, in San Francisco in San Francisco. Yeah, it was hilarious. It was amazing. I mean, he's, he's just masterful in his ability to command an audience, you know, and, but I felt for the people up front but, you know, no sympathy either because, you know, you buy tickets to sit up front a shoal show, you know, you're going to get it. But he was very loving"
+}

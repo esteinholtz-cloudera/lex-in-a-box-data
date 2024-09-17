@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:34",
+  "End": "02:31:39",
+  "Text": "Raisi, the 221. What you're saying is a phony election is"
+}

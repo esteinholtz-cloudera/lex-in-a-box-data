@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:36:37",
+  "End": "01:36:47",
+  "Text": "thing is like a lot of questions sort of overlap in demographic. And if you're making a survey, you want to have the minimum possible questions that give the maximum possible filtering information."
+}

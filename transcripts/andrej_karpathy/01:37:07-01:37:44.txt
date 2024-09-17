@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:37:07",
+  "End": "01:37:44",
+  "Text": "way to look at it is like vision is necessary in a sense that uh the uh the world is designed for human visual consumption. So you need vision, it's necessary and then also it is sufficient because it has all the information that you that you need for driving and humans obviously has a vision to drive. So it's both necessary and sufficient. So you want to focus resources and you have to be really sure if you're going to bring in other sensors, you could, you could, you could add sensors to infinity at some point, you need to draw the line. And I think in this case, you have to really consider the full cost of any one sensor that you're adopting and do you really need it? And I think the answer in this case is no."
+}

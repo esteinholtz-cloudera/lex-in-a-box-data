@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:36:36",
+  "End": "02:36:45",
+  "Text": "built archives, sanity. is archive and what is the future of academic research publishing that you would like to see?"
+}

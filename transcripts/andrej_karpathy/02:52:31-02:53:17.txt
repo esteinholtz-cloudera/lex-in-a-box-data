@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:52:31",
+  "End": "02:53:17",
+  "Text": "the internet but also interact with the internet. So it's not obvious to me. In fact, I suspect you can reach A G I without ever entering the physical world which is a little bit more uh concerning because might, that results in it happening faster. So it just feels like we're in like in boiling water, we won't know as it's happening. would like to, I'm not afraid of a G I, I'm excited about it. There's always concerns but I would like to know when it happens., and have like hints about when it happens like a year from now. It will happen, that kind of thing. I just feel like in the digital realm, it just might happen. Yeah,"
+}

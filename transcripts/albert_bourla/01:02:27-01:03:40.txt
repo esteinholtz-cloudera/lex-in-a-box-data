@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:02:27",
+  "End": "01:03:40",
+  "Text": "? You know, because people know who I am. I had the opportunity to um uh to, to interact with parents before that was uh let's say approved. And there were so many way more that uh I had a lot of empathy because they were afraid their kids because they didn't have a vaccine. they were the ones that were speaking at that time, me vaccine. When are you going to bring me a vaccine? I really fear. I feel that this is unfair but I am protected. My husband is protected. My old son is protected and my little sweetheart because he's below the age is not protected. that we have the vaccines. I'm sure that uh those that they are afraid of the vaccine, not of the disease, which are smaller number, admittedly. Also, they will have uh if they are afraid of them, I'm sure that they were afraid even more about their kids because they love, I would say more than they love themselves. So it's going to be the situation. And um again the same, how can we do demonstrate to convince people to win the minds and the hearts of the people that this is the right thing to do?"
+}

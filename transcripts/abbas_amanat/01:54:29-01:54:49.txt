@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:29",
+  "End": "01:54:49",
+  "Text": "for just a second. Who, who is Khomeini? Uh who uh you just, you just mentioned a few desperate facts about the man., he was the person that took power in 1979 supreme leader of Iran. You mentioned something about Paris, something about being in the seventies. What should we know about the guy"
+}

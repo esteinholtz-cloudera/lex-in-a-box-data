@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:15",
+  "End": "00:11:47",
+  "Text": "probably, but you're just not limited by part of your curiosity asking questions that seem common sense. Like some of the most controversial questions are around sex. It's like everybody thinks and talks and does sex. I mean, it's the driver of human civilization and yet there's so little rigorous discussion about the philosophical and the scientific questions around it and it's like it gets really weird be able to discuss them, it becomes tricky to discuss"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:45",
+  "End": "02:04:58",
+  "Text": "somebody else. What do you, I mean, how do you, you don't seem to, seem to, to have been fearless to just sit in front of the camera by yourself to do the"
+}

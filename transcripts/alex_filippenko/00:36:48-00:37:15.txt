@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:48",
+  "End": "00:37:15",
+  "Text": ", I've recently, I recommend it. It's totally new to me this kind of survivalist, uh, folks, but there's a, a few show, there's a lot of shows of those, but I saw one on Netflix and I started watching them and there's, make a lot of sense. They reveal to you how dependent we are on all aspects of this beautiful systems we human have built and how fragile they are"
+}

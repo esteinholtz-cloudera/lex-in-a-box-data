@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:18:26",
+  "End": "01:18:45",
+  "Text": ". Although, you know, I have, um, a song up in my phone. If my, if the plane starts to go down, I'm gonna spend the last few. It's a rare song. Nobody knows. It's a song off a B track of my favorite band, which is Rant is this song called The Sentence and Nobody. Nobody. And I love it. And I listen to it almost every day. Um"
+}

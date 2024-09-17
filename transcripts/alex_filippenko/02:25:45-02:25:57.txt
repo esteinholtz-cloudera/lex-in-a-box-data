@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:45",
+  "End": "02:25:57",
+  "Text": "saw that you got a chance uh call Richard Feynman, a mentor of yours when you were at Caltech. Uh Do you have any fond memories of Feynman? Any lessons that stick with you?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:45:18",
+  "End": "02:45:38",
+  "Text": "will typically do like say three takes and then I take like the, the better take. Uh So I do multiple takes and I take some of the better takes and then I just build out a lecture that way. Uh Sometimes I have to delete 30 minutes of content because it just went down the alley that I didn't like too much. So there's a bunch of bunch of iteration and it probably takes me, you know, somewhere around hours to create one hour of content to get one"
+}

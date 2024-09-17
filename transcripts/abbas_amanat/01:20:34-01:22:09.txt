@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "01:20:34",
+  "End": "01:22:09",
+  "Text": ", in 1979 there was revolution that eventually came to be known as the Islamic revolution. And even up to this day, many of the observers or those who have strong views that would not like to refer to it as an Islamic revolution or even a revolution. the because the nature of it in the earlier stages of it started really probably around 1977 it took two years, much more uh all embracing, it was not Islamic in a particular fashion or at all, in a sense, it started with a kind of a very liberal democrat agenda required uh which demanded mostly by people who were the veterans of the older generations of Iranian liberal nationalists that were left out in the pa labi period is the period of the Shah became increasingly um authoritarian, the uh suppressive uh therefore basically leaving no space or no political space open for any kind of a give and take kind of a conversation or participation that was in the seventies, seventies, seventies, particularly in the seventies. Can"
+}

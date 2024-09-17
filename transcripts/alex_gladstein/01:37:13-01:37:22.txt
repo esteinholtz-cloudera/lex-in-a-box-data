@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:37:13",
+  "End": "01:37:22",
+  "Text": "you think we're, kind of a dark question, but you think we're headed towards a war with China, the United States versus China?"
+}

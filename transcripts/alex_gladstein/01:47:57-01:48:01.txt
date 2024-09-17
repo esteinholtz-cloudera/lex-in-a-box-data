@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:47:57",
+  "End": "01:48:01",
+  "Text": ". Have you used one of these things that I have? Not? The Fed,"
+}

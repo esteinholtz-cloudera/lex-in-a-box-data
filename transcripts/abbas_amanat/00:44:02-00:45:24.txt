@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:44:02",
+  "End": "00:45:24",
+  "Text": "Iran and Iraq and possibly not Lebanon are the three countries who barely Iraq and Lebanon have barely majority Shi population. Whereas Iran is a large Shia population due to its of conversion to Shi and that by itself is another story. But uh uh in the sense that the uh the way that historically it evolved, the center became Moshi the peripheries remained. So you have communities of the Baluch in the southeast, you have the Kurds, a large portion of the Kurds are Sunnis. They have sh as well. Then they have the in indigenous religion of their own. A uh what's called Al Ha which is the religion of indigenous to Kurdistan. are Turks in the northeast of Iran who are also Sun. There are other communities, the Khorasan region in the, in the peripheries of Afghanistan, there are also Sun and you have some Arab population, Arab speaking population in the Khoan province in the southwest of Iran, which is also or across the Persian Gulf."
+}

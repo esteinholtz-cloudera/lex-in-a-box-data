@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:45",
+  "End": "00:40:04",
+  "Text": "the basic process of debugging is so the bug in this case, why isn't this thing learning learning improving sort of going into the questions of overfitting and all those kinds of things? That's that's the logical space that the debugging is happening in with neural network."
+}

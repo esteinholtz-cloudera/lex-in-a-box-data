@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:49",
+  "End": "00:19:52",
+  "Text": "want to meet an expert on alien intelligence and how to"
+}

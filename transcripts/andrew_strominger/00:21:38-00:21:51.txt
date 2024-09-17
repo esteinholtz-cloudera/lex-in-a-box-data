@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:38",
+  "End": "00:21:51",
+  "Text": "is an approximation. Everything is an approximate and you're trying to get as close as possible. So you, you're saying objective truth doesn't exist in this world. internet is gonna be very me,"
+}

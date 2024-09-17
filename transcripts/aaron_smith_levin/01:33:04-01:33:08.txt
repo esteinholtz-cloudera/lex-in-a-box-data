@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:04",
+  "End": "01:33:08",
+  "Text": ". Well, I'm sure that's not what they say. Xu embodied."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:50:38",
+  "End": "00:51:20",
+  "Text": "going to that exact example, then I would highlight that our current administration has the lowest approval ratings of any president in history. if people were very fond of the war going on in Ukraine, wouldn't that counterbalance some of our upset, some of the distent coming from the economy and some of the dissent coming from, from the, the great recession and or the second great or the great resignation and whatever is happening with the draw with a down stock market, you would think that people would feel like they're sacrificing for something. If they really believed Ukraine mattered, that they would, they would stand next to the president who is, who is so staunchly driving and leading the West against this conflict."
+}

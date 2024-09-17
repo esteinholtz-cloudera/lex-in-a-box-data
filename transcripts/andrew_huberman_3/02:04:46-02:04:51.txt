@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:04:46",
+  "End": "02:04:51",
+  "Text": "only have to be alive on this planet. It's hard to see it. You can't avoid seeing it."
+}

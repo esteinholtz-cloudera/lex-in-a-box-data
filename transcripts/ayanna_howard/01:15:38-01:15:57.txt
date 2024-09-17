@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:38",
+  "End": "01:15:57",
+  "Text": "basic income in order to support us as we kind of automation takes people's jobs and allows you to explore and find other means. Like, do you have a of the society, transforming effects of automation and robots and so on?"
+}

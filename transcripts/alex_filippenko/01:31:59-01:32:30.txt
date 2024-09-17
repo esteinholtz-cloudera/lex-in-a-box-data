@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:59",
+  "End": "01:32:30",
+  "Text": "might be a fun question to ask to kind of explore idea of the expanding universe. So radius of the observable universe is 45.7 billion light years and the age of the universe is billion years. less than the radius of the universe. How's that possible?"
+}

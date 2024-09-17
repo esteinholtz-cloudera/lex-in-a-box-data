@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:59:32",
+  "End": "02:00:21",
+  "Text": "taught that secrets and lies are similar in that they have a limited shelf life. If you treat them like food and lies have a very limited shelf life. So if you cash in on them while they're still fresh, beat them before they spoil, you get to take the advantage, take advantage of them before they spoil. However, has no limit to its shelf life. So it's almost like you're trading a short term victory and losing a long term victory. It's always better to keep the secret. It's always better to let the lie live because it will eventually come to light from somebody else, not from you because it already has a limited shelf life. But what you win in exchange for not being the one that cashed in on the secret is immense trust."
+}

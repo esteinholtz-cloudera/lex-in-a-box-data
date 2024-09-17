@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:13",
+  "End": "01:26:59",
+  "Text": ", this is fascinating because you spend so much time in string theory, which is devoid from a connection to the physical world for a long time, like it not devoid, but it, it, it, it travels in a mathematical world that seems to be beautiful and consistent and seems to indicate that it could be, a good model of the laws of nature, but there's, it's still traveling independently because it's very difficult to experimentally verify. But there's a promise laden in it in the same way multiverse or you can have a lot of kind of very far out there, questions or your gut and instinct. And intuition says that maybe in 50 102 100 years, you'll be able to actually have strong experimental validation, right?"
+}

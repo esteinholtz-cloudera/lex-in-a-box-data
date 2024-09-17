@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:20",
+  "End": "01:10:25",
+  "Text": "to brainstorm with in these very difficult decision points"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:03:47",
+  "End": "02:05:27",
+  "Text": ", but I don't think so and but what I think already has happened and will continue to happen that the, you know, there, there are many different ways that theorists and can interact. The gold standard is the theorist makes a prediction, the observer it and confirms it or the observer uh makes a dis discovery and the theorist explains it. Um but there's a lot less than that, which is really kind of the bread and butter of those are dramatic moments when that happens, right? Those are once in a lifetime moments when that happens. But the bread and butter is more when and it al has already happened. came to us and said, what is the interesting theoretical things we can understand this swirl around the black hole and we give an answer and then that in turn jogged us to about the holographic principle and the context of M 87 a little bit differently. And so it's a useful and in the same vein, it's useful to talk to the philosophers and it's useful to talk to the uh mathematicians. And, you know, a lot of uh gotta, we just gotta, you know, we don't know where we're going. We just gotta like, everything."
+}

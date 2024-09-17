@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:09:44",
+  "End": "01:09:53",
+  "Text": "also in a way where they don't misinterpret the question because it's amazing how any question you think? Oh, this is the clearest question possible. No, you're wrong. It has to be even clearer,"
+}

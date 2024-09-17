@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "02:24:39",
+  "End": "02:25:45",
+  "Text": "? Well, the supernova is the one I mean, II I touch upon the subject earlier in my course, in fact, right about now in my lectures because I talk about how our sun right now is fusing hydrogen to form helium nuclei and later it'll form carbon and oxygen nuclei. But that's where the process will stop for our sun. It's not massive enough. Some stars can, that are more massive can go somewhat beyond that. that's the beginning of right, this idea of the birth of the heavy elements since they couldn't have been born at the time of the Big Bang conditions. Of temperature and pressure weren't sufficient to make any significant quantities of the elements. And so, so that's the beginning, but then you need some of these stars to explode, right? Because if those heavy elements remain forever trapped in the cores of stars, then they would not be available for the production of new stars, planets and ultimately life. So indeed, the supernova, my main area of interest plays a leading role in this whole story."
+}

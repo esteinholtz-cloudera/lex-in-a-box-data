@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:07",
+  "End": "01:46:09",
+  "Text": "your soul music or is it the"
+}

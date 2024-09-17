@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:17",
+  "End": "00:39:33",
+  "Text": "there different sources of heat to play with like a big flame versus a small or maybe even like almost no flame, like over coals, all that kind of stuff. Is there some to the source of heat in how it plays with the meat? Well,"
+}

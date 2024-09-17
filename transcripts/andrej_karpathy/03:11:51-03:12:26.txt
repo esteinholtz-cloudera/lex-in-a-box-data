@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:11:51",
+  "End": "03:12:26",
+  "Text": "thing about it because I've interacted with a bunch of internet communities is they don't know about each other. you can have a very happy existence. Just like having a very close knit community and not knowing about each other, you even sense this just having traveled to Ukraine. They don't know so many things about America. When you travel across the world, they think you experience this too. There are certain cultures that are like, they have their own thing going on. They don't. so you could see that happening more and more and more and more in the future. We have little communities. Yeah."
+}

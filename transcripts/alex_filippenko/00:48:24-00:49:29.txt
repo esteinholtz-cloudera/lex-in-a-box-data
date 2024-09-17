@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:24",
+  "End": "00:49:29",
+  "Text": "to you. It is exciting to me as well because that to me from a purely an engineering perspective, it's I believe it's impossible to create like whatever systems we create that take over the world. impossible for me to imagine that those systems will not carry some aspect of what makes humans beautiful. So a lot of people have these kind of paper clip ideas that we'll build machines that are cold inside or philosophers call them zombies that naturally the systems that will outcompete us on this earth will be cold and conscious, not capable of all the human emotions and empathy and compassion and love and hate, the beautiful mix of what makes us human. But to me, intelligence requires all of that. in order to outcompete humans, you better be good at the full"
+}

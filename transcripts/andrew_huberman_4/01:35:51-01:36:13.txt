@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:51",
+  "End": "01:36:13",
+  "Text": "a pause on that one thing do. I think by way of advice is listen to people who are in long term successful relationships. That's like uh, it seems dumb but, like, like we both know and are friends with Joe Rogan who's been in a long term, really great relationship and he's been an inspiration to me. So you take advice from"
+}

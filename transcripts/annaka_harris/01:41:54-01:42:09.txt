@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:41:54",
+  "End": "01:42:09",
+  "Text": ", absolutely. Yeah, because free will. I mean, think part of what the function of the experience of it is is learning, um I mean, I think we can still learn without being under the illusion that we, that we have free will. So for"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:23",
+  "End": "03:03:35",
+  "Text": "think we didn't talk about this. But how did you, how did you begin to overcome the the trauma of your childhood you mentioned LSD. So drugs, a part of it, like what was the just the mental journey of that?"
+}

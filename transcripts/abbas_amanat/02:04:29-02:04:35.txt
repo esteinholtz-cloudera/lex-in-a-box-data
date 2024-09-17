@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:29",
+  "End": "02:04:35",
+  "Text": "know, in the 20th century appearance is helpful pictures for propaganda, for messaging."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:03",
+  "End": "01:50:15",
+  "Text": ", and I didn't have, I have a very addictive personality. So I'm very nervous about substances, but I didn't have any addictive relationship with that thing. Every time it is"
+}

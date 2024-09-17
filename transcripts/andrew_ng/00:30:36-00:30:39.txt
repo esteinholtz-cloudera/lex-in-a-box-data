@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:36",
+  "End": "00:30:39",
+  "Text": "love the idea that you were versioning through email."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:45:05",
+  "End": "00:45:28",
+  "Text": "years.. And uh the other thing I should say is, you know, it could be just a uh an outer layer of something else like, you know, something that was ripped apart like a surface of an instrument that was and, and you can have lots of these pieces, you know, if something breaks lots of these pieces spread out like space junk and you know"
+}

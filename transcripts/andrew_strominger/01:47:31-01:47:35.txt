@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:47:31",
+  "End": "01:47:35",
+  "Text": "think ultimately, it has to be emergent."
+}

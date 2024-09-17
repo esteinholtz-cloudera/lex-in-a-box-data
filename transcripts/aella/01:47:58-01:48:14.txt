@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:58",
+  "End": "01:48:14",
+  "Text": "assumed I haven't done it before. Yeah. Well, you know, uh recreation, I would like to do professionally, I suppose. So, if I wanted to do it, if I wanted to do it, if I really wanted to step up my game, how would I do it?"
+}

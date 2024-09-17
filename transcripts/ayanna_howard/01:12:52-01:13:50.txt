@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:12:52",
+  "End": "01:13:50",
+  "Text": "think personalization is really important. But um a caveat is that think we'd be OK if we can personalize to the group, right? And so um if I can label you as along some certain dimensions, then even though it may not be you specifically, I can put you in this group. So the sample size, this is how they best learn, this is how they best engage. at that level, it's really important. And it's because I mean, it's one of the reasons why educating in large classrooms is so hard, right? You teach to the median, but there's these individuals that are struggling and then you have highly intelligent individuals and those are the ones that are usually, you know, kind of left out. So highly intelligent individuals may be disruptive and those who are struggling might be disruptive because they're bored."
+}

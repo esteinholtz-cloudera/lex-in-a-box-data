@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:13:22",
+  "End": "00:13:59",
+  "Text": "certainly there had to have been a time in which humans being awake and active at night as opposed to during the day,, led to high level, higher levels of lethality and probably particular in kids. You imagine kids running around in the dark and getting that where there are a lot of animals that can see really well under those conditions and humans can't. And this would be all pre electricity, even if you're carrying a torch. I mean, the range of illumination on a torch is nothing compared to what, um, a, a nighttime predator like a large cat or something can, can do that. I mean, they basically, they can see everything they need to in order to eat us and not the other way around."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:17",
+  "End": "02:51:21",
+  "Text": "but that's for better. That's for extending endurance. That's"
+}

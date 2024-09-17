@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:33:05",
+  "End": "01:34:09",
+  "Text": "if you're very, very sleep deprived? But because you're going to be at high muscular output that's going to bias you towards more slow wave sleep overall. And your body and brain are smart, they, it will know they will know that your main goal is to recover you can keep going so you can keep firing neuromuscular contractions and you can keep running so that you can, I mean, it's amazing to think like, why do we ever stop the unlike weight training where I can't do a \u00a3500 deadlift? I just can't I could train for it but I certainly can't do a \u00a3600 dead. I can't do that. W what causes us to stop an endurance event is usually not a physical barrier. It's almost always a purely mental barrier. that's a very interesting problem. I mean, neuroscientists don't tend to think about those sorts of problems because it sounds so non neuroscientific. But that's fundamentally related to the question of, you know, what is pursuit? Why, what is the desire to push and to and to carry on? Is there"
+}

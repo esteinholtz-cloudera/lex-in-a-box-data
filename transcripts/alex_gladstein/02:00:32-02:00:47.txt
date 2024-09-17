@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:00:32",
+  "End": "02:00:47",
+  "Text": ", let me just say on one unrelated comment. people criticize me and others like Joe Rogan for giving people a platform. think in some cases"
+}

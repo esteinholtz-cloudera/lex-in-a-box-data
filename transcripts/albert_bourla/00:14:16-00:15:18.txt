@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:14:16",
+  "End": "00:15:18",
+  "Text": ", I think about it all the time and I know very well that if you focus too much on making money, you will never make, you should focus in what is the real driver and the real value driver. It is to make breakthroughs that change patients lives. If you don't do that, you will never make money. If you do that, don't worry, things will fall into place and also money will follow. But the mentality of the company is to be hard to help the patient. And that's what management was that the shareholders want because that's the only way that we can create value in this particular case. We're not thinking at all about what are we going to make when we sell it or if not sell it? Because what we were focusing 100% was how to bring a solution to the world that will help all of us the way the fear that was bring hope to the world. And uh as always when you do that, you will have good returns as well."
+}

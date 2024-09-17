@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "02:50:12",
+  "End": "02:50:20",
+  "Text": ". Not a waste at all. And thank you for having me. I learned a lot from your questions and your remarks. Thank you. Thank you."
+}

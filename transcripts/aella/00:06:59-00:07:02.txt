@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:06:59",
+  "End": "00:07:02",
+  "Text": "? Yeah, like annihilating the mystery like that"
+}

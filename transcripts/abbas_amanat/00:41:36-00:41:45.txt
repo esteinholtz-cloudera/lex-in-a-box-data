@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:36",
+  "End": "00:41:45",
+  "Text": "it sounds like there's a that's quickly increasing. So because, because of the movement, because of the growth of the education system, that's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:30:07",
+  "End": "02:30:20",
+  "Text": "the Copilot integration? I was actually uh I got to talk a bunch with Guido Ross, who was a creative Python and he loves copilot. He like he programs a lot with it. Uh Do you?"
+}

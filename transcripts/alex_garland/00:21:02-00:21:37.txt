@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:21:02",
+  "End": "00:21:37",
+  "Text": ", there is, but there's a counterpoint as well, which is that most parents would wish for a better life for their Children. So there may be a regret about some things about the past, but broadly speaking, what people really want is that things will be better for the future generations, not worse And so, then it's a question about what constitutes a future generation. A future generation could involve people. It also could involve machines and it could involve a sort of cross pollinated version of the two or any. But none of those things make me feel anxious."
+}

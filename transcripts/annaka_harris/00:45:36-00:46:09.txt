@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:36",
+  "End": "00:46:09",
+  "Text": "that? Just a side tangent? How do you prevent when you're imagining yourself to be a P tendril? How do you prevent from going crazy? I mean, this is kind of the Nietzsche question of like, you have to be very careful thinking outside the norms of society you might fall off like you're so connected as a human to the collective intelligence that in order to question intuitions, you have to step aside, step outside of it for a brief moment. How do you prevent yourself from going crazy?"
+}

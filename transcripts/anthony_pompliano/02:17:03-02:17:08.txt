@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:17:03",
+  "End": "02:17:08",
+  "Text": ", we we would like to do all of this without a public health crisis."
+}

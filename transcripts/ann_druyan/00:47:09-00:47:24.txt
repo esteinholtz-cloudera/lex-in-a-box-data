@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:47:09",
+  "End": "00:47:24",
+  "Text": ". I mean, when it came down, I have to say that when it came down to the vision of what the series would be, that was me sitting in my home looking out the window and, you know, really imagining like what I wanted"
+}

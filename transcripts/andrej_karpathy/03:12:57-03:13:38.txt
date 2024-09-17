@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:12:57",
+  "End": "03:13:38",
+  "Text": ", I think, well, currently the virtual reality is not that compelling. I do think it can improve a lot, but I don't really know to what extent maybe, you know, there's actually like even more exotic things you can think about with like neuralink or stuff like that. So, currently I kind of see myself as mostly a team human person. I love nature. I love harmony. I love people, I love humanity. I love emotions of humanity. Um And I, I just want to be like in this like solar punk little utopia, that's my happy place. My happy place is like people I love thinking about cool problems surrounded by a lush, beautiful dynamic nature secretly high tech in places that count"
+}

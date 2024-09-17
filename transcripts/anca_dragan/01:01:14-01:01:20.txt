@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:14",
+  "End": "01:01:20",
+  "Text": "like the last few seconds or the last few minutes or the last few months, who knows"
+}

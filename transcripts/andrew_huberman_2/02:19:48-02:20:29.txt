@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:19:48",
+  "End": "02:20:29",
+  "Text": "bet you people trigger blinks and in one another, you know, and there's also like the the simplest way to think about the blinks and the attentional thing and the alertness is to fighters in the, in the standoff. There's this whole Laura around who blinks first. It's like they blink first. Well, what are, what are we really asking? They're asking whether or not one person can maintain focus than the other person, which an important parameter. It's not the only parameter, but it's an important parameter. And so that blinking contest, even though they don't square off as a blinking contest, it's well known that the first to blink is revealing something about their capacity to hold attention."
+}

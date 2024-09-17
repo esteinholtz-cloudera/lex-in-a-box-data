@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:47:54",
+  "End": "03:48:35",
+  "Text": "a little scary. Yeah, it's terrifying. I mean, because like everything is just like information ultimately like the atoms that we have, like we are biological machines built out of like tiny code. Like our DNA is just information. not hard if you have access. If you have a brilliant brain, that's great processing information. You have complete control over reality, you have control over the atoms ready. All you need is like a tiny little atomic printer and we have those cells, right? And then this is if the limitation is information, there is no boundary between the technology and the real world, are creating something that it has a massive ability to affect the real world."
+}

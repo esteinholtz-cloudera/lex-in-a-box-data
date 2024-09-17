@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:07:27",
+  "End": "00:08:04",
+  "Text": "like all of them. But I was like, what if I say something really dumb or like you asked me a question and I answer it in a way that makes me sound like a lot less capable than I am. I'm like, really afraid of being perceived as stupid or something. I was also thinking about this on the way over. Like I'm kind of risk averse in some ways. Like, I don't like driving fast in cars because I was driving very carefully here because the roads are bad. I think that I'm very like, pro risk in other ways, like being really exposed to like a wide variety of people who might hate you. And I think like from the outside that might look fine. But I think the monkey brain is really sensitive to lots of people yelling at you for whatever problems that you seem to"
+}

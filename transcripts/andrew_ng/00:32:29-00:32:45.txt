@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:29",
+  "End": "00:32:45",
+  "Text": ". So then you invest more effort and time in thinking about the actual labeling process. What are the labels, what are, how disagreements resolved and all those kinds of like pragmatic real World problems? That's a fascinating space."
+}

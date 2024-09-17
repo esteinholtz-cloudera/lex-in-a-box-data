@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:55",
+  "End": "01:31:16",
+  "Text": "another coincidence. yes, yes, you could say the oil was one of the catalysts for absolute power. But the 20th century saw quite a few countries have dictators with power, unlike anything else in human history. That's"
+}

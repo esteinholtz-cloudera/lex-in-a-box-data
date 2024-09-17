@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:42:37",
+  "End": "03:42:45",
+  "Text": ". I don't know what it means. Like, be human. I'm, I'm pretty on the, the transhumanist side of things. I'm, like, happy to stop being human."
+}

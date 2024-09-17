@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:22",
+  "End": "01:46:27",
+  "Text": "what society wants, but you just personally just on your own. You're happy that you. And"
+}

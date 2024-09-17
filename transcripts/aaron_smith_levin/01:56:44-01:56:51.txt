@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:56:44",
+  "End": "01:56:51",
+  "Text": ", you can't do drugs., and you can't take any psychotropic medications"
+}

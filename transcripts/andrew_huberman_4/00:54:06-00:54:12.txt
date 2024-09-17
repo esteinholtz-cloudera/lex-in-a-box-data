@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:06",
+  "End": "00:54:12",
+  "Text": "finding the Shakespearean drama less appealing or finding the joy in the piece."
+}

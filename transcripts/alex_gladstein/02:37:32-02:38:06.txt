@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:37:32",
+  "End": "02:38:06",
+  "Text": "laziness and ignorance. So I would be lazy if I didn't take advantage of the internet, right? Someone in North Korea doesn't have the option of the, there's literally no way for them to access the internet. there's kind of like um social laziness that philosophers have warned about forever that we basically become sheep. OK? And then there's actual like brainwashing and censorship that's possible, like by closing off your population and keeping them off like the internet, right? Um So I think these are two very different concepts. Absolutely."
+}

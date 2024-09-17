@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:53:40",
+  "End": "02:54:03",
+  "Text": "A G? It's going to be a slow, I think it's going to be a slow incremental transition is going to be product based and focused is going to be get top copilot, getting better. And then uh GP T is helping you write and then these oracles that you can go to with mathematical problems. I think we're on a on the verge of being able to ask very complex questions in chemistry, physics, math of these oracles and have them complete solutions."
+}

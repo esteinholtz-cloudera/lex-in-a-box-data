@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:53",
+  "End": "00:16:01",
+  "Text": "is technically a birthday podcast. What do you love most about getting older?"
+}

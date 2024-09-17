@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:52",
+  "End": "01:15:03",
+  "Text": ", you're kind of referring to unintended consequences or just in general, any kind of sub optimal behavior that emerges outside of the things you said out of distribution,"
+}

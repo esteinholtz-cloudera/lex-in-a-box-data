@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:21:03",
+  "End": "02:21:19",
+  "Text": "course, the timing, the timing mattered there. Um I, yeah, uh OK. I mean, you could try to make a case for."
+}

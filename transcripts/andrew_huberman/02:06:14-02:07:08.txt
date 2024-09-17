@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:14",
+  "End": "02:07:08",
+  "Text": "to me, same as with Elon that a guy like David Goggins can find love. that, that you find a thing that works, which gives me hope that like whatever, whatever flavor of crazy I am, can always find another thing that works with that. But I've had maybe Trey Goggin stories from a neuroscience perspective. Me from a self inflicted pain perspective. I somehow found myself in communication with David some challenges that was undergoing. Um of which is we were communicating every single day, email phone about the particular 30 day challenge. I did that stretched for a longer of push ups and pull ups."
+}

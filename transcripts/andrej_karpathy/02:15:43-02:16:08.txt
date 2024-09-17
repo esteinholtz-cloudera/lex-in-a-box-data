@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:15:43",
+  "End": "02:16:08",
+  "Text": ", I'm not super huge fan of, I think all these interfaces that look very different. Um I would want everything to be normalized into the same API. So for example, screen pixels very same API instead of having like different world environments that are very different physics and joint configurations and appearances and whatever. And you're having some kind of special tokens for different games that you can plug. I, I'd rather just generalize everything to a single interface. So it looks the same to the neuron if that makes sense."
+}

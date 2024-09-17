@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:12:40",
+  "End": "03:12:57",
+  "Text": "much time in the metaverse in the virtual reality or which community are you, are you the physical, uh the, the, the physical reality enjoyer or uh do you see drawing a lot of uh pleasure and fulfillment in the digital world?"
+}

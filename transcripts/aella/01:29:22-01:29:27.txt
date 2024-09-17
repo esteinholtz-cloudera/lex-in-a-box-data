@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:29:22",
+  "End": "01:29:27",
+  "Text": "true. It's not live, like, it might as well be like they could be watching."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:29:17",
+  "End": "02:29:31",
+  "Text": "would use? Uh I think a good way is you just run VS code. Um My favorite editor right now on your Mac, but you are actually you have a remote folder through SSH. Um So the actual files that you're manipulating are on the cluster somewhere else. So"
+}

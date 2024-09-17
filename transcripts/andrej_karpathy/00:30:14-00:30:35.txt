@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:14",
+  "End": "00:30:35",
+  "Text": "going to start emitting all kinds of interesting things. And then, so explosion doesn't, it might actually look like a little explosion with lights and fire and energy emitted all that kind of stuff. But when you look inside the details of the explosion, there's actual complexity where there's like, yeah, human life or some kind of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:39",
+  "End": "02:13:09",
+  "Text": ", my private collection. No, the reason I did it and I did the really rigorous processing of it, which is like the I extracted all of the faces. I did the really good blink, the pupil tracking and the blink detection for the entirety. I should say it's from episode like forget what it is, but it's like episode 900 when they switched to 1080 P video, but it was much crappier video. It's"
+}

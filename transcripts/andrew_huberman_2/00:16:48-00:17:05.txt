@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:48",
+  "End": "00:17:05",
+  "Text": "there an optimal temperature for sleep that I should mention? I think your latest episode and people should go check out Helix sleep.com/h to support Andrew. Thanks for"
+}

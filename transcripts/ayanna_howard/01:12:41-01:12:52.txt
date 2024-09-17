@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:41",
+  "End": "01:12:52",
+  "Text": "important do you think personalization is in human robot interaction and not just a mechanic or student but like literally to the individual human being."
+}

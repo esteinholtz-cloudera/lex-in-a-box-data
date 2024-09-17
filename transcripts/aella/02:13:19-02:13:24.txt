@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:13:19",
+  "End": "02:13:24",
+  "Text": ", I mean, like at, in tiny ways like micro gloves,"
+}

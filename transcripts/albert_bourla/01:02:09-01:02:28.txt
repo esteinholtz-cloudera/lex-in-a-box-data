@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:09",
+  "End": "01:02:28",
+  "Text": "age range is 5 to 16. a lot of parents that um fear for the well being of their Children. Can you empathize with those parents? Can you still man their arguments against the vaccine of their"
+}

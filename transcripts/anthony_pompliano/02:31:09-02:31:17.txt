@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:31:09",
+  "End": "02:31:17",
+  "Text": "most people are weird. masses are weird. So he's speaking to the masses and the techno king."
+}

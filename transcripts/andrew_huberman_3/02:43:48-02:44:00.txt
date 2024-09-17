@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:43:48",
+  "End": "02:44:00",
+  "Text": ", well, anything you're asking them for all of us. So please ask them. Um I think that question, what is money is crucial? And I think the simple questions are the most, obviously the most interesting"
+}

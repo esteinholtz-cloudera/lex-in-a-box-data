@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:33:44",
+  "End": "03:34:41",
+  "Text": ", to the record after he drinks one whiskey, all that goes out. I think that was just in that moment in time,, you know, a moment because I think he still is. You know, he's definitely one of the things that inspires me by Joe is how open minded he is, how curious he is, he refuses to let sort of the conformity and the conventions of any one community including the scientific, community, be a kind of thing that limits his curiosity of asking what if the whole, it's entirely possible. I think that's a beautiful thing and it actually represents what the best of science is that childlike curiosity. But so it's good to balance those two things, but then you have to wake up to it. Like, is this, is there a chance this is true or do I just really want it to be true? And that,"
+}

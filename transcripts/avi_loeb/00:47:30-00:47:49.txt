@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:30",
+  "End": "00:47:49",
+  "Text": ", I'm the opposite. I feel like I hope it's a water bottle because least we have a hope with our current set of skills to understand it. A caveman has no way of understanding the smartphone. It's, it will be like, I feel like a caveman has more to learn from the plastic water bottle than they do from the smartphone. But"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:16:33",
+  "End": "00:16:38",
+  "Text": "were lots of things fascinating to me about that, relationship. So first, what's the good"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:19",
+  "End": "01:10:42",
+  "Text": ". And you're saying it's possible to separate. But I would venture to say that wouldn't, that those are coupled. So I could imagine a civilization that lives on for billions of years that just stays on. It figures out the minimal effort, way of just peacefully existing. It's like a monastery and it"
+}

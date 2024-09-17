@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:21:45",
+  "End": "00:22:12",
+  "Text": "you argue in the opposite direction? Like let's say, assume that we're Christians here and we're like the atheists, you know, everybody has terror of hell and the atheists invent this mythology where, you know, actually evolution is true in order to escape their terror of hell. that doesn't feel like a persuasive argument to me. But I used to be very, very Christian and I did not have a terror of death. And then I lost my faith and then I had a deep terror of death set in for a few years and it felt very different to me."
+}

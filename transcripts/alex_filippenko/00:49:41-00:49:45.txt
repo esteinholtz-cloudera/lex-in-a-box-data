@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:41",
+  "End": "00:49:45",
+  "Text": "might look very different than us. Humans. have some of the magic"
+}

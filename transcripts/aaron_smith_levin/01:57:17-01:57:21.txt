@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:17",
+  "End": "01:57:21",
+  "Text": "question? What about sex? Is there boundaries on what's"
+}

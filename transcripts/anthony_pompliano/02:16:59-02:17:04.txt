@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:59",
+  "End": "02:17:04",
+  "Text": "hopefully without a coupling to the ne to another pandemic."
+}

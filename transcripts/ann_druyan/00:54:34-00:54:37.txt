@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:54:34",
+  "End": "00:54:37",
+  "Text": "s is an evil potentially. Well,"
+}

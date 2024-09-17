@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "01:48:15",
+  "End": "01:49:10",
+  "Text": "once you get Bitcoin on any of these venues, uh you can leave it there on that venue now. The trade off is you're taking counter party risk. So somebody else is responsible for the security and the protection of it. In many cases, big well known companies who have billions and billions of dollars of assets, they have higher levels of security. That's why they're well known. That's why people trust them, whatever, but you are taking counter party risk, is easier to quickly send to somebody. So the, so the trade off of like ease of use, uh, but counter party risk is big. And in the Bitcoin community specifically, there's a huge thing of, uh, they really, really advocate for not leaving the Bitcoin there, right? For the, the obvious counter priority. second thing you can do is you can basically get it off of an exchange and you can put it in some level of kind of what I'll call a second layer of storage. That second layer of storage could be a hardware device that you can quickly just, you know, grab off your desk and plug into your computer and, and immediately"
+}

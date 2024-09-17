@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:28:54",
+  "End": "01:29:06",
+  "Text": ", Steve Steve jobs wouldn't have um his job and uh acting the way he did in his twenties and thirties in today's climate, but he probably would have updated his uh his protocols."
+}

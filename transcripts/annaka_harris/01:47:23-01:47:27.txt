@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:23",
+  "End": "01:47:27",
+  "Text": ", the effect stays for prolonged periods of time."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:07:35",
+  "End": "01:07:40",
+  "Text": ". The space time is the hologram, the"
+}

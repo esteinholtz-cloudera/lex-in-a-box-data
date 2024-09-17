@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:02:43",
+  "End": "01:03:16",
+  "Text": "that era? mean, there's great sci fi right about people being born on Mars and because it's a lower gravity environment, they're taller, they're more gangly if they were actually able to develop there and then they come back to earth and they're like second class citizens because they can't function here in the same way because the gravity is too strong for them. You see this in series like the expanse with the belters and these, you know, different societies that uh if we were to succeed in having human societies grow up in different pockets, necessarily going to be easy for them to always come back to earth as their home."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:05",
+  "End": "02:51:16",
+  "Text": "often behind the paywall. Yeah, it's uh it goes against the, mean, I think you not publishing a journal is doing a big public service."
+}

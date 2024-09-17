@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:43:59",
+  "End": "00:44:26",
+  "Text": "I'd like to talk to you about that particular sort of the dangers of ourselves in a little bit, but sort of to linger on cosmos, for the 1st 1980 the 2014 follow up, what's a or one of the, or several memorable moments from the creation of either of those seasons?"
+}

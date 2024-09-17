@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:50",
+  "End": "02:20:23",
+  "Text": "love you too. for listening to this conversation with Andrew Huberman to support this podcast. Please check out our sponsors in the description and now let me leave you with some words from Albert Camus. In the midst of winter, I found there was within me, an invincible summer and that makes me happy for. It says that no matter how hard the world pushes against me, within me, there's something stronger, something better, pushing right back. you for listening and hope to see you next time."
+}

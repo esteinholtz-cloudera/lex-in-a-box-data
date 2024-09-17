@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:23:45",
+  "End": "01:23:52",
+  "Text": "is there? Scientologists believe that these things do exist. Hubbard didn't leave anything behind. Does"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:38",
+  "End": "01:47:48",
+  "Text": ", it's incredible. I mean, of course, it's also incredible for people who don't suffer to see what psychedelic can do with the mind, which is that kind of appreciation. Well, and"
+}

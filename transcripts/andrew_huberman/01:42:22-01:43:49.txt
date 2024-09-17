@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:42:22",
+  "End": "01:43:49",
+  "Text": "you familiar with the work of Donald Hoffman? he's uh uh so he makes an evolutionary argument that's not important of that., our brains completely detached from reality in the sense that he makes a radical case that we have no idea what physical reality is and in fact is drastically different than what we think it is. So he goes, that's scary. So he doesn't say like there's just because you're kind of implying there's a gap there might be a gap, we're constructing an illusion and then maybe using communication to maybe create a consistency that's sufficient for our human collaboration or whatever or mammal, you know, maybe even just life forms are constructing a consistent reality that's may be detached. I mean, that's really cool that neurons are constructing that like that. You can prove this is what neuroscience at his best vision science. But he says that our brain is actually lost its shit on the, on the, on the path of evolution to where we're no, we're just playing games with each other in constructing realities that allow our survival. But it's, it's completely detached from physical reality. We're"
+}

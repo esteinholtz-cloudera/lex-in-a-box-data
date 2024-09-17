@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:32",
+  "End": "00:48:58",
+  "Text": "do think that if you establish yourself as a person who can be trusted and is a good human being, you have a lot more freedom then explore ideas that are different from your peer group. So like those, those seem like if you separate the space of ideas versus some kind of like deeper sense of what this person is that, that they're an interesting and trustworthy and good human being."
+}

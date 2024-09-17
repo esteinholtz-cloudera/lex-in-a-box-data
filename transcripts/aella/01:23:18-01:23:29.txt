@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:23:18",
+  "End": "01:23:29",
+  "Text": "mean, maybe just, I don't know, like I remember when I was a kid, my mom would call me Polly Anna all the time. So I was like finding the good and everything. I like something I was really"
+}

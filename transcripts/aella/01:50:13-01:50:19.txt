@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:13",
+  "End": "01:50:19",
+  "Text": "finding people? I guess it's also like finding the right kind of customer or the right kind of client."
+}

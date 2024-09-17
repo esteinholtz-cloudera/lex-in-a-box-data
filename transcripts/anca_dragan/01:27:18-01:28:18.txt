@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:27:18",
+  "End": "01:28:18",
+  "Text": "I was in. It's kind of a personal story when I was in 12th grade, got my hands on a PDF copy in Romania of Russell Norvig A I modern approach. I didn't know anything about A I. At that point, I was uno I had watched the movie The Matrix was my exposure., and so I started going through this thing, you know, you were asking in the beginning, what are, what are, you know, it's math and its algorithms, what's interesting. It was so captivating this notion that you could just have a goal and figure out your way through a kind of a messy, complicated situation. So what sequence of decisions you should make to autonomously, to achieve that goal? That was so cool. I'm biased, but that's a cool book., you"
+}

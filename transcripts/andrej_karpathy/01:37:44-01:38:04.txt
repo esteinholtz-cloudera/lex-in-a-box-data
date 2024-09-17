@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:44",
+  "End": "01:38:04",
+  "Text": "what do you think about the idea that that the other companies forming high resolution maps and constraining heavily the geographic regions in which they operate is that approach not in your, in your view, Not going to scale over time to the entirety of the United"
+}

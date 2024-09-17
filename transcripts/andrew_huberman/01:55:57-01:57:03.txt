@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:57",
+  "End": "01:57:03",
+  "Text": ". I I like the analogy of the 3 m target and the 100 m target. So the folks at neuralink are basically many of them are some of the best people in the world at the 3 m target like that. You mentioned that neurosurgery like solving real problems. There's no BS philosophical smokes of weed and look at the stars. But so both on Elon and because I think like this, I think it's really important to think about 100 m and the 100 m is not even, not even 100 m, but like, the stuff behind the hill that's, that's, that's too, too far away, which is, which is where I put consciousness. Um tend to believe that consciousness can be engineered. think part of the reason, of the, the the business I want to build leverages that idea that consciousness is a lot simpler that we've than we've been talking about. Well, if,"
+}

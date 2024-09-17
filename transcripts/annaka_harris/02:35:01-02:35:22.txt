@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:35:01",
+  "End": "02:35:22",
+  "Text": "um Well, I just started working without a clear, clear image of the end results, although it started with an idea for a film. Um I don't know, I guess I have a feeling I was wondering if I talked about this with you before anywhere, but probably not. Yeah, because you and I have never spoken."
+}

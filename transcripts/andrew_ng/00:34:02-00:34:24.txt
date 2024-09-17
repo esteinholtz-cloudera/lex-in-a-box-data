@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:02",
+  "End": "00:34:24",
+  "Text": "this day. It's probably one of the courses of if I ask somebody, how did you get into machine learning or how did you fall in love with machine learning or get you interested? always goes back to and rang. At some point, you've, the amount of people you've influenced is ridiculous. So for that, I'm sure I speak for a lot of people say big thank"
+}

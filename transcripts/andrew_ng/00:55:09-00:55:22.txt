@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:09",
+  "End": "00:55:22",
+  "Text": "don't know what the psychological effect there is, but so true. There's something fundamentally different about writing handwriting. I wonder what that is. I wonder if it is as simple as just the time it takes to write it slower."
+}

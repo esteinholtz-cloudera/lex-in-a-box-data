@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:59",
+  "End": "00:28:55",
+  "Text": ". Let me ask you just a small tangent on that topic. find myself arguing with people saying that greater scale, especially in the context of active learning. So very carefully selecting the data set, but growing the scale of the data set is going to lead to even further breakthroughs in deep learning. And there's currently push back at that idea that larger data sets are no longer. So you want to increase the efficiency of learning, you want to make better learning mechanisms. I personally believe that bigger data sets will still with the same learning methods we have now will result in better performance. What's your intuition at this time? On those on the this dual side is do we need to come up with better architectures for learning or can we just get bigger better data sets that will improve performance?"
+}

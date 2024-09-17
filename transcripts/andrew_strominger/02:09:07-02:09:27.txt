@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:07",
+  "End": "02:09:27",
+  "Text": "you remember the, the early days? Do you have, do you feel nostalgic when you think back to the ideas, the circumstances that led down that led you down this path towards black holes, towards theoretical physics, towards the tools of physics, towards this really fascinating world of theoretical physics."
+}

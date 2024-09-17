@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:46:56",
+  "End": "01:47:21",
+  "Text": "like a big, they've got multiple screens and they've got just, it's all information superiority. They have information superiority. You're the idiot looking away from them or looking sideways of them and trying not to move because you're afraid that if you like have gas or if you move a little bit, it's gonna vary you from your baseline and the whole time you're worried, your heart's racing and your blood pressure is increasing, which is a variance from baseline., yeah, I mean, it's, it's, it's an interesting art or your baseline,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:36",
+  "End": "00:07:43",
+  "Text": "doesn't include. Domestic is primarily looking outward outside the United"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:32:40",
+  "End": "00:32:58",
+  "Text": "? Yes. Yeah, I think so. Is that what physics is essentially, I think it's possible that physics has exploits and we should be trying to find them arranging some kind of a crazy quantum mechanical system that somehow gives you buffer overflow somehow gives you a rounding error in the floating point."
+}

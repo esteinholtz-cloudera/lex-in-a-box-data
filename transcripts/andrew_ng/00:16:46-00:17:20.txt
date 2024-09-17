@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:16:46",
+  "End": "00:17:20",
+  "Text": "think it depends on the concepts you want to explain. Uh for mathematical concepts. It's nice to build up the equation one piece at a time. And the white board marker or the pen stylist is a very easy way to build up the equation to build up a complex concept one piece at a time while you're talking about it. And sometimes that enhances understandable. Um The downside of writing is that it slow. And so if you want a long sentence, it's very hard to write that. So I think there are pros and cons and I use slides and sometimes I use a white board or"
+}

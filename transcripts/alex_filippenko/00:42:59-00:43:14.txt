@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "00:42:59",
+  "End": "00:43:14",
+  "Text": "are lots and lots of homes, possible homes. I mean, there, there's a planetary system around nearly every star you see in the sky. And one in five of those is thought to have a roughly earthlike planet. You know, that's"
+}

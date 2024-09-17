@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:12",
+  "End": "00:26:49",
+  "Text": "there's currently a distrust of big Pharma and the public. Maybe this is something I'd love to hear you comment on., there's distrust of science when it's tangled up with corporations and government institutions like we've talked about. you have, they have to be entangled to achieve scale oversight and to achieve the kind of scale that Pfizer has been able to accomplish. can Pfizer regain the public trust? How can you regain the public trust, do you think not regain but sort of take steps to increase the public trust"
+}

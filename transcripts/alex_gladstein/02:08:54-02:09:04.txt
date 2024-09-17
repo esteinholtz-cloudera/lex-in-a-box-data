@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:08:54",
+  "End": "02:09:04",
+  "Text": ". Yeah, because he, he was, it's part of his whole family story and he's in there, he's interviewing people personally. So I would say that one, is it"
+}

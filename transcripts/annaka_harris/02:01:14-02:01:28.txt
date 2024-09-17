@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:01:14",
+  "End": "02:01:28",
+  "Text": "in terms of psychic phenomena? And you're talking in terms of just absorbing the information of the past and education and kind of the collective human project that gets in throughout our lives."
+}

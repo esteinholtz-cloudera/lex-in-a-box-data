@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:11",
+  "End": "01:52:16",
+  "Text": ", actually go through the process of the steps. So you feel like you can, you can do it. Yeah. It's"
+}

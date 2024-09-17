@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:14",
+  "End": "01:30:23",
+  "Text": ", but it's still somehow. I mean, II I don't think that calling it an algorithm doesn't I"
+}

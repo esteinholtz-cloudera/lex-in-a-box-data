@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:25",
+  "End": "01:26:30",
+  "Text": "product market fit just just like, how do you think about it? Yeah."
+}

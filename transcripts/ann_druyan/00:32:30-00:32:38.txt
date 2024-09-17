@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:32:30",
+  "End": "00:32:38",
+  "Text": "no, of just all of the things, all skeins of causality."
+}

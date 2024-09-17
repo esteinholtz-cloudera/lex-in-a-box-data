@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:46",
+  "End": "00:48:31",
+  "Text": "pause there. I think, I agree with you and I think a lot of people that will here will agree with that, but need to sort of internalize that idea. So what's the problem there? Because we might not quite yet be done with that because a lot of people kind of focus on the perception problem. A lot of people kind of map autonomous driving into how close are we to solving, being able to detect all the drivable area, the objects in the scene? you see that as, um, how hard is that problem? your intuition there behind your statement was we might have not solved it yet, but we're close to solving basically the perception"
+}

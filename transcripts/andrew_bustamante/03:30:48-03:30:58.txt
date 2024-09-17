@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:30:48",
+  "End": "03:30:58",
+  "Text": ". So the, the, the fact is there's something I explained on the skies and then we're, we're filling in the gaps with all of our basic human biases and assumptions. Exactly. But the"
+}

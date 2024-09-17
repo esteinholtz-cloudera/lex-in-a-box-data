@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:27",
+  "End": "00:46:34",
+  "Text": "despite rumors and stuff like that. But the rumors are coming from people that are lying to you essentially."
+}

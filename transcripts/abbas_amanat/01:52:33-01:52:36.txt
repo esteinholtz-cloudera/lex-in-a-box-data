@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:33",
+  "End": "01:52:36",
+  "Text": "to separate uh religion and state,"
+}

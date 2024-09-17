@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:00:18",
+  "End": "03:00:24",
+  "Text": "you, do you think, do you like, literally meditate on your own mortality"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:35",
+  "End": "01:12:58",
+  "Text": "from upstairs. Get a nice overview. Let me ask the big ridiculous question you only have two minutes or less to answer it. is the meaning of life? What's the meaning of this whole thing? You said, ingenuity is the thing that gives you hope we seem to be all busy trying to help each other trying to build a better world. Why are we doing"
+}

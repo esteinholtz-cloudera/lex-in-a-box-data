@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:57",
+  "End": "01:18:05",
+  "Text": "? this the the beautiful hair you have no that that came to be in the CIA or"
+}

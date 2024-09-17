@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:04:25",
+  "End": "00:05:22",
+  "Text": ", was it the most magical robot you've ever met? So like for me to meeting Google self driving car for the first time was a transformative moment. I had two moments like that, that and Spot Mini. I don't know if you met Spot Minnie for Boston dynamics. felt like I felt like I fell in love or something like it because I thought like I know how a spot mini works, right? It's just, mean, there's nothing truly special. It's great engineering work. But the anthropomorphism that went on into my brain that came to life, it had a little arm and it, and it looked at me,, she looked at me, I don't know there's a magical connection there and it made me realize, wow, robots can be so much more than things that manipulate objects. They can be things that have a human connection. Do you have the self driving car at the moment? Like was there a robot that truly inspired you?"
+}

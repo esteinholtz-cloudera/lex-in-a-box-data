@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:52:19",
+  "End": "00:52:35",
+  "Text": "? Yes, I think that's probably the uh the final frontier for a lot of these models. Uh Because um so as you mentioned, when I was at open A I, I was working on this project world of bits. And basically, it was the idea of giving neural networks access to a keyboard and a mouse and the idea could"
+}

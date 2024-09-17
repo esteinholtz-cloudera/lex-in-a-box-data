@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:46",
+  "End": "01:25:36",
+  "Text": ", we have to be humble and uh and acknowledge that we're not that interesting. making me realize that because it's so taboo that the people that have the equipment meaning and we're not just talking, everybody has cameras now, but to have a large scale sensor network that collects data that regularly collects, just like we look at the weather, we're collecting information and then we can then x that information when there is reports and have it not be a taboo thing where there's millions or billions of dollars funding effort that by the way inspires millions of people. This is exactly what you're talking about it. Like the scientific community is afraid of a topic that inspires millions of people. It's absurd."
+}

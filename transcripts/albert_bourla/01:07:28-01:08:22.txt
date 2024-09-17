@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:28",
+  "End": "01:08:22",
+  "Text": "have to ask a controversial difficult question. What are your thoughts about Iver Metin? Has it sufficiently been studied? Has Faiza considered it in its like I said, incredible development of the Antal um as like as a comparator or that kind of thing, just investigate it in general. The reason I bring it up because I've read quite a few criticisms of people. There's been some comparisons of Palo to Ivermectin I think people should look up. There is Doctor John Campbell that describes that comparison and makes that claim and there's quite a lot of people that debunk or argue against that you can do your own research. But is a lot of people that kind of see this free drug without patents on it and say this could be the savior. So, can you just speak to that comparison? And it's"
+}

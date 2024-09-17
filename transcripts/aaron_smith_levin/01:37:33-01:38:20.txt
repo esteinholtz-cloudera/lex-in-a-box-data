@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:37:33",
+  "End": "01:38:20",
+  "Text": ". There's about 100 and 75 to 200 scientology organizations in the world. Anybody who's ever worked at these organizations know there's not more than 35 to 50 staff members per org. not more than 1 to 200 public scientologists per org. I broke down the number of cr members who'd be working at every Continental management unit, middle Management, international Management. I broke it down the mission network and I was generous. I mean, my numbers were like if L Ron Hubbard came back and they were doing an event. L Ron Hubbard was coming back and announcing ot nine and 10, how many scientologists could we scrape together in every city to come to this event? wasn't more than 35,000. Now contrast that to what Scientology says, millions, 10 million people. Is"
+}

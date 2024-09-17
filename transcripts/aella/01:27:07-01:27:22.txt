@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:07",
+  "End": "01:27:22",
+  "Text": "vanilla stuff? Talk about fetish,. I think my over to the window on what is vanilla is expanding quickly after following your work. But I actually"
+}

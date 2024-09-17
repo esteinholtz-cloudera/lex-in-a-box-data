@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:34",
+  "End": "00:12:49",
+  "Text": "so he still admires psychiatry at that time. So that's an interesting moment of Dyn. So what else you mentioned Dyn auditing was there too. So if we just before Scientology, what, what are the ideas that formed? What we know as Dyn"
+}

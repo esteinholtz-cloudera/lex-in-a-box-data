@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:44",
+  "End": "01:07:51",
+  "Text": "I could talk to. I'm scared of getting a dog because I would fall in love so deeply. I think that, uh,"
+}

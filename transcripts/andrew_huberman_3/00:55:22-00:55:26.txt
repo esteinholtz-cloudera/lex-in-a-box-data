@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:55:22",
+  "End": "00:55:26",
+  "Text": "not a narcissist. He's one of the more humble people, but he is brilliant."
+}

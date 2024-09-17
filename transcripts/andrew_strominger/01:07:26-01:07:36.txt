@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:26",
+  "End": "01:07:36",
+  "Text": "just to clarify the storage is on the plate is on the, on the holographic plate and then it projects somehow inside the the"
+}

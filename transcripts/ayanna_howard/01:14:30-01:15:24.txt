@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:14:30",
+  "End": "01:15:24",
+  "Text": "more hope for workforce development., and that's because I'm seeing investments, even if you look at VC investments in education, the majority of it has lately been going to workforce retraining, right? And so I think that government investments is increasing, there's like a claim and some of it is based on fear, right? Like A I is going to come and take over all these jobs. What are we going to do with all these non paying taxes that aren't coming to us by our citizens? Um And so I think I'm more hopeful for that. Um Not so hopeful for early education because it's this, still a who's going to pay for it and you won't see the results for like 16 to 18 years. It's hard for people to wrap their heads around that."
+}

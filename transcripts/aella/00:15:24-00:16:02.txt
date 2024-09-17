@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:24",
+  "End": "00:16:02",
+  "Text": "if I, if I had to dedicate 1000 years to understand one of these topics, which one would be the most fruitful, I guess is the direct thing I'm asking.. Well, fun to me. Everything is fun. But I feel like, yeah. Yeah, I mean, I'm with David Foster Wallace. The key to life is uh to make sure that everything is unbar or to be unbar or nothing is boring. Everything is fun. everything I could just literally sit. I honestly, because I, I don't think, I don't know where you got that glass, but that glass exists and I forgot it exists. And it was really fun to me to know that now I was"
+}

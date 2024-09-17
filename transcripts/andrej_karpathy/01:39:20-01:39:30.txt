@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:39:20",
+  "End": "01:39:30",
+  "Text": "think the most I've learned is about how to sort of run organizations efficiently and how to create efficient organizations and how to fight entropy in an organization. So"
+}

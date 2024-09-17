@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:11",
+  "End": "02:20:16",
+  "Text": ", he's one of the great CEO S because everybody loves him. Everybody loves him. Have"
+}

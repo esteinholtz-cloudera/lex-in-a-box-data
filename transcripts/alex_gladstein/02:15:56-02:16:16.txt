@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:15:56",
+  "End": "02:16:16",
+  "Text": "think, are you seriously concerned about this kind of thing where the ideas of sovereignty and that Bitcoin espouses would actually one day be tested? Do you have a legitimate concern because you said one day very well might. Do you think it might?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:10:56",
+  "End": "02:11:10",
+  "Text": "it feels right in the moment you can, the thing is it's very amorphous, right? It's like almost like creating a magical sensation. And I've been with some, I've seen some very good circular, really high skill circle and I feel like I'm on drugs when that happens, it's very rare to see."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:29:21",
+  "End": "00:30:10",
+  "Text": "uh the light curve, the the amount of light sunlight that was reflected from it was changing over eight hours by a factor of 10, that the area of this object, even though we can't resolve it, the area on the sky that reflects sunlight was bigger by a factor of 10 in some phases as it was tumbling around than in other phases. So even if you take a piece of paper that is razor thin, you know, it's, there is a very small likelihood that it's exactly edge on., and getting a factor of 10 change in the area that you see on the sky is huge. It's much more than any. It means that the object has an unusual geometry. Uh It's at least a factor of a few more than any of the comets or asteroids that we have seen before, the measure"
+}

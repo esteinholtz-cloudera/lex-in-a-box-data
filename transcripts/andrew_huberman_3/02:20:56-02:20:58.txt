@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:20:56",
+  "End": "02:20:58",
+  "Text": ". You still travel to do your podcast"
+}

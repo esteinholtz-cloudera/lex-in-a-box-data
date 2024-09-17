@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:08:12",
+  "End": "02:08:17",
+  "Text": "happening the emotional reaction to what's going on in the moment. Yeah. It's,"
+}

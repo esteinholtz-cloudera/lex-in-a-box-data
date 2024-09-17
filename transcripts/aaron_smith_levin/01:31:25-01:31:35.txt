@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:25",
+  "End": "01:31:35",
+  "Text": "that she because those, those family members, what would be a way for her to, recover, to, to flourish as a human being, to escape."
+}

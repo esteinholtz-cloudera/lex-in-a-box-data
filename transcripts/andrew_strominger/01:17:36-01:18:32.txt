@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:17:36",
+  "End": "01:18:32",
+  "Text": "and they're able to store information, they're able to store an arbitrary large amount of information. what we pointed out is so what these things really do, one way of thinking of them is they rush off to the edges of the universe spreading out all over the space is like saying they rush off to the energy edge of the universe. that includes if the interior of the black hole is not considered part of the universe that includes the edge of the black hole. we need to set up our description of physics so that all the things that are conserved still conserved in the way that we are describing them. And that will not be true. If we ignore these things, we have to keep careful track of these things. people had been sloppy about that. That and we learned how to be very precise and careful about it."
+}

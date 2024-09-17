@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:19",
+  "End": "00:13:20",
+  "Text": "it's hyperextend the knee, that direction it got knee barred pretty hard. So, in ways I don't understand, it kind of hurts to run. I don't understand what's happening behind there. I need to investigate this. basically the hamstring flex, like curling your leg hurts a little bit and that results in this weird, dull but sometimes extremely sharp pain in the back of the knee. So I'm working through this anyway. But walking doesn't hurt. So I've been playing around with walking recently, like, for two hours and thinking because I know a lot of, like, people throughout history have walked and thought and you have to, like, you know, play with things that have worked for others, not just to exercise, but to integrate this very light kind of prolonged exercise into a productive life. So they do all their thinking while they walk. It's like a meditative type of walking and it's really interesting. It really"
+}

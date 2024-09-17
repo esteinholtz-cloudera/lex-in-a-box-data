@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:34:24",
+  "End": "01:34:34",
+  "Text": "don't think people should be afraid. I think that the return on investment, the impact, positive impact will outweigh any of the potentially negative impacts."
+}

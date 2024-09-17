@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:01:52",
+  "End": "01:02:16",
+  "Text": ", Aaron's an abusive father and a horrible husband and the worst staff member we've ever had. And um, oh, I openly talk about it because I think the fact that Scientology even does things like that is fucking hilarious. And uh anything they try to do to me, I'm, I, I, the way I think about it is, know, you're just giving me an opportunity to turn the mirror back on you and show everyone how horrible you are. Does it stick?"
+}

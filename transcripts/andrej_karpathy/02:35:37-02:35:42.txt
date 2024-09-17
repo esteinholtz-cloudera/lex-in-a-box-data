@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:35:37",
+  "End": "02:35:42",
+  "Text": "can also imagine like, can you translate this to C++ and back to Python"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:38:37",
+  "End": "03:38:50",
+  "Text": "are not involved in your past. Yeah. So how do you feel about this conversation where you're asking me about my past? And I talked about my past a lot."
+}

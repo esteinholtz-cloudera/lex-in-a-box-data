@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:21",
+  "End": "01:01:41",
+  "Text": "you think sort of a significant engineering investment in terms of our efforts and money should be on large spaceships that perhaps are doing this kind of um self assembly, all these kinds of things and doing an orbit, maybe building a giant doughnut around the planet over time."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:29:32",
+  "End": "00:29:39",
+  "Text": ". But what are you measuring? I think there's just like a subtle difference. Like when you're asking the question is this other thing conscious?"
+}

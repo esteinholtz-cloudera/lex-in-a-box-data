@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:24:17",
+  "End": "00:24:19",
+  "Text": "that the existence of this"
+}

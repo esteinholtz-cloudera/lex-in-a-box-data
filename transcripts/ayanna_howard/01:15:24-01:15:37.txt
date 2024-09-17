@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:24",
+  "End": "01:15:37",
+  "Text": "on the retraining part, what are your thoughts? There's a candidate Andrew Yang running for president and saying that sort of a I automation robots, universal"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:19:22",
+  "End": "00:19:44",
+  "Text": "a lot of different um of suffering in the world and then you sort of put people living under authoritarian governments as more than all of them. I, I forget, I forget all the examples you provided. But sure, I mean, it's uh yeah, maybe you can mention if you remember the"
+}

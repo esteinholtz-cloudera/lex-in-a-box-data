@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:05:06",
+  "End": "02:05:28",
+  "Text": "net has been crushed. I mean, you know, the error rates are, we're getting like 90% accuracy in, in 1000 classification way uh prediction. And I've seen those images and it's like really high. That's really, that's really good. If I remember correctly, the top five error rate is now like 1% or something."
+}

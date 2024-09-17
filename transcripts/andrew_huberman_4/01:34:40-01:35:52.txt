@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:34:40",
+  "End": "01:35:52",
+  "Text": ", I've certainly made some mistakes. I've also made some good choices in this realm. Um, of all, we have to define what sort of relationship we're talking about. If, if one is looking for a life partner, you know, potentially somebody to establish family with, with or without kids with or without pets, right. Families can take different forms. Um, I mean, I certainly experienced being a family in a prior relationship where it was the two of us and our two dogs and then it was like, it was family, like we had our little family. Um, think on my experience and based on input from friends who themselves have very successful relationships. I, I must say I've got friends who, um, are in long term monogamous, happy, uh, relationships where there seems to be, um, a lot of love, a lot of laughter, a lot of challenge and a lot of growth and both people, it seems really want to be there and enjoy being there."
+}

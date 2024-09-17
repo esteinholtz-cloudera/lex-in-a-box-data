@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:56",
+  "End": "00:09:00",
+  "Text": "conscious will is an illusion and then we can try to free"
+}

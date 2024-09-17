@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:31",
+  "End": "02:05:45",
+  "Text": "he practices, I mean, there's a ritual to it. There's a every single day, like no exceptions, a practice aspect to the suffering that he goes through"
+}

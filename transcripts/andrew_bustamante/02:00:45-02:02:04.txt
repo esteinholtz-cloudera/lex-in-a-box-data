@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:00:45",
+  "End": "02:02:04",
+  "Text": ", you would not know if you were for sure. You've been on their radar. Absolutely. You've got a file, you've got a dossier somewhere. Why would I be on their radar? Because your was interesting. It's not that, it's not necessarily that you are interesting to someone as a foreign asset or an intelligence collection source, but your network is extremely interesting. Networks are important. Correct. If someone had access to, if someone was able to clone your phone time you cross a border, you go through some sort of security. If you've ever been pulled into secondary and separated from your bag. That's exactly when and how people clone computers, they clone phones. Uh, they make whatever photocopies of your, of your old school planner, whatever it might be., uh, but for sure you are an intelligence target. It just may be that you're not suitable to be in a person who reports foreign intelligence. We've got to understand that all people are potential sources of valuable information to the national security infrastructure of our host country and any country that we visit someone like you with your public footprint, with your notoriety, with your educational background, with your national identifications a viable and valuable target of information."
+}

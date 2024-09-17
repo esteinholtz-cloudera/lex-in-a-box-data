@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:19:14",
+  "End": "00:19:15",
+  "Text": "love to be wrong."
+}

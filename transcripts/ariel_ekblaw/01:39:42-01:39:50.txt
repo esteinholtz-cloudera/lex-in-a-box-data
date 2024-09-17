@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:39:42",
+  "End": "01:39:50",
+  "Text": "best hot take that people would just agree with me on is life in floating cities as opposed to life on the"
+}

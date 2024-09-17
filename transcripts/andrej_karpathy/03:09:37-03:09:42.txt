@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:37",
+  "End": "03:09:42",
+  "Text": "too. Uh Do you think we'll become a multi planetary species?"
+}

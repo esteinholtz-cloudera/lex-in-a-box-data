@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:18:19",
+  "End": "00:18:55",
+  "Text": ". Well, you want the brain and nervous system and the rest of the body needs to drop by about anywhere from 2 to 3 degrees in order to get into your deepest sleep and transition to sleep. That's really gonna help. You don't want to be cold that you're bothered and can't fall asleep. But that's why some people like it really cold in the room and under a warm blanket or with socks on for some people that can, that can be good because this temperature oscillation is such that as your temperature is dropping, correlates with the generally with the most sleepy phase of your circadian cycle. So cool is better for falling and staying asleep and sleeping"
+}

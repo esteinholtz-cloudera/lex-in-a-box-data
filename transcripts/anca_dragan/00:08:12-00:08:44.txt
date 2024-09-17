@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:08:12",
+  "End": "00:08:44",
+  "Text": "there the firefly there? I think there was the Lexus by the way, this was back then. But yeah, so good question. OK. My favorite fictional robot is we I love how amazingly expressive it is. I'm a person who thinks a little bit about expressive motion, the kinds of things you were saying with, you can do this and it's ahead and it's the manipulator and what does it all mean? I like to think about that stuff. I love Pixar. I love animation. I love, has"
+}

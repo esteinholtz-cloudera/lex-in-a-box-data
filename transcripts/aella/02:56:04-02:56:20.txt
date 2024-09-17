@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:56:04",
+  "End": "02:56:20",
+  "Text": "shit. This is great news. didn't know this. What does it reflect about modern society? Is that like, is that because, you know, there's these trends about like decreased masculinity or that is that, is that"
+}

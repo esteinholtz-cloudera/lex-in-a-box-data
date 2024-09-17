@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:37:24",
+  "End": "03:37:42",
+  "Text": "to work with people. I tend to general just human interaction. I tend to not talk about their past very much because it allows you to focus on like, I feel like the past is kind of like talking about the weather is a crutch for me personally, like, as opposed to exploring the ideas in their"
+}

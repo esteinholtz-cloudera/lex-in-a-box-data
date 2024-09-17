@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:51",
+  "End": "02:23:06",
+  "Text": "then again in the long arc of history, his work on archive will be remembered and all the prizes, most of the prizes will be forgotten. That's what people don't kind of think about when you look at Roger Penrose, for example, is another fascinating figure. know, it's possible and forgive me if I'm sure my ignorance. But he's also did some work on consciousness. He's been one of the only people who spoke about consciousness, which for the longest time and is still arguably outside of the realm of the sciences. It's still seen as a taboo subject. he was brave enough to explore it from a physics perspective, from just a philosophical perspective. But with the rigor proposing different kind of hypotheses of how consciousness might be able to emerge in the brain. And it's possible that that is the thing he's remembered for. If you look 100 years from now, right, as opposed to the work in the black holes, which fits into the kind of like the into what the current scientific community uh uh allows to be the space of what is and isn't science."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:29",
+  "End": "01:53:31",
+  "Text": ", I think Terminator Two was in the and"
+}

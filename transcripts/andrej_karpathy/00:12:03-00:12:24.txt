@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:12:03",
+  "End": "00:12:24",
+  "Text": "said evolution has found that it is very useful to, to predict and have a predictive model in the brain. And so I think our brain utilizes something that looks like that as a part of it, but it has a lot more, you know, gadgets and gizmos and uh value functions and nuclei, they are all trying to like make it survive and reproduce and everything"
+}

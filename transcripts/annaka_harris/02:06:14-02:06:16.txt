@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:14",
+  "End": "02:06:16",
+  "Text": "the conclusions you don't,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:01",
+  "End": "00:52:32",
+  "Text": ". And until we know for sure it's makes sense to be using liar. That's kind of the safety focus. But then the sort of the, also sympathize with the Elon Musk. Uh The statement of Lear is a crutch. It's, it's, it's uh a fun notion to think that the things that work today is a crutch for the invention of the things that will work tomorrow, right? They get, kind of true in the sense that, you know, we want to stick to the conference that you see this in academic and research settings all the time, the things that work force you to not explore outside, think outside the box. I mean, that happens all the time. The problem is in safety critical systems, you kind of want to stick with the things that work. So it's an interesting and difficult trade off in the case of real world sort of safety critical robotic systems. But your intuition is to clarify. I mean, how hard is this human element? Like how hard is driving when this human element is involved? Are we decades away from solving it? But perhaps actually the year isn't the thing I'm asking, it doesn't matter what the timeline is. But you think we're, how many breakthroughs are we're away from in solving the human robot interaction problem to get to get this right?"
+}

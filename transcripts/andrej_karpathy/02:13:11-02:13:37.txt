@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:13:11",
+  "End": "02:13:37",
+  "Text": "think it's just like the hardware for long term memory is just not fully developed. I kind of feel like the first few years of uh of infants is not actually like learning, it's brain maturing. Um We're born premature. Um There's a theory along those lines because of the birth canal and the swelling of the brain. And so we're born premature and then the first few years we're just that the brain is maturing. Uh And then there's some learning eventually. Um It's my current view on it. What"
+}

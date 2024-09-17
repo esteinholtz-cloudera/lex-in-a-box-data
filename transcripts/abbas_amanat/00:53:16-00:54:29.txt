@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:53:16",
+  "End": "00:54:29",
+  "Text": ". Actually, you would be surprised to see what percentage of the Iranian youth, least in big cities are fascinated with learning language and for a reason because they think that's the way to get access either on social media or eventually leave it on unfortunately. And, and because they don't see a future for themselves in the country, either you have to be part of this part of this regime if you hate them and you don't like the way of their life. You look up outside, you know, I was having uh drivers to drive me around the country in the cities around Iran and the guy was a young, extremely well educated, well dressed and we would have looked at him, we could have found him in any street in any country in the western world. And his major concern knowing that I'm from outside. car is tell me, which would be a better place for me to go. What's wrong with the place that you're in right now? You are in your own country. You speak your own language. No, this is no good. have to have a better future. This has no future for me."
+}

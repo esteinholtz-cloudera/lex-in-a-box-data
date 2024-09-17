@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:26:35",
+  "End": "02:27:16",
+  "Text": "mean, I will say Tesla is all too much, uh, bad rep for this because what's happening is Tesla is a, it's a bursty environment. Uh, so I would say the baseline, uh, my only point of reference is Google a lot where I've interned three times and I saw what it's like inside Google and, and deep mind., I would say the baseline is higher than that, but then there's a punctuated equilibrium where once in a while there's a fire and uh someone like, people work really hard and so that it's spiky and bursty and then all the stories get collected about the bursts and then it gives the appearance of like total insanity, but actually it's just a bit more intense environment and there are fires and sprints. And so I think, uh, you know, definitely though, I, I would say, um it's a more intense environment than something you would get like you"
+}

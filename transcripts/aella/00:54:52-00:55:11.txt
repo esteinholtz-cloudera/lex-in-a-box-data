@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:52",
+  "End": "00:55:11",
+  "Text": "., I, I don't, and I see it as a, as a, as a, as a good thing. It's a good uh, like a, a romantic element permeates my interpretation of the world. Yes. But you, uh, you left home early. Mhm. did you end up working at a factory?"
+}

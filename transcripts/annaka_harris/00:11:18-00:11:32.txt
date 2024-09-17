@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:11:18",
+  "End": "00:11:32",
+  "Text": ". Right. Exactly. It's very meta and makes it hard and it's part of the reason why interviews for me feels so difficult aside from the fact that I just have social anxiety in general, what it's good because I took"
+}

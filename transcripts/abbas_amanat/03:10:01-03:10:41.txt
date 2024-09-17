@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "03:10:01",
+  "End": "03:10:41",
+  "Text": "the kind of used to say so. And thank you for sitting down today a history that's as I've said in the start of my book, say it's the history of a nation which has learned a huge amount from, from the outside world by force of its geography. It was always located somewhere that people would invade or come for trade or something happened to it. That is diffused. Culture continue to they were not afraid of learning or adopting as they do, right. Now today, this is a very different society."
+}

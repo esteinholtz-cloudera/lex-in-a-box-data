@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:51:23",
+  "End": "01:51:49",
+  "Text": ", it's just because it depends on how you want to incentivize the amount of hours. So, if you have to pay a lot for the first hour, but not very much for this excessive, you're more likely to buy a longer period of time. And usually I find that clients who buy a longer period of time are nicer to you. I don't have a great theory for why that is, but they're more likely to take you to dinner and get to know you first and I just enjoy that a lot more. I enjoy, like, knowing who I'm gonna have sex with, a date,"
+}

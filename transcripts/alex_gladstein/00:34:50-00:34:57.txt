@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:34:50",
+  "End": "00:34:57",
+  "Text": "giving your examples. serious. What A I applications will improve civil, I"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:28:32",
+  "End": "00:28:44",
+  "Text": "thing, like here's the thing, it is consistent with prior efforts or studies. It's just that L Ron Hubbard said this was a watershed breakthrough that it was being discovered for the first time. That's kind of what I'm mocking. Really?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:50:42",
+  "End": "02:51:06",
+  "Text": ". I don't want, I feel so passionate about extra science. Science that you can just do, I want to make science accessible. Like anybody can just go look and learn about the basics of doing a survey or figuring out how to interpret information and doing a published journal feels like I'm betraying my cause a little bit"
+}

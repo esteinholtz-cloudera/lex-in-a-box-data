@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:03",
+  "End": "01:23:19",
+  "Text": "we take a step back to uh uh sleep for a little bit? And so people should definitely look through your podcast. The first five episodes were on sleep or no, I guess the first opening episode was the first"
+}

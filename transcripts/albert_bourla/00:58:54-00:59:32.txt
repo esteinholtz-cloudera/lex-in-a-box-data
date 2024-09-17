@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:54",
+  "End": "00:59:32",
+  "Text": ", he did. Uh he delivered or produced 3 billion this year vaccines and you know, on track to do 4 billion next year. I mean, if we had uh a lot more time when we talk about how the heck you achieve that kind of scale. It's truly incredible. Um Let me ask the policy question, what are your feelings about vaccine mandates terms of, do you think the most effective way to vaccinate the population is to require it do go with the American way and give people the freedom to choose?"
+}

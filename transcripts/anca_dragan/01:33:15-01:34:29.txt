@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:33:15",
+  "End": "01:34:29",
+  "Text": "was in high school. My friends, my classmates did some tutoring. We were gearing up for our Baccalaureate exam and they did some tutoring on, well, some on math, some on whatever I was comfortable enough with some of those subjects. But physics was something that I hadn't focused on in a while. And so, they were all working with this one teacher and I started working with that teacher. Her name is Nicole Beano and she, was the one who kind of opened up this whole world for me because she of told me that I should take the sats and apply to go to college abroad and do better on my English and all of that. And when it came to well financially I couldn't, my parents couldn't really afford to do all these things. She started tutoring me on physics for free. And on top of that sitting down with me to kind of train me for sats and all that jazz that she had experience with."
+}

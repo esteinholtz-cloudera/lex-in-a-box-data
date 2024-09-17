@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:57",
+  "End": "01:05:53",
+  "Text": ", I'm really hopeful about A I systems that are like companions that help you grow, develop as a human being, uh help you maximize long term happiness. But I'm also very worried about A I systems that figure out from the internet, humans get attracted to drama. And so they would just be like shit talking a is they just constantly, did you hear it? Like they'll do gossip? They, they'll try to plant seeds of suspicion to other humans that you love and trust and just kind of mess with people, you know, because that's going to get a lot of attention to drama, maximize drama on the path to maximizing engagement. And us humans will feed into that machine and get it'll be a giant drama shit storm. So I'm worried about that. So it's the objective function really defines the way that human civilization progresses with A I in it,"
+}

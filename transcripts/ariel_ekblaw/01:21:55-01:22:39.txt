@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:21:55",
+  "End": "01:22:39",
+  "Text": "one, we're going to build more robust habitats that don't depend on astronauts being so impeccably well trained. So we're going to make it better for inclusion and just opening access to space. But there's a fantastic group called Astra access that is already helping disabled space flyers do zero G flights and potentially get access to the is and some of the things that we think of as disabilities on earth are hyper abilities in space. You don't need really powerful legs in space. What you'd really benefit from having is a third arm. More ways to kind of move yourself around and grip and interact. So we are already seeing a much more open minded approach to who gets to go to space. And Astra axis is a wonderful organization doing some of that work."
+}

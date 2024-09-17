@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:23:14",
+  "End": "00:23:21",
+  "Text": ". Even if you keep it in a moist warm environment, it's not going to reach out for the cup of coffee when you come in with Starbucks,"
+}

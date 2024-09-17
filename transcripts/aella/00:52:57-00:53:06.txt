@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:52:57",
+  "End": "00:53:06",
+  "Text": ". That's true. I'm a very good follow though. So I'm like, I'm like, I'm an invisible follow. You do move. It's like, oh I'm not good"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:22",
+  "End": "02:52:08",
+  "Text": "and it can, I mean, the, the thing that's scary to me is that it can scale arbitrarily so it can outnumber humans very quickly even if it's dumber than humans. And so don't know if we're able to reason about a world., let's look at the physical analog where all of a sudden, let's talk about something kind of like humans, but dumber than humans like chimps. Ok. Imagine that all of a sudden chimps could multiply quickly and you could have like a trillion chimps the next day when, when you, when you only had maybe a million the day before, like, how does that world look different"
+}

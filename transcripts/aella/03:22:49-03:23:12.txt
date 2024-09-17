@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:22:49",
+  "End": "03:23:12",
+  "Text": "little bit. Like I do find kind of the survey process that I did to be romantic when the guy that I asked out who I'm still dating, I was like, hey, you really have my survey, you want to go eat food or something. And his response was like, you want to try doing three days in an airbnb as our first date. And I was like, yeah, and that was romantic. Like the bold leap into, into a really intense"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:45:09",
+  "End": "02:45:35",
+  "Text": ". I mean, in general, a dogged pursuit of the stuff you love will create something beautiful. And if it's an unconventional path, those are the best kind, those are the most beautiful kind. And it created in this case, I think you're a beautiful person. Annika, beautiful mind. Thank you so much for doing everything you do for sharing it with the world. And thank you so much for talking with me today. That was awesome. Good to finally meet"
+}

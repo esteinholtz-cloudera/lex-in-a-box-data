@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:37:04",
+  "End": "00:37:15",
+  "Text": "scientology auditing is going to look like that. It's one on one talk therapy. Uh you're in a room by yourselves. No distraction, no noise, one"
+}

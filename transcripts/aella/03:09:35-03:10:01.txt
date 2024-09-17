@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:09:35",
+  "End": "03:10:01",
+  "Text": "any. I'm, I'm not even like a chat G BT. I'm like G BT one with my facial expressions. It's kind of off like this doesn't seem to match emotions, but it's kind of intelligent seemingly but definitely not conscious anyway. So like negative connotation manipulating, not being honest about the actual intentions of the, how you'd like to control the conversation. I think there"
+}

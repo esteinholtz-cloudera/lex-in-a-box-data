@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:28:14",
+  "End": "03:28:48",
+  "Text": ". But I also, so I was very deliberately. an interesting way to put it. What do you want your day to look like? I think what, what do you want your day to look like? What do you want your life to be? I was very deliberately, always first of all, happy to be alone, like a conscious thinking. Uh I know a lot of friends were just unable to be alone. I'm able to be alone, but I'm much happier with another person. Like I'm able to share joy with other humans."
+}

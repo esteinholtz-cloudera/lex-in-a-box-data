@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:01:55",
+  "End": "02:02:13",
+  "Text": "uh this month on the podcast, you're talking about neuroplasticity. You mentioned a bunch already. Is there something you're looking forward to specifically like something maybe you're fascinated by that jumps to mind about neuroplasticity, this fascinating property of the brain."
+}

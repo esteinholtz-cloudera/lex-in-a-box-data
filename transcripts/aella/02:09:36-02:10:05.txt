@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:36",
+  "End": "02:10:05",
+  "Text": ". And see there is something, yeah, that's aids into the chemistry of the conversation. When you do that. I really enjoy it. It's like a rare I did, I forget who I've had a few people do that with me just in conversation. And I feel like you were involved somehow because I've met you before. So I don't know if we were, or you were just parties together or maybe it was just like a bunch of people that kind of play with the same or like"
+}

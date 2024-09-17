@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:08:31",
+  "End": "01:08:49",
+  "Text": "should there be? Yeah, why is the great thing about being a theoretical physicist is can very quickly stump you were they going to the next level of wise?"
+}

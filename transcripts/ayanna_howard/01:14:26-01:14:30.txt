@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:26",
+  "End": "01:14:30",
+  "Text": "you have a hope for our education system? I"
+}

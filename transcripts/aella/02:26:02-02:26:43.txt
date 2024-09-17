@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:26:02",
+  "End": "02:26:43",
+  "Text": ". I mean, learned over time that, like, even if it seems like a very small thing, you talk about the small thing because often I would just sort of have like, a small twitch in myself. Like, I don't know if I like that, but, like, ok, this is really minor. It's probably nothing and I don't, if I talk about it's going to make it into a thing and I just want to make it into a thing, you know, and I would, I've come to realize that it's worth making it into a thing because I can't predict at the time of, like, this small feeling I have is going to grow and then when I grow it now it's, like, much more difficult to deal with., so now it's like any little bit of jealousy I have immediately communicated. I'm like, ah, I'm a little jealous of you right now. I don't hold that in at all. I used to be kind of like, back when I first started being Polly, I used to try to pretend that I was not a jealous person and that backfired quite a lot. That's really"
+}

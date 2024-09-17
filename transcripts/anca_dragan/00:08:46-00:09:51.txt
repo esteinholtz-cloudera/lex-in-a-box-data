@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:08:46",
+  "End": "00:09:51",
+  "Text": "these, these cameras and they move. So yeah, it goes and then it's super cute. Yeah. You know the way it moves, it's just so expressive. The timing of that motion, that what it's doing with its arms and what it's doing with these lenses is amazing. And so,, I've, I've really liked that from the start. And then on top of that, sometimes I share this, it's a personal story I share with people or when I teach about a I or whatnot. Um, my husband proposed to me by building a wally he actuated it. So it's seven degrees of freedom, including the lens thing and it kind of came in and he made it have like, you know, the belly box opening thing. So it just did that and then it spewed out this box made out of Legos that opened slowly and then bam. Yeah., it was, it was quite, quite, it set a bar."
+}

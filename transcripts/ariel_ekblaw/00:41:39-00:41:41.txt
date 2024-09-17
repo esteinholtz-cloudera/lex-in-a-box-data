@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:41:39",
+  "End": "00:41:41",
+  "Text": "fermented product. Yes."
+}

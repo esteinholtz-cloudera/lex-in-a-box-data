@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:42:40",
+  "End": "01:43:10",
+  "Text": "a point. was very helpful. Um I mean, I think talk therapy is one tool and can be helpful for, I mean, it depends on the therapist, depends on the type of therapy. But I, I found it to be one piece. Um And probably not the biggest piece actually. Um But I think, I wish I had discovered medication sooner. That have made a big difference in my life"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:18",
+  "End": "00:47:24",
+  "Text": "brilliantly put. Actually, as a scientist. Do you hope it's a water bottle or a smartphone?"
+}

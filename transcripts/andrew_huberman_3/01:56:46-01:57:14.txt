@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:46",
+  "End": "01:57:14",
+  "Text": ". It's exhausting. I mean, I'm just speaking from an athlete perspective, like, if you're Mick Jagger with the rolling stones, it, it's just physically, mean, you have to speak potentially for two hours. Then off stage, like hanging out with people. It's a lot, it's a lot of hours. It's a lot of hours to stay focused, to keep finding your place of like calmness and excite"
+}

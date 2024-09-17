@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:31:18",
+  "End": "00:31:26",
+  "Text": "of people. And if you look at the progress of things, it's getting better and better and better. I mean, if we're"
+}

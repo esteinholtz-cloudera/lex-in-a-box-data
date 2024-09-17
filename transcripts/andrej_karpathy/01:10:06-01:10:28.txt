@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:10:06",
+  "End": "01:10:28",
+  "Text": ", exactly. I think the way we are programming these computers now, like GP TS is, is converging to how you program humans. I mean, how do I program humans via prompt? I go to people and I, I prompt them to do things. I prompt them for information. so uh natural language prompt is how we program humans and we're starting to program computers directly in that interface. It's like, pretty remarkable honestly."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:20",
+  "End": "02:43:26",
+  "Text": "is, look,, with the free will love is an illusion."
+}

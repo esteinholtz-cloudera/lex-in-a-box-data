@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:05:35",
+  "End": "02:05:53",
+  "Text": "uses? Unfortunately, I don't think academics currently have the next image net. We've obviously, I think we've crushed mnet, we've basically kind of crushed image net. Uh And there's no next sort of big benchmark that the entire community rallies behind and uses. Um know, for further development of these networks,"
+}

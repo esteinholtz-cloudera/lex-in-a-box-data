@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:47",
+  "End": "01:28:04",
+  "Text": "have you learned from that process? Because it, maybe that's one of the bigger, like new things coming from a research background there's a system that has to run under heavily constrained resources, has to run really fast. What kind of insights have you learned from that?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:34:38",
+  "End": "01:35:16",
+  "Text": "asked a couple of different categories. I asked about like basic life stuff. So, like, what kind of relationships like monogamy versus polyamory? Like, do you want kids? You know, like, where you want to live, like, basic things that you need to be compatible. And then I asked, like, sexual compatibility, like various preferences. And then I had a section about, like, personality, like, what I tried to ask questions that would do the most effective filtering., like, what are ways that, like, I can't people what they need that? Like, maybe they really want, like, I don't really, I'm not very outdoorsy. It's just very common. A lot of people like being outdoors. So I asked the question, like, how much do you value someone else that you're dating being outdoorsy if they marked? Yes, I was like, ok, we probably, I should write down"
+}

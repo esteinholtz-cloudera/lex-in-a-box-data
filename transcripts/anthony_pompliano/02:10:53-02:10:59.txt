@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:53",
+  "End": "02:10:59",
+  "Text": ". And you're saying gold is 10 trillion uh sorry, where did you get? The 20 trillion,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:07",
+  "End": "00:29:01",
+  "Text": ". Yeah, exactly. That culture, culture forms. And I would love to see what kind of culture once you have of more and more civilians. I mean, there's a human, I mean, I love psychology and sociology and I'll maybe ask you about that too, which is the dynamic between humans. You have to kind of start considering that when you start spending more and more time up in space and start sending civilians, start sending bigger and bigger groups of people. And then of course, the beautiful and the ugly emerges from the, from the human nature that we haven't been able to escape up to this point. when you say the hadrons, these kinds of shapes are they multifunctional, is the idea you'd be able to, humans can occupy them safely and some of them and some others have some other purposes."
+}

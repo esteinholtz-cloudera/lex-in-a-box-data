@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:59:09",
+  "End": "00:59:33",
+  "Text": ". I don't think the problem is intractable. People are, people are thinking about the proof of personhood and uh we might start digitally signing our stuff and we might all end up having like a, basically some, some solution for proof of personhood. It doesn't seem to me intractable. It's just something that we haven't had to do until now. But I think once the need like really starts to emerge, which is soon, I think what people will think about it much more"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:09",
+  "End": "02:51:52",
+  "Text": "his name is tarnished. I think uh the case you're making is a difficult case to make. so I think his name represents fighting one man. It's like Tiananmen Square standing before the tank is like one man fighting the government. And I think that there is some aspect to which taking that case aside, that is the American spirit, which is hold the powerful accountable. So whenever there's somebody in power, one individual can change, can"
+}

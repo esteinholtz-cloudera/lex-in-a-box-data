@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:57:05",
+  "End": "00:57:28",
+  "Text": "have also met adults. Right. And so that is, that is a developmental process and I'm sure there's a bunch of psychologists that can go through, like you can have a 60 year old adult who has the emotional maturity of a 10 year old. Right? And so there's various phases that people should go through in order to evolve and sometimes you don't."
+}

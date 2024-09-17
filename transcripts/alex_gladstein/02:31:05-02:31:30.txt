@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:31:05",
+  "End": "02:31:30",
+  "Text": ". I mean, that's at least a good, the longest war, right. The, uh, the forever wars, I feel like the past 20 years or whatever it is. Um, 18 years, 19 years, been very skeptical about invading other countries that, um, about, been skeptical about military intervention in other nations."
+}

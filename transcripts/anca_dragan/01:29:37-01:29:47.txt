@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:29:37",
+  "End": "01:29:47",
+  "Text": "like my biggest nightmare, by the way, I really like living. So, I'm actually, I really don't like the idea of being told that I'm going to"
+}

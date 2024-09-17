@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:05:02",
+  "End": "02:05:24",
+  "Text": ". I mean, I think we both think we might be wrong about the consciousness about, about it being fundamental. I think we're both, we both agree that this is a legitimate,, question to ask at this point in science is consciousness fundamental. And I really see it as a question and I think he does too, but he"
+}

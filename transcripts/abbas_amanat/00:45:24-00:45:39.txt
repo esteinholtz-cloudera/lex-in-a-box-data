@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:24",
+  "End": "00:45:39",
+  "Text": "there a lot of conflict between these regions? And also if I uh blindfolded you and dropped you off in one of the regions, would you quickly recognize the region like by the food, by the music, by the accents, by so on?"
+}

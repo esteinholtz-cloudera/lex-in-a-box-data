@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:47:16",
+  "End": "01:48:03",
+  "Text": "we have an arts curator on the Space exploration initiative side. She helps make sure partly around that communication challenge that we talked about that we're not just doing zero G flights and space missions, but that we take our artifacts of this sci fi space future to museums and galleries and exhibits. Uh She pushed me to make sure her name is Shing Lu. She pushed me for our first ISS mission. I was just gathering all the engineering payloads that I wanted to support for the students to fly, including my own work. And she said, you know what, we should do an open call internationally for artists to send something to the ISS. And we found out it was the first time we were the first ever international open call for art to go to the ISS. And that was thanks to shing an artist, bringing a perspective that I might not have thought about prioritizing. So,"
+}

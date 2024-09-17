@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:39:50",
+  "End": "00:40:00",
+  "Text": "still as you can comfortable, right? And I'm gonna go, is there something you're withholding from me? what I'm looking for is right? When I say at the end of May, I'm looking for the needle to dip to the right having"
+}

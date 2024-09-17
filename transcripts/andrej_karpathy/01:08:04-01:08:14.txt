@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:04",
+  "End": "01:08:14",
+  "Text": "will be an improvement eventually over what Google is for access to human knowledge? Like it'll be a more effective search engine to access human knowledge."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:48:35",
+  "End": "03:48:45",
+  "Text": "mean, it's hard to know where, how difficult it is to close that gap to physical reality. from the physics to the the information"
+}

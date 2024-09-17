@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:14",
+  "End": "01:43:22",
+  "Text": ". You know, it's also an interesting data set that you're probably interested in a little bit is like Twitter itself, right? I don't know if you've, I've played with the Twitter api a lot."
+}

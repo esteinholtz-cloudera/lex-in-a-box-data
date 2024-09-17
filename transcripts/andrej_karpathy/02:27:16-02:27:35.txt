@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:16",
+  "End": "02:27:35",
+  "Text": "your person, forget all of that in your own personal life. Um What do you think about the happiness of a human being, a brilliant person like yourself about finding a balance between work and life or is it such a thing? Not a good thought experiment?"
+}

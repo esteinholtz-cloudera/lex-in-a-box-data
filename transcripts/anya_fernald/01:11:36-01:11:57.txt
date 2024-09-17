@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anya Fernald",
+  "Start": "01:11:36",
+  "End": "01:11:57",
+  "Text": "ratio of omega 3 to 6 S it changes in like a week on grain. So it's radically different. Unfortunately, it's the same thing for you and me. You can eat clean for a month. eat, you know, junk for three days. Your garbage, right? It's not like you can just like coast on that, right? We know that's like same thing for animals or physiology changes, foods. The number one way we interact with our environment and our body changes really rapidly and dramatically."
+}

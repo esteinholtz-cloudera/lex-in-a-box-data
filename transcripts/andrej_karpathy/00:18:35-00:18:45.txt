@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:35",
+  "End": "00:18:45",
+  "Text": ", Nick Lane and a lot of biologists I talked to, they really seem to think that the jump from bacteria more complex organisms is the hardest jump."
+}

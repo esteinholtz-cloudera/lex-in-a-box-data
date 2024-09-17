@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:29",
+  "End": "00:53:40",
+  "Text": "like almost like second by second, can adjust things that just in real time based on how you're feeling, but based on the heart rate, that's the experience of the heart"
+}

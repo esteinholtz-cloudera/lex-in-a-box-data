@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:42:23",
+  "End": "02:43:22",
+  "Text": "all the things that are scarce in the physical world into digital space, us trying to figure out which things can be moved and not. And also there are things in the digital space just like you're saying that don't exist in the physical world that might also benefit from gaining scarcity. Like, know, people are, I guess creating nfts out of tweets or whatever. So you have a fun Twitter account, you could say you could put value to a single tweet and then be able to invest in it and trade it and buy parts of it and all those kinds of things you can invest in people, you can invest in, you know, can be defined broadly as any kind of creation, right? And in some sense, this whole idea of scarcity can overtake the entirety the digital world. It can like consume the all of the markets we see as financial markets and just turn everything into a market. So"
+}

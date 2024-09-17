@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:26",
+  "End": "00:07:32",
+  "Text": "brain right now is talking, is it doing next word prediction is it doing something more interesting?"
+}

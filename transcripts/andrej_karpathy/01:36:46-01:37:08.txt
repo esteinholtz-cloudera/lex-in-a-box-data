@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:46",
+  "End": "01:37:08",
+  "Text": "have to consider the sensor in the full considering can you build a big fleet that collects a lot of data? And can you integrate that sensor with that data and that sensor into a data engine that's able to quickly find different parts of the data that then continuously improves whatever the model that you're using. Yeah,"
+}

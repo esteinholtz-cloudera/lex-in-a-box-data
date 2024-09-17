@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:16",
+  "End": "01:35:22",
+  "Text": "doesn't polyamory make that really difficult because can't they find somebody for the outdoorsy"
+}

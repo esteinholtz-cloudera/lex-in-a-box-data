@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:22:07",
+  "End": "00:23:01",
+  "Text": "mean, I think that's why the whole aspect of ethics in our community is so, so important, right? Like because it's true if, if, if you think about it, you can basically say I'm not going to work on weaponized A I, right? Like people can say that's not what I'm going to do. But yet you are programming algorithms that might be used in health that might decide whether this person should get this medication or not and they don't and they die. OK? So that is your responsibility, right? And if you're not conscious and aware that you do have that power when you're coding and things like that, I think that that's just not a good thing. We need to think about this responsibility as we program robots and computing devices much more than we are."
+}

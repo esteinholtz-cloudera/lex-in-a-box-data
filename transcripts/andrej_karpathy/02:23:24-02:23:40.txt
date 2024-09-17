@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:23:24",
+  "End": "02:23:40",
+  "Text": "means that you're not about it and you can flex and, uh, you just prefer to eat plants and, you know, you're not making, you're not trying to influence other people. And if someone is, you come to someone's house party and they serve you a steak that they're really proud of, you will eat it."
+}

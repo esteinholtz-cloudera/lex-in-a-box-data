@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:39:06",
+  "End": "02:39:09",
+  "Text": "you can't even see a lamp. The fog is so"
+}

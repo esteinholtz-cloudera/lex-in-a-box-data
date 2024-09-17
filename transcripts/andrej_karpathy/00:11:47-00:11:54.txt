@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:47",
+  "End": "00:11:54",
+  "Text": ". So artificial neural networks are doing compression and biological neural networks"
+}

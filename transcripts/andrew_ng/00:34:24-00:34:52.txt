@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "00:34:24",
+  "End": "00:34:52",
+  "Text": ". Thank you. You know, I was once reading a news article, I think it was tech review and I'm going to mess up the statistic. But I remember reading an article that said something like one third of all programmers are self taught. I may have the number one third around two thirds. But when I read that article, I thought this doesn't make sense. Everyone is self taught. So because you teach yourself, I don't teach people. I just so"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:08:04",
+  "End": "01:09:35",
+  "Text": ", this is, this is an open ended problem. Um So one of the study that actually has me some hope that I we're trying to figure out how to put in robotics. So there was a research study that has showed for medical A I systems giving information to radiologists about, you know, here you need to look at these areas um on, on, on the X ray. What they found was that when the system provided one choice, there was this aspect of um no trust or over trusts, right? Like I'm not, I don't believe it at all or a um Yes, yes, yes, yes. And they would miss things right? Instead, when the system gave them multiple choices, like here are the three, even if it knew, like, you know, it had estimated that the top area you need to look at was he, you know, some place on the X ray. If it gave like one plus others, trust was maintained and the accuracy of the entire population increased. Right. So basically it was a, you're still trusting the system, but you're also putting in a little bit of your human expertise, your human decision processing into the equation. So it helps to mitigate that overt trusts risk."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:15",
+  "End": "00:53:41",
+  "Text": "cop, bad cop. Uh Well, it'd be interesting from a scientific perspective of somebody who is a sociopath or psychopath, to reveal something real about them. I think requires not just, well, I don't know what that requires that requires the same skill that it takes to be a good therapists,"
+}

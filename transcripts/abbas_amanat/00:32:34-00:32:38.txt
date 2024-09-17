@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:34",
+  "End": "00:32:38",
+  "Text": "growing because you can't order food"
+}

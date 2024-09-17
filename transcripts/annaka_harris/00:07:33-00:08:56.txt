@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:07:33",
+  "End": "00:08:56",
+  "Text": ". First of all, I really think it's important to make a distinction free will and conscious will. And we'll get into that in a moment. So free will, in terms of our brain as a system in nature, making complex decisions and doing all of the complex processing it does. There is a decision making process in nature that our brains undergo um that we can call free will. That's fine to use that shorthand for that. Although once, once we get into the details, I might convince you that it's not so free, but that the decision making process is a process in nature. The feeling our conscious experience of feeling like consciousness is the thing that is driving the behavior that is I would say in most cases, an illusion. And when we talk about free will, that's the thing we're talking about. I mean, sometimes it's in conjunction with the decision making process. But for the most part, when we use the term free will, we're talking about this feeling that consciousness that, that, that we have a self that this, there's this concrete thing that's separate from brain processing that somehow swoops in and is that the cause of our decision or the cause of our next action? that is in large part, if not in its entirety, an illusion."
+}

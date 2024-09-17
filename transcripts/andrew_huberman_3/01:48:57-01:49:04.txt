@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:57",
+  "End": "01:49:04",
+  "Text": "often say Johnny Cash's version of hurt that I say would be my favorite song"
+}

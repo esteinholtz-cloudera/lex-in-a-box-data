@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:29:07",
+  "End": "03:30:01",
+  "Text": "don't know if that's the meaning of life. That's like meaning of life. For some people, the first level answer I would say is anyone can choose their own meaning of life because we are conscious entity and it's beautiful number one. But uh I do think that like a deeper meaning of life, if someone is interested is along the line of like, what the hell is all this? And like why? And if you look at the into fundamental physics and the quantum field theory and the standard model, they're like way very complicated. And um this like, you know, 19 free para parameters of our universe and like what's going on with all this stuff? And why is it here? And can I hack it, can I work with it? Is there a message for me? Am I supposed to create a message? And so I think there's some fundamental answers there, but I think there's actually even like, you can't actually like really make dent in those without more time. And so to me also, there's a big question around just getting more time honestly., that's kind of like what I think about quite a bit as well."
+}

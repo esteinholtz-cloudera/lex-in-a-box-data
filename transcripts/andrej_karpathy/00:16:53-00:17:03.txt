@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:53",
+  "End": "00:17:03",
+  "Text": "haven't we heard from them? Because I, I agree with you. It feels like I just don't see why what we did here on earth is so difficult"
+}

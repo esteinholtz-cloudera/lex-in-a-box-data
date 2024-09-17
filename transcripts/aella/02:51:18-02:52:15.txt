@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:51:18",
+  "End": "02:52:15",
+  "Text": "you. Just coming from like on this topic, the elite, the elitism I see on the psychology side with the journals and the academia, the positions and the institutions you come from all of that that goes against. I think that's more useful for math and computer science and so on where there's like clear but even then even then code is code, data is data, prestige shouldn't matter at all. Maybe, maybe for like biological experiments like virology or something like that. good to be from a major lab that has a reputation for like going through all the procedures like, you know, you can trust here like you're dealing with a giant mess of humanity. Like it's beautiful to be transparent, to be raw, to be exploring it together with everybody. Yeah, it's really beautiful and"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:25",
+  "End": "00:59:30",
+  "Text": "is fundamental. Why is scary city important in money?"
+}

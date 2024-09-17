@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:39",
+  "End": "00:18:43",
+  "Text": "is inverse reinforcement learning? You just briefly said it right. So"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:32:39",
+  "End": "01:32:58",
+  "Text": "want to leak, they're true believers. They see, they see like there's a, there's sort of a conspiracy theory that runs right through all of Scientology, is that Scientology represents an existential threat to the powers that control that really control this planet. Do they"
+}

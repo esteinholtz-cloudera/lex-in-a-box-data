@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:21:53",
+  "End": "01:22:49",
+  "Text": ". So I grew the annotation team at Tesla from basically 0 to 1000 while I was there. That was really interesting, you know, my background as a phd student researcher. So growing that kind of an organization was pretty crazy. But uh yeah, I think it's extremely interesting and part of the design process very much behind the autopilot as to where you use humans, humans are very good at certain kinds of annotations. They're very good. For example, at two dimensional annotations of images, they're not good at annotating uh cars over time in three dimensional space, very very hard. so that's why we were very careful to design the tasks that are easy to do for humans versus things that should be left to the offline tracker. Like maybe the, maybe the computer will do all the triangulation and 3D reconstruction. But the human will say exactly these pixels of the image are car, exactly these pixels are human. And so cosigning the the data annotation pipeline was very much bread and butter was what I was doing daily. Do you think there's"
+}

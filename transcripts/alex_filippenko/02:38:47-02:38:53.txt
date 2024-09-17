@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:38:47",
+  "End": "02:38:53",
+  "Text": "don't think there's a better way to end it. Alex. It's a huge honor. One of my favorite conversations I've had in this podcast. Thank"
+}

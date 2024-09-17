@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:27:35",
+  "End": "01:27:44",
+  "Text": ", two answers. One does my daughter know of her? She say no matter how much time I spend with her, I just can't spend enough time with her. Congratulations."
+}

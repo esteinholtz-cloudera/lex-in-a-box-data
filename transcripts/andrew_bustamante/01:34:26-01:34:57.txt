@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:26",
+  "End": "01:34:57",
+  "Text": "you think of that as a kind of the study of human psychology? Is that what a psychologist does or a psychiatrist from this process? Have you learned human nature? I mean, I suppose the answer to that could be a book but it probably will be a book. But is there things that are surprising about human nature, surprising to us civilians that you could speak to? Yes."
+}

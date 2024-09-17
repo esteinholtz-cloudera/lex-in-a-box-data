@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "01:01:31",
+  "End": "01:01:47",
+  "Text": "some ways, we instinctively understand that already, because in the example I gave you of the kid in the stabbing, we would all understand that that kid was not really fully in control of their actions. So it's not an idea that's entirely alien to us. But"
+}

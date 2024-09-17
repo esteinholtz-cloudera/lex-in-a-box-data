@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:15",
+  "End": "00:30:34",
+  "Text": "interesting. We don't. That's right. That's right. It's a, in human factors and safety research al almost, I mean, is quite ruthlessly critical of teenagers. we don't question, is that ok? Is that ok to be ageist in this kind of way? It is? And"
+}

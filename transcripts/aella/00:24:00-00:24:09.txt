@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:00",
+  "End": "00:24:09",
+  "Text": ", no, no, no. But like they might be more correct, like philosophy might be the right way to discuss things that were really far from understanding."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:05:41",
+  "End": "01:06:04",
+  "Text": "Amal. Yeah. So this is interesting because I never detect that in you ever. And I think uh there are people that we both know that have said to me that they too feel anxious and yet voice is steady. don't see any perspiration. Um You appear in shit."
+}

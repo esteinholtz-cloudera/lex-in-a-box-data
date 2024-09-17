@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:35:28",
+  "End": "00:36:00",
+  "Text": "realities as in um will behave in some very like strange way to us because they're uh they're beyond, they're playing the meta game. Uh And the meta game is probably say like arranging quantum mechanical systems in some very weird ways to extract infinite energy, uh solve the digital expansion of pi to whatever amount they will build their own like little fusion reactors or something crazy. Like they're doing something beyond comprehension and uh not understandable to us and actually brilliant under the hood."
+}

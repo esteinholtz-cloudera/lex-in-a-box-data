@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:03:35",
+  "End": "03:04:13",
+  "Text": "open minded. I mean, that, that's actually, you know, that's what science is about is remain open minded even for the things that are long shots because those are the things that actually define scientific revolutions. about operation Northwoods? It was a proposed 1962 false flag operation by the Dod and the CIA to be carried out by the CIA to commit acts of terrorism on Americans and blame them on Cuba. So JFK, the president rejected the proposal. What do you make that this was on the Table operation Northwoods?"
+}

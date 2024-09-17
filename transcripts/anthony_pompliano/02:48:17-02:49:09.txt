@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:17",
+  "End": "02:49:09",
+  "Text": "I think it's very likely it's almost obviously likely that we're moving into the digital world. one of the features of the digital world is that artificial intelligence systems operate with much more power in a frictionless way that world. Currently, as we understand it, it's hard to build robots that operate at scale and do arbitrary large amount of impact damage or positive in the physical world. It's much easier to do it in the digital world. Do you ever think about A I systems? Just swimming about doing extraordinarily powerful, destructive things in the digital world? Is that something of a concern to you is this something into a very distant future?"
+}

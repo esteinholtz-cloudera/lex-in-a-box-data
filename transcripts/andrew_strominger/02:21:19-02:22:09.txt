@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:19",
+  "End": "02:22:09",
+  "Text": ", no, no, no. It's the case of carrying the burden of the responsibility of the power of ideas when manifested into systems. So it's not a game, it's not just a game of fun mathematics, just the same with artificial intelligence. You have this, you know, a lot of people in A I, yeah, know, it's in a lot of people in the A I community. It's a fascinating fun puzzle how to make systems more and more intelligent, how to, you have a bunch of benchmarks. You try to make them perform better and better and better. And all of a sudden you have a system that's able to outsmart people. now able to be used in geopolitics. It's able to create a super intelligent bots that they're able to at scale control, the belief of a population of people. And now you can have world wars, you can have a lot of really risky instability"
+}

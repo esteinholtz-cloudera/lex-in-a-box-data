@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:29:25",
+  "End": "02:30:29",
+  "Text": "don't know why exactly. I'm bothered by philosophers talking about zombies because feels like they're missing. It's like talking about, reducing a joyful experience. So like like talking about, listen, when you fall in love with somebody, the other person is a zombie. You don't know if they're conscious or not, you're just making Presumptions and so on. It's like it says philosophers will do this kind of things, they might as well be a zombie or, you know, there's no such thing as love. It's just a mutual economists will reduce love to some kind of mutual calculation that risk and stability over time. It's like, all right, what I want to do with each of those people is I want to, I want to find every one of those philosophers to talk about zombies and eventually give them one of those robots and watch them fall in love and, and see how their understanding of how humbled they are by little we understand."
+}

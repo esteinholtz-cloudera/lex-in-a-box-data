@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:51",
+  "End": "00:19:32",
+  "Text": "to actually get at this question of free will and conscious will. I, I have my intuitions here are, I mean, I'm a human being. It's really, mean, I approach it from two aspects. One is a human being and two from a robotics perspective. And I wonder how big the gap between the two is? And that's a useful from an engineering perspective, is another perspective that's useful and helpful to take on this. It's like, are we really so different? You and I the robot and the human? like to believe so, but you don't exactly see where the difference"
+}

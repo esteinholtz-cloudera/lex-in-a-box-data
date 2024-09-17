@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:03",
+  "End": "02:15:17",
+  "Text": "think in that sense? Gao is interesting the the deep mind system that it's not just a language but actually throws it all in the same pile images, actions, all that kind of stuff that's basically what we're moving towards."
+}

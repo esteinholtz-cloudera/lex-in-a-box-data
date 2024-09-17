@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:33:32",
+  "End": "00:33:54",
+  "Text": "dropping you starting to drop you into rem sleep. And even if it's a tiny amount of rem sleep, people can come out of those naps kind of disoriented. I mean, remember in sleep space and time are, are totally uncoupled. And so they, an odd state to re enter the world in, if you're not going to stay there for a while, like for a good night's sleep, I think a 20 minute nap is pretty fantastic."
+}

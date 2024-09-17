@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:48:08",
+  "End": "02:48:16",
+  "Text": "that surprising to you the amount of the variety, almost the novelty of the synthetic data is"
+}

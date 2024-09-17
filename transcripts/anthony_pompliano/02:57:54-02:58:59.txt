@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:54",
+  "End": "02:58:59",
+  "Text": "And also, I mean, I've gotten quite a bit of value just reading the papers. And that's perhaps more for technical folks, there's quite an active research community and also going back to the original white paper and just original documents. Old school, old school is still like a few years ago. It's still really interesting to think about look at what people were thinking about because the principles are carried through with other cryptocurrencies as well. It's all, it's all there even in the early documents. So it's kind of fascinating to see that whole history if you're more tech savvy. And like you said, Twitter is actually an interesting place. If you can look past all the shit coin talk. It's a fascinating place for news and resources. there books outside of all of this Cryptocurrency, sort of technical fiction, philosophical that impact on your life because you have interests that are all over the place. Is there something that you would recommend to others? So"
+}

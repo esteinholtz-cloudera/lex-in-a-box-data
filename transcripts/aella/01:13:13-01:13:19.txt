@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:13",
+  "End": "01:13:19",
+  "Text": "like the standards are lower there and the ethical boundaries are a little looser how"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:37:21",
+  "End": "00:37:57",
+  "Text": ", you can see the blue marble, the stunning overview effect, which is something I hope to see one day. Um What's also really different is if you're in orbit for any significant period of time, it's going to be a lot more physiological changes to your body than if you just did an afternoon flight on the vomit comet, from your bones, your muscles, your eyeballs change shape. Uh There's a lot of different things that happen for long duration space flight. And we still have to, as scientists, we still have to solve a lot of these interesting challenges to be able to keep humans thriving in microgravity or deep duration space missions,"
+}

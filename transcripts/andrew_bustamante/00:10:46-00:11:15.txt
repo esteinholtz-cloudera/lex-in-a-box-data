@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:46",
+  "End": "00:11:15",
+  "Text": "much competition is there for the first page. And so how much jockeying there is for attention, I imagine for all the different intelligence agencies and within the CIA there's probably different groups that are modular and they're all care about different nations or different cases. And is there, do you understand much competition there is for the attention for the limited attention of the"
+}

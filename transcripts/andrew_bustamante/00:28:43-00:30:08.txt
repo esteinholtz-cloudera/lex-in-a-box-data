@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:43",
+  "End": "00:30:08",
+  "Text": "have to do a lot of thinking to try to understand what I even feel. I, I don't know. But terms of information, the thing that the soldiers are saying that the Russian soldiers are saying, the thing the Russian soldiers really believe is that they're freeing, they're liberating the Ukrainian people.. they believe this because I visited Ukraine. I spoke to the over 100 probably a couple 100 Ukrainian people from different walks of life. It feels like the Russian soldiers, at least under a cloud of propaganda. They're not operating on a clear view of the whole world and all that, I just don't see taking the South without committing crimes. if Vladimir Putin is aware of what's happening in terms of the treatment of civilians, don't see pushing forward all the way to take the South because that's not going to be,, effective strategy for him win the hearts and minds of these people."
+}

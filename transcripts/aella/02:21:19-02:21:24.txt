@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:21:19",
+  "End": "02:21:24",
+  "Text": ". Well, the interesting thing you said is that doesn't mean they have to do it. They just have the freedom to do it."
+}

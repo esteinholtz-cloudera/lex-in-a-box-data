@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:39",
+  "End": "00:37:55",
+  "Text": "not like polls. Can we talk about some practical things? So one of the many amazing things I think of you as a researcher, but you've also been doing research in the field."
+}

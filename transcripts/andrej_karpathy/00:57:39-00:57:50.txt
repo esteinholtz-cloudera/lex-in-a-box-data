@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:57:39",
+  "End": "00:57:50",
+  "Text": "? Yeah, I think it's always been a bit of an arms race between sort of the attack and the defense. So the attack will get stronger, but the defense will get stronger as well. Our ability to detect"
+}

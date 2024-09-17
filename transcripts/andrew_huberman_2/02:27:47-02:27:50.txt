@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:27:47",
+  "End": "02:27:50",
+  "Text": "talk about? They think it's like the N PR interview. Yes."
+}

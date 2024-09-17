@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:07:43",
+  "End": "03:07:47",
+  "Text": "taking your beliefs as object, opposed to being subject to that. Got"
+}

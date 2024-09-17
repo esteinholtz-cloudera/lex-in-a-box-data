@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:25",
+  "End": "02:08:44",
+  "Text": "in 2017 and 2020 two Nobel prizes that had to do with the black holes. Can you maybe describe in the same masterful way that you've already been doing what those Nobel prizes were given for? Yeah. So"
+}

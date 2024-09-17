@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:19",
+  "End": "01:48:24",
+  "Text": "accumulated enough points where you can afford to view to lose a few."
+}

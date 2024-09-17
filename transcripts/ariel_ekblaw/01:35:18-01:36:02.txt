@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:18",
+  "End": "01:36:02",
+  "Text": "of the fascinating things about you is you have a degree in physics, mathematics and philosophy. And now I don't know what you want, would you call it? Aerospace engineering, maybe kind of thing? So you have a foot in all of these worlds, the theoretic, uh the the the sort of the beauty of that world and the philosophy somehow is in there. And now the very practical pragmatic implementation of all these wild ideas. Plus you're an incredible communicator, all of those things. What did you pick up from those different disciplines? Or maybe I'm just romanticizing all those different disciplines. But what is there? What did you pick up from the variety of that? Physics, mathematics, philosophy,"
+}

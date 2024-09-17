@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:48:40",
+  "End": "02:49:00",
+  "Text": "use security and convenience are on two opposite sides of another spectrum. Yeah. The more convenient something is the less secure and the more secure something is the less convenient. And that's a, that's a battle that we're always, we're always working with as individuals and then we're trying to outsource that battle to our politicians and our politicians are frankly just more interested in being politicians."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:26:40",
+  "End": "00:26:45",
+  "Text": "some of them are, I think I've spoken to one who I believe in their heart feel they're building a better world. Are they"
+}

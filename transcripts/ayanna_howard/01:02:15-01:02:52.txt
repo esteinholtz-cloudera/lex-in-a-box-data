@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:15",
+  "End": "01:02:52",
+  "Text": ", I think just for my, maybe you can correct me on it. But if I just look at the field of A I broadly, it seems that human robot interaction has the most, one of the most number of open problems like people, especially relative to how many people are willing to acknowledge that there are because most people are just afraid of the humans. So they don't even acknowledge how many open problems there are but in terms of difficult problems to solve exciting spaces, it seems to be incredible for"
+}

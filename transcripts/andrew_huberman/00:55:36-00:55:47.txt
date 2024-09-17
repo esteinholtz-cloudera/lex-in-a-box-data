@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:55:36",
+  "End": "00:55:47",
+  "Text": "and she's very sensitive to sound and environment, beautiful home and environment, but like clearly puts a lot of attention into, into details. Yeah, and very"
+}

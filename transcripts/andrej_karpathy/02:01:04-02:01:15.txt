@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:01:04",
+  "End": "02:01:15",
+  "Text": "percent you're deploying this. People like it. People drive it. People pay for it, they care about it. There's all these youtube videos, your grandma drives it, she gives you feedback, people like it, people engage with it, you engage with it"
+}

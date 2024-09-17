@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:47",
+  "End": "00:27:00",
+  "Text": ". It's rare because it's, it's actually leveraging human. I mean, most roboticists, I've talked to a lot of, you know, colleagues and so on are kind of being honest, kind of afraid of humans"
+}

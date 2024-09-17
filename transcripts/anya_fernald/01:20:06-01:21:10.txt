@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:06",
+  "End": "01:21:10",
+  "Text": "the hard problem here is not in the space of technologies, it's in the space of bringing something that we've done for a long, long time in our human history and scaling it the face of all the other economic pressures doing so successfully, also communicating to the rest of the world that this is a powerful solution. So inspiring the rest of the world that regenerative farming, like running a company in this kind of way, that's humane for animals, good for the land, good for people, even if it costs like if there's an increased cost to the meat. Uh even if that, if you have a broader vision, that means eating less meat overall that that is, that is like inspiring the world that this is a future we want just taking that on and getting that done. got a chance to eat a little bit of cheese, which uh which is a good opportunity to talk about your experience in Italy. spent some time or south of Europe. I'm not sure if it was Italy. Yeah, I"
+}

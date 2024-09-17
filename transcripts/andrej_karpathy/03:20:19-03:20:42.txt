@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:20:19",
+  "End": "03:20:42",
+  "Text": ", I think I'm very hesitant to give general advice. I think it's really hard. I've mentioned, like some of the stuff I've mentioned is fairly general, I think like focus on just the amount of work you're spending on like a thing uh compare yourself only to yourself, not to others. I think those are fairly general. How do you pick the thing? You just have like a deep interest in something uh or like try to like find the art max over like the things that you're interested"
+}

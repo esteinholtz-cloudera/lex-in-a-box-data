@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:53:18",
+  "End": "02:53:26",
+  "Text": "am, I am making the case that at the time it was exactly what we needed to feel safe in our own"
+}

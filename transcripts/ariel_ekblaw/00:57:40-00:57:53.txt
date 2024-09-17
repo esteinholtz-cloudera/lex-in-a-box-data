@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:40",
+  "End": "00:57:53",
+  "Text": ". Yeah. So there's some studies on mice in microgravity. And it's interesting, like, I think the mice, one of them, the mice weren't able to walk or like their understanding of physics, I guess is all for something that. Yeah,"
+}

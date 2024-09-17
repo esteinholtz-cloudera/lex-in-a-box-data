@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:39",
+  "End": "00:35:41",
+  "Text": ". I thought that popped into my head just now on the game theoretic side of things, you said this really interesting idea of using actions to gain more information. we think of sort of game theory, humans that are interacting with you with you, the robot, I'm taking the identity of the robot that all the time. Yeah. Is also have a world model of view you can manipulate that. I mean, if we look at autonomous vehicles, people have a certain viewpoint, you said with the kids, people see Alexa as a, in a certain way. there some value in trying to also optimize how people see you as a robot or is that a little too far away from the specifics of what we can solve right now?"
+}

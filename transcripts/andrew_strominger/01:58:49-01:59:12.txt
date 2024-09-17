@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:58:49",
+  "End": "01:59:12",
+  "Text": ", the spin? and you can verify behaving, you know, we have never seen region of space time such high curvature. I mean, the region around a black hole is crazy. It's not like in this room, the curvature is everything. You know,"
+}

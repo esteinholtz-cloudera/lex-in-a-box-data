@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:31:41",
+  "End": "01:31:49",
+  "Text": "we're talking about. Cuttlefish and sexual selection. And then we went into some, uh, where do we go? And you said you were excited."
+}

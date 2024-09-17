@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:39",
+  "End": "00:12:51",
+  "Text": "sugar, the, uh, the desire for that rush maybe is gone your uh from your soul. What was the most delicious thing? Croissant doughnuts. What, what is there a thing that"
+}

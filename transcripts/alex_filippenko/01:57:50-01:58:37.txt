@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:50",
+  "End": "01:58:37",
+  "Text": "also very so if I were to, it's possible that you're, I mean, I could make a very good case for you in the three. And does that, is that psychologically? I mean, listen, it weighs on me a little bit because I, I, don't know what to do with that. It, it uh perhaps it should motivate rethinking. Like Time Magazine started doing like person of the year and they would start doing concepts and almost like the Black Hole gets the Nobel Prize or the Ael Universe gets the Nobel Prize and here's the list of people so or the Oscar that you could say because"
+}

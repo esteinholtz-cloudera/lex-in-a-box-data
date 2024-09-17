@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:18",
+  "End": "00:55:21",
+  "Text": "even with a simple web interface, there's too many options,"
+}

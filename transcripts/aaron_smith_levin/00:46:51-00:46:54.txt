@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:51",
+  "End": "00:46:54",
+  "Text": "does it go to past memories"
+}

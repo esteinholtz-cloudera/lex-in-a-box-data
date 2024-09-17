@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:25:17",
+  "End": "00:25:38",
+  "Text": ". The only way you could reconcile a supreme being is if you say a single supreme being created all theta., like the spiritual big bang. But that's not what most people think. When they, when they talk about God, they're talking about a creator of"
+}

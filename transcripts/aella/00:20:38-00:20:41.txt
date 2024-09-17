@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:38",
+  "End": "00:20:41",
+  "Text": "think you have ptsd over psychology papers is not replicated. I"
+}

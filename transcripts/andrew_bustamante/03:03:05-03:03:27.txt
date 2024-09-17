@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:03:05",
+  "End": "03:03:27",
+  "Text": "there's evidence, I haven't seen it? Yeah. Uh speaking from a science based point of view, only if energy and matter can always be exchanged, then a person who can understand and become sensitive to energy is a person who could become sensitive to what does become matter."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:15:17",
+  "End": "02:16:27",
+  "Text": "dependent. Like if I turn toward a light, it's, it's people change size depending on level of alertness, arouse autonomic arousal, but also overall levels of luminance. very, very hard. But there are, I mean, you're sitting on a, on a gold mine um because the there is a lot of interest right now in measuring state through non contact sensing, uh heart rate variability through changes in skin tone. But just off a camera, can you imagine that at the point where you just look at some video and you're like, oh, they're, they're getting more stressed or worked up and they're not a heat map of some little patch on their face because everyone's gonna have this slight, you know, sort of, um compartmentalize it slightly differently, but you can learn it pretty quickly. We know this when someone's like giving a talk and we see them starting it blotching on their, on their neck. You know, this is the like uh the thesis defense response, right? We know it and we're, it's a stressful situation because not passing your thesis defense is rough. we can see that, but cameras can pick that up really easily at much lower levels than the, the blatant blotching kind of effect and eye movements certainly are powerful indications of the state of the autonomic system."
+}

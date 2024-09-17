@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "00:31:45",
+  "End": "00:33:00",
+  "Text": "think that the way I really look at it is uh I work backwards off of what is the maximalism that I believe in? And the world that I believe in is uh kind of an automated world that is run on these open decentralized protocols. Uh And what we ultimately do is we return sovereignty and individualism and, and kind of uh personal responsibility and liberty uh to people over institutions. what we end up doing is we end up uh kind of taking what has historically been a very uh analog or physical world economy and uh geographic rule we then kind of put it in the cloud and this digital economy becomes the prevalent way that we all uh conduct commerce, communicate uh et cetera. And so it's less about any one single technology to me, right? I think that it's pretty stupid for people to um almost in a way uh put an inanimate object up for uh you know, some sort of obsession. to me, it's much more about the ideals, the ethos uh and the most rational and likely path to that kind of end result or that world that I think, you know, is at this point just a foregone"
+}

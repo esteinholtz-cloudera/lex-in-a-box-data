@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "00:23:55",
+  "End": "00:24:36",
+  "Text": ". That's true. But I would phrase it as saying when it's super accurate, you know, if you look at the bore atom, electromagnetism is not a very good approximation to the force between the proton and the electron, the quantum mechanics. you, if you, if you didn't have quantum mechanics, the electron would, would spiral into the proton and the atom would collapse it's quantum, you know, so that's a huge correction there. every theory gets corrected as we learn more. just be no reason to suppose that it should be otherwise."
+}

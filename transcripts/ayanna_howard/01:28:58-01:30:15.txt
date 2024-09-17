@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:28:58",
+  "End": "01:30:15",
+  "Text": "so that's, that's the next thing, right? The competition and they have quite a number even internationally. Like there's some products out there. You can go to Europe and be like, oh, I didn't even know this one existed. So this is the thing though, like with any market would, this is not a bad time, although as a roboticist, it's kind of depressing. But I actually think about things like with the, would say that all of the companies that are now in the top five or six, they weren't the first to the stage. Right? Google was not the first surgeon in Sorry Alta Vista. Right? Facebook was not the first, sorry, myspace Right. Think about it. They were not the first players, those first players, like they're not in the top 510 of Fortune 500 companies, right. proved, they started to prove out the market, they started to get people interested, they started to buzz but they didn't make it to that next level. But the second batch, right, the second batch I think might make it to the next level."
+}

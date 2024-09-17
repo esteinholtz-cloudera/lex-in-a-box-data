@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:18:09",
+  "End": "02:18:41",
+  "Text": ", I mean, I guess long term we'd want to decentralize, right? We don't want a single point of failure in the physical space. The earth is a single point of failure. But no, I mean, you look at all this kind of like space fiction and I mean, who would want to live on Mars, man? It's like a freaking desert. I mean, the earth is so beautiful. I hope we can save it. You know, it's just so gorgeous when you look at the earth compared to any other exoplanet or whatever you look at it. mean, the earth is so spectacular and wondrous and singular. I think we've got to do everything we can to save it here."
+}

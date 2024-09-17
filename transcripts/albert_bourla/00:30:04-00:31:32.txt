@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:30:04",
+  "End": "00:31:32",
+  "Text": ". Correct. And this is something that it is allowed when physicians are speaking to physicians, but it is not allowed for the pharmaceutical companies to refer to these studies because usually there are studies that are happening with label and uh apparently several of our reps in 2003, they did it. uh we had to uh to settle in 2009 and we paid a very big fine. As you said, the fine was related not to the severity of the contact, but the size of the revenues. So the the the fines are, if Dexter was a small product, we would get a small fine. Dexter was a very big product and we got a very large fine, very bad. What happened in 2003? don't think that uh these things happened since then. We have a stellar record from 2009 until now of complying with every single regulation and rule. We have internal processes to make sure that these are not happening by individuals that may have an interest. For example, to get a promotion, they may try and do things that they are not the right things. And uh we have more importantly, a culture this company that really sets aside people that they think differently. So I didn't like what happened in 2003. But I believe a lot has changed in the 20 years that followed almost 20 years."
+}

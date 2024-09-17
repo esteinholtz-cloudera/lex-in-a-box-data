@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:49",
+  "End": "00:12:30",
+  "Text": "interesting things here. First of the speed limit, wild is it to you? If you put yourself in the mind in the time of Einstein before him to come up with a speed limit of that, there is a speed limit and that speed limit is the speed of light. How difficult of an idea is that, you know, you said from a mathematical physics perspective, everything just kind of falls into place, but he wasn't,, maybe initially had the luxury to think mathematically. He had to come up with it intuitively. Yes. So, like what, how common intuitive is this notion to you? Is it still crazy? No."
+}

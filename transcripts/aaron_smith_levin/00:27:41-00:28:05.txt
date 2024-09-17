@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:27:41",
+  "End": "00:28:05",
+  "Text": "it would be all of that because survival is the uh the dominant force across all the dynamics I mean L Ron Hubbard, it was either genetics or science of survival. He, he, he says he discovered the principle upon which all life exists and that is all life no matter what it is trying to do. Are you ready? Lex? It's trying to survive."
+}

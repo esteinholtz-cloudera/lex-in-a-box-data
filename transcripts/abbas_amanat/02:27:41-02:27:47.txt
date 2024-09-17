@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:41",
+  "End": "02:27:47",
+  "Text": ", but in terms of executive to make decisions and all that kind of stuff. Does he need to check with anybody?"
+}

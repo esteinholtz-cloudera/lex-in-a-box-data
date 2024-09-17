@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:50",
+  "End": "00:48:59",
+  "Text": "learning. So long term, you think that's going to unlock a lot of power in machine learning systems is this kind of unsupervised"
+}

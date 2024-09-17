@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:41",
+  "End": "00:41:44",
+  "Text": ". It's an unclear. You already know the number of parts."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:03",
+  "End": "01:46:15",
+  "Text": "data for the graphs. Yeah. So you can reconstruct it yourself. Yeah. And then you, you have different levels of access in terms of how many queries you can do. is really cool. And now because there's like uh Elon, there's a lot of sort of revolutionary stuff happening at Twitter. I think you could literally sort of push for innovation there, like there's a aggressive innovation happening. So in terms of uh requesting stuff for the API you could do all that kind of stuff. I think Twitter is just a fascinating platform for the, as cliche as it sounds for studying me, it's interesting what makes for a healthy conversation, that term has been used. But it's interesting how conversation, to me, it is fascinating how conversations break down not like how like the virality of drama conflict or disagreement, how that evolves when a large number of people are involved when a large number of this. No, no. Um misinterpretation of, of statements is involved in text based with some anonymity thrown in. like I feel like there's a lot of studies that can be done there. I mean, Twitter is"
+}

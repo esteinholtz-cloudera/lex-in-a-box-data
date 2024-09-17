@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:39:37",
+  "End": "03:39:45",
+  "Text": "past is interesting for the frame of like, of like the, like, I guess you're right. I guess we're talking a lot about, like, narrative. Yeah."
+}

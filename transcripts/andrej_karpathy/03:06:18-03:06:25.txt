@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:06:18",
+  "End": "03:06:25",
+  "Text": "you think it'll happen slow slowly enough that we'll be able to as a, as a human civilization? Think through the problems? Yes,"
+}

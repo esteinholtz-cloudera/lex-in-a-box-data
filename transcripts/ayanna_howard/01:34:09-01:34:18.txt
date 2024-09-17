@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:34:09",
+  "End": "01:34:18",
+  "Text": ". Right. Making sure that they can rationally even having the conversations who should pull the trigger, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:26:32",
+  "End": "01:27:09",
+  "Text": ". Yeah. So we talked about life in space and you might need more arms than legs. One of the projects by Valentina Soini was a air powered robotics tail. So it's a soft robotics tail that essentially has a little camera on the back end of it can do vision and knows where to grapple. So it's behind you, it grapples onto something and holds you in space and then you can actually free up both of your hands to work. So we're already starting to think about the design of bionic humans or prosthetics or things that would make you kind of like a cyborg to augment your capabilities. When you're in a space environment, would you"
+}

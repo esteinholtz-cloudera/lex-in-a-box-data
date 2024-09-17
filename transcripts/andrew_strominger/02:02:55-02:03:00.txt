@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:02:55",
+  "End": "02:03:00",
+  "Text": "that that would be the holographic place, that would be the holographic, all of that."
+}

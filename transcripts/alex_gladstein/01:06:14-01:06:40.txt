@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:06:14",
+  "End": "01:06:40",
+  "Text": ", it's interesting because when you grow from 2% when you grow in the number of people using it at the scale they're using it., it's going to need to be resistant to governments and institutions messing with it. So it's interesting to see what kind of, um what kind of Cryptocurrency would be resistant to that. Obviously Dogecoin is gonna win. Let's be honest."
+}

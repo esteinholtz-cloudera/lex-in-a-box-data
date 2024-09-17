@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:15:38",
+  "End": "00:16:13",
+  "Text": "what's the maximum amount of years a president can be president. Yeah, he has to be he or she in the United States in the United States according to our current constitution. they, they're very limited in terms of what they have to prioritize. And then if you look at a four year cycle, two years of that is essentially preparing for the next election cycle. So it's only two years of really quality attention you get from the president who is the chief executive of all the intelligence community. So the most important thing to them is not always the most important thing to the long term survival of the United States."
+}

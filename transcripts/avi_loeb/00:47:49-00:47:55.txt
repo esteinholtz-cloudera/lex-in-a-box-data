@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "00:47:49",
+  "End": "00:47:55",
+  "Text": "we figure it out if we, for example, come close to it and learn what it's made"
+}

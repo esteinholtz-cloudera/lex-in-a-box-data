@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:50",
+  "End": "00:21:02",
+  "Text": "know, it's kind of there is a sadness. So we as humans give birth to other humans, right? But there's in, there's generations and there's often in the older generation a about what the world has become now. mean, that's kind of,"
+}

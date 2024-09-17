@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:25",
+  "End": "01:45:33",
+  "Text": "what to make of that because I suppose there's an intimacy when you're part of a tribe of that kind."
+}

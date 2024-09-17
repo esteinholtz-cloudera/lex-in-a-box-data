@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:51",
+  "End": "01:16:58",
+  "Text": ", really powerful to know that you're not, not crazy for thinking this is a bad relationship"
+}

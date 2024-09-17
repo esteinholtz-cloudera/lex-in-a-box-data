@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:13:37",
+  "End": "03:13:44",
+  "Text": "that they use technology to empower that love for other humans and nature."
+}

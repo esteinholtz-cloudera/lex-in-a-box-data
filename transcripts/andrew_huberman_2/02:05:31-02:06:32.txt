@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:05:31",
+  "End": "02:06:32",
+  "Text": "a pill that's safe, that increases nicotinic transmission. I mean, I know a number of people that chew Nicorette um actually, they have a I have a Nobel Prize winning colleague at Columbia not to be named um who choose like six pieces of Nicorette and a half hour conversation with him he started doing that as a replacement for smoking because smoking is nicotine nicotinic stimulation of the cholinergic system. So, smokers have long known that increases focus and attention and learning. It's just that the the lung cancer thing is a, is a barrier now I'm not suggesting people take Nicorette, but it's clear that we need better directed pharmacology. But you can imagine next time you go in for a learning bout, if it's really essential, you might want to stimulate the nicotinic system if that's safe for you., I'm a doctor. So again, I'm not telling people to do this, but that's where it's going until we start merging machines with pharmacology and behavior. It's, it, we're just kind of walking around in the circle over and over again. And it's gonna happen."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:31:43",
+  "End": "01:31:52",
+  "Text": "you, and you broke tradition with the jacket color. So it sounds to me that you are a free speech absolutist."
+}

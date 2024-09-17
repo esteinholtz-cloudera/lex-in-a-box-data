@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:14:56",
+  "End": "00:15:01",
+  "Text": ". Yeah. Like, what's the primary driver of a tree?"
+}

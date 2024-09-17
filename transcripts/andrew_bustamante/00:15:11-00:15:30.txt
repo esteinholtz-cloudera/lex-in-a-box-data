@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:15:11",
+  "End": "00:15:30",
+  "Text": "when you talk about the president wanting to prioritize what the president cares about, immediately shows a break between what actually matters to the long term success of the United States versus what happened, what benefits the short term success of the current president"
+}

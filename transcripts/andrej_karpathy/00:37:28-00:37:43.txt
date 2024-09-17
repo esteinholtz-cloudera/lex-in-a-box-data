@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:37:28",
+  "End": "00:37:43",
+  "Text": ", I think it's unsettling. I think it's a deterministic system. I think that things that look random, like, say the collapse of the wave function, et cetera, I think they're actually deterministic, just entanglement and so on. And some kind of a multiverse theory, something,"
+}

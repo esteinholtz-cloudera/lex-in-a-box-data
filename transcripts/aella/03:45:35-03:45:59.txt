@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:45:35",
+  "End": "03:45:59",
+  "Text": "you'll have like FOMO for sure, for the people who pick 300 years not, or the other man regret another human thing. you're like, what does transhumanism mean to you in general? So extension of life, extension of what it means to be in a living conscious being, you're all for it, whatever that"
+}

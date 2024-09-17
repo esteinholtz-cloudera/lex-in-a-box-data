@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "01:37:59",
+  "End": "01:38:02",
+  "Text": "you for coming, come back and you."
+}

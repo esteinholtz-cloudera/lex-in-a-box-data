@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:21:04",
+  "End": "00:21:08",
+  "Text": "course. And, and the research may have happened long before"
+}

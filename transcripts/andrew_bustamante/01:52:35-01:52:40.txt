@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:52:35",
+  "End": "01:52:40",
+  "Text": ". I don't believe you can do much better in my experience. I have not seen anything better."
+}

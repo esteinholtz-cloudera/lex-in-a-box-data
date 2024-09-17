@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:05:43",
+  "End": "03:05:51",
+  "Text": "the actual sort of uh autonomous weapon system kind of thing. Do you, do you worry about that stuff? I used"
+}

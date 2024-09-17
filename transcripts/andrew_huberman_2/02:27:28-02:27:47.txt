@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:28",
+  "End": "02:27:47",
+  "Text": "it was hard. It's still a little bit difficult to tell people. No, you don't get it. We're not going to talk for 10 minutes. going to talk for three or four hours. It's a different for scientists. Like they're like, what are we going"
+}

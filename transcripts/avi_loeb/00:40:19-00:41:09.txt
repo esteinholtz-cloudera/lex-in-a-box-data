@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:19",
+  "End": "00:41:09",
+  "Text": "do you think it could have come from? And it's so OK, from a scientific perspective, the narrow minded view as it probably talk about throughout is, you know, you kind of want to stick to the things that to naturally originating objects like asteroids and comets. OK. That's the space of possible hypotheses. And then if we expand beyond that, start to think, OK, these are artificially constructed, like you just said, it could be by humans, it could be whatever that means by some kind of extraterrestrial alien civilizations., if it's the alien civilization variety, what is this object? Then that's"
+}

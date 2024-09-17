@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:23:44",
+  "End": "03:23:57",
+  "Text": "other concern is that it's, um, a system, it's a machine from a foreign power that's doing intelligence collection. Correct. So, it's not just military purposes, it's actually collecting"
+}

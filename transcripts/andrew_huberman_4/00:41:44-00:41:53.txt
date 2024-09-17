@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:44",
+  "End": "00:41:53",
+  "Text": "able to step back. Now. That's like to me, the ultimate place to reach laughter."
+}

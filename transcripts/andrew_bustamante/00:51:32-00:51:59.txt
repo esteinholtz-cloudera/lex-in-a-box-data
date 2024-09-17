@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:51:32",
+  "End": "00:51:59",
+  "Text": "again, empirically, this is I look at things through a very empirical lens, a very, a very cold fact based lens. And there are multiple data points that suggest that the American people ideologically sympathize with Ukraine, but they really just want their gas prices to go down. They really just want to be able to pay less money at the grocery store for their food and they most definitely don't want their sons and daughters to die in exchange for Ukrainian freedom."
+}

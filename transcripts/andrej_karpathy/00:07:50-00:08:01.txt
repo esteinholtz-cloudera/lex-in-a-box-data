@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:07:50",
+  "End": "00:08:01",
+  "Text": "feels like you're referencing some kind of a declarative structure of like memory and so on and then uh putting that together with your prompt and giving away some"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:06",
+  "End": "00:43:18",
+  "Text": "mean, I'm almost lingering to the silly notion of pronouncing stuff like that. So I I means what does the extra I at the end,"
+}

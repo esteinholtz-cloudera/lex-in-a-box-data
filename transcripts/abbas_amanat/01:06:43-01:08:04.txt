@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:43",
+  "End": "01:08:04",
+  "Text": "be surprised if it's that low, I would say so if my understanding, because I've been very deeply paying attention to the war in Ukraine and to Ukraine, to Russia uh to support in Russia for Putin. I think without knowing the details without even considering the effects of propaganda and stuff like that is there's probably a large number of people in Iran that see this as a battle of human rights, but sees it as a battle of uh conservatism like tradition versus modernization and they value tradition, that what they fear from the throwing away of the hijab is not the loss of power. And like the women getting human rights, what they fear is, it's the same stuff you fear when you're sitting on a porch and saying kids these days have no respect. that the there's a large number of Iranians that probably value tradition uh the beauty of the culture and like they, they fear that kids with their internet and their videos and their revolution will throw away everything that made this country uh hold together for millennia. Right."
+}

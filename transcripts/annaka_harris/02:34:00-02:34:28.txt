@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:34:00",
+  "End": "02:34:28",
+  "Text": "think love, romantic love is a beautiful thing. Connection. Friendship is a beautiful thing. And it's so interesting how people can grow together, how interact together, disagree together and make each other better. Like scientific collaborations are like this too. Dan Conman Tasy, I mean, the there's, most people are not able to do that in the scientific realm. They create the more successful, you become the more rare"
+}

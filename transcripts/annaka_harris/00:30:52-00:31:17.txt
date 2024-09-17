@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:30:52",
+  "End": "00:31:17",
+  "Text": "brain. That was one of the things I said to this person was, um, because someone, someone chimed in and said, you said, I, what do you mean by I? And so actually, that's another point I could make, which is,, first my response to that was, well, people tend to get creeped out when I say the system that is my brain and body that we call Anika recommends, you know,"
+}

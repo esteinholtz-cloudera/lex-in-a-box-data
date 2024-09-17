@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:46",
+  "End": "02:09:07",
+  "Text": ", but not all the way because he's saying like that we don't even, we, the evolutionary process has constructed our brain mechanisms in such a way that we're far from having X to objective"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:41:45",
+  "End": "00:42:26",
+  "Text": ", I'm I'm really glad you're talking about it because it's probably important to understand. I'm also hopeful that people get educated about how much their data when collected unencrypted, but in general can be used to harm them. I mean, it's almost like an education. I feel like, you know, a double edged sword because I feel like people become fearful too easily. And that actually has a very negative effect on the quality of life in some sense. You want to have tools that allow you to live freely as opposed to live in fear. If you live in fear, that's not a good way to live. So it's a balance. It's a"
+}

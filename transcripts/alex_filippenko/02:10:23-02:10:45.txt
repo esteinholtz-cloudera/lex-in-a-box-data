@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:23",
+  "End": "02:10:45",
+  "Text": "maybe taking a step back, we talked about the Nobel Prize of the Accelerating Universe. But your work and the ideas around supernova were important in detecting this accelerating universe. Can we go to the very basics of what is this uh beautiful mysterious object of a"
+}

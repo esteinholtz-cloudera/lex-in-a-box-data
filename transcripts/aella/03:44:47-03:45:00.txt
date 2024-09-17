@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:44:47",
+  "End": "03:45:00",
+  "Text": "torture. Torture is supposed to be unpleasant. I'm sure a, I will be very creative in figuring out how to torture you. think I would be, I would go on the safe side. I was just like, 100 and 50 years."
+}

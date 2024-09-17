@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:53:12",
+  "End": "01:53:22",
+  "Text": "you? I make a strong statement. I don't know why. I don't know why, but I basically don't like any movie before 1995 like that. Didn't"
+}

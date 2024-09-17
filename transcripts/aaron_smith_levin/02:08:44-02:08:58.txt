@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:44",
+  "End": "02:08:58",
+  "Text": "that pales in comparison to the separating from family. Exactly. What is there? Is there parts of your family that you've lost because of Scientology?"
+}

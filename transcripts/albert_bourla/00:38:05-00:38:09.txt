@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:05",
+  "End": "00:38:09",
+  "Text": "don't. Oh, in terms of man, like having a negative"
+}

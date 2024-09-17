@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:11:50",
+  "End": "00:11:57",
+  "Text": "than our, than our eu given the 4 billion years, it took us to get here. Then yes, maybe it started at eight."
+}

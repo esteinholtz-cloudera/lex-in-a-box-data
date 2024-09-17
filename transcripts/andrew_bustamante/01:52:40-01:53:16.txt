@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:40",
+  "End": "01:53:16",
+  "Text": ", it, it is kind of, uh difficult to realize that there is a core personality or the degree that's true. It seems to be true. It's even more difficult to realize that there is a stable at least the science. So a stable consistent intelligence,, you know, the G factor that they call that if you do a barrage of IQ test, that's going to consistently represent that G factor and we're all born with that and we can't fix it. That defines so much of who we are. It's"
+}

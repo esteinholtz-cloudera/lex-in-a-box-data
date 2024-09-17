@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:27",
+  "End": "02:17:56",
+  "Text": "hoping some of that story will be written through the process of trying to build a brain. So the process of engineering intelligence, not just the neuroscience perspective of just looking at the brain but trying to create it. yeah, that story hasn't been uh written almost at all or just the early days of figuring that one out. But see, like you said, that math is discovered. So, um aliens should at least have the same math as us,"
+}

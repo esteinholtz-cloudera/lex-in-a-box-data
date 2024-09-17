@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:20:02",
+  "End": "02:20:31",
+  "Text": ". No, I was born day before the challenger blew up. And it was always so tragic for me to look back on that because that really like altered our arc in terms of space exploration. Like that had not happened. We'd be in a very different arc and I do respect and admire people pushing for exploration. But I, I, at the same time, I just I want to recognize like the, we just, you know, we know how unique earth is and do think we got to do everything we can to, uh, to protect them."
+}

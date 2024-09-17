@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:32",
+  "End": "01:19:54",
+  "Text": "terms of human robot interaction. So what role you've kind of mentioned with data, emotion being be problematic if not implemented. Well, I suppose what role does emotion and some other human like things the imperfect things come into play here for good human robot interaction and like love."
+}

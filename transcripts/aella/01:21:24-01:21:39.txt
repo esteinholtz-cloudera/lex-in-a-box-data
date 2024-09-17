@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:24",
+  "End": "01:21:39",
+  "Text": "mean, like, uh,, actually because so much of your upbringing, you didn't have money, you had a struggle with the fact of your job and so on. Um, maybe a good person to ask can uh, by happiness."
+}

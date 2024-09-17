@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:41:36",
+  "End": "01:41:51",
+  "Text": "don't, I don't ho honestly, I, I don't know, but I'm pretty confident that if there is, won't get to it in my lifetime. don't think we're near it, but this"
+}

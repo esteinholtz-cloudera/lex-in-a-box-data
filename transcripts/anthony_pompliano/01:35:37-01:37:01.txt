@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:37",
+  "End": "01:37:01",
+  "Text": ", it's funny the, the, the vision of the future you're painting. kind of an exciting one and it almost makes me sad looking into the future and we'll look back at this time. It's like how incredibly inefficient financial transactions were like the transaction of value of any kind. Like how what to pay each other. There has to be processes, there's payroll and all this kind of the entirety of the transactions is just painful. Almost all transactions are painful and even, and the companies that innovate to make the transactions a little bit more frictionless like Amazon with the one click purchase button went out huge. But even that's really painful. So it's actually really interesting, especially then you start to move that into the space of data. There's a lot of people thinking about privacy and data and can we put, we convert data into money? It's just so that you can pay for how much you reveal to the companies about your own private data that can then be to assign value to you. So you can use a service for free if you hand over the data. But there's like explicit transaction going on. So you can empower all those kinds of things that will just fundamentally change our world. That's really, really exciting."
+}

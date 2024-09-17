@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:07:00",
+  "End": "00:07:26",
+  "Text": "think that's fair. So basically, I'm underselling it by a lot because you definitely do get very surprising emergent behaviors out of these neural nets when they're large enough and trained on complicated enough problems, like say, for example, the next uh word prediction in a massive data set from the internet. And uh then these neural nes take on uh pretty surprising magical properties. Yeah, I think it's kind of interesting how much you can get out of even very simple mathematical formalism when"
+}

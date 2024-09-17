@@ -1,0 +1,6 @@
+{
+  "Speaker": "Avi Loeb",
+  "Start": "01:46:26",
+  "End": "01:47:15",
+  "Text": "the way, it was everybody, but it was a commercial interest that drove that for trade and it might happen again in this context, you have people like Jeff Bezos and Elon Musk that are commercially driven to go to space. it doesn't mean that what we will ultimately find is not new worlds, you know, that have nothing, you know, much, have much more to offer than just commercial interests and, uh, as a side effect almost. Yeah. Yeah. And then that's why I think, you know, we should be open minded and explore. And, at the same time, because of the reasons you pointed out, uh I'm not optimistic that we will survive more than a few centuries into the future because people do not think long term. And that means that we will only survive for the short term."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:04",
+  "End": "02:17:15",
+  "Text": "that's, I guess the process of science and physics is to keep exploring, to keep exploring find the thing that will uh in a century seem obvious."
+}

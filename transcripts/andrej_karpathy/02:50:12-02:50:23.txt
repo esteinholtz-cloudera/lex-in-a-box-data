@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:50:12",
+  "End": "02:50:23",
+  "Text": "giving correct answers in novel settings by manipulating information you've learned to correct algorithm. You're not doing just some kind of a look up table on there as neighbor search something like"
+}

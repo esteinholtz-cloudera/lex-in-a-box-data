@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:42",
+  "End": "00:22:03",
+  "Text": "the drive in the face of the fact that most people are doing theoretical work. What motivate you in the uncertainty and the challenges to get the helicopter to do the applied work, to get the actual system to work. Yeah, in the face of fear, uncertainty of the setbacks that you mentioned for localization,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:10:25",
+  "End": "02:11:26",
+  "Text": ". That's what I'm saying. So I have not, I hope someday but I have not. Um you know, there are some experiments now to verify some of my predictions about, you know, properties of gravity. And so on. But I ha I have not like, know, most of what I've done is in the, know, it could happen still, it's still a logical possibility that everything having to do with string theory. And,, I mean, as I, as we mentioned, I'm betting the farm that it's not. But, but it is a logic, indeed, a logical possibility that, that people would say, can you believe Lex Fridman interviewed Elon Musk and Kanye West and then he interviewed Strominger who was on this, working on this theory that just completely went into the completely went into the toilet. You know, I, I'm gonna"
+}

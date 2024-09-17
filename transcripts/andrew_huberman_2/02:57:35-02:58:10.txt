@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:57:35",
+  "End": "02:58:10",
+  "Text": "the hedgehog. Now it all makes sense. Andrew like we talked about offline on this podcast. I do hope we write some stuff together, do some research together. You're one of the most inspiring scientists, speaking of communicating to the world. So I can't wait to see what you do with the podcast. I'm already a huge fan. I've been telling everybody about it. I can't wait to see you, talk to Joe as well soon and I can't wait to see what kind of paper we write together. Thanks so much for talking."
+}

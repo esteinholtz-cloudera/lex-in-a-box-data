@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:29",
+  "End": "02:06:39",
+  "Text": ". But our, for reality, he says that's a complete. Space time is a complete weird construction that Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:54:46",
+  "End": "02:54:57",
+  "Text": "is like a modeling insight, insight. Yeah, it's a you have a powerful enough model of understanding the world that you actually understand that you are an entity in it. Yeah, but"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:27:51",
+  "End": "01:28:54",
+  "Text": "kind of combining something we were talking about. You can form these relationships with objects and anthropomorphize. One of the things that we're thinking about for agriculture created by manu and sou. So two students at MIT was this little, it looks like a planet. But it's inspired by, I think a Mandala or Nepalese spinning wheel you plant plants on the inside and the astronaut has to spin it every day to help the plants survive. So it's a way to give the astronaut something to care about. Something that they are responsible for keeping alive and can really um invest themselves in and it's not necessary, right. We have other ways to grow in orbit. Um Hydroponics liquid medium trying to keep the liquid around the plant roots is hard because there's no gravity to pull it down in a particular direction. what I loved about this project was, they said, sure we have ways that the plants could grow on their own, but the astronauts might want to care for it in the same way that we have little plants that come to be important to us. Little plant friends. Yeah. So there's agri fuge, that's an early model of this spinning, manually spinning plant habitat. I"
+}

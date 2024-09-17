@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:43:50",
+  "End": "01:44:12",
+  "Text": "certain ways to pull yourself in that book. Actually. Uh Karl DAO DAO, he, he wrote the book projections, one of my favorite. First of all, just as you said, incredible writer. Just, just, I mean, um you wrote fiction, if you wrote those kinds of things, I'm, I'm curious to see where he goes with his writing. It's very interesting. I think that"
+}

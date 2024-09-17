@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:55:52",
+  "End": "00:56:07",
+  "Text": "what do you think about another touchy subject? But what do you think about the politicization of science on topics like global warming, embryonic stem cell research and other topics like it. What's your sense? Why? What do you"
+}

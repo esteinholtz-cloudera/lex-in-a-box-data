@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:58",
+  "End": "00:50:38",
+  "Text": ", but I think the act of uh interviewing of conversation in these processes, even if you don't want to do it, right thing to do, even when you're feeling irritable is to do the third person view and be able to express with words that you're feeling irritable, express what you're going through, you know, use words, which I hate doing. I honestly, I think my ultimate thing would be just to never say a single word to David Gas and just go through hell, it doesn't matter what we do, but to do it quietly, to also express it, my ultimate hell. He's"
+}

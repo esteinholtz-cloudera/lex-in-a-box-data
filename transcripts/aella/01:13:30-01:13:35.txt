@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:30",
+  "End": "01:13:35",
+  "Text": "does this all interplay with sex trafficking? So, consensual versus not consensual."
+}

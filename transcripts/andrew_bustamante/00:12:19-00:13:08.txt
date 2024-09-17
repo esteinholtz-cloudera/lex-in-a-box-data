@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:12:19",
+  "End": "00:13:08",
+  "Text": "president is the commander in chief for the military. But the ch the executive, the president is also the executive for the entirety of the intelligence community. So he's the the ultimate customer. If you look at it like a business, the customer, the person spending the money is the president and the director is the CEO. if the, if the director doesn't create what the president wants, there's gonna be a new director. That's why the director of CIA is a presidential appointed position. Sometimes they're extremely qualified intelligence professionals, sometimes they're just professional politicians or soldiers that get put into that seat because the president trusts them to do what he wants them to do another uh gaping area that causes problems. But that's still the way it is."
+}

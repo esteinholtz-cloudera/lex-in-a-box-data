@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "00:15:33",
+  "End": "00:16:24",
+  "Text": "Not at all because the studies are highly regulated. knows what regulators. And when I say regulators FDA European authorities, UK authorities, Israeli authorities, Japanese authorities, Canadian authorities want to see how the study needs to be conducted and what exactly they need to see to approve it or not. So clearly everybody takes in the race, how much money I'm going to invest and what is the chances that I'm going to, to lose them? what you can do is just to change the rules of the game so that you won't lose the money. There are very well established methodologies that would say with very high precision, if your medicine is effective, if your medicine is safe and those are there for all and they are playing with the same rules."
+}

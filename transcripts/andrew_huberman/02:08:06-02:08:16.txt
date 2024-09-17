@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:06",
+  "End": "02:08:16",
+  "Text": ". And when you say neuroplastic, you mean like the brain, once the decision is made, it'll start rewiring stuff to, to make sure that this we can actually make this happen. That's right. I mean,"
+}

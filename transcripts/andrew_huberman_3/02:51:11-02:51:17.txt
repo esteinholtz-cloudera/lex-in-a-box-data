@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:51:11",
+  "End": "02:51:17",
+  "Text": "I was doing it. I was thinking to myself, ok, Andy, that's a 92nd sprint because I got to the, security line. I finally got TS"
+}

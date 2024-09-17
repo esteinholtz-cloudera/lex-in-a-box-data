@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:16",
+  "End": "01:34:25",
+  "Text": "is that? Let me ask some nice dumb questions. Uh How is that not traveling faster than the speed of light? Yeah, it's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:07",
+  "End": "00:50:27",
+  "Text": ". I agree with you. I think the way as a ballerina, Alicia Vikander, a brilliant actress, actor that moves around, we're very far away from creating that. But the way she moves around is exactly the definition of perfection for a roboticist. It's smooth and efficient. So it is where we want to get I believe like I think so I hang out with a lot of human or robotics people. They love elegant, smooth motion like that. That's their dream. So the way she moved is actually what I believe that would dream for a robot to move. might not be that useful to move that sort of uh that way. But that is the definition of perfection in terms of movement, inspiration from real life. So for, for Devs for ex Machina, at characters like Elon Musk, what do you think about the various big technological efforts of Elon Musk and others like him and that he's involved with such as Tesla, spacex, neuralink. Do you see any, any of that technology potentially defining the future worlds you create in your work? So Tesla is automation, spacex is space exploration. Neuralink is brain machine interface somehow merger of uh biological and electric systems."
+}

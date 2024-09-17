@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:42:22",
+  "End": "03:42:37",
+  "Text": ", yeah. Right. With the B one.. But the babies, there's probably artificial ways to have babies that we can figure out. Then how important is sex to being human? I guess sex with other humans. Like, we're going to have to figure that out in this century."
+}

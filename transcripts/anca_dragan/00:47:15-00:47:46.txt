@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anca Dragan",
+  "Start": "00:47:15",
+  "End": "00:47:46",
+  "Text": ". Good question. I have many opinions on this. Imagine downtown San Francisco. Yeah. crazy. Busy everything. Ok. Now, take all the humans out. No pedestrians, no human driven vehicles, no cyclists, no people on little electric scooters zipping around nothing. think we're done. I think driving at that point is done. We're done. There's nothing really that still needs to be solved about that."
+}

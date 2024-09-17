@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "03:06:58",
+  "End": "03:07:09",
+  "Text": "? cannot imagine any reasonable point of view that the organization of CIA had anything to do with the assassination of JFK. So"
+}

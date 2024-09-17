@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "00:50:17",
+  "End": "00:50:21",
+  "Text": "is money in democracies? And capitalist countries."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:44",
+  "End": "00:55:09",
+  "Text": "just to linger on NASA for a little bit, uh what do you think? Maybe if you have other memories? But also what do you think is the future of robots in space? We mentioned how, but there's incredible robots that NASA is working on in general thinking about in our, as we out, human civilization ventures out into space. What do you think the future of robots is there? Yeah. So, I"
+}

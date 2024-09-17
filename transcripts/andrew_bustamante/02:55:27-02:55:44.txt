@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:55:27",
+  "End": "02:55:44",
+  "Text": ", let me argue that there might be an advantage to share information with the American public when terrorist attack, um, I is averted or the lives of Americans are saved because what that does is"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:46",
+  "End": "01:00:52",
+  "Text": "think they don't have a good even sense. I mean, it, so there's an incompetence within the propaganda machine. Yes, it"
+}

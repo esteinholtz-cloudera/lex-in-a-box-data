@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:56",
+  "End": "01:01:04",
+  "Text": "think perhaps a part of that is just the humility that comes with acknowledging there's something bigger and more powerful than you"
+}

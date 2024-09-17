@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:14",
+  "End": "01:45:30",
+  "Text": "speaking of uh young whippersnappers, uh Roger Penrose. he kind of has a idea that there might be some information that travels from whatever the heck happened before the Big bang"
+}

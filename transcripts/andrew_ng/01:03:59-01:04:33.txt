@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Ng",
+  "Start": "01:03:59",
+  "End": "01:04:33",
+  "Text": "know, in Silicon Valley, a lot of start of failure has come from building a products that no one wanted. So when, uh you know, cool technology, but who's going to use it? So I think I tend to be very outcome driven. Um And, and, and customer obsessed, uh ultimately, we don't get to vote if we succeed or fail. It's only the customer that they're the only one that gets a thumbs up or thumbs down votes. In the long term, in the short term, know, there are various people that get various votes, but in the long term, that's what really matters."
+}

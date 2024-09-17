@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:04",
+  "End": "01:16:22",
+  "Text": "there is I in that case, perhaps at all machine learning cases, there's a lot of tasks. is coming up formulating a task for a multiheaded neural network is formulating a task part of the programming."
+}

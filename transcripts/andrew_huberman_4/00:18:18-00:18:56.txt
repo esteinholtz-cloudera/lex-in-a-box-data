@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:18:18",
+  "End": "00:18:56",
+  "Text": ". Um I've learned to trust my gut versus the uh the forebrain over analysis, overriding the gut. Other people often my life have had great optics, right? I've, I've benefited tremendously from an early age of being in a large community. I've always been mostly guys, but I have some close female friends and always have as well who will tell me that that's a bad decision or this person not so good or be careful or they're great or that's great. So oftentimes my community and the people around me have been more aligned with the correct choice than not really. Yes."
+}

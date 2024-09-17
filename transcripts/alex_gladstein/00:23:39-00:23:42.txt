@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:23:39",
+  "End": "00:23:42",
+  "Text": ", you create other group and then"
+}

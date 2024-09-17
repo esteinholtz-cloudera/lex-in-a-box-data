@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:20:58",
+  "End": "02:21:09",
+  "Text": "general? No, most people come down here, most people, but for certain situations, obviously, like if you're in prison you're"
+}

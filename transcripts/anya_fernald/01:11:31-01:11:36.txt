@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:31",
+  "End": "01:11:36",
+  "Text": "need to see, look at that grass fed and finished or grass fed 100%"
+}

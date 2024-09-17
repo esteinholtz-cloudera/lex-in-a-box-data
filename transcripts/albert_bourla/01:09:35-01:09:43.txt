@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:09:35",
+  "End": "01:09:43",
+  "Text": "any but it is reliable. I don't know, where are these small or big, reliable I haven't seen any."
+}

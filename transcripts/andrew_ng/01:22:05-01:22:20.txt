@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:05",
+  "End": "01:22:20",
+  "Text": "you have? So some folks have worries about the different trajectories that path would take even existential threats of an A G I system. Do you have such concerns whether in the short term or the long term?"
+}

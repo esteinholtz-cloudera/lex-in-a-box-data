@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:05",
+  "End": "00:49:20",
+  "Text": ", that makes one of us, I don't know. There is probably a fascinating story to why conspiracy theories are so compelling to us, human beings as deeper than just fun internet stuff."
+}

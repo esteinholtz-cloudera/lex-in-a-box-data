@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:23",
+  "End": "01:15:30",
+  "Text": "me just let me just sit in the silence of it. There's been so much pain on this one point,"
+}

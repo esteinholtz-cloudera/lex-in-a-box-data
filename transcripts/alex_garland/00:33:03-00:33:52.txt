@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Garland",
+  "Start": "00:33:03",
+  "End": "00:33:52",
+  "Text": "not with Ex Mach in relation to 2001 because I'm not sure, I mean, I'd be pleased if there was, but I'm not sure in a way there isn't a fundamental uh discussion of issues to do with A I that isn't already and better dealt with by 2001 2001 does a very, very good account of, the way in which an A I might think and also potential issues with the way the A I might think. And also then a separate question about whether the A I is malevolent or benevolent and 2001 doesn't really, it's a slightly odd thing to be making a film when, you know, there's a pre-existing film which is not a really superb"
+}

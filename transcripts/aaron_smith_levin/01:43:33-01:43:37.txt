@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "01:43:33",
+  "End": "01:43:37",
+  "Text": "and Mark are both on the board of the Aftermath Foundation with."
+}

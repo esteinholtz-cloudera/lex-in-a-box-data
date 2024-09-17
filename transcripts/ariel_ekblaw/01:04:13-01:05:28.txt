@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "01:04:13",
+  "End": "01:05:28",
+  "Text": "am really concerned about that. And I do think for decades, the scientific community in space has hung on to this notion from the 1967 Outer Space Treaty, which is space is the province of all humankind, peaceful uses of outer space only. But I do think the rise in tensions and the geopolitical scene that we're seeing. I do, yeah, I do harbor a lot of concern about hot wars following humanity out into space and it's worth trying to tie nations together with more collaboration to avoid that happening. The International Space Station is a great example. I think it's something like 18 countries are party to this treaty. It might be less, it might be more. And then of course, there's a smaller number of countries that actually send astronauts. But even at the fall of the Soviet Union and through some tense times with Russia, the ISS had been a place where the US and Russia were actually able to collaborate between mirror and is si think it'd be really important right now, in particular find other platforms where these hegemonic powers in the world and developing world nations can come and collaborate on the future of space and purposefully intertwine our success so that there's a danger to multiple parties if somebody is a bad actor."
+}

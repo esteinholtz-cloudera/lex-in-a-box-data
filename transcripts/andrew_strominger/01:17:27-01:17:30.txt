@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:17:27",
+  "End": "01:17:30",
+  "Text": "zero energy ones."
+}

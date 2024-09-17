@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:23:56",
+  "End": "01:24:06",
+  "Text": "doesn't pan out. But other things that actually make you feel good about all the hard work you've done, do pan out something you haven't expected. What might that be? Well, as"
+}

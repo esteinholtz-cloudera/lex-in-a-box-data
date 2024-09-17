@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "02:11:45",
+  "End": "02:12:03",
+  "Text": "different from the Bitcoin Standard. It's, it's more the average person, it's not a history book, it's a collection of his talks that he gave over two or three years. It's not very technical, it's very approachable and some of it might be dated now because it's like 2015, 2016. But I mean, it's great"
+}

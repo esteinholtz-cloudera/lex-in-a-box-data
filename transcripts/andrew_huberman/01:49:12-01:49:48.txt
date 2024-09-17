@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:12",
+  "End": "01:49:48",
+  "Text": "you think there could be an experiment centered around consciousness? I mean, you're plugged into the neuroscience community, I think for the longest time, the quote unquote C word was totally not, was almost anti scientific. But now more and more people are talking about consciousness. Elon is talking about consciousness. A I folks are talking about consciousness., it's still nobody knows anything but it feels like a legitimate domain of inquiry that's hungry for a real experiment."
+}

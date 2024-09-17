@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "02:11:44",
+  "End": "02:12:40",
+  "Text": "could happen, it could happen, it could happen. It's, it's in the, and of course, if that couldn't happen, it wouldn't be real exploration. Right. Absolutely. And um,, but I, I, you know, I do take a lot of satisfaction that some of the things I discovered are at the minimum mathematical truths and they're still, so you don't have that sort of nostalgic feeling of it being something that was. And, and uh, and I'm still making discoveries now that I'm as excited about. We'll see if they the test of time, that, that stand the test of time that these other ones did that. But that I'm as excited about as I about those when I, when I, when I made them, I am easily excitable as my friend."
+}

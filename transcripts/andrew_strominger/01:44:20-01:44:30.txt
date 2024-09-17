@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:44:20",
+  "End": "01:44:30",
+  "Text": "string theory, string theory has basically had nothing. There's been almost nothing interesting said about that in the last decades."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:56",
+  "End": "00:14:19",
+  "Text": "scary notion because most people are now extremely of auto pa, they use it, but they don't trust it. And it's a scary notion that there's a certain point where you allow yourself to look at the smartphone for like 20 seconds and then there'll be this phase shift where it'll be like 20 seconds, 30 seconds, one minute, two minutes."
+}

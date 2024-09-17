@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:55",
+  "End": "00:51:22",
+  "Text": "you have to ask the question you have to ask me, this is like first principles thinking the earth looks flat. So I'm going to look around here and I like crazy is it that the earth is round? And there's a thing called gravity that operates between objects that's to the mass of the object. That's"
+}

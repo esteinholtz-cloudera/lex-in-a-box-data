@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "01:08:50",
+  "End": "01:09:10",
+  "Text": "interesting. It's this vibe of, like, how can you bring, like, vibrant novelty to whatever you're doing anything you're doing? And I really like doing this with surveys too. Like, I've been doing a lot of standard surveys, but I'm also experimenting with novel creative artistic surveys. I'm like, how do you ask a question in a way that's beautiful and unusual and a thing is completely groundbreaking. Like nobody's ever always make"
+}

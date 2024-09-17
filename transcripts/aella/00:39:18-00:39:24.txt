@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:18",
+  "End": "00:39:24",
+  "Text": ", super controlling and developing and feeding the self critical aspect of your brain."
+}

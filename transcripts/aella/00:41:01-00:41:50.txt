@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "00:41:01",
+  "End": "00:41:50",
+  "Text": "always a flaw. I think a lot of it was a lot of the fucked up. This of my brain came from feeling like I didn't have the authority to think because it was so carefully,, suppressed like the my ability to like express or have any sort of power was just absolutely annihilated, like systemically, like psychologically, they would do like psychological torture mechanisms to make sure that like I wasn't actually thinking on my own like being able to deviate from anything anybody ever told me to the degree that it's still ingrained in me. Like I went with a friend, we were traveling and he wanted me to hop a turnstile. It was like very late at night. The train was here and I could not physically force myself to do it. Like he was like yelling at me, like come on, do it like like no, but I was trying so hard to make my body cross the line and it was just, it's like embedded in my physical being to be unable to do stuff like that, which is really annoying."
+}

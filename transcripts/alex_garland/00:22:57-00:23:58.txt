@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:22:57",
+  "End": "00:23:58",
+  "Text": "in your new series does and we could speak more broadly. There's a, let's talk about the people constructing those algorithms which in our modern society, Silicon Valley, those algorithms happen to be a source of a lot of income because of advertisements. So let me ask sort of a question about those people. there are current concerns and failures on social media there? Naivety, I can't pronounce that word. Well, are they naive? Are they use that word carefully but evil in intent or misaligned in intent? think that's a, do they mean well, and just go have a unintended consequence or is there something dark in them that that results in them creating a company results in that super competitive drive to be successful? And those are the people that will end up controlling the algorithms"
+}

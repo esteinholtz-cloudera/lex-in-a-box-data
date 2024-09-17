@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:37",
+  "End": "00:32:42",
+  "Text": "going to jump around. Let's go. What is sea org? What is the organization? What is this organization?"
+}

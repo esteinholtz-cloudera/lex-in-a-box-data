@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "01:09:57",
+  "End": "01:11:14",
+  "Text": "? Yeah. So besides healthcare, because that's my biased lens, my other biased lens is education. think that well, one we definitely we in the US, you know, we're doing ok with teachers, but there's a lot of school districts that don't have enough teachers. If you think about the teacher student ratio for at least public education in some districts. It's crazy. It's like how can you have learning in that classroom? Right, because you just don't have the human capital. And so if you think about robotics bringing that into classrooms as well as the after school space where they offset some of this lack of resources in certain communities. I think that's a good place. And then turning on the other end is using these systems then for workforce retraining and uh with some of the things that are going to come out later on of job loss. Like thinking about robots and NA I systems for retraining and workforce development. I think that's exciting areas that can be pushed even more and it would have a huge, huge impact."
+}

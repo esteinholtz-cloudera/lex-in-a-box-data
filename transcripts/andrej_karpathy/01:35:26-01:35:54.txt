@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:26",
+  "End": "01:35:54",
+  "Text": "uh this kind of reminds me of which Sutton is a bitter lesson. just seems like simplifying the system the long run. Now, of course, you don't know what the long run it seems to be always the right solution. In that case, it was for RL, but it seems to apply generally across all systems that do computation. So what do you think about the light art as a crutch debate, the battle between point clouds and pixels?"
+}

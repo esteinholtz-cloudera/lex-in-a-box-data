@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:24:06",
+  "End": "01:25:11",
+  "Text": "talked about my career started in human rights and in promoting individual freedom and fighting authoritarianism that fight will continue on matter what happens with Bitcoin. Um I think it would be a massive failure and a tragedy if this project like didn't work and if the Bitcoin project didn't work, we would, it would honestly, it's one of the only things that gives me hope because it is an effective way to push back against creeping centralized control. Um If for whatever reason, and I can't really see one of the reasons I'm so into it is I can't really see how it's not going to work again. I think the Trojan Horse allegory too powerful. Um These big centralized actors are going to be too greedy and they're going to want some as opposed to banning it. It's way easier for them to buy it than to ban it. I think it's just what's going to happen. But if, but if for whatever reason it failed, I would have very little hope left because really, I mean, the Chinese model of like centralizing all of your data and controlling it, I mean, ultimately is, is a very, very powerful um sort of like arch force and I would be concerned that that would be all of our, of our sort of destiny."
+}

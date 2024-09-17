@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:38",
+  "End": "01:51:10",
+  "Text": "we're detaching ourselves from reality. And if we detach ourselves from reality, all the destructive things that natural can occur in the real world, whether from nuclear weapons, all the kinds of threats that we're facing, even we're living through a pandemic, the a much, much worse pandemic could happen. And then we could,, like we did this one, politicize it in some kind of way and have bickering in the space of Twitter and politics as opposed to there's an actual thing that can destroy the human"
+}

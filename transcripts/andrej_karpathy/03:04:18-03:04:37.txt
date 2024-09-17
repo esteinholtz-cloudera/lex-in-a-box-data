@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:04:18",
+  "End": "03:04:37",
+  "Text": "so many properties that make it like beautiful and interesting. So there's all these philosophical questions, but then there's also a GIS and there's simulation and it's cool and there's, you know, the black, you know, the look of it, the feel of the look of it, the feel of it, the action, the bullet time. It was just like innovating in so many ways."
+}

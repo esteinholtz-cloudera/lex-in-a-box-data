@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:55",
+  "End": "02:06:01",
+  "Text": ". And buying often makes you, I guess, uh resistant, robust to the uh to the volatility of the market or the volatility of the Bitcoin price and so on, that said, you know, Bitcoin price is volatile and know, again, the argument I've heard is like everything that's going to be a lot more valuable in the future. If you look at the history, like companies like Apple like Tesla's now, I mean, but let's look at companies that have now stabilized, right? Apple is a good example. It's like volatile in the beginning. so the argument for Bitcoin is like, yeah, this is the early stages because it's going to be a lot more valuable right now. It's volatile. And this is why you have to have these kinds of strategies to ride out the volatility. Of course, everything that goes to zero is also volatile like the early days are volatile. Do you see like this volatility is like a feature or a bug or is this just like a way of life?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:27:57",
+  "End": "01:28:01",
+  "Text": "the volatility, it's just the, you know, yeah,"
+}

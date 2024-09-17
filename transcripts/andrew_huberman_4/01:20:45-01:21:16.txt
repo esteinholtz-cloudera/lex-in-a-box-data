@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:20:45",
+  "End": "01:21:16",
+  "Text": "just doing it every once in a while, every once in a while. Yeah, that, that I think you said something really important that the, um, saying no, I mean, the times I have gotten hurt training is when someone's like, hey, let's hop on this workout together and it becomes a, let's challenge each other to do something outrageous. Um, sometimes that can be fun though. I went up to Cam Haines gym and he does these very high repetition weight workouts that are in circuit form., I was sore for two weeks but, um, I learned a lot and didn't get injured. And, um, and yes, we ate bow hunted Elk after."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "01:38:28",
+  "End": "01:38:59",
+  "Text": "Empire lasts forever. And it's impossible to predict when these regimes fall. I mean, no one, no one thought the Soviet Union was going to fall when it fell like that. Like if you study like the news and the scholarship of the era, one knew that the Tunisian government was going to fall after Mohammed Bozzi lit himself on fire. No one, no one, no one predicted that that would become what we now know as the Arab Spring, right? These things are impossible to predict one day the Chinese regime will fall. I just we don't know when"
+}

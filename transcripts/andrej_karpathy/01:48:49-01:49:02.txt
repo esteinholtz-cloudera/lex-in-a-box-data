@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "01:48:49",
+  "End": "01:49:02",
+  "Text": "making progress and you see what the next directions are and you're looking at some of the remaining challenges and they're not like they're not perturbing you and they're not changing your philosophy and you're not contorting yourself. You're like, actually, these are the things that we still need to do. The"
+}

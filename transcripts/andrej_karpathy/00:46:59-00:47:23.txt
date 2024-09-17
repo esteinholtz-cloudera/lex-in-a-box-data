@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:46:59",
+  "End": "00:47:23",
+  "Text": "the way GP T is trained, right? Is you just download a massive amount of uh text data from the internet and you try to predict the next word in the sequence. Roughly speaking, uh you're predicting a little work chunks. Uh But uh roughly speaking, that's it. Um And what's been really interesting to watch is basically, it's a language model. Language models have actually existed for a very long time. Um There's papers on language modeling from 2003 even earlier."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "01:51:22",
+  "End": "01:52:25",
+  "Text": "true. That's partly why I do this work. I feel like my work is therapy. don't know if you feel that way. Work is therapy. This work not work in general. about the deep questions, thinking about the nature of the universe. Um thinking about consciousness, even meditation. I mean, I got into meditation. me, it's interesting to me. I mean, it's, I think a lot of meditators feel, feel this way about it. But I think just I'm thinking about it from the perspective of someone who hasn't meditated before, but it feels like a scientific experiment. It feels like it's the same physicist in me um who was drawn to meditation because the experience is one of closer to your experience and asking similarly deep questions. Like, what is time? What does that even mean? What do I mean by time? What does it feel like? Um What is a thought is one of the most interesting questions to me."
+}

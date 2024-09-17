@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:52",
+  "End": "00:44:57",
+  "Text": ". And it's probably a great experience when you're like, yes, it's a gamified"
+}

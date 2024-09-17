@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:03",
+  "End": "01:35:17",
+  "Text": "the difference between humans and nonhuman animals is interesting because it does feel like humans have an extra level of cognitive ability that be relevant"
+}

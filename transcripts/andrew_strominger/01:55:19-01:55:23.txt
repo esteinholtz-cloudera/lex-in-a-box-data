@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:19",
+  "End": "01:55:23",
+  "Text": ", there's too many parameters, there's too many variables that govern the stuff."
+}

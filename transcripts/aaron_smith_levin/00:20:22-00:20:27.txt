@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:22",
+  "End": "00:20:27",
+  "Text": "go there. Let's go to a personal story. So you've spent 30 years in psychology."
+}

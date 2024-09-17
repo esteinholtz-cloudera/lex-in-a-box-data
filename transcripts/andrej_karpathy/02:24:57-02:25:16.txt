@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:24:57",
+  "End": "02:25:16",
+  "Text": "night? I would say I am, but it is really hard to maintain my phd schedule. Um especially when I was say working at Tesla and so on, it's a non starter. So, but even now, like, you know, people want to meet for various events, they society lives in a certain period of time and you sort of have to like that. It's"
+}

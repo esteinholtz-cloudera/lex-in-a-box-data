@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:14",
+  "End": "00:58:25",
+  "Text": "do you know about Taekwondo? North Korea? I have questions. fascinating that people don't think about that But the culture, the beauty of the people still flourishes even in the toughest"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:23:04",
+  "End": "00:23:07",
+  "Text": "with the aesthetics of it. Absolutely."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:08:14",
+  "End": "00:08:41",
+  "Text": "with Alex Glain. are some universal human rights that you believe all people should have"
+}

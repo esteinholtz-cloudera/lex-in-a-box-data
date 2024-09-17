@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "03:33:03",
+  "End": "03:33:13",
+  "Text": "from your understanding of it, is there a different perception between men and women? Like if you look at the high body count for a woman versus a high body count for a man, like how society views it. Oh"
+}

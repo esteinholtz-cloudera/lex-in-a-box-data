@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "00:40:50",
+  "End": "00:40:55",
+  "Text": ". I got excited when memory came up because I love talking about time."
+}

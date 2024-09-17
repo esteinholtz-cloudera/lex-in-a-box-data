@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:11",
+  "End": "01:53:43",
+  "Text": "also inspiration for, like I said, when I was a little kid, they call a Nobel Prize. I didn't know it inspires millions of young scientists. the same time, there's a sadness to it a little bit that especially in the field, depending on the field, but experimental fields that involve teams of, I don't know, sometimes hundreds of brilliant people, the Nobel Prize is only given to just a handful. That's right. Is it max at three?"
+}

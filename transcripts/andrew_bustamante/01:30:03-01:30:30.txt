@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "01:30:03",
+  "End": "01:30:30",
+  "Text": "knowing a baseline, without knowing for that individual, for that individual, then you actually don't know. And an individual's baseline is based on education, culture, life experience, you name it right. So this is, but when you combine facial expressions with body movements, body language, nonverbal cues, and you add on top of that effective elicitation techniques that you are in control of. Now, you have a more robust platform to tell if someone's lying"
+}

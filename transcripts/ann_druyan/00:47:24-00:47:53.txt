@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ann Druyan",
+  "Start": "00:47:24",
+  "End": "00:47:53",
+  "Text": "do. Can you pause on that for a second? Like what's the process because, you know, cosmos is also it's grounded in science, of course, but it's also incredibly imaginative and the words used carefully crafted. So what's if you can talk about the process of that, the big picture imaginative thinking and of the rigorous crafting of words that basically turns into something like poetry. Thank"
+}

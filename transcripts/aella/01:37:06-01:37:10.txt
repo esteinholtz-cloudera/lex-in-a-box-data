@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:06",
+  "End": "01:37:10",
+  "Text": "men? That, that would be patient enough and dedicated enough."
+}

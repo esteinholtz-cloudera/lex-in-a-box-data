@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:25:18",
+  "End": "03:25:42",
+  "Text": "the magic and they'll say we got lucky or it was, it's been hard or this and that. I think external conditions being a little tougher is helpful for a couple hardship. I do. I do because I think that you rally, you know, you, you and you bond with people, you know, being obviously you want to survive those conditions. But um, I do, I think that Bonnie and"
+}

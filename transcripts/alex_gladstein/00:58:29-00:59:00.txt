@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:58:29",
+  "End": "00:59:00",
+  "Text": ", no. Yeah. So like a bear instrument would be like a bar of gold or um a bank note or Bitcoin that you control, meaning you have the seed phrase, right? Which for the listeners essentially is 12 to 24 English words that you write down on a piece of paper, that's your password to get into your Bitcoin account. And that gives you that bear instrument quality, right? unfortunately, most users uh still use Bitcoin in a custodial way, meaning they buy it on Coinbase. Coinbase where something like"
+}

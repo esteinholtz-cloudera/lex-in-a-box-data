@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:34",
+  "End": "00:41:39",
+  "Text": ". This is essential for the space party. Is the space beer is"
+}

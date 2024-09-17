@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:39",
+  "End": "00:20:37",
+  "Text": ". A lot of this stuff is how do you effectively communicate to the world the incredible science that's been done about the processes that were followed. And I agree with you and sometimes it's just in eloquence in communication. It's not that there's a failure of process, it's in eloquence communication and silence, silence in the moment when clearly a lot of people are bothered and have questions. is when you speak out and you uh explain exactly why as a, as opposed to letting the sort of distrust build up and linger because the result is there's a very large percentage of the population that just mean, it divides people and science suffers, I think and also the effectiveness of solutions suffers like the vaccine and so on. asked a few folks, I know if they had challenging questions for you,"
+}

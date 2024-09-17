@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Strominger",
+  "Start": "01:45:31",
+  "End": "01:45:40",
+  "Text": ". But, but, but if the past was nothing, how are you ever gonna reverse engineer to nothing"
+}

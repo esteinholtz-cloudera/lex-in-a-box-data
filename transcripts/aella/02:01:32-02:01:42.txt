@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "02:01:32",
+  "End": "02:01:42",
+  "Text": "kind of surprised to hear that because when you talked about finding the light and everything and everything is fun. Like I usually don't associate that with having not very much anxiety."
+}

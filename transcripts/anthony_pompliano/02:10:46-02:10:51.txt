@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:10:46",
+  "End": "02:10:51",
+  "Text": "a quick question, which is uh what's the current market cap for Bitcoin? Uh The current"
+}

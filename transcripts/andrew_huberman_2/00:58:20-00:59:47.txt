@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:20",
+  "End": "00:59:47",
+  "Text": "Rogan has, aside from being a fan of his, has been an inspiration to be, to have a kind of loving view on the world in the way you approach the world to me. So I've tended to want to the world that way. But in the same way, David Goggins has been an inspiration to like,, be angry at stuff and use it as fuel. He almost conjures up artificial demons in his mind just so he can fight them, know. But at the same time I tried that because I did a challenge in the summer of where for 30 days, I was doing a lot of push ups and was, uh, over time, it was counterproductive for me. I found that it was easier to just the roller coaster that the emotional being angry at stuff takes. You can also be exhausting. Oh, absolutely. And it can take you down. The ups of it are good, but the downs are bad. And what I found is better to get to use it as a boost every once in a while, but mostly to get lost in the, you're talking about the breath work, the getting lost in the ritual of it. Like the, the be like that as opposed to going on the big roller coasters of emotion. Yet"
+}

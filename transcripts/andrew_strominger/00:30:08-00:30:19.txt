@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:08",
+  "End": "00:30:19",
+  "Text": "to you, the difference between quantum mechanics and general relativity seem the tension, the contradiction. There seems to hint at some deeper, deeper thing that's going to be discovered in the century."
+}

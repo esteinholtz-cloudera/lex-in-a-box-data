@@ -1,0 +1,6 @@
+{
+  "Speaker": "Annaka Harris",
+  "Start": "02:06:39",
+  "End": "02:07:07",
+  "Text": ", I mean, the truth is that I mean, if you talk to a neuroscientist, like Anil Seth, and I would say most neuroscientists, but he's really good on this subject and his expertise in his area of focus is in perception. So he talks a lot about how our perceptions give us an experience of the world and he calls it a controlled hallucination. I'm sorry, he probably got, I think he says that he got that term from someone else, but that's the term"
+}

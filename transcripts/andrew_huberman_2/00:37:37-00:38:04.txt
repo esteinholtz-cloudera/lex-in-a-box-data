@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:37",
+  "End": "00:38:04",
+  "Text": "it's about three hours that you have non exercising every time. And of course, takes time to try to fall asleep and there's an intensity to the whole thing. I mean, it's probably impossible to get anything more than two hours of sleep if you wanted to. So, the optimal thing is probably from the sound of it. I'd be curious to see what you think, but it's getting a few 90 minute"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:45:03",
+  "End": "01:45:36",
+  "Text": "? And, and coupled with that, I think similar to what you're saying, Matt has talked about as others have talked about some of the biggest benefits of progress, whether it's like quitting smoking and all that kind of stuff is is in the days after it's the integration of the experience. So maybe you open up the brain to the neuroplasticity, but then there's work to be done. It's not, you're like you shake up something in the biology of the brain, you have to do then it's work."
+}

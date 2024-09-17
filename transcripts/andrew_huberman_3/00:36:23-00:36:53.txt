@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:23",
+  "End": "00:36:53",
+  "Text": "interesting. I mean, I grew up pretty poor. So, of all I was always wearing my brother's who's an older brother, brother's clothes and they were like old,, like the, my favorite things were American things that I didn't understand. It would be like a Pepsi shirt or something it was just, that was the gear and it was, like, too large for me. But I thought I was the coolest person ever just wearing this fancy like Kanye, like, type of"
+}

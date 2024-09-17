@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "03:05:08",
+  "End": "03:05:26",
+  "Text": ", I mean, if you ever waded into a cold ocean, you know, everybody is kind of like holding themselves. You know, if you really just, if you let yourself extend your limbs and move them around a bit, so you break up that thermal layer, that's, that's the tough way to do it. So when I see people on social media getting in and they're like really tough and trying to look hard."
+}

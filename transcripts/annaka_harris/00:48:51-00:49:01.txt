@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:51",
+  "End": "00:49:01",
+  "Text": "so fun except when it's dangerous, you know, but even then it's probably fun but then you shouldn't do it because it's unethical anyway."
+}

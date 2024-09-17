@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:23",
+  "End": "01:37:06",
+  "Text": "such a deep truth you speak to and, and I could, I could, I could talk about that for a long time. There is, I mean, through these conversations in general, whether it's being recorded or not, to discover in the other person that longing you strip away the other things and then you share in the longing for that connection. And I particularly also have detected that people from all walks of life, including people that others might identify as evil or hard as a completely cold. It's"
+}

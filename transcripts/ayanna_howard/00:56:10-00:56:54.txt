@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:56:10",
+  "End": "00:56:54",
+  "Text": "the emotion was kind of a mess, right? It took a while for that to adapt. Um But, and so why was that an issue? The issue is, is that emotions make us irrational agents. That's the problem. yet he could think through things even if it was based on an emotional scenario, right? Based on pros and cons. But as soon as you made him emotional, one of the metrics he used for evaluation was his own emotions, people around him. Right? And so"
+}

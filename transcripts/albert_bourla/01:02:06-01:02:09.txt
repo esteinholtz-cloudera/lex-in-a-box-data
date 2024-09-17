@@ -1,0 +1,6 @@
+{
+  "Speaker": "Albert Bourla",
+  "Start": "01:02:06",
+  "End": "01:02:09",
+  "Text": "do, I do think that they need to get vaccinated."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:43:01",
+  "End": "02:43:33",
+  "Text": "the childlike wonder about the world and he was unapologetic. It's like most philosophers have a very strict adherence to terminology in terms of practices, academic philosophers, and each year was full of contradictions. And he just, I mean, was just this big kid with opinions and thought deeply about this world and people are really attracted there. And surprisingly, there's not enough people like that throughout history of philosophy and that's why I think there is still drawn to"
+}

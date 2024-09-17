@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Bustamante",
+  "Start": "02:53:29",
+  "End": "02:53:53",
+  "Text": ". So this is what's difficult because any proof that was that they collected, actually prevented an attack from happening is proof we'll never know about. This is the, the really unfortunate side of intelligence operations. And I've been at the front end of this, you work your ass off, you take personal risk, you make personal sacrifice to make sure that something terrible doesn't happen. Nobody knows that that ever"
+}

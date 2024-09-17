@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:39:35",
+  "End": "02:39:40",
+  "Text": "true. So it's not just the prestige. A little bit of the delay is uh is part,"
+}

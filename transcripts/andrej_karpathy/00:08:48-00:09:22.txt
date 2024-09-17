@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "00:08:48",
+  "End": "00:09:22",
+  "Text": "? I mean, it's kind of interesting because I'm simultaneously underselling them, but I also feel like there's an element to which I'm over. Like, it's actually kind of incredible that you can get so much emergent magical behavior out of them despite them being so simple mathematically. So I think those are kind of like two surprising statements that are kind of just juxtaposed together. I think basically what it is is we are actually fairly good at optimizing these neural nuts. And when you give them a hard enough problem, they are forced to learn very interesting solutions in the optimization. And those solution basically have these emergent properties that are very interesting,"
+}

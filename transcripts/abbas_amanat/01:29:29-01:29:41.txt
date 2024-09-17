@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:29",
+  "End": "01:29:41",
+  "Text": ". And at the same time, the discovery of oil, that the oil industry being a very powerful defining factor of the 20th century for Iran, exactly source of a lot of"
+}

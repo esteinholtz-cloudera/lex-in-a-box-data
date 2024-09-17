@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:24:38",
+  "End": "02:24:53",
+  "Text": "is. Like, you're hungry, you're hungry and then it just gives up. It's like, ok, I guess we're fasting now. There's nothing and then it's just kind of like focuses on trying to make you not hungry, uh, and you know, not feel the damage of that and trying to give you some space to figure out the food situation."
+}

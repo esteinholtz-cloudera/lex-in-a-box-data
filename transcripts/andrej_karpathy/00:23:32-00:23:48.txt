@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:32",
+  "End": "00:23:48",
+  "Text": ". I could see two aliens talking about earth right now and saying uh, I'm a big fan of complex dynamical systems. So I think it's with a value to preserve these and who basically are a video game they watch or show a TV, show that they watch."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Filippenko",
+  "Start": "01:06:54",
+  "End": "01:07:53",
+  "Text": "it as a field. It's just that my own feeling is that in science now through observations and experiments, measured so many things and basically we understand a lot of stuff of reality. Yeah, the fabric of reality we understand quite well. And there are a few little things like dark matter and dark energy that may be some sign of some superintelligence, but I doubt it. OK. You know, why would some superintelligence be holding clusters of Galaxies together? Why would they be responsible for accelerating the expansion of the universe? So the point is is that through science applied science and engineering, we understand so much now that I'm not saying we know everything but but we know a hell of a lot. OK. And so there's, it's not like there are lots of mysteries flying around there that are completely outside our level of um exploration or understanding, you know,"
+}

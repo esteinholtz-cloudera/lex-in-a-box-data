@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:40",
+  "End": "00:50:14",
+  "Text": ". You said cocoon and you kind of, I think in the book, I've read a lot of your articles too on the Scientific American, which are brilliant. So I'm kind of mixing things up in my head a little bit, but there's a, what does that cocoon look like? What is a civilization that's able to harness the power of multiple sons, for example, um Look like when you imagine possible civilizations that are a million years more advanced than us. What do you think that actually looks like?"
+}

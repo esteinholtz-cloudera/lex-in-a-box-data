@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:28:03",
+  "End": "02:28:06",
+  "Text": ". Yeah. And that's when we get and you get hub repo per"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "02:26:56",
+  "End": "02:27:16",
+  "Text": ", that's part of the constitution of the Islamic Republic, the first constitution um the first draft of the constitution did not have the authority of the Guardian juries, but then it was added by Khomeini and his supporters. Are there"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Alex Gladstein",
+  "Start": "00:22:35",
+  "End": "00:23:00",
+  "Text": "mentioned, what are the signs the state is an authoritarian state. How do you know if you're living in an authoritarian state or when you study another nation or analyze the behavior of another nation? How do you know that's an authoritarian state? it as simple as them having a dictator? Is it as simple as them as declaring that they don't have a democracy? Or is there something more"
+}

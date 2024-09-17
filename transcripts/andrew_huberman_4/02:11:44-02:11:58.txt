@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:44",
+  "End": "02:11:58",
+  "Text": "it's crazy how important that is, how incredibly wonderful it could be to have a person in your life that kind of uh enables that creative"
+}

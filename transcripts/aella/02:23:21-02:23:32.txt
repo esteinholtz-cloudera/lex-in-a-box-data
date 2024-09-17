@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:21",
+  "End": "02:23:32",
+  "Text": "thought free use was like, like at any time, it's at any time within the constraints of this building or something like that."
+}

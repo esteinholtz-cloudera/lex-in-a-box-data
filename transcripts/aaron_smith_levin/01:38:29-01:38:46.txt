@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:29",
+  "End": "01:38:46",
+  "Text": ", uh, David Miscavige used the violence is there your understanding of it, in your estimation, sort of harassment, assault and actual, don't know how to define assault but violence. Oh, yeah,"
+}

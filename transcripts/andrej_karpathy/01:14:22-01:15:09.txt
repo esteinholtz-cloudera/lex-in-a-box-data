@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:22",
+  "End": "01:15:09",
+  "Text": ". So you were the director of A I at Tesla where I think this idea really implemented at scale, which is how you have engineering teams doing software 2.0 So can you sort of linger on that idea of? I think we're in the really early stages of everything you just said, which is like github ID ES like how, how do we build engineering teams that, that work in software 2.0 system and, and the, the data collection and the data annotation, which is part of that software? 2.0 Like what do you think is the task of programming a software 2.0 Is it debugging in the space of hyper parameters or is it also debugging the space of data?"
+}

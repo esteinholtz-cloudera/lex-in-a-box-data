@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:30",
+  "End": "02:01:12",
+  "Text": "resisting. I mean, it's the same as with a psychedelic experience. It's like not giving yourself over completely to the experience and not resisting and going through the whole mental journey of whether it's anger or excitement or exhaustion, the whole thing. that's, I mean, that's the entirety of the process that David goes through when he does his own challenges and so on is that whole journey he finds purposely like missile seeks the limits of the mind that that the resistance is felt runs up against it and then goes to the full journey of going beyond it and seeing what's there on the other side. Well,"
+}

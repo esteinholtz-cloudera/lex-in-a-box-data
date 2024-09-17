@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ariel Ekblaw",
+  "Start": "00:41:52",
+  "End": "00:42:03",
+  "Text": "to steal a line from Charlie Bolden, who's the former administrator of NASA. morning's fresh water is yesterday's coffee. So if you think about what that means, you drank the coffee"
+}

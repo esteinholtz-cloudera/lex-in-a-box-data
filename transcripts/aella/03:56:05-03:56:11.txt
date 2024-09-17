@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aella",
+  "Start": "03:56:05",
+  "End": "03:56:11",
+  "Text": ". But you have to be good enough for the other person or maybe you'll lose them. Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "02:48:15",
+  "End": "02:48:55",
+  "Text": "? Yeah. So the stable diffusion images are incredible. It's speed of improvement in generating images has been insane. Uh We went very quickly from generating like tiny digits to tiny faces and it all looked messed up. And now we have stable diffusion and that happened very quickly. There's a lot that academia can still contribute. Uh You know, for example, um flash attention is a very efficient kernel for running the attention operation inside the transformer that came from a academic environment. It's a very clever way to structure the kernel that do that calculation. So it doesn't materialize the attention matrix. And so there's, I think there's still like lots of things to contribute, but you have to be just more strategic. Do you"
+}

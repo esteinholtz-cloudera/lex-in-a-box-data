@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:44",
+  "End": "01:35:54",
+  "Text": "out of the giant pool of different preferences, you haven't like a subset that's clearly defined for you.? Like, like dominant submissive"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "00:37:57",
+  "End": "00:38:37",
+  "Text": ", but the fact that you ate dinner together is really interesting. I uh my parents divorced when I was an adolescent. So then there was a total fracture of any family structure. But prior to that, we ate dinner together every night, I was expected to know how to use my knife and fork. And, you know, it was like a very um, structured thing. Uh, I don't know if kids do that. Now,, you know, if I ever have kids, they're gonna do that. And certainly, um, actually on the way over here I was thinking I was like, you know, uh, I really want a lot of kids. I want like a whole litter and, um, I was thinking if Lex has kids and I have kids and like, then we can, we can, like, pit them against each other with jujitsu. This is my chance at redemption."
+}

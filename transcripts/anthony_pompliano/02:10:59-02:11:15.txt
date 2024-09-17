@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:10:59",
+  "End": "02:11:15",
+  "Text": "trillion would just be two X gold market cap? Got it right. So if it's a 10 X technology improvement, let's just say it only captures two X the market cap. Got it right? And so again, if it was to capture just gold market cap, kind of the equivalent puts you around $500,000 right? So you can kind of see"
+}

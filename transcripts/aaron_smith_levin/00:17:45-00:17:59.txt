@@ -1,0 +1,6 @@
+{
+  "Speaker": "Aaron Smith Levin",
+  "Start": "00:17:45",
+  "End": "00:17:59",
+  "Text": ". I'll just say it's interesting to note you would never get a representative of the Church of Scientology to sit down and have a conversation with you and even be as fair and accurate about Scientology as I'm going to be, which is, which is"
+}

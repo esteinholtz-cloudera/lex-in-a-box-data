@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:57",
+  "End": "00:28:03",
+  "Text": "can you speak to that process? You mentioned the walking and the talking to yourself? Because that's fascinating."
+}

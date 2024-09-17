@@ -1,0 +1,6 @@
+{
+  "Speaker": "Abbas Amanat",
+  "Start": "00:32:38",
+  "End": "00:33:01",
+  "Text": "God. I mean, they are, they are in touch with, with whatsapp. Every Iranian, virtually every Iranian that has education and education in the sense that has gone through the high schools and universities knows how to use the whatsapp."
+}

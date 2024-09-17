@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:46",
+  "End": "00:43:52",
+  "Text": "mean, if you think about, there's an idea of cod pansy is says consciousness isn't,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "02:38:44",
+  "End": "02:39:02",
+  "Text": "think that there's so few places where people can actually communicate without the fear of penalty that's, know, woefully absent these days. And so maybe people are just relieved to be in a place where they feel like I can say what I want or not say anything. And it's OK. And"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ayanna Howard",
+  "Start": "00:29:25",
+  "End": "00:29:37",
+  "Text": "negative, right? So prejudice that not only are you aware of your bias, but you are then take it and have a negative outcome though you're aware"
+}

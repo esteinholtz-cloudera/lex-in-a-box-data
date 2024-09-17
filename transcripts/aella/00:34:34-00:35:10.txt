@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:34",
+  "End": "00:35:10",
+  "Text": ", interesting. No, I think I would actually, I take it back, I think I would regret the first time I hurt somebody., in my visualization it was like a video game where everybody's like N PC really dumb. No, I think the first time I witnessed pain from anybody that's when I would stop. And I would probably run into that very quickly. Like, even just the hovering, make a person hover and they're going to be probably really upset with the hovering. Right. And so I'm going to be like, no, don't do that anymore. And then I'll probably go to, honestly, I'll just return back to my normal life."
+}

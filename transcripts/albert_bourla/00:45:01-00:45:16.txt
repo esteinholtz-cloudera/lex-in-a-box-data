@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:01",
+  "End": "00:45:16",
+  "Text": "there's incredible science and engineering going on here. There's an incredible thing to it. is what's bothering me that the conversation in public is often not about that."
+}

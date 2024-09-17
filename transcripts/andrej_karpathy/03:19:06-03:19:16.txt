@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrej Karpathy",
+  "Start": "03:19:06",
+  "End": "03:19:16",
+  "Text": ". Honestly, I think papers are quite good. I especially like the appendix, appendix of any paper as well. It's like it's like the most detail you can have,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Anthony Pompliano",
+  "Start": "02:54:11",
+  "End": "02:54:14",
+  "Text": "chimps in the Bitcoin community."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Andrew Huberman",
+  "Start": "01:15:10",
+  "End": "01:15:57",
+  "Text": "three, I mean, salt, salt before sleep, um salt. mean, this is a vast space and we're kind of talking about the overlap between neurochemicals, hormones and nutrition. And it's a fascinating space and it's one that the academic community has gems uh within the textbooks. It hasn't really made it into the public sphere yet. And I think that's because people get so caught up in the, you know, being, are you vegan or are you carnivore? And there's a vast space in between too that people can explore like I'm not a competitive athlete. So eat meat and I also eat vegetables and I eat fruits and it's just about timing them. But I tend to eat carbohydrates when I want to be sleepy, I eat them at night. And everyone said that's the worst thing you can't do that. You sleep great. After eating a big bowl of pasta, I'll tell"
+}
