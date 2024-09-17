@@ -57,3 +57,10 @@ insert_BOM() {
 # check if there is a UTF-8 BOM
 has_bom() { head -c3 "$1" | grep -q $'\xef\xbb\xbf'; }
 
+# use as a convenience function to display filename etc
+show_bom()  {if has_bom $1 
+            then
+                "echo $1 has UTF-8 BOM"
+            else
+                 echo "$1 has no BOM"
+            fi}
